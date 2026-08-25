@@ -108,7 +108,7 @@ def _call_claude(system_prompt: str, user_content: str, max_tokens: int) -> dict
 
 def _stage1_extract_raw_clusters(items: list[dict]) -> list[dict]:
     """배치 단위로 items를 raw event cluster로 압축한다."""
-    BATCH_SIZE = 30
+    BATCH_SIZE = 15
     all_clusters = []
     for i in range(0, len(items), BATCH_SIZE):
         batch = items[i : i + BATCH_SIZE]
@@ -117,7 +117,7 @@ def _stage1_extract_raw_clusters(items: list[dict]) -> list[dict]:
             + json.dumps(batch, ensure_ascii=False)
         )
         try:
-            result = _call_claude(STAGE1_SYSTEM_PROMPT, user_content, max_tokens=4000)
+            result = _call_claude(STAGE1_SYSTEM_PROMPT, user_content, max_tokens=6000)
             all_clusters.extend(result.get("raw_clusters", []))
         except (json.JSONDecodeError, requests.RequestException, RuntimeError) as e:
             print(f"[WARN] 1단계 배치 {i}~{i+len(batch)} 처리 실패, 건너뜀: {e}")
