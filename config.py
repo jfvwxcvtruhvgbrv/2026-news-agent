@@ -11,16 +11,40 @@
 
 # ── 뉴스 소스 (RSS 피드) ──────────────────────────────
 # 대부분의 언론사는 공식 RSS를 제공하며, 이는 명시적으로 구독/집계를
-# 허용하는 채널이다. (전체 목록은 각 사이트에서 실제 RSS 주소를 재확인할 것)
+# 허용하는 채널이다. (전체 목록은 각 사이트에서 실제 RSS 주소를 재확인할 것.
+# RSS 주소는 언론사 사정으로 종종 바뀌므로 수집 실패 로그가 늘어나면
+# 해당 소스의 최신 RSS 주소를 다시 확인해야 한다.)
+#
+# 각 소스는 (RSS 주소, 지역 태그) 튜플로 관리한다. 지역 태그는 글로벌
+# 커버리지 균형을 점검하고, Claude에게 "이 기사가 어느 지역 소스인지"
+# 명시적으로 알려주기 위한 메타데이터로만 쓰인다 (강제 균등 배분 아님).
 NEWS_FEEDS = {
-    "NY Post": "https://nypost.com/feed/",
-    "Daily Mail (UK)": "https://www.dailymail.co.uk/articles.rss",
-    "The Sun (UK)": "https://www.thesun.co.uk/feed/",
-    "Mirror (UK)": "https://www.mirror.co.uk/news/rss.xml",
-    "News.com.au": "https://www.news.com.au/content-feeds/latest-news-national/",
-    "BBC World": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "Reuters World": "https://feeds.reuters.com/Reuters/worldNews",
-    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    # North America
+    "NY Post": ("https://nypost.com/feed/", "North America"),
+    "Reuters World": ("https://www.reutersagency.com/feed/?best-topics=world&post_type=best", "North America"),
+    # Europe (UK 포함)
+    "Daily Mail (UK)": ("https://www.dailymail.co.uk/articles.rss", "Europe"),
+    "The Sun (UK)": ("https://www.thesun.co.uk/feed/", "Europe"),
+    "Mirror (UK)": ("https://www.mirror.co.uk/news/rss.xml", "Europe"),
+    "BBC World": ("http://feeds.bbci.co.uk/news/world/rss.xml", "Europe"),
+    "DW English": ("https://rss.dw.com/rdf/rss-en-all", "Europe"),
+    "France24 English": ("https://www.france24.com/en/rss", "Europe"),
+    # China / East Asia
+    "SCMP (Hong Kong)": ("https://www.scmp.com/rss/91/feed", "China"),
+    "NHK World Japan": ("https://www3.nhk.or.jp/nhkworld/en/news/all.xml", "Japan"),
+    "Korea Herald": ("http://www.koreaherald.com/rss/020000000000.xml", "Korea"),
+    # South Asia / Southeast Asia
+    "Times of India": ("https://timesofindia.indiatimes.com/rssfeedstopstories.cms", "India"),
+    "Straits Times (Singapore)": ("https://www.straitstimes.com/news/asia/rss.xml", "Southeast Asia"),
+    # Middle East
+    "Al Jazeera": ("https://www.aljazeera.com/xml/rss/all.xml", "Middle East"),
+    # Africa
+    "AllAfrica": ("https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf", "Africa"),
+    # Latin America
+    "MercoPress": ("https://en.mercopress.com/rss/", "Latin America"),
+    # Oceania
+    "News.com.au": ("https://www.news.com.au/content-feeds/latest-news-national/", "Oceania"),
+    "NZ Herald": ("https://www.nzherald.co.nz/arc/outboundfeeds/rss/", "Oceania"),
 }
 
 # ── 커뮤니티 소스 (공개 JSON 엔드포인트) ─────────────────
