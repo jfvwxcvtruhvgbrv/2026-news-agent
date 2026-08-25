@@ -24,6 +24,7 @@ from config import (
 class Item:
     source: str
     source_type: str  # "news" | "community"
+    region: str  # 소스의 지역 태그 (예: "Korea", "Middle East", "Global" 등)
     title: str
     summary: str  # 짧은 발췌 (본문 전체 금지)
     link: str
@@ -36,7 +37,7 @@ def _today_str():
 
 def fetch_rss_feeds() -> list[Item]:
     items = []
-    for source_name, url in NEWS_FEEDS.items():
+    for source_name, (url, region) in NEWS_FEEDS.items():
         try:
             feed = feedparser.parse(url, agent=REQUEST_USER_AGENT)
             for entry in feed.entries[:20]:
@@ -44,6 +45,7 @@ def fetch_rss_feeds() -> list[Item]:
                     Item(
                         source=source_name,
                         source_type="news",
+                        region=region,
                         title=entry.get("title", ""),
                         # summary는 RSS가 제공하는 짧은 발췌만 사용 (본문 크롤링 금지)
                         summary=(entry.get("summary", "") or "")[:400],
@@ -73,6 +75,7 @@ def fetch_community_sources() -> list[Item]:
                         Item(
                             source=source_name,
                             source_type="community",
+                            region="Global",
                             title=d.get("title", ""),
                             summary=(d.get("selftext", "") or "")[:400],
                             link="https://reddit.com" + d.get("permalink", ""),
@@ -90,6 +93,7 @@ def fetch_community_sources() -> list[Item]:
                         Item(
                             source=source_name,
                             source_type="community",
+                            region="Global",
                             title=d.get("title", ""),
                             summary="",
                             link=d.get("url", f"https://news.ycombinator.com/item?id={story_id}"),
