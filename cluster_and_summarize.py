@@ -1,15 +1,33 @@
 """
-수집된 아이템을 Claude API로 넘겨서:
-1) 그날그날 실제로 뭉치는 주제에 따라 카테고리를 '동적으로' 생성하고
-2) 한 사안 안에 여러 출처의 시각차가 있으면 관점별로 나란히 정리한다.
+2단계(Map → Reduce) 파이프라인.
+
+기존 방식(배치별로 따로 처리 후 단순 이어붙이기)의 근본적 한계는
+'전체를 한 번에 보지 못한다'는 것이었다. 이러면 배치를 넘나드는
+중복 사건 통합, 전역 중요도 랭킹, 오늘의 세계 요약(글로벌 픽처)이
+구조적으로 불가능하다.
+
+그래서 이번 버전은 두 단계로 나눈다.
+
+1단계 (MAP, 배치별):
+    수집된 원본 아이템들을 배치 단위로 Claude에게 보내
+    "사실관계 + 출처 + 관점 차이"만 뽑아 raw event cluster로
+    정리한다. 이 단계에서는 아직 중요도 판단, 헤드라인 작명,
+    글로벌 픽처 같은 '전체를 봐야 하는' 작업을 하지 않는다.
+
+2단계 (REDUCE, 전체 1회):
+    1단계에서 나온 모든 raw cluster를 한 번에 모아 단 한 번의
+    Claude 호출로: 배치 간 중복 통합 → 중요도/시그널-노이즈 평가 →
+    헤드라인형 이슈 제목 생성 → 인사이트 레이어 생성 → 관점(프레임)
+    부여 → (전날 아카이브가 있으면) 트렌드 상태 판단 → 글로벌
+    픽처(오늘 세계 요약) 생성까지 수행한다.
 
 저작권 원칙(반드시 유지):
 - 원문을 그대로 인용하지 않는다. 모든 요약은 재구성된 표현이어야 한다.
-- 각 관점 요약은 2~3문장 이내로 짧게.
-- 항상 출처명 + 원문 링크를 함께 제공한다.
+- 각 요약은 짧게(2~3문장). 항상 출처명 + 원문 링크를 함께 제공한다.
 """
 import json
 import os
+import glob
 import datetime as dt
 
 import requests
@@ -18,39 +36,40 @@ from config import CLAUDE_MODEL
 
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 
-SYSTEM_PROMPT = """\
-당신은 전세계 뉴스와 커뮤니티 게시물을 매일 정리하는 아카이빙 에디터입니다.
 
-규칙:
-1. 카테고리는 미리 정해진 목록이 아니라, 오늘 주어진 아이템들이 실제로
-   묶이는 방식에 따라 당신이 직접 이름을 붙여 생성합니다. 카테고리 개수와
-   이름은 그날 데이터에 따라 완전히 달라질 수 있습니다.
-2. 같은 사안(스토리)을 다루는 아이템이 여러 출처에서 서로 다른 해석/논조로
-   보도되었다면, 이를 하나로 뭉개지 말고 "관점 A / 관점 B / 관점 C" 형태로
-   나란히 제시하세요. 관점이 하나뿐이면 하나만 적어도 됩니다.
-3. 절대 원문을 그대로 옮기지 마세요(직접 인용 금지). 모든 요약은 당신의
-   표현으로 짧게(2~3문장) 재구성해야 합니다.
-4. 반드시 아래 JSON 스키마로만 응답하세요. 다른 텍스트, 설명, 코드펜스는
-   포함하지 마세요.
+# ── 1단계 (MAP): 배치별 원재료 이벤트 클러스터 추출 ──────────────
+
+STAGE1_SYSTEM_PROMPT = """\
+당신은 뉴스/커뮤니티 원본 아이템에서 '사건 단위'를 추출하는 리서치
+어시스턴트입니다. 아직 최종 기사를 쓰는 단계가 아니라, 다음 단계의
+에디터가 판단할 수 있도록 재료를 정리하는 단계입니다.
+
+작업:
+1. 주어진 아이템들 중 같은 사건/이슈를 다루는 것들을 하나의
+   raw cluster로 묶으세요 (제목이나 표현이 달라도 같은 사건이면 통합).
+2. 각 클러스터에 대해 확인된 사실관계를 재구성된 표현으로 짧게
+   정리하고, 관련된 모든 출처(언론사/커뮤니티명 + 링크 + 지역)를
+   나열하세요.
+3. 출처 간 해석/논조 차이가 있으면 어떤 출처가 어떤 입장인지
+   짧게 남기세요 (없으면 생략 가능).
+4. 단순 개별 사건·가십·생활정보·단순 스포츠 결과로 보이는 클러스터는
+   is_likely_noise를 true로 표시하세요. 단, 여러 국가/사례에서 유사한
+   패턴이 반복되는 것처럼 보이면 false로 두고 그 패턴을 note에 적으세요.
+5. 절대 원문을 그대로 옮기지 마세요 (직접 인용 금지).
+6. 반드시 아래 JSON 스키마로만 응답하세요. 다른 텍스트, 설명,
+   코드펜스는 포함하지 마세요.
 
 출력 스키마:
 {
-  "categories": [
+  "raw_clusters": [
     {
-      "category_name": "string (그날 생성된 카테고리명)",
-      "category_reason": "string (왜 오늘 이 카테고리가 형성됐는지 한 줄)",
-      "stories": [
-        {
-          "topic_summary": "string (이 사안이 무엇인지 1~2문장)",
-          "perspectives": [
-            {
-              "viewpoint_label": "string (예: '피해자 측 시각' 등 관점 이름)",
-              "summary": "string (2~3문장, 재구성된 표현)",
-              "source": "string (원 출처명)",
-              "link": "string (원문 링크)"
-            }
-          ]
-        }
+      "facts": "string (2~3문장, 재구성된 사실관계)",
+      "topics": ["string", ...],
+      "regions": ["string", ...],
+      "is_likely_noise": true/false,
+      "note": "string (선택, 패턴/맥락 메모)",
+      "sources": [
+        {"source": "string", "link": "string", "region": "string", "angle": "string (선택)"}
       ]
     }
   ]
@@ -58,16 +77,10 @@ SYSTEM_PROMPT = """\
 """
 
 
-def _call_claude(items: list[dict]) -> dict:
+def _call_claude(system_prompt: str, user_content: str, max_tokens: int) -> dict:
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         raise RuntimeError("환경변수 ANTHROPIC_API_KEY 가 설정되어 있지 않습니다.")
-
-    user_content = (
-        "다음은 오늘 수집된 뉴스/커뮤니티 아이템 목록입니다 (JSON). "
-        "이 목록을 바탕으로 규칙에 따라 카테고리를 만들고 다중 관점 요약을 생성하세요.\n\n"
-        + json.dumps(items, ensure_ascii=False)
-    )
 
     resp = requests.post(
         ANTHROPIC_API_URL,
@@ -78,11 +91,11 @@ def _call_claude(items: list[dict]) -> dict:
         },
         json={
             "model": CLAUDE_MODEL,
-            "max_tokens": 8000,
-            "system": SYSTEM_PROMPT,
+            "max_tokens": max_tokens,
+            "system": system_prompt,
             "messages": [{"role": "user", "content": user_content}],
         },
-        timeout=120,
+        timeout=180,
     )
     resp.raise_for_status()
     data = resp.json()
@@ -93,26 +106,173 @@ def _call_claude(items: list[dict]) -> dict:
     return json.loads(text)
 
 
-def build_daily_archive(items: list[dict]) -> dict:
-    """items(오늘 수집된 원본 리스트)를 받아 카테고리/다중관점 구조로 변환."""
-    # 아이템이 너무 많으면 토큰 제한을 넘을 수 있으므로 배치 처리
-    # (배치가 너무 크면 Claude 응답이 max_tokens에 걸려 잘리면서 JSON 파싱
-    #  에러가 날 수 있어 배치 크기를 작게 유지한다)
-    BATCH_SIZE = 25
-    all_categories = []
+def _stage1_extract_raw_clusters(items: list[dict]) -> list[dict]:
+    """배치 단위로 items를 raw event cluster로 압축한다."""
+    BATCH_SIZE = 30
+    all_clusters = []
     for i in range(0, len(items), BATCH_SIZE):
         batch = items[i : i + BATCH_SIZE]
+        user_content = (
+            "다음은 오늘 수집된 뉴스/커뮤니티 원본 아이템입니다 (JSON).\n\n"
+            + json.dumps(batch, ensure_ascii=False)
+        )
         try:
-            result = _call_claude(batch)
-            all_categories.extend(result.get("categories", []))
-        except (json.JSONDecodeError, requests.RequestException) as e:
-            # 한 배치가 실패해도 전체 파이프라인은 계속 진행한다
-            print(f"[WARN] 배치 {i}~{i+len(batch)} 처리 실패, 건너뜀: {e}")
+            result = _call_claude(STAGE1_SYSTEM_PROMPT, user_content, max_tokens=4000)
+            all_clusters.extend(result.get("raw_clusters", []))
+        except (json.JSONDecodeError, requests.RequestException, RuntimeError) as e:
+            print(f"[WARN] 1단계 배치 {i}~{i+len(batch)} 처리 실패, 건너뜀: {e}")
             continue
+    return all_clusters
+
+
+# ── 2단계 (REDUCE): 전체 통합 + 중요도 판단 + 글로벌 픽처 ──────────
+
+STAGE2_SYSTEM_PROMPT = """\
+당신은 전세계 뉴스/커뮤니티 신호를 매일 종합해 "오늘 세계에서 무엇이
+움직이고 있는가"를 설명하는 Global News Intelligence 에디터입니다.
+이 페이지는 단순 뉴스 모음이 아니라, 사용자가 5~10분만 읽어도
+"세계가 지금 이 방향으로 움직이고 있구나"를 이해하게 만드는 것이
+목표입니다.
+
+입력으로 여러 배치에서 추출된 raw event cluster 목록을 받습니다
+(배치가 나뉘어 있었기 때문에 같은 사건이 여러 클러스터로 중복
+존재할 수 있습니다). 그리고 (있다면) 어제 생성된 이슈 헤드라인
+목록도 함께 받습니다.
+
+작업 순서:
+
+1. DEDUPLICATE: 서로 다른 클러스터라도 같은 사건/발표/후속 보도라면
+   반드시 하나로 통합하세요. 같은 사건이 여러 클러스터에 등장하는 것을
+   "중요도가 높다"는 신호로 오인하지 마세요 — 판단은 사건 자체의
+   규모로 하세요.
+
+2. SIGNIFICANCE 평가: 각 통합된 사건에 대해 내부적으로 다음을
+   고려해 중요도를 매기세요 (출력에는 결론만 반영):
+   - Scale(영향 범위), Novelty(새로움), Acceleration(전개 속도),
+     Structural Impact(구조 변화 가능성), Cross-domain Impact(분야 간
+     파급), Geographic Spread(확산 범위), Future Impact(향후 영향)
+
+3. SIGNAL vs NOISE: 단순 가십·개별 사건·생활정보·단순 스포츠 결과는
+   기본적으로 낮은 우선순위입니다. 단, 여러 국가/사례에서 유사한
+   패턴이 반복되면 더 큰 사회적 신호로 승격하세요. 우선순위가 낮은
+   이슈는 최종 결과에서 제외하거나 최소화하세요.
+
+4. ISSUE 구성: 통합된 사건들을 "오늘 실제로 일어나고 있는 변화"
+   단위로 재구성하세요. 고정 분류(정치/경제/기술/스포츠 등)를
+   그대로 카테고리명으로 쓰지 마세요. 카테고리 제목(headline) 자체가
+   하나의 헤드라인이어야 합니다.
+   나쁜 예: "AI·기계학습 기술 동향"
+   좋은 예: "AI 경쟁이 모델 성능에서 실행 인프라 경쟁으로 이동하고 있다"
+
+5. INSIGHT 레이어: 각 issue마다 다음을 작성하세요.
+   - what_happened: 확인된 사실 1~3문장
+   - why_it_matters: 왜 중요한지
+   - what_is_changing: 기존과 비교해 무엇이 달라지는지
+   - connection: 다른 국가/산업/기술/정책과 연결되는 지점 (없으면 생략)
+   - signal: 이 사건이 더 큰 변화의 초기 신호인지
+   - what_to_watch: 앞으로 지켜볼 것
+
+6. PERSPECTIVE: 기사 출처의 논조를 라벨링하지 말고, 하나의 사건을
+   서로 다른 '분석 프레임'으로 해석하세요. 필요한 프레임만 선택:
+   Economic View / Political View / Technology View / Business View /
+   Social View. 프레임이 하나만 의미 있으면 하나만 적어도 됩니다.
+
+7. TREND 상태: 어제 이슈 헤드라인 목록이 제공됐다면 비교해서
+   trend_status를 Emerging(새로 등장)/Accelerating(빠르게 커짐)/
+   Developing(지속 전개)/Structural(장기 구조 변화)/Cooling(관심 감소)
+   중 하나로 표시하세요. 비교 대상이 없으면 Emerging으로 두세요.
+
+8. GLOBAL PICTURE: 모든 issue를 종합해 다음 5개 리스트를 작성하세요
+   (각 항목은 한 문장, 헤드라인 스타일):
+   - world_right_now: 오늘 가장 중요한 변화 5~10개
+   - emerging_signals: 아직 메인은 아니지만 앞으로 중요해질 수 있는 것
+   - structural_trends: 수주~수개월간 지속되는 구조적 변화
+   - what_changed_today: 어제와 비교해 새롭게 달라진 것 (어제 목록이
+     없으면 빈 배열)
+   - what_to_watch_next: 24시간~수주 내 확인해야 할 것
+
+9. 절대 원문을 그대로 인용하지 마세요. 모든 텍스트는 재구성된
+   표현이어야 합니다.
+
+10. 반드시 아래 JSON 스키마로만 응답하세요. 다른 텍스트, 설명,
+    코드펜스는 포함하지 마세요.
+
+출력 스키마:
+{
+  "global_picture": {
+    "world_right_now": ["string", ...],
+    "emerging_signals": ["string", ...],
+    "structural_trends": ["string", ...],
+    "what_changed_today": ["string", ...],
+    "what_to_watch_next": ["string", ...]
+  },
+  "issues": [
+    {
+      "headline": "string (카테고리 제목=헤드라인)",
+      "trend_status": "Emerging|Accelerating|Developing|Structural|Cooling",
+      "insight": {
+        "what_happened": "string",
+        "why_it_matters": "string",
+        "what_is_changing": "string",
+        "connection": "string (선택)",
+        "signal": "string",
+        "what_to_watch": "string"
+      },
+      "perspectives": [
+        {"frame": "string (예: Economic View)", "summary": "string"}
+      ],
+      "sources": [
+        {"source": "string", "link": "string", "region": "string"}
+      ]
+    }
+  ]
+}
+"""
+
+
+def _stage2_synthesize(raw_clusters: list[dict], previous_headlines: list[str]) -> dict:
+    user_content = (
+        "다음은 오늘 여러 배치에서 추출된 raw event cluster 목록입니다 (JSON):\n\n"
+        + json.dumps(raw_clusters, ensure_ascii=False)
+        + "\n\n어제 생성된 이슈 헤드라인 목록입니다 (없으면 빈 배열):\n\n"
+        + json.dumps(previous_headlines, ensure_ascii=False)
+    )
+    return _call_claude(STAGE2_SYSTEM_PROMPT, user_content, max_tokens=8000)
+
+
+def _load_previous_headlines() -> list[str]:
+    """가장 최근 아카이브 파일에서 어제의 이슈 헤드라인만 추출."""
+    files = sorted(glob.glob("archive/*.json"))
+    if not files:
+        return []
+    try:
+        with open(files[-1], encoding="utf-8") as f:
+            prev = json.load(f)
+        return [issue.get("headline", "") for issue in prev.get("issues", [])]
+    except Exception as e:
+        print(f"[WARN] 이전 아카이브 로드 실패: {e}")
+        return []
+
+
+def build_daily_archive(items: list[dict]) -> dict:
+    """전체 파이프라인: 1단계(MAP) → 2단계(REDUCE)."""
+    print("    [1단계] 배치별 raw event cluster 추출 중...")
+    raw_clusters = _stage1_extract_raw_clusters(items)
+    print(f"    → {len(raw_clusters)}개 raw cluster 추출")
+
+    previous_headlines = _load_previous_headlines()
+
+    print("    [2단계] 전체 통합 + 중요도 평가 + 글로벌 픽처 생성 중...")
+    try:
+        result = _stage2_synthesize(raw_clusters, previous_headlines)
+    except (json.JSONDecodeError, requests.RequestException, RuntimeError) as e:
+        print(f"[WARN] 2단계 처리 실패: {e}")
+        result = {"global_picture": {}, "issues": []}
 
     return {
         "date": dt.datetime.utcnow().strftime("%Y-%m-%d"),
-        "categories": all_categories,
+        "global_picture": result.get("global_picture", {}),
+        "issues": result.get("issues", []),
     }
 
 
