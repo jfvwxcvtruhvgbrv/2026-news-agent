@@ -5,7 +5,7 @@
 
 한 번 실행으로:
 1) 오늘 자 뉴스/커뮤니티 수집
-2) Claude로 동적 카테고리화 + 다중 관점 요약
+2) Claude로 2단계(Map-Reduce) 이슈 클러스터링 + 글로벌 픽처 생성
 3) archive/에 JSON 저장
 4) site/에 최신 정적 HTML 생성
 
@@ -30,13 +30,13 @@ def main():
         print("    수집된 아이템이 없어 종료합니다 (소스 접근 실패 여부 확인 필요).")
         sys.exit(0)
 
-    print("[2/3] Claude로 동적 카테고리화 + 다중 관점 요약 생성 중...")
+    print("[2/3] Claude로 2단계 이슈 클러스터링 + 글로벌 픽처 생성 중...")
     archive = build_daily_archive(items)
     os.makedirs("archive", exist_ok=True)
     out_path = f"archive/{archive['date']}.json"
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(archive, f, ensure_ascii=False, indent=2)
-    print(f"    → {out_path} 저장 완료 (카테고리 {len(archive['categories'])}개)")
+    print(f"    → {out_path} 저장 완료 (이슈 {len(archive['issues'])}개)")
 
     print("[3/3] 정적 사이트(site/) 생성 중...")
     build_site()
