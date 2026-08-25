@@ -78,7 +78,7 @@ def _call_claude(items: list[dict]) -> dict:
         },
         json={
             "model": CLAUDE_MODEL,
-            "max_tokens": 4000,
+            "max_tokens": 8000,
             "system": SYSTEM_PROMPT,
             "messages": [{"role": "user", "content": user_content}],
         },
@@ -96,12 +96,19 @@ def _call_claude(items: list[dict]) -> dict:
 def build_daily_archive(items: list[dict]) -> dict:
     """items(오늘 수집된 원본 리스트)를 받아 카테고리/다중관점 구조로 변환."""
     # 아이템이 너무 많으면 토큰 제한을 넘을 수 있으므로 배치 처리
-    BATCH_SIZE = 60
+    # (배치가 너무 크면 Claude 응답이 max_tokens에 걸려 잘리면서 JSON 파싱
+    #  에러가 날 수 있어 배치 크기를 작게 유지한다)
+    BATCH_SIZE = 25
     all_categories = []
     for i in range(0, len(items), BATCH_SIZE):
         batch = items[i : i + BATCH_SIZE]
-        result = _call_claude(batch)
-        all_categories.extend(result.get("categories", []))
+        try:
+            result = _call_claude(batch)
+            all_categories.extend(result.get("categories", []))
+        except (json.JSONDecodeError, requests.RequestException) as e:
+            # 한 배치가 실패해도 전체 파이프라인은 계속 진행한다
+            print(f"[WARN] 배치 {i}~{i+len(batch)} 처리 실패, 건너뜀: {e}")
+            continue
 
     return {
         "date": dt.datetime.utcnow().strftime("%Y-%m-%d"),
