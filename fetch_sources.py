@@ -37,9 +37,15 @@ def _today_str():
 
 def fetch_rss_feeds() -> list[Item]:
     items = []
+    headers = {"User-Agent": REQUEST_USER_AGENT}
     for source_name, (url, region) in NEWS_FEEDS.items():
         try:
-            feed = feedparser.parse(url, agent=REQUEST_USER_AGENT)
+            # feedparser.parse(url)는 자체 타임아웃이 없어 응답이 느린
+            # 서버를 만나면 무한정 멈출 수 있다. 반드시 requests로
+            # 타임아웃을 걸어 먼저 받아온 뒤 그 내용만 파싱한다.
+            resp = requests.get(url, headers=headers, timeout=10)
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
             for entry in feed.entries[:20]:
                 items.append(
                     Item(
