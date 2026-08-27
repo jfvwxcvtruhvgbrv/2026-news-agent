@@ -237,7 +237,7 @@ def _stage2_synthesize(raw_clusters: list[dict], previous_headlines: list[str]) 
         + "\n\n어제 생성된 이슈 헤드라인 목록입니다 (없으면 빈 배열):\n\n"
         + json.dumps(previous_headlines, ensure_ascii=False)
     )
-    return _call_claude(STAGE2_SYSTEM_PROMPT, user_content, max_tokens=8000)
+    return _call_claude(STAGE2_SYSTEM_PROMPT, user_content, max_tokens=16000)
 
 
 def _load_previous_headlines() -> list[str]:
@@ -258,13 +258,23 @@ def build_daily_archive(items: list[dict]) -> dict:
     """전체 파이프라인: 1단계(MAP) → 2단계(REDUCE)."""
     print("    [1단계] 배치별 raw event cluster 추출 중...")
     raw_clusters = _stage1_extract_raw_clusters(items)
-    print(f"    → {len(raw_clusters)}개 raw cluster 추출")
+
+    # 명백한 노이즈(개별 가십·생활정보·단순사고 등)는 2단계로 넘기기
+    # 전에 미리 걸러낸다. 2단계는 "전체를 한 번에" 봐야 하는 단일
+    # 호출이라 입력이 너무 많으면 응답이 max_tokens에 걸려 잘리므로,
+    # 애초에 최종 결과에서 제외될 노이즈는 여기서 줄여 처리량을 낮춘다.
+    significant_clusters = [c for c in raw_clusters if not c.get("is_likely_noise")]
+    noise_count = len(raw_clusters) - len(significant_clusters)
+    print(
+        f"    → {len(raw_clusters)}개 raw cluster 추출 "
+        f"({len(significant_clusters)}개 유의미, {noise_count}개 노이즈 제외)"
+    )
 
     previous_headlines = _load_previous_headlines()
 
     print("    [2단계] 전체 통합 + 중요도 평가 + 글로벌 픽처 생성 중...")
     try:
-        result = _stage2_synthesize(raw_clusters, previous_headlines)
+        result = _stage2_synthesize(significant_clusters, previous_headlines)
     except (json.JSONDecodeError, requests.RequestException, RuntimeError) as e:
         print(f"[WARN] 2단계 처리 실패: {e}")
         result = {"global_picture": {}, "issues": []}
