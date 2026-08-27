@@ -1,5 +1,11 @@
 {
   "date": "2026-08-27",
-  "global_picture": {},
+  "global_picture": {
+    "world_right_now": [],
+    "emerging_signals": [],
+    "structural_trends": [],
+    "what_changed_today": [],
+    "what_to_watch_next": []
+  },
   "issues": []
 }
