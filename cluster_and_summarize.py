@@ -32,12 +32,17 @@ import json
 import os
 import glob
 import datetime as dt
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 
 from config import CLAUDE_MODEL
 
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
+
+# 여러 배치를 동시에 API 호출하는 동시 실행 수. 너무 높이면 API rate
+# limit에 걸릴 수 있으므로 보수적으로 5로 둔다.
+MAX_CONCURRENCY = 5
 
 
 def _call_claude(system_prompt: str, user_content: str, max_tokens: int) -> dict:
@@ -166,21 +171,27 @@ STAGE1_SYSTEM_PROMPT = """\
 
 
 def _stage1_extract_raw_clusters(items: list[dict]) -> list[dict]:
-    """배치 단위로 items를 raw event cluster로 압축한다."""
+    """배치 단위로 items를 raw event cluster로 압축한다 (병렬 처리)."""
     BATCH_SIZE = 15
-    all_clusters = []
-    for i in range(0, len(items), BATCH_SIZE):
-        batch = items[i : i + BATCH_SIZE]
+    batches = [items[i : i + BATCH_SIZE] for i in range(0, len(items), BATCH_SIZE)]
+
+    def _process_one(batch):
         user_content = (
             "다음은 오늘 수집된 뉴스/커뮤니티 원본 아이템입니다 (JSON).\n\n"
             + json.dumps(batch, ensure_ascii=False)
         )
         try:
             result = _call_claude(STAGE1_SYSTEM_PROMPT, user_content, max_tokens=6000)
-            all_clusters.extend(result.get("raw_clusters", []))
+            return result.get("raw_clusters", [])
         except (json.JSONDecodeError, requests.RequestException, RuntimeError) as e:
-            print(f"[WARN] 1단계 배치 {i}~{i+len(batch)} 처리 실패, 건너뜀: {e}")
-            continue
+            print(f"[WARN] 1단계 배치 처리 실패, 건너뜀: {e}")
+            return []
+
+    all_clusters = []
+    with ThreadPoolExecutor(max_workers=MAX_CONCURRENCY) as executor:
+        futures = [executor.submit(_process_one, b) for b in batches]
+        for future in as_completed(futures):
+            all_clusters.extend(future.result())
     return all_clusters
 
 
@@ -221,11 +232,11 @@ STAGE2_SYSTEM_PROMPT = """\
 
 
 def _stage2_chunk_reduce(clusters: list[dict]) -> list[dict]:
-    """raw cluster를 덩어리 단위로 예비 통합해 후보 리스트로 압축한다."""
+    """raw cluster를 덩어리 단위로 예비 통합해 후보 리스트로 압축한다 (병렬)."""
     CHUNK_SIZE = 20
-    all_candidates = []
-    for i in range(0, len(clusters), CHUNK_SIZE):
-        chunk = clusters[i : i + CHUNK_SIZE]
+    chunks = [clusters[i : i + CHUNK_SIZE] for i in range(0, len(clusters), CHUNK_SIZE)]
+
+    def _process_one(chunk):
         user_content = (
             "다음은 raw event cluster 목록입니다 (JSON). 같은 사건은 통합하고,\n"
             "간결한 후보 리스트로 압축하세요.\n\n"
@@ -233,10 +244,16 @@ def _stage2_chunk_reduce(clusters: list[dict]) -> list[dict]:
         )
         try:
             result = _call_claude(STAGE2_SYSTEM_PROMPT, user_content, max_tokens=8000)
-            all_candidates.extend(result.get("candidates", []))
+            return result.get("candidates", [])
         except (json.JSONDecodeError, requests.RequestException, RuntimeError) as e:
-            print(f"[WARN] 2단계 덩어리 {i}~{i+len(chunk)} 처리 실패, 건너뜀: {e}")
-            continue
+            print(f"[WARN] 2단계 덩어리 처리 실패, 건너뜀: {e}")
+            return []
+
+    all_candidates = []
+    with ThreadPoolExecutor(max_workers=MAX_CONCURRENCY) as executor:
+        futures = [executor.submit(_process_one, c) for c in chunks]
+        for future in as_completed(futures):
+            all_candidates.extend(future.result())
     return all_candidates
 
 
