@@ -66,7 +66,63 @@ def _call_claude(system_prompt: str, user_content: str, max_tokens: int) -> dict
         block.get("text", "") for block in data.get("content", []) if block.get("type") == "text"
     )
     text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
-    return json.loads(text)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        # 응답이 max_tokens에 걸려 중간에 잘리면 JSON이 미완성 상태가
+        # 된다. 이 경우 마지막으로 온전하게 닫힌 객체까지만 살려서
+        # 부분 복구를 시도한다 (완전히 버리는 것보다 낫다).
+        recovered = _try_recover_truncated_json(text)
+        if recovered is not None:
+            return recovered
+        raise
+
+
+def _try_recover_truncated_json(text: str):
+    """잘린 JSON 문자열에서 최대한 온전한 부분만 복구한다.
+
+    전략: 최상위 리스트(예: "raw_clusters"/"candidates"/"issues")의 원소들
+    중 완전하게 닫힌 객체까지만 남기고, 뒤의 잘린 꼬리를 잘라낸 뒤
+    괄호를 닫아 다시 파싱을 시도한다. 실패하면 None을 반환한다.
+    """
+    for key in ("raw_clusters", "candidates", "issues"):
+        marker = f'"{key}"'
+        if marker not in text:
+            continue
+        start = text.find("[", text.find(marker))
+        if start == -1:
+            continue
+        depth = 0
+        in_str = False
+        escape = False
+        last_complete = None  # 마지막으로 온전히 닫힌 원소의 끝 위치
+        for i in range(start + 1, len(text)):
+            ch = text[i]
+            if escape:
+                escape = False
+                continue
+            if ch == "\\":
+                escape = True
+                continue
+            if ch == '"':
+                in_str = not in_str
+                continue
+            if in_str:
+                continue
+            if ch == "{":
+                depth += 1
+            elif ch == "}":
+                depth -= 1
+                if depth == 0:
+                    last_complete = i
+        if last_complete is None:
+            continue
+        candidate = text[: last_complete + 1] + "]}"
+        try:
+            return json.loads(candidate)
+        except json.JSONDecodeError:
+            continue
+    return None
 
 
 # ── 1단계 (MAP): 배치별 원재료 이벤트 클러스터 추출 ──────────────
@@ -166,7 +222,7 @@ STAGE2_SYSTEM_PROMPT = """\
 
 def _stage2_chunk_reduce(clusters: list[dict]) -> list[dict]:
     """raw cluster를 덩어리 단위로 예비 통합해 후보 리스트로 압축한다."""
-    CHUNK_SIZE = 40
+    CHUNK_SIZE = 20
     all_candidates = []
     for i in range(0, len(clusters), CHUNK_SIZE):
         chunk = clusters[i : i + CHUNK_SIZE]
@@ -176,7 +232,7 @@ def _stage2_chunk_reduce(clusters: list[dict]) -> list[dict]:
             + json.dumps(chunk, ensure_ascii=False)
         )
         try:
-            result = _call_claude(STAGE2_SYSTEM_PROMPT, user_content, max_tokens=4000)
+            result = _call_claude(STAGE2_SYSTEM_PROMPT, user_content, max_tokens=8000)
             all_candidates.extend(result.get("candidates", []))
         except (json.JSONDecodeError, requests.RequestException, RuntimeError) as e:
             print(f"[WARN] 2단계 덩어리 {i}~{i+len(chunk)} 처리 실패, 건너뜀: {e}")
