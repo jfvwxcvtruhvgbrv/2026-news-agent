@@ -1,0 +1,224 @@
+{
+  "date": "2026-08-31",
+  "session": "pm",
+  "global_picture": {
+    "world_right_now": [
+      "미국과 이란의 군사 충돌이 재개되며 이란이 요르단·UAE를 보복 타격, 호르무즈 해협 일대가 다층적 화약고로 변하고 있다",
+      "네팔·티베트 홍수로 사망자 900명 돌파·실종 5000명, 수력발전 터널에 갇힌 노동자 구조가 국제적 관심사로 부상했다",
+      "SCO 정상회의에서 시진핑·푸틴·모디가 집결해 미국 주도 질서에 맞선 다극 체제 구상을 공개적으로 논의했다",
+      "일본이 역대 최대 방위예산을 요구하며 AI 드론·장거리 미사일·민간 대피소 인프라를 동시에 강화하고 있다",
+      "파나마 운하가 심화되는 가뭄으로 일일 통항 편수를 추가 축소하며 글로벌 해상 물류에 새로운 병목이 생기고 있다",
+      "인도가 러시아산 원유를 역대 최고 수준으로 수입한 뒤 정제 가솔린으로 러시아에 역수출, 대러 제재 우회 허브 역할이 고착화되고 있다",
+      "마이크로소프트가 AI 데이터센터 확장으로 기존 탄소 중립 공약 이행이 어렵다고 내부적으로 인정해 빅테크의 환경 역설이 다시 부상했다",
+      "북한이 미국의 비핵화 요구를 공개 거부하며 핵전력 강화를 지속하겠다고 재천명했다",
+      "니제르에서 쿠데타 시도가 발생했으나 러시아 연계 아프리카 군단이 개입해 진압됐고, 사헬 지역에서 러시아의 군사적 영향력이 공식화됐다",
+      "우간다가 에볼라 청정국으로 공식 선언됐으며 아프리카 공중보건 대응 역량의 성과로 평가된다"
+    ],
+    "emerging_signals": [
+      "AI 시스템(Claude Code Opus 5)의 자동 모드에서 보안 취약점이 발견되며 LLM 기반 자율 에이전트의 신뢰성 문제가 본격 대두될 조짐이다",
+      "싱가포르·호주·영국이 청소년 소셜미디어 이용 시간 법적 제한을 추진하며 플랫폼 규제의 새로운 글로벌 기준이 형성될 가능성이 있다",
+      "러시아·이스라엘 연계 허위정보 공작이 스페인 이민 위기에 개입했다는 공식 주장이 나오며, 국경·이민 이슈를 둘러싼 정보전이 유럽 전역으로 확산될 신호다",
+      "전 세계 산호초가 현 추세 지속 시 회복 불가능한 감소 단계에 진입할 수 있다는 경고가 나왔다",
+      "아프리카 면화 제조업체들이 의료용 섬유 현지 생산으로 전환을 시작하며 아프리카 의료 공급망 자립화의 초기 신호를 보내고 있다"
+    ],
+    "structural_trends": [
+      "미국 일방주의와 SCO·BRICS 진영의 다극 질서 구축 경쟁이 외교·무역·군사 전선에서 동시에 가속하고 있다",
+      "러시아 연계 민간군사 조직이 아프리카 군부 정권 유지에 직접 개입하는 패턴이 사헬 지역을 중심으로 반복·공식화되고 있다",
+      "기후변화로 인한 극단적 기상현상(홍수·가뭄)이 국경을 넘어 인프라·물류·식량 공급망을 동시에 타격하는 빈도가 높아지고 있다",
+      "빅테크의 AI 인프라 확장과 탄소 중립 공약 사이의 구조적 충돌이 표면화되며 ESG 공약의 신뢰성 위기가 전 산업으로 번지고 있다",
+      "동북아 국가들(일본·한국)이 미중 경쟁 격화에 대응해 방위비와 첨단 군사기술 투자를 빠르게 확대하는 군비 경쟁 구조가 자리잡고 있다",
+      "'외국 에이전트' 법제화 패턴이 러시아·헝가리에서 나이지리아 등 아프리카로 확산되며 시민사회 공간이 전 지구적으로 좁아지고 있다"
+    ],
+    "what_changed_today": [
+      "어제 재개로 확인된 미-이란 교전이 이란의 요르단·UAE 보복 타격으로 이어지며 분쟁이 인접국 전선으로 확대됐다",
+      "네팔 홍수 실종자 규모가 4200명대에서 5000명 수준으로 증가했으며, 수력발전 터널 다수 침수로 구조 작업이 새로운 국면에 진입했다",
+      "베네수엘라 협정은 어제 서명으로 확인됐고, 오늘 마두로 구금 사진 공개로 미-베네수엘라 정치 구도의 후속 변수가 추가됐다",
+      "아이슬란드 EU 가입 부결은 어제 확인됐으나, 오늘 북극 지정학(라브로프 NATO 경고)과 결합되며 북유럽 안보 지형 논의로 연결됐다",
+      "SCO 정상회의가 개막해 시진핑의 이집트 방문 계획까지 가시화되며 중국의 중동·글로벌 사우스 외교가 하루 안에 구체화됐다"
+    ],
+    "what_to_watch_next": [
+      "이란의 요르단·UAE 보복 타격 이후 미국의 '오퍼레이션 이코노믹 아웃캐스트' 추가 제재 범위와 걸프 국가들의 대응 방향",
+      "네팔 수력발전 터널 구조 작업의 생존자 확인 결과와 중국-네팔 공동 대응 진전",
+      "SCO 정상회의 공동 선언문의 반미 연대 수위와 인도의 포지셔닝",
+      "파나마 운하 통항 추가 축소가 아시아-유럽 해운 운임에 미치는 영향",
+      "마이크로소프트 탄소 공약 후퇴 인정 이후 다른 빅테크 기업들의 유사 공시 여부",
+      "Claude Code Opus 5 보안 취약점에 대한 Anthropic의 공식 패치 및 업계 후속 감사 결과"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미-이란 교전이 인접국 전선으로 번지며 걸프 전역을 복합 화약고로 만들고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국이 약 한 달 만에 호르무즈 해협 라라크 섬의 이란 미사일 발사대를 재공습하자, 이란은 요르단 내 미군 기지와 UAE를 동시에 보복 타격했다. 같은 날 이란은 기름 유출을 명분으로 화물선을 나포했고, UAE는 자국 영해 드론을 격추하며 '위험한 도발'로 규탄했다. 미 재무장관은 이란과 거래하는 금융기관에 대한 추가 제재 패키지를 예고했으며, 트럼프는 AI 생성 이란 폭발 영상을 소셜미디어에 게시해 정보 환경 혼란도 가중됐다.",
+        "why_it_matters": "분쟁이 이란 본토와 미군 기지를 넘어 요르단·UAE 등 제3국 전선으로 확장됐다는 점이 핵심 변곡점이다. 호르무즈 해협은 전 세계 원유 해상 수송의 약 20%가 통과하는 요충지로, 충돌 격화는 에너지 시장과 글로벌 공급망에 즉각적인 충격을 줄 수 있다.",
+        "what_is_changing": "기존 미-이란 충돌이 양자 간 직접 교전에 머물렀다면, 이번에는 걸프 아랍 국가들이 실제 피격 대상이 되며 지역 동맹 구조 전체가 시험대에 올랐다. 또한 트럼프의 AI 허위영상 게시는 실제 전황과 정보 환경의 경계를 흐리는 새로운 전쟁 수행 방식을 예고한다.",
+        "connection": "제재 패키지 '오퍼레이션 이코노믹 아웃캐스트'와 동시에 진행되는 군사 압박은 인도의 러시아산 원유 수입·정제 구조와 맞물려 글로벌 에너지 공급망 재편 속도를 높일 수 있다. SCO 정상회의에서 논의되는 반미 연대 구도와도 직결된다.",
+        "signal": "걸프 아랍 국가들이 미국 편에서 이란의 직접 타격을 받은 것은 분쟁의 지역화 임계점에 도달했음을 보여주는 신호다.",
+        "what_to_watch": "UAE와 요르단의 공식 대응 수위, 추가 제재 패키지 발동 시점, 이스라엘의 개입 여부, 이란의 다음 보복 타깃 선정 논리"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 AI 허위영상 게시는 내부 지지층 결집과 이란에 대한 심리적 압박을 동시에 노린 것으로 해석된다. 그러나 동맹국에 대한 사전 협의 없이 전선이 확대되면서 걸프 아랍 파트너들의 신뢰가 흔들릴 위험이 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "호르무즈 해협 긴장이 장기화될 경우 원유 선물가 급등과 보험료 상승으로 글로벌 에너지 비용 전반이 상승 압력을 받는다. 이란의 선박 나포는 국제 해상 보험·물류 업계에 즉각적인 위험 프리미엄을 부과한다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 생성 허위 전황 영상이 국가 지도자에 의해 공식 채널에서 유포된 첫 사례에 가깝다. 이는 분쟁 중 정보 검증 체계가 근본적으로 무력화될 수 있음을 시사한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east-war-flares-up-after-iran-responds-to-us-attacks",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/uae-says-forces-dealt-with-drone-coming-from-iran-condemns-attack-as-dangerous-escalation",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/08/31/us-news/trump-posts-ai-generated-video-of-irans-kharg-island-blown-to-smithereens-hours-after-first-us-strikes-in-a-month/",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "히말라야 홍수가 수력발전 터널 구조 위기로 확대되며 재난 대응의 국경과 인프라 한계를 동시에 드러냈다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "네팔-티베트 접경 빙하 붕괴로 추정되는 대규모 홍수로 사망자가 900명을 초과하고 실종자가 5000명에 달했다. 침수된 수력발전소 터널 12곳 이상에 수백 명의 노동자가 고립됐으며, 네팔 당국은 집단 매장을 시작했다. 구조 작업은 중국과 공동으로 진행 중이며, 전문가들은 조기경보 시스템 부재와 수력발전 개발에 따른 환경 책임 문제를 강하게 지적하고 있다.",
+        "why_it_matters": "사망·실종 규모만으로도 2026년 최대 자연재해 중 하나로 기록될 수 있다. 특히 수력발전 터널 다수 침수는 에너지 인프라와 노동자 안전이 산악 재난에 얼마나 취약한지를 구조적으로 노출했다.",
+        "what_is_changing": "히말라야 빙하 붕괴형 홍수가 단순 기상재해가 아닌 기후변화로 인한 구조적 재난으로 자리매김하고 있다. 동시에 수력발전 개발 붐을 타고 원격지 터널에 배치된 노동자들이 가장 취약한 피해자가 되는 새로운 재난 유형이 나타났다.",
+        "connection": "홍수는 국경을 넘어 인도 비하르 주의 연례적 침수를 악화시키며, 남아시아 전반의 수자원 관리와 초국경 재난 협력 체계 부재를 동시에 부각시켰다. 파나마 운하 가뭄과 함께 기후 변동성이 인프라에 미치는 파급 패턴으로 연결된다.",
+        "signal": "산악 수력발전 의존도가 높아질수록 극단적 기상사건 한 번이 에너지·노동·인명 피해를 복합적으로 유발하는 취약 구조가 확산되고 있다는 신호다.",
+        "what_to_watch": "터널 생존자 구조 최종 결과, 네팔 정부의 수력발전 프로젝트 안전 기준 재검토 여부, 히말라야 조기경보 체계 국제 협약 논의 착수 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "네팔 정부는 집단 매장 결정과 수력발전 사업 노동자 보호 미비로 내부 정치적 압박에 직면했다. 중국과의 공동 구조는 양국 관계 관리의 외교적 맥락이 있지만, 정보 접근 통제 논란도 함께 제기됐다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "수력발전 터널 침수는 네팔 전력 공급에 직접 타격을 주고, 해당 프로젝트에 투자된 자본의 손실 규모도 아직 집계되지 않았다. 산악 인프라 투자의 리스크 재평가가 불가피해질 수 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "신원 미상의 남성이 고함으로 370명을 대피시킨 사례는 공식 경보 시스템이 부재한 지역에서 개인의 판단이 수백 명의 생사를 가른다는 현실을 보여준다. 재난 취약 계층은 대부분 이주 노동자와 산악 지역 주민이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/asia-pacific/20260831-nepal-buries-victims-of-himalayan-flooding-as-death-toll-climbs-past-900",
+          "region": "Asia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/nepal-recovers-bodies-but-presses-on-for-trapped-tunnel-workers",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/opinions/2026/8/31/after-the-flash-flood-disaster-here-is-what-nepal-really-needs?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "SCO 정상회의가 미국 주도 질서에 맞선 '대안 세계'의 공식 무대가 됐다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "키르기스스탄에서 개막한 상하이협력기구(SCO) 창설 25주년 정상회의에 시진핑·푸틴·모디 등 주요국 정상이 집결했다. 회의는 미국 일방주의에 대한 다극 세계질서 구축과 역내 무역 강화를 핵심 의제로 삼았다. 시진핑은 정상회의 후 10년 만에 이집트를 국빈 방문할 예정으로 중동에서의 중국 영향력 확대를 병행 추진했다.",
+        "why_it_matters": "SCO는 가입국 인구 합산이 전 세계의 절반에 가깝고 경제 규모도 상당하다. 미국을 배제한 이 플랫폼에서 러시아-중국-인도 정상이 동시에 다극 질서를 공개 지지한 것은 국제 거버넌스 재편 속도를 높이는 정치적 선언이다.",
+        "what_is_changing": "SCO가 기존 안보 협력 중심에서 미국 주도 다자 체제에 대한 대항 외교 플랫폼으로 기능을 확장하고 있다. 인도가 러시아·중국과 같은 무대에 서면서 서방-인도 협력 구도에 복잡성이 더해졌다.",
+        "connection": "시진핑의 이집트 방문, 인도의 러시아 원유 정제 허브 역할, 라브로프의 NATO 북극 경고가 하나의 지정학적 흐름으로 연결된다. 파나마 운하 가뭄과 맞물린 해운 질서 재편도 이 구도와 무관하지 않다.",
+        "signal": "미국의 관세·제재 압박이 강해질수록 SCO와 같은 대안 플랫폼의 결속력이 높아지는 역설적 구조가 강화되고 있다.",
+        "what_to_watch": "SCO 공동 선언문의 반미 연대 구체적 표현 수위, 인도의 포지셔닝 변화, 시진핑-이집트 회담에서의 중동 안보 협력 합의 내용"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "SCO는 공식적으로 반서방 기구가 아니지만, 두 정상이 이 플랫폼을 대안 질서 구축에 활용해왔다. 인도의 참여는 쿼드(QUAD) 동맹과의 균형 유지를 위한 외교적 헤지로 해석된다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "SCO 회원국 간 달러 우회 결제 시스템 논의가 심화될 경우 미국의 금융 제재 효력이 중장기적으로 약화될 수 있다. 역내 무역 강화는 서방 중심 공급망의 구조적 대안을 만드는 방향이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/what-to-know-about-the-sco-the-summit-billed-as-a-counterweight-to-us-influence",
+          "region": "Asia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3365831/xi-jinpings-cairo-trip-marks-best-ties-history-egypt-seeks-balance-west?utm_source=rss_feed",
+          "region": "China"
+        }
+      ]
+    },
+    {
+      "headline": "일본이 역대 최대 방위예산으로 AI 드론부터 민간 대피소까지 전시 대비 체계를 동시에 구축하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "일본 정부가 약 709억 달러 규모의 사상 최대 방위예산을 요구하며 AI 연동 드론·장거리 미사일 역량 확충에 집중했다. 동시에 전국 6만여 개 비상대피소에 대한 미사일 공격 대비 실태 조사를 병행하겠다고 밝혔다.",
+        "why_it_matters": "일본의 군사 재무장 가속은 동북아 군비 경쟁의 속도를 높이는 기준점 역할을 한다. AI 드론과 장거리 타격 능력 동시 추구는 기존 전수방위 원칙의 실질적 변형을 의미한다.",
+        "what_is_changing": "방위비 증액을 넘어 AI 기술이 군사 독트린의 핵심으로 편입되고, 민간 인프라 대피 체계까지 포함하는 총력전 대비로 패러다임이 이동하고 있다.",
+        "connection": "북한의 비핵화 거부 재천명, 미-이란 충돌 격화, SCO의 반미 연대 강화가 모두 일본의 안보 판단에 직접적 근거로 작용하고 있다. 한국의 방위비 증액 추세와 함께 동북아 군비 경쟁 구조가 굳어지고 있다.",
+        "signal": "평화헌법 체제 하의 일본이 민간 대피소 실태를 '미사일 공격 대비' 명목으로 조사하기 시작했다는 것은 안보 인식의 근본적 전환이 완성 단계에 접어들었다는 신호다.",
+        "what_to_watch": "예산안 국회 통과 여부, AI 드론 운용 독트린의 구체적 규정 방식, 한국·호주와의 연계 방위 협력 확대 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "기시다 이후 일본 정부는 방위비 증액을 국내 정치적 컨센서스로 전환하는 데 성공했다. 민간 대피소 조사는 국민 안보 의식 제고라는 정치적 효과와 함께 헌법 해석 논쟁을 우회하는 수단이기도 하다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 드론을 방위 핵심으로 명시한 것은 일본 방위산업이 글로벌 AI-군사 기술 경쟁에 본격 진입함을 선언한 것이다. 민간 기술 기업과의 협력 모델이 어떻게 설계되느냐가 실효성을 결정할 것이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/east-asia/japan-seeks-record-55-6-bn-defence-budget-with-ai-focus",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/east-asia/japan-to-survey-emergency-shelters-in-preparation-for-missile-strikes",
+          "region": "Southeast Asia"
+        }
+      ]
+    }
+  ]
+}
