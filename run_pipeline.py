@@ -22,7 +22,25 @@ from cluster_and_summarize import build_daily_archive
 from generate_site import build_site
 
 
+def _expected_slug() -> str:
+    """지금 이 순간이 한국시간 기준 오늘의 어느 세션(오전/오후)에 해당하는지 계산한다.
+    cluster_and_summarize.build_daily_archive()의 계산 방식과 반드시 일치시켜야 한다."""
+    from zoneinfo import ZoneInfo
+    kst_now = dt.datetime.now(ZoneInfo("Asia/Seoul"))
+    date = kst_now.strftime("%Y-%m-%d")
+    session = "am" if kst_now.hour < 12 else "pm"
+    return f"{date}-{session}"
+
+
 def main():
+    # 같은 세션(아침 또는 저녁) 안에서 재시도 예약이 여러 번 발동돼도,
+    # 이미 그 세션 아카이브가 만들어져 있으면 API 호출 없이 바로 종료한다.
+    expected_slug = _expected_slug()
+    existing_path = f"archive/{expected_slug}.json"
+    if os.path.exists(existing_path):
+        print(f"이미 {existing_path}가 존재합니다 — 같은 세션 중복 실행이라 건너뜁니다.")
+        sys.exit(0)
+
     print("[1/3] 오늘 자 뉴스/커뮤니티 수집 중...")
     items = fetch_today()
     print(f"    → {len(items)}개 아이템 수집")
