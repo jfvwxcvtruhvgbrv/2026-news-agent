@@ -2,7 +2,8 @@ name: 매일 뉴스 아카이브 생성 및 배포
 
 on:
   schedule:
-    - cron: "0 21 * * *"   # 매일 UTC 21:00 = 한국시간 06:00
+    - cron: "13 21 * * *"   # 매일 UTC 21:13 = 한국시간 06:13 (아침)
+    - cron: "13 9 * * *"    # 매일 UTC 09:13 = 한국시간 18:13 (저녁)
   workflow_dispatch:        # 수동 실행 버튼도 사용 가능
 
 permissions:
@@ -17,7 +18,6 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
     steps:
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
