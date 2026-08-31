@@ -68,6 +68,7 @@ INSIGHT_LABELS = [
 ]
 
 WD = ["월", "화", "수", "목", "금", "토", "일"]
+SESSION_LABEL = {"am": "오전", "pm": "오후"}
 
 
 def _pretty_date(date_str: str) -> str:
@@ -310,6 +311,11 @@ def build_site():
         with open(path, encoding="utf-8") as f:
             data = json.load(f)
         date = data["date"]
+        # 세션 필드가 없는 예전 아카이브(하루 1회 시절)와도 호환되도록 처리
+        session = data.get("session")
+        slug = f"{date}-{session}" if session else date
+        session_suffix = f" · {SESSION_LABEL.get(session, '')}" if session else ""
+
         issues = data.get("issues", [])
 
         rapid_n = sum(1 for i in issues if i.get("trend_status") == "Accelerating")
@@ -317,30 +323,30 @@ def build_site():
             f'<div class="m"><span class="dot" style="background:{TREND_COLOR["Accelerating"]}"></span>'
             f'빠르게 확산 {rapid_n}건</div>'
             f'<div class="m">이슈 {len(issues)}건 수록</div>'
-            f'<div class="m">{_pretty_date(date)}</div>'
+            f'<div class="m">{_pretty_date(date)}{session_suffix}</div>'
         )
 
         global_picture_html = render_global_picture(data.get("global_picture", {}))
         issues_html = "".join(
-            render_issue(issue, f"GNI·{date.replace('-','')}·{idx+1:02d}")
+            render_issue(issue, f"GNI·{date.replace('-','')}{('-'+session.upper()) if session else ''}·{idx+1:02d}")
             for idx, issue in enumerate(issues)
         )
 
         page_html = PAGE_TEMPLATE.format(
             date=date,
-            pretty_date=f"{date} — 오늘의 세계",
+            pretty_date=f"{date}{session_suffix} — 오늘의 세계",
             metarow=metarow,
             css=BASE_CSS,
             global_picture_html=global_picture_html,
             issues_html=issues_html,
         )
-        with open(f"{OUTPUT_DIR}/{date}.html", "w", encoding="utf-8") as f:
+        with open(f"{OUTPUT_DIR}/{slug}.html", "w", encoding="utf-8") as f:
             f.write(page_html)
 
         teaser = issues[0].get("headline", "") if issues else ""
         log_rows.append(
-            f'<a class="log-row" href="{date}.html">'
-            f'<div class="rdate">{_pretty_date(date)}</div>'
+            f'<a class="log-row" href="{slug}.html">'
+            f'<div class="rdate">{_pretty_date(date)}{session_suffix}</div>'
             f'<div class="rteaser">{_esc(teaser)}</div>'
             f'<div class="rarrow">열기 →</div></a>'
         )
@@ -349,7 +355,7 @@ def build_site():
     with open(f"{OUTPUT_DIR}/index.html", "w", encoding="utf-8") as f:
         f.write(index_html)
 
-    print(f"{len(archive_files)}개 날짜 페이지 생성 완료 → {OUTPUT_DIR}/")
+    print(f"{len(archive_files)}개 페이지(세션 포함) 생성 완료 → {OUTPUT_DIR}/")
 
 
 if __name__ == "__main__":
