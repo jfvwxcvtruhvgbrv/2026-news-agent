@@ -1,0 +1,260 @@
+{
+  "date": "2026-09-01",
+  "session": "am",
+  "global_picture": {
+    "world_right_now": [
+      "미국-이란 교전이 재개되며 이란이 요르단·UAE를 보복 공격, 중동 전역이 복합 전선으로 확대되고 있다",
+      "트럼프가 시진핑의 9월 24일 방문을 일방 발표했으나 중국이 확인을 거부하며 미중 정상회담이 불확실성 속에 놓였다",
+      "네팔-중국 접경 히말라야 복합 산사태·홍수로 사망 900명 이상·실종 4,000명 이상, 구조 작전이 현재도 진행 중이다",
+      "SCO 정상회의에서 시진핑·푸틴이 전략 협력을 재확인하고, 모디는 푸틴에게 우크라이나 종전을 촉구하며 각자의 포지션을 드러냈다",
+      "팀 쿡이 14년간의 애플 CEO 임기를 마치고 존 터너스가 새 수장으로 취임했다",
+      "소니·워너뮤직이 앤트로픽을 상대로 음악 저작권 침해 소송을 제기, AI 학습 데이터 분쟁이 음악 산업으로 번졌다",
+      "폴란드 드론 공장 화재에 대해 러시아 사보타주 의혹으로 테러 수사가 개시됐다",
+      "프랑스가 Shein·Temu를 겨냥한 패스트패션 환경 부담금 시행에 들어가며 유럽의 아시아 플랫폼 규제가 실행 단계에 진입했다",
+      "EU가 ChatGPT·Reddit·Roblox를 디지털서비스법 강화 규제 대상으로 신규 지정했다",
+      "니제르 쿠데타 시도가 진압됐지만 러시아가 지원하고 알제리가 사상 첫 해외 군사 배치를 단행하며 사헬 안보 구도가 재편됐다"
+    ],
+    "emerging_signals": [
+      "트럼프의 유가 급등 대응으로 베네수엘라 석유 지분 확보가 전면에 등장하며 중남미 에너지 지정학이 새 국면에 접어들고 있다",
+      "인도-파키스탄 인더스 물 조약 국제 판결을 인도가 거부하며 수자원이 남아시아 분쟁의 새 축으로 부상할 조짐이다",
+      "대만이 중국군이 이란 분쟁에서 전술적 교훈을 흡수하고 있다고 공식 평가하며 글로벌 분쟁의 교차 학습 위험을 경고했다",
+      "구글이 크롬에서 MV2 확장 프로그램을 일괄 삭제하며 광고차단·개인정보 보호 생태계가 구조적 변화를 맞았다",
+      "중남미에서 엘살바도르식 강경 치안 모델이 브라질 등 인접국 우파 정치권으로 확산되는 패턴이 가시화되고 있다"
+    ],
+    "structural_trends": [
+      "미중 관계가 유화·압박 복합 전략 속에서도 학술·기술 디커플링은 계속 가속화되고 있다",
+      "유럽 국가들의 방위비 확대가 프리깃함·방공 시스템 등 실제 계약으로 이어지며 재무장이 구체적 단계에 진입했다",
+      "AI 학습 데이터를 둘러싼 저작권 소송이 출판·시각예술에서 음악으로 전선을 넓히며 법적 분쟁이 산업 전체로 확산 중이다",
+      "러시아가 사헬 지역 군사정권을 지렛대로 아프리카 내 영향력을 유지하는 구조가 반복 확인되고 있다",
+      "기후 변화가 파나마 운하 통항 축소·히말라야 복합 재난·인도 강수 부족으로 동시에 글로벌 공급망과 식량 안보를 압박하고 있다"
+    ],
+    "what_changed_today": [
+      "어제 소강상태로 보이던 미-이란 교전이 재개되며 이란의 보복 공격이 인접국으로까지 확산됐다",
+      "히말라야 홍수 사망·실종 규모가 전날보다 대폭 상향 확인되며 재난 규모가 더 명확해졌다",
+      "SCO에서 모디-푸틴·시진핑-푸틴 회담이 동시에 진행되며 인도와 중러 간 포지션 차이가 공개 무대에서 표면화됐다",
+      "일본 역대 최대 방위예산 요청이 공식 수치(709억 달러)와 함께 구체화됐다"
+    ],
+    "what_to_watch_next": [
+      "이란의 추가 보복 공격 범위와 미국의 대응 수위—호르무즈 봉쇄 여부가 핵심 분기점이다",
+      "시진핑이 9월 24일 백악관 방문을 공식 확인할지, 미중 정상회담이 성사될지 여부",
+      "네팔 수력발전 터널 매몰 노동자 구조 성공 여부와 피해 최종 집계",
+      "소니·워너뮤직 대 앤트로픽 소송의 초기 법원 반응—AI 저작권 판례 형성 속도를 가늠할 지표",
+      "독일 작센안할트 지방선거 결과—AfD 집권 시 유럽 극우 정치 지형의 전환점이 된다",
+      "프랑스 패스트패션 부담금에 대한 Shein·Temu의 대응 전략과 다른 EU 국가의 유사 입법 움직임"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미-이란 교전 재개, 이란 보복이 요르단·UAE로 번지며 중동 전면전 양상으로 격화",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "약 한 달간의 소강 이후 미군이 호르무즈 해협 인근 라라크섬을 타격해 2명이 사망했고, 이란 혁명수비대가 요르단과 아랍에미리트를 보복 공격했다. 트럼프는 이란을 강하게 응징하겠다고 경고했으며, 이란은 이스라엘이 미국을 전쟁으로 유도했다고 주장했다.",
+        "why_it_matters": "6개월 이상 지속된 분쟁이 단일 교전에서 다국 전선으로 확대되는 질적 전환을 보이고 있다. 호르무즈 해협 통제권 다툼은 전 세계 원유 공급의 20% 이상에 영향을 미친다.",
+        "what_is_changing": "이전까지 양자 충돌이었던 미-이란 전쟁이 이란의 인접국 공격으로 '중동 복합 전선'으로 전환되고 있다. 미국-이란 전쟁 여파로 유가가 급등하자 트럼프는 베네수엘라 석유 지분 확보를 함께 발표해 에너지 지정학의 축이 이동하는 모습도 나타났다.",
+        "connection": "유가 급등은 인도 경제(이란과 중재 외교 동시 추진), 파나마 운하 가뭄과 맞물려 글로벌 공급망 이중 압박으로 작용한다. 이란 대통령은 모디에게 종전 중재를 공식 요청했다.",
+        "signal": "핵억지 이론의 실효성 약화 속에서 비핵 강국들이 전쟁을 지속 확대할 수 있음을 보여주는 구조적 신호다.",
+        "what_to_watch": "이란의 추가 보복 대상 국가, 호르무즈 봉쇄 선언 여부, 요르단·UAE의 대응 외교 방향"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 강경 경고는 11월 중간선거를 앞두고 국내 지지층을 겨냥한 측면이 있으나, 확전 책임론이 반대로 작용할 위험도 공존한다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "유가 급등이 미국 내 물가 압박으로 이어질 경우 선거 전 경제 상황에 직격탄이 된다. 베네수엘라 석유 지분 확보는 공급 다변화 긴급 처방이다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 기반 스마트 월과 감시 인프라 확대 기조 속에서 전쟁의 정보전·드론 활용도 심화될 전망이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
+          "region": "Global"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/iran-retaliates-condemns-us-strikes-on-larak-island/live-78566992",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20260831-trump-threatens-to-hit-iran-hard-as-strikes-resume-after-month-long-lull",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3365892/trump-meet-us-oil-executives-iran-war-keeps-fuel-prices-high",
+          "region": "China"
+        }
+      ]
+    },
+    {
+      "headline": "히말라야 복합 산사태가 네팔에 사망 900명·실종 4,200명의 사상 최악 재난을 낳고, 재난 정보전까지 동반했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "해발 5,200m에서 시속 167km로 쏟아진 빙하-암석 복합 산사태가 네팔과 중국 접경을 강타해 사망 919명·실종 4,247명의 피해가 확인됐다. 수백 명의 수력발전 터널 작업자가 매몰되어 폭발물로 산비탈을 굴착하는 비상 구조가 진행 중이며, 중국 당국은 티베트 쪽 피해 영상을 검열하고 국영 콘텐츠로 대체했다. AI 생성 허위 영상이 소셜미디어에서 수백만 조회수를 기록하며 확산되고 있다.",
+        "why_it_matters": "규모 자체가 전례 없는 수준이며, 빙하호 붕괴가 아닌 복합 지질 현상이라는 과학적 분석은 기존 방재 모델이 히말라야 위험에 대응 불가능함을 드러낸다.",
+        "what_is_changing": "재난 자체와 별개로 정보전이 동시에 벌어지는 구조가 부각됐다. 중국의 검열과 AI 생성 허위 콘텐츠 확산이 구조 및 지원 활동의 효율을 저해하는 새로운 재난 복합 요소로 작용하고 있다.",
+        "connection": "수력발전소 피해는 지역 에너지 공급에 직접 타격을 주며, 네팔 신생 정부의 초기 재난 대응 역량 시험과도 맞물려 있다. 인도, 홍콩 등 국제 구호 활동이 전개되고 있다.",
+        "signal": "기후 변화가 히말라야 산악 지형의 지질학적 불안정을 가속화하고 있으며, 이는 남아시아 에너지 인프라 전반에 대한 구조적 위협 신호다.",
+        "what_to_watch": "터널 매몰 노동자 구조 성공 여부, 중국 측 피해 공식 발표 여부, 국제 지원의 규모와 접근 허용 범위"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "중국의 티베트 쪽 정보 차단은 재난 외교의 투명성 문제를 부각시키며 국제 인도주의 지원 조율을 어렵게 만든다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 생성 허위 재난 콘텐츠가 실시간으로 수백만 건 확산되는 현상은 재난 정보 생태계의 구조적 취약점을 드러냈다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "기존 방재 공학의 한계가 입증되면서 히말라야 유역 도시 계획과 인프라 설계 전반을 재검토해야 한다는 목소리가 높아지고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o",
+          "region": "Asia"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/hundreds-feared-stuck-in-hydropower-tunnels-as-flood-deaths-surpass-950-in-nepal-and-china",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/how-china-buried-tibet-flood-images-after-nepal-disaster/a-78576472",
+          "region": "Europe"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-avalanche-from-5200-metres-raced-down-himalayas-at-167-kmph-triggering-deadly-deluge/articleshow/133657450.cms",
+          "region": "India"
+        }
+      ]
+    },
+    {
+      "headline": "SCO 정상회의가 미국 주도 질서에 맞선 대안 외교의 공식 무대가 됐지만 내부 균열도 수면 위로 드러났다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "키르기스스탄 비슈케크 SCO 정상회의에서 시진핑과 푸틴이 '예측 불가능한 세계'에 공동 대응하는 전략 협력을 재확인했다. 반면 모디 총리는 푸틴에게 '인류를 위해 우크라이나 전쟁을 끝내야 한다'고 공개 촉구했으며, 인도 외교부는 러시아군 복무 인도인 51명이 사망했다고 공식 발표했다.",
+        "why_it_matters": "같은 무대에서 중러의 밀착과 인도의 독자 노선이 동시에 표면화됐다. SCO가 단일한 반서방 블록이 아니라 복잡한 이해 충돌이 공존하는 다극 외교 공간임이 확인됐다.",
+        "what_is_changing": "이전까지 SCO는 주로 반서방 연대의 상징으로 조명됐으나, 이번 회의는 회원국 간 전략적 이해 차이가 공개 발언으로 드러나는 장으로 바뀌었다.",
+        "connection": "이란 대통령도 모디에게 미-이란 전쟁 중재를 요청하면서 인도의 비동맹 중재자 역할 수요가 복수의 방향에서 높아지고 있다.",
+        "signal": "다극 세계에서 '중립국 프리미엄'을 가진 인도의 외교적 가치가 더욱 상승할 것을 예고하는 신호다.",
+        "what_to_watch": "모디의 우크라이나 종전 중재 시도가 실질적 외교 행동으로 이어질지, BRICS 정상회담(2주 후)에서 인도-중국 관계가 어떤 방향으로 정리될지"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "중러는 서방 주도 국제질서에 대한 공동 대항 선언을 강화했으나, 인도의 공개적 이탈 발언은 SCO의 결속력을 약화시키는 변수다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "인도가 러시아와의 관계를 유지하면서도 독자 외교 노선을 걷는 것은 에너지·방산 조달 다변화를 위한 전략적 계산에 기반한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/move-from-endless-war-to-end-of-war-pm-modi-tells-putin-key-details-from-bishkek-talks/articleshow/133656335.cms",
+          "region": "India"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world",
+          "region": "Central Asia"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3365890/xi-putin-vow-deepen-strategic-ties-after-meeting-sco-summit",
+          "region": "China"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/indias-modi-tells-russias-putin-that-the-war-in-ukraine-must-end-for-humanitys-sake",
+          "region": "Southeast Asia"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프가 시진핑 방문을 일방 발표하고 칭찬과 압박을 동시에 구사하는 사이, 미중 학술·기술 디커플링은 더 깊어지고 있다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "트럼프가 시진핑의 9월 24일 백악관 방문을 공개 발표했으나 중국 측은 확인을 거부했다. 동시에 미국은 G20에서 중국의 무역 흑자를 정면 비판했고, 하버드·MIT 등 30개 대학에 중국 연구 협력 감사 명령을 내렸다. 트럼프는 호르무즈 위기 때 중국의 소극적 태도를 공개 칭찬하기도 했다.",
+        "why_it_matters": "정상회담을 앞두고 유화와 압박을 동시에 사용하는 미국의 복합 전략이 선명해졌으나, 학술·기술 분리는 정치적 메시지와 무관하게 구조적으로 심화되고 있다.",
+        "what_is_changing": "무역·관세 중심이었던 미중 갈등이 대학 연구 협력, AI 데이터센터, 중남미 인프라 투자 감시까지 전선을 넓히며 총체적 경쟁 구도로 이동하고 있다.",
+        "connection": "캐나다가 미국의 대중 관세 기준을 따르지 않아 추가 압박에 처한 것처럼, 미국의 대중 정책은 동맹국에도 동조를 강제하는 방식으로 작동하고 있다.",
+        "signal": "정상회담 성사 여부와 무관하게 미중 구조적 디커플링은 되돌리기 어려운 수준으로 진행되고 있다는 신호다.",
+        "what_to_watch": "시진핑의 방문 공식 확인 여부, 정상회담에서 실제 의제로 다뤄질 내용, 30개 대학 감사 결과의 파급 효과"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 일방 발표는 중국을 외교적으로 압박하는 동시에 국내 강경파에 협상력을 과시하는 복합 메시지다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "G20에서의 무역 흑자 비판과 대학 감사 명령은 미중 경제 분리가 금융·학술 영역까지 확장됨을 보여준다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI·첨단기술 분야의 학술 교류 차단은 중장기적으로 양국 혁신 생태계를 분리시키는 구조적 효과를 낳는다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3365904/trump-praises-china-remaining-relatively-inactive-during-strait-hormuz-crisis",
+          "region": "China"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3365846/prediction-markets-have-priced-trump-xi-summit-do-bets-have-any-value",
+          "region": "China"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3365665/data-centre-anger-bacon-fight-bill-gates-ai-warning-7-us-china-relations-reads",
+          "region": "China"
+        }
+      ]
+    },
+    {
+      "headline": "소니·워너뮤직의 앤트로픽 저작권 소송으로 AI 훈련 데이터 분쟁이 음악 산업으로 전선을 확장했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "소니뮤직과 워너뮤직이 비틀즈·테일러 스위프트 등 수백 곡의 가사를 무단으로 AI 훈련에 활용했다며 앤트로픽을 상대로 소송을 제기했다.",
+        "why_it_matters": "AI 학습 데이터 저작권 분쟁이 출판·시각예술에 이어 음악 산업으로 이동했다. 음악은 소비자 친숙도가 높고 저작권 소유 구조가 복잡해 판례가 형성될 경우 AI 산업 전체의 훈련 방식에 광범위한 영향을 미친다.",
+        "what_is_changing": "AI 기업들이 지금까지 '공정 이용' 원칙 아래 보호받는다고 간주했던 관행이 업종별로 연속 도전을 받고 있다. 음악 저작권은 가사·멜로디·퍼포먼스 권리가 중첩돼 분쟁이 특히 복잡해진다.",
+        "connection": "EU의 디지털서비스법 강화, 구글 크롬의 MV2 삭제와 함께 플랫폼·AI 기업에 대한 규제 압력이 동시다발로 높아지는 흐름과 연결된다.",
+        "signal": "AI 훈련 데이터에 대한 권리 체계가 업종별로 법적으로 정비되는 시기가 예상보다 빠르게 도래할 수 있다는 신호다.",
+        "what_to_watch": "법원의 초기 가처분 판단, 앤트로픽의 대응 전략, 다른 AI 기업들이 음악·영상 데이터 사용 방식을 선제 수정할지 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Business View",
+          "summary": "대형 음악 레이블이 소송에 나선 것은 저작권 라이선스 수익을 AI 시대에도 확보하려는 산업 전략이며, 합의를 통한 수익화 협상의 포석이기도 하다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "앤트로픽을 포함한 AI 기업들은 훈련 데이터 출처를 소급 정리해야 하는 법적 리스크에 동시 직면하며 개발 비용 구조 자체가 바뀔 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/8/31/sony-warner-music-sue-anthropic-saying-it-pirated-songs-to-train-its-ai",
+          "region": "Middle East"
+        }
+      ]
+    }
+  ]
+}
