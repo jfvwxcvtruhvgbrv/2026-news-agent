@@ -34,6 +34,7 @@ import glob
 import datetime as dt
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import ZoneInfo
 import requests
 
 from config import CLAUDE_MODEL
@@ -408,7 +409,7 @@ def build_daily_archive(items: list[dict]) -> dict:
         print(f"[WARN] 3단계 처리 실패: {e}")
         result = {"global_picture": {}, "issues": []}
 
-    from zoneinfo import ZoneInfo
+    from zoneinfo 
     kst_now = dt.datetime.now(ZoneInfo("Asia/Seoul"))
     return {
         "date": kst_now.strftime("%Y-%m-%d"),
