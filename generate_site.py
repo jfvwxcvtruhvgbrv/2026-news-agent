@@ -80,6 +80,16 @@ def _pretty_date(date_str: str) -> str:
         return date_str
 
 
+def _compact_date(date_str: str) -> str:
+    """아카이브 목록용 짧은 날짜 표기 — 긴 문장형과 달리 폭이 좁은 칸에도 겹치지 않는다."""
+    import datetime as dt
+    try:
+        d = dt.date.fromisoformat(date_str)
+        return f"{d.month}.{d.day} ({WD[d.weekday()]})"
+    except Exception:
+        return date_str
+
+
 def _lens_color(frame: str) -> str:
     f = (frame or "").lower()
     for kw, color in LENS_KEYWORDS:
@@ -251,10 +261,10 @@ a{color:inherit}
 .src small{color:var(--ink-soft);margin-left:3px}
 .foot{padding:24px 0 60px;font-size:13px;color:var(--ink-soft)}
 
-.log-row{display:grid;grid-template-columns:170px 1fr auto;gap:20px;align-items:center;
+.log-row{display:grid;grid-template-columns:140px 1fr auto;gap:20px;align-items:center;
   padding:24px 0;border-top:1px solid var(--rule);text-decoration:none}
 .log-row:last-child{border-bottom:1px solid var(--rule)}
-.rdate{font-weight:700;font-size:19px;white-space:nowrap}
+.rdate{font-weight:700;font-size:19px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .rteaser{font-size:18px;color:var(--ink-soft);display:-webkit-box;-webkit-line-clamp:1;
   -webkit-box-orient:vertical;overflow:hidden}
 .rarrow{font-size:15px;color:var(--ink-soft)}
@@ -346,7 +356,7 @@ def build_site():
         teaser = issues[0].get("headline", "") if issues else ""
         log_rows.append(
             f'<a class="log-row" href="{slug}.html">'
-            f'<div class="rdate">{_pretty_date(date)}{session_suffix}</div>'
+            f'<div class="rdate">{_compact_date(date)}{session_suffix}</div>'
             f'<div class="rteaser">{_esc(teaser)}</div>'
             f'<div class="rarrow">열기 →</div></a>'
         )
