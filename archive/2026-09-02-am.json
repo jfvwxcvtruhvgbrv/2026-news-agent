@@ -1,0 +1,243 @@
+{
+  "date": "2026-09-02",
+  "session": "am",
+  "global_picture": {
+    "world_right_now": [
+      "미국-이란 교전이 재격화되며 민간인이 사망하고 이란 국내에서는 연료 대란이 현실화되고 있다",
+      "러시아가 우크라이나 키이우를 공습하는 동시에 독일 공항을 겨냥한 폭발물 드론을 투입하는 복합 하이브리드 전략을 구사하고 있다",
+      "히말라야 빙하 붕괴로 촉발된 네팔·티베트 대홍수 사망자가 1,000명을 넘어섰으며 실종자는 4,000명에 달한다",
+      "미국이 베네수엘라 석유 매장량 5분의 1 확보를 추진하며 중국·러시아가 운영하던 유전을 접수하려 하고 있다",
+      "G20 무대에서 미중이 동시에 경쟁적 외교를 펼치며 분열된 세계 질서를 상징하는 장면이 연출되고 있다",
+      "영국 신임 총리 앤디 번햄이 의회에 첫 출석해 국유화 확대와 브렉시트 재평가를 핵심 의제로 제시했다",
+      "영국 30년 국채 수익률이 28년 만에 최고치를 기록하며 글로벌 채권 매도세가 심화되고 있다",
+      "애플이 팀 쿡 시대를 마감하고 존 터너스를 새 CEO로 선임해 AI 전환 과제를 본격적으로 떠안겼다",
+      "대만이 인민해방군의 봉쇄 작전 준비 강화를 공식 경고하며 양안 군사 긴장이 구조적으로 높아지고 있다",
+      "콩고민주공화국 에볼라 확진이 6,000명을 돌파하며 역대 최악의 발생 사례 중 하나로 치닫고 있다"
+    ],
+    "emerging_signals": [
+      "러시아-이란이 항공모함을 겨냥한 초음속 순항미사일을 비밀 공동 개발해왔다는 사실이 유출 문서로 드러났다",
+      "아프가니스탄 강제 추방자가 누적 600만 명을 넘어서며 탈레반 통치 이후 최대 규모의 귀환 인도주의 위기가 형성되고 있다",
+      "IAEA가 아사드 정권 시절 시리아의 미신고 핵 원자로 건설 사실을 공식 확인했다",
+      "미국 의회가 중국의 오픈소스 AI 우위를 견제하는 법안을 통과시키며 기술 패권 경쟁이 입법 영역으로 확장되고 있다",
+      "COSCO 중국 국영 해운사 선박이 은닉 장비로 군사정보를 수집해 베이징에 제공한다는 미국 정부의 주장이 제기됐다",
+      "오리건 화산지대 지하에서 미드 호수의 3배에 달하는 지하수층이 발견되며 기후변화 시대 새로운 수자원 선택지로 부상했다"
+    ],
+    "structural_trends": [
+      "러시아가 전선 직접 공습과 유럽 물류 인프라 사보타주를 동시에 구사하는 복합 하이브리드 전쟁을 본격화하고 있다",
+      "히말라야 빙하 불안정화로 인한 초국경 재난이 구조화되고 있으며 UN은 앞으로 위험이 더 심각해질 것이라고 경고했다",
+      "미국이 캐나다·베네수엘라·이란을 동시에 압박하며 에너지·무역 이슈를 지정학적 레버리지로 통합 운용하고 있다",
+      "AI 인프라 투자 경쟁이 국가 예산(한국), 기업 구조조정(오라클), 선거 의제(미국 중간선거)에 동시에 영향을 미치는 구조적 변화가 진행 중이다",
+      "중국이 시진핑 집중 외교, 리창의 미 기업 투자 유치, COSCO 정보수집 의혹 등 다층적 전략으로 미국 주도 질서에 맞서는 패턴이 강화되고 있다",
+      "유럽 극우 정당들이 주 단위 집권을 시범 모델로 삼는 단계적 전략을 공개적으로 선언하며 제도권 진입 속도가 빨라지고 있다"
+    ],
+    "what_changed_today": [
+      "미국-이란 교전이 단순 보복 응수를 넘어 이란 본토 타격·민간인 사망·연료 대란으로 확전 국면에 진입했다",
+      "독일이 라이프치히 공항 드론 공격 배후로 러시아를 공식 지목하고 영사관 폐쇄·제재를 발동하며 EU·NATO가 연대 입장을 표명했다",
+      "IAEA가 시리아 아사드 정권의 미신고 핵 원자로 건설을 공식 확인하며 중동 핵 비확산 위기가 새로운 국면으로 전환됐다",
+      "영국 30년 국채 수익률이 28년 만에 최고치를 돌파하며 미-이란 갈등에 연동된 글로벌 채권 매도세가 실물 금융 위기 신호로 가시화됐다",
+      "애플이 팀 쿡의 후임으로 존 터너스를 CEO로 공식 선임하며 빅테크 AI 전환 경쟁의 지각변동이 시작됐다"
+    ],
+    "what_to_watch_next": [
+      "이란이 추가 미국 공격에 어떤 수위로 반격할지, 호르무즈 해협 봉쇄 현실화 여부",
+      "미국-이란 교전이 글로벌 유가와 채권 시장에 미치는 추가 충격 규모",
+      "아르헨티나 밀레이 대통령의 포클랜드 관련 목요일 국가 연설 내용과 미·영·아르헨티나 외교적 후폭풍",
+      "시진핑 미국 방문 일정 확정 여부와 미중 정상회담 의제",
+      "독일의 대러 제재 발동 이후 EU 차원의 추가 조치 범위와 속도",
+      "네팔·티베트 홍수 실종자 4,000명 구조 진행 상황 및 UN의 기후 빙하 대응 메커니즘 논의",
+      "오라클 대규모 감원 최종 발표 시점과 AI 투자 대비 인력 감축 규모",
+      "IAEA의 이란 핵 시설 접근 협상 결과와 핵 비확산 체제 대응"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미국-이란 교전이 본토 타격·민간인 사망·연료 대란으로 확전 국면에 진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국이 이란 혁명수비대의 선박 공격에 대응해 이란 본토에 탄도미사일 추가 공습을 단행했고, 민간인 4명이 사망했다. 이란은 즉각 반격하며 추가 보복을 위협했고, 미국은 중동 내 자국민에게 보안 경고를 발령했다. 미국의 군사 타격과 제재가 겹치면서 이란 전역에서 연료 부족 사태가 현실화되고 있다.",
+        "why_it_matters": "6개월 이상 이어진 미-이란 충돌이 민간인 사망과 에너지 위기를 수반하는 새로운 단계로 진입했으며, 호르무즈 해협 봉쇄 현실화 시 글로벌 원유 공급에 즉각적 충격이 온다. 이미 미-이란 교전 격화로 글로벌 채권 매도세가 심화되고 일본 10년물 국채 금리가 1996년 이후 처음으로 3%를 돌파했다.",
+        "what_is_changing": "제재 중심의 간접 압박에서 반복적인 직접 군사 타격으로 전략이 전환됐고, 이란의 대응도 상징적 위협에서 실제 반격으로 격화됐다. 국제 금융시장이 중동 군사 충돌에 즉각 반응하는 연동 구조가 명확해지고 있다.",
+        "connection": "IAEA가 이란 핵 시설 접근 차단을 우려하며 즉각 사찰을 요구했고, SCO 정상회의에서도 미국의 이란 공격 규탄 성명이 채택되는 등 충돌이 다자 외교 무대로 파급되고 있다. 러시아-이란의 초음속 미사일 공동 개발 사실도 이 시점에 유출되며 서방의 안보 우려를 증폭시키고 있다.",
+        "signal": "단기 충돌이 아니라 이란 내부 경제 붕괴와 핵 비확산 체제 균열이 동시에 진행되는 복합 위기로 성격이 바뀌고 있다는 초기 신호다.",
+        "what_to_watch": "이란의 추가 반격 수위와 호르무즈 해협 봉쇄 시도 여부, IAEA의 이란 핵 시설 접근 협상 결과, 유가 및 글로벌 채권 시장의 추가 충격"
+      },
+      "perspectives": [
+        {
+          "frame": "Military View",
+          "summary": "미국이 반복 타격으로 이란의 군사 능력을 소진시키는 전략을 구사하고 있지만, 이란도 비대칭 반격을 유지하며 장기전 체제를 구축하고 있어 단기 해결보다 소모전 장기화 가능성이 높다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "이란의 연료 대란과 호르무즈 통항 불안이 글로벌 에너지 시장에 구조적 리스크로 작용하고 있으며, 이미 글로벌 채권 매도세를 촉발하며 안전자산 선호 심리를 강화하고 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란 대통령이 SCO를 통해 미국이 휴전에 복귀할 경우 이란도 응하겠다는 외교적 유연성을 시사했지만, 트럼프 행정부가 이를 수용할 정치적 유인이 현재로선 크지 않다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20260901-us-and-iran-trade-fire-as-hostilities-flare-again",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog",
+          "region": "Middle East"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/war-and-sanctions-deepen-iran-s-fuel-crisis/a-78636429",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "러시아가 전선 직접 공습과 유럽 공항 드론 사보타주를 동시에 구사하는 복합 하이브리드 전쟁을 공식화했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 키이우에 공습을 가해 철도 노동자와 어린이를 포함한 20여 명이 부상당했다. 독일은 라이프치히/할레 공항에서 우크라이나 화물기를 겨냥한 폭발물 탑재 드론 공격의 배후로 러시아를 공식 지목하고, 러시아 영사관 폐쇄와 제재를 발표했다. EU, NATO, 프랑스, 영국, 에스토니아, 폴란드가 독일의 판단을 지지했다.",
+        "why_it_matters": "러시아가 전장 내 직접 공격과 동맹국 후방 물류 인프라를 겨냥한 은밀한 공작을 동시에 전개하는 패턴이 공식 확인됐다. 이는 NATO 회원국의 민간 인프라가 실질적인 전쟁 표적이 되었음을 의미하며, 서방 동맹의 대러 억제력에 대한 근본적인 재점검을 요구한다.",
+        "what_is_changing": "러시아의 서방 공작이 '의혹 단계'에서 '공식 귀책 및 외교적 보복' 단계로 전환됐다. 독일이 러시아 외교 시설을 실제로 폐쇄하는 조치를 단행한 것은 전쟁 이후 가장 강도 높은 직접 대응 중 하나다.",
+        "connection": "우크라이나도 러시아 영공을 향한 드론 공격을 지속하며 젤렌스키가 러시아 상공 민간 항공사에 위험을 공식 경고했다. 러시아는 동시에 발트해 지역 긴장 시 '결정적 보복'을 위협해 다전선 압박을 고조시키고 있다.",
+        "signal": "러시아가 NATO 동맹국 내부에서 물리적 사보타주를 직접 실행하는 단계로 넘어가면서, 하이브리드 전쟁의 지리적 경계가 우크라이나 국경을 넘어 서유럽 핵심 인프라로 확장되고 있다는 신호다.",
+        "what_to_watch": "독일의 제재 발동 이후 EU 차원의 추가 대러 제재 범위와 속도, 러시아의 보복성 반응 여부, 발트해 지역 군사 긴장 동향"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "독일이 러시아 공작을 공식 귀책한 것은 유럽 내 대러 강경 기조의 전환점으로, EU 공동 대응을 이끌어내며 동맹 결속을 재확인하는 계기가 됐다."
+        },
+        {
+          "frame": "Military View",
+          "summary": "러시아의 전략은 전선 소모전과 동시에 NATO 후방 보급선 및 민간 물류망을 교란해 서방의 전쟁 지속 의지를 약화시키는 복합 소진 전략으로 평가된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20260901-germany-blames-russia-for-leipzig-airport-drone-attack-orders-russian-consulate-closed",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/europe/article/3366030/germany-blames-russia-attempted-drone-attack-leipzig-airport",
+          "region": "China"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "히말라야 빙하 붕괴가 반복 가능한 구조적 재난임을 이번 홍수가 증명했다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "네팔과 티베트 접경 빙하 붕괴로 시작된 대홍수로 사망자가 1,000명을 넘고 실종자는 약 4,000명에 달한다. 당국은 신원 확인이 어려워 집단 매장을 시작했고, 7분 만에 중국 접경 항구 시설 대부분이 매몰되는 등 대피 불가능한 수준의 파괴력이 확인됐다. 남아프리카공화국 국적자를 포함한 다국적 피해가 발생하며 초국경 재난으로 확산됐다.",
+        "why_it_matters": "UN은 기후변화로 히말라야 빙하호 폭발 홍수 위험이 구조적으로 심화될 것이라고 경고했다. 중국 과학원 연구에 따르면 토석류 유속이 시속 68km에 달해 물리적 대피가 불가능한 수준이어서 조기경보 시스템 구축 없이는 재난 예방이 불가능하다.",
+        "what_is_changing": "빙하 재난이 더 이상 고산 지역의 국지적 사건이 아니라 중국-네팔-인도-아프리카 피해자까지 포함하는 초국경 복합 재난으로 성격이 바뀌고 있다. 기후변화가 지정학적 국경을 초월한 인도주의 위기의 구조적 원인으로 자리잡고 있다.",
+        "connection": "네팔 홍수 여파가 인도 비하르주 강에 외래 어종을 유입시키는 등 생태계 피해도 동시에 발생하고 있다. 아프가니스탄 강제 추방자 위기, 가자 인도주의 위기와 함께 동시다발적 인도주의 긴급 상황이 국제 구호 역량의 한계를 시험하고 있다.",
+        "signal": "히말라야 빙하 불안정화가 수백만 명이 거주하는 산악 하류 지역 전체를 구조적 재난 위험권으로 편입시키는 장기 추세의 초기 신호다.",
+        "what_to_watch": "실종자 4,000명 구조 진행 상황, UN과 인근 국가들의 조기경보 체계 구축 논의, 중국 티베트 피해 정보의 투명성 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Social View",
+          "summary": "여성 생존자의 위생 시설 부족 호소, 집단 매장으로 인한 실종자 가족의 고통 등 재난의 사회적 불평등이 부각되고 있으며, 피해 복구 과정에서 취약계층이 더 깊은 상처를 받는 구조가 반복된다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "중국이 티베트 피해 정보를 제한적으로 공개하면서 재난이 인도주의 협력보다 정보 통제의 장으로 변질되고 있으며, 이는 국경 간 재난 대응 협력을 어렵게 만드는 구조적 장애물로 작용한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/mass-burials-held-in-nepal-as-bodies-wash-up-after-catastrophic-flooding",
+          "region": "Asia/Nepal"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/nepal-flood-death-toll-tops-1-000-as-rescue-continues/a-78589460",
+          "region": "Europe"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/himalayas-face-severe-glacial-flood-risks-in-years-ahead-un-official-warns",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/opinion/asia-opinion/article/3365825/nepal-china-floods-highlight-growing-front-climate-change-crisis",
+          "region": "China"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/as-glaciers-melt-can-communities-be-protected/a-78615775",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "미국이 베네수엘라 석유를 확보하며 중국·러시아가 운영하던 자원을 지정학적으로 접수하고 있다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "트럼프 행정부가 북미 블루에너지파트너스를 통해 베네수엘라 석유 매장량 약 5분의 1을 통제하는 협정을 추진 중이며, 미 국방부도 지분 형태로 참여한다. 해당 유전들은 기존에 중국·러시아 기업들이 운영하던 곳이며, 베네수엘라 국회는 협정 전문이 공개되지 않은 상태에서 선제적으로 찬성 투표를 완료했다.",
+        "why_it_matters": "국방부가 민간 에너지 협정에 직접 지분 형태로 개입하는 것은 에너지 자원을 순수 경제 자산이 아닌 지정학적 안보 자산으로 운용하는 새로운 패턴이다. 중국·러시아의 자원 거점을 미국이 직접 대체하는 구조는 향후 자원 외교의 선례가 될 수 있다.",
+        "what_is_changing": "미국이 제재·압박으로 베네수엘라를 고립시키던 전략에서 직접 자원 참여로 전환하고 있다. 그러나 협정 파트너가 유럽에서 수사 중인 논란 인물이어서 투명성과 부패 우려가 동시에 제기된다.",
+        "connection": "G20 무대에서 미국이 대중 무역 방어 강화를 촉구한 것과 맥락이 연결된다. 베네수엘라 유전 접수는 중남미에서도 미중 자원 경쟁이 가시화되는 사례로, 아프리카에서의 러시아 군사 영향력 확장과 대칭되는 구조다.",
+        "signal": "미국이 에너지, 군사, 외교를 통합한 '자원 지정학' 전략을 본격화하는 초기 신호다.",
+        "what_to_watch": "협정의 세부 내용 공개 여부와 투명성 논란의 전개, 중국·러시아의 베네수엘라 영향력 대응, 미국 내 협정 파트너 논란에 대한 의회 반응"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프 행정부가 이란 압박, 캐나다 관세, 베네수엘라 자원 확보를 동시에 추진하며 자원과 안보를 연계한 통합 지정학 전략을 구사하고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "미 국방부의 직접 지분 참여는 민관 구분 없이 국가 자원 전략을 구현하는 새로운 모델로, 향후 에너지 거래의 구조와 기준을 바꿀 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/us-firm-to-take-over-some-venezuela-oilfields-previously-run-by-chinese-russian-firms",
+          "region": "Latin America/USA"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement",
+          "region": "Middle East"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/09/01/the-venezuelan-oil-concession-goes-to-alejandro-betancourt-s-firm-under-investigation-in-europe",
+          "region": "Latin America"
+        }
+      ]
+    }
+  ]
+}
