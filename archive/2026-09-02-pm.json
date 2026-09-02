@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-02",
+  "session": "pm",
+  "global_picture": {
+    "world_right_now": [
+      "미국과 이란의 직접 군사 교전이 걸프 동맹국 공격·민간인 사망·호르무즈 기뢰 부설로 전선이 빠르게 확장되고 있다",
+      "러시아가 독일 공항 드론 폭발물 공격과 발트해 위협을 병행하며 유럽을 대상으로 하이브리드 전쟁을 본격화하고 있다",
+      "비슈케크 SCO 정상회의에서 중국·러시아 주도의 대항 다극 질서가 가시화되고, 미국 특사들이 측면 외교로 대응하고 있다",
+      "네팔 대홍수 사망자가 1,000명을 넘어서며 네팔 정부가 중국·미국·인도에 공식 기후 배상을 청구하는 전례를 만들었다",
+      "조슈아 웡이 두 번째 국가보안법 재판에서 유죄를 인정해 종신형 가능성에 직면하며 홍콩 민주화 운동의 사법적 마무리가 진행되고 있다",
+      "중국이 이집트에 J-16 전투기를 처음으로 해외 장거리 전개해 합동훈련을 실시하며 원정 군사 능력을 과시했다",
+      "콩고민주공화국 에볼라 누적 사망자가 3,000명을 넘어 역대 최악 수준에 도달하며 유엔이 긴급 브리핑을 소집했다",
+      "Anthropic이 Claude Fable 5.1을, 유럽은 438B 파라미터 Quasar를 공개하며 AI 프론티어 모델 경쟁이 미·중·유럽 3자 구도로 확장됐다",
+      "트럼프 행정부가 미국 우편 투표 처리 시스템을 교체하며 내부고발자가 11월 중간선거 투표 방해 가능성을 경고했다",
+      "가자지구에서 휴전 이후에도 올해만 900명 이상이 사망해 '사실상 전쟁 지속' 논란이 국제사회로 번지고 있다"
+    ],
+    "emerging_signals": [
+      "네팔의 기후 배상 청구가 개발도상국의 공식 법적 청구 선례로 자리 잡을 경우 기후 재정 질서 전반을 흔들 수 있다",
+      "방글라데시의 이슬람 메카 방위협정 가입 검토가 남아시아 안보 구도를 인도 중심에서 다변화하는 신호일 수 있다",
+      "중국 핑루 운하 개통이 동남아 무역 물류 경쟁 구도를 바꾸는 인프라 지렛대로 작동할 가능성이 있다",
+      "AI 신경망 내부에서 언어와 유사한 상징 구조가 자발적으로 출현한다는 연구 결과가 AI 해석 가능성 논쟁을 새 단계로 끌어올릴 수 있다",
+      "트럼프의 포클랜드 주권 재검토 발언이 영국에 대한 외교적 압박 수단으로 제도화될 가능성이 드러났다"
+    ],
+    "structural_trends": [
+      "미-이란 교전이 에너지 공급망·걸프 안보·지역 동맹 재편을 동시에 강제하는 구조적 충격으로 자리 잡고 있다",
+      "중국이 군사 전개·운하 인프라·외교 순방을 결합해 중동·아프리카·동남아에서 다층적 영향력을 동시에 확장하고 있다",
+      "러시아가 드론 사보타주·문화원 폐쇄·영공 위협을 동원한 다차원 하이브리드 전쟁을 유럽 전역으로 확산시키고 있다",
+      "기후 재난이 국가 간 법적 배상 청구·빙하 융해·엘니뇨 아동 위기로 복합화되며 국제 기후 재정 체계에 구조적 압박을 가하고 있다",
+      "대형 AI 모델 경쟁이 미국·중국·유럽 3극 체제로 재편되는 동시에 반도체 자립 투자와 맞물려 기술 공급망 분리를 가속하고 있다",
+      "SCO·BRICS 틀 안에서 비서방 블록이 외교·안보 협력을 구체화하며 서방 주도 국제질서에 대한 대안 구조를 강화하고 있다"
+    ],
+    "what_changed_today": [
+      "이란이 미국의 확전 경고를 무시하고 바레인 등 걸프 미국 동맹국을 직접 공격하며 교전이 주변국으로 확산됐다",
+      "네팔이 기후 배상을 정치적 요구가 아닌 총리 명의 공식 외교 채널을 통해 제출하는 단계로 격상했다",
+      "중국이 이집트에 J-16 전투기를 장거리 전개해 합동훈련을 실시한 사실이 처음으로 공개 확인됐다",
+      "조슈아 웡이 두 번째 국가보안법 재판에서 유죄를 인정하며 종신형 가능성이 현실화됐다",
+      "유럽 자체 개발 438B 파라미터 대형 AI 모델 Quasar가 공개되어 미·중 양강 구도에 유럽이 새 플레이어로 진입했다"
+    ],
+    "what_to_watch_next": [
+      "이란의 걸프 동맹국 추가 공격 여부와 미국의 확전 대응 수위—호르무즈 해협 전면 봉쇄 시나리오가 현실화할 수 있다",
+      "SCO 정상회의 공동성명의 대미 비판 수위와 이란 지지 문구 포함 여부",
+      "네팔 기후 배상 청구에 대한 중국·미국·인도의 공식 입장 표명 시점",
+      "EU의 10월 대중국 무역 협상 마감 결과—결렬 시 추가 관세 조치 가능성",
+      "미국 USPS 새 투표 처리 시스템 가동 이후 우편 투표 배달 지연 실태 검증",
+      "콩고민주공화국 에볼라 국제 긴급 대응 규모와 인접국 확산 여부",
+      "트럼프 행정부의 포클랜드 주권 관련 공식 입장 정리 및 영미 외교 협상 동향",
+      "조슈아 웡 형량 선고 시점과 국제사회의 대홍콩 제재 압박 재점화 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미-이란 교전이 걸프 동맹국 공격·호르무즈 기뢰 부설로 확전 국면에 진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국이 이란 해안선 300마일에 걸쳐 공습을 재개하고, 이란은 확전 경고를 무시하고 바레인 등 걸프 미국 동맹국을 공격했다. 미국의 공습 과정에서 호르무즈 해협 인근 결혼식 현장이 피격돼 민간인 사상자가 발생했으며, 이란은 미국의 기뢰 부설 대응 명목 공습에 보복을 예고했다. 이란 전역에서는 전쟁과 제재가 맞물리며 연료 부족 사태도 심화되고 있다.",
+        "why_it_matters": "교전이 양자 대결을 넘어 걸프 동맹국으로 확산되면서 중동 전반의 안보 구도가 재편될 위기에 처했다. 호르무즈 해협은 세계 원유 수출량의 약 20%가 통과하는 요충지로, 기뢰 부설 시도 자체만으로도 에너지 시장 공황을 촉발할 수 있다.",
+        "what_is_changing": "과거의 국지적 억지 교환 패턴에서 벗어나 이란이 미국의 경고를 공개적으로 무시하며 제3국 동맹을 직접 타격하는 단계로 전환됐다. 바레인이 자국 방공망으로 이란 공격을 요격하는 등 걸프 국가들이 능동적 방어에 나서는 새 국면이 형성됐다.",
+        "connection": "에너지 충격은 인도 경제 성장의 최대 하방 리스크로 지목되고 있으며, SCO 정상회의에서 이란이 외교적 지지를 확보하는 시도와 맞물려 있다. 미국이 베네수엘라 원유를 대량 확보한 것도 호르무즈 봉쇄 대비 공급망 다변화의 일환으로 읽힌다.",
+        "signal": "이란이 '심각한 결과'를 경고하면서도 동시에 SCO·BRICS 틀을 통해 외교적 방어막 구축에 나서는 것은, 장기 지구전을 염두에 둔 전략적 대응으로의 전환을 시사한다.",
+        "what_to_watch": "호르무즈 해협 추가 기뢰 부설 시도 여부, 이란의 추가 걸프 국가 공격 범위, 그리고 유가 급등이 글로벌 경제에 미치는 실질적 충격 시점."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "호르무즈 봉쇄 현실화 시 국제 유가는 단기간에 배럴당 100달러를 넘어설 가능성이 높다. 미국이 베네수엘라 원유를 대규모 확보한 것은 공급 다변화 대비이지만, 걸프 경유 원유에 의존하는 아시아 수입국들에는 즉각적 충격이 예상된다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란이 미국의 경고를 공개적으로 무시한 것은 트럼프 행정부의 최대 압박 전략이 억지력을 잃어가고 있다는 신호로 해석될 수 있다. 동시에 이란의 SCO 외교 지지 확보는 비서방 블록이 군사적 충돌에서도 외교적 방어막을 제공할 수 있음을 테스트하는 사례다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "결혼식 현장 피격으로 인한 민간인 사망 사건은 이란 국내 여론을 결집시키는 동시에, 국제사회에서 미국의 교전 수칙에 대한 비판을 증폭시키고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "Daily Mail (UK)",
+          "link": "https://www.dailymail.com/news/article-16098931/Dramatic-new-video-shows-US-strikes-raining-hell-300-mile-stretch-Irans-coast-Trump-issues-stark-warning.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/iran-fuel-crisis-deepens-amid-war-and-sanctions/a-78636429",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260902-iran-strikes-back-against-latest-us-attacks-vowing-severe-consequences",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "비슈케크 SCO 정상회의에서 반서방 블록이 가시화되고 인도가 중재자 역할로 부상했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "키르기스스탄 비슈케크에서 열린 SCO 정상회의에서 중국과 러시아가 다극 세계 질서를 내세우며 이란을 포함한 수십 개국을 규합했다. 이란은 SCO 회원국들의 외교적 지지를 받으며 대미 방어막을 구축했고, 인도 모디 총리는 푸틴·이란 대통령과 별도 회담을 갖고 분쟁 중재자로 주목받았다. 한편 미국 특사들은 중앙아시아 정상들과 별도로 회동해 중국·러시아의 지역 영향력 확대를 견제했다.",
+        "why_it_matters": "군사 교전과 동시에 외교 블록 정렬이 진행되는 것은 현재의 중동 갈등이 단순 지역 분쟁을 넘어 강대국 체제 경쟁의 일부로 구조화되고 있음을 보여준다. SCO가 이란에 사실상의 외교 방패막을 제공하면서 유엔 안보리 중심의 분쟁 관리 체계가 약화될 위험이 있다.",
+        "what_is_changing": "SCO가 과거 지역 안보 협의체 수준에서 미국 주도 국제질서에 실질적으로 대항하는 다자 플랫폼으로 기능하기 시작했다. 인도가 미국·러시아·이란 어느 편도 들지 않으면서 독자적 중재 공간을 확보하는 '전략적 자율성' 모델을 구현하고 있다.",
+        "connection": "중국의 이집트 국빈 방문 및 군사 전개와 결합하면 중국이 외교·군사·경제 세 채널을 동시에 활용해 중동·아프리카 영향력을 확장하는 종합 전략의 일부로 읽힌다.",
+        "signal": "비서방 블록이 군사 충돌 국면에서 외교적 지지를 결집할 수 있다는 사실이 처음으로 현실에서 검증되는 사례다.",
+        "what_to_watch": "SCO 공동성명의 대미 비판 문구 포함 여부, 인도가 구체적 중재 제안을 공식화할지 여부, 그리고 중앙아시아 국가들이 미국과 SCO 사이에서 어떤 선택을 하는지."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "SCO가 이란 지지를 표명하면서도 미국을 직접 거명하지 않는 방식은 회원국들의 이해관계 차이를 반영한 타협의 산물이다. 인도의 중재 포지셔닝은 비동맹 외교의 현대적 재현이지만, 장기적으로는 미국·중국 양쪽 모두와의 관계 관리 비용을 높인다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "SCO 회원국들이 달러 외 결제 시스템 확대를 논의하는 흐름과 결합되면, 이번 정상회의는 경제 탈달러화 의제를 외교 결집의 소재로 활용하는 시도의 연장선에 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3366129/iran-wins-sco-backing-against-us-strikes-will-it-be-enough",
+          "region": "Hong Kong"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3366139/bishkek-us-envoys-shadow-sco-summit-challenge-beijing-and-moscows-turf",
+          "region": "China"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/week-asia/politics/article/3366134/has-indias-modi-found-new-mediator-clout-after-talks-putin-iran",
+          "region": "China"
+        }
+      ]
+    },
+    {
+      "headline": "러시아의 유럽 공항 드론 사보타주가 EU 공식 대응과 독일의 강경 조치를 이끌었다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "러시아 배후로 지목된 드론 폭발물이 독일 라이프치히·할레 공항의 우크라이나 화물기를 표적으로 삼았으며, 독일은 러시아 영사관·문화원 폐쇄로 맞대응했다. EU 외교 수장은 이를 '국가 후원 테러'로 규정하며 러시아 대사를 소환했고, 프랑스 등 다른 회원국들도 동조 조치에 나섰다. 러시아는 동시에 발트해 긴장 고조 시 강력 대응을 경고하며 서방을 압박하고 있다.",
+        "why_it_matters": "항공 인프라에 대한 직접 공격은 민간 공급망과 군사 지원 물류를 동시에 겨냥한다는 점에서 전통적 군사 작전과 테러의 경계를 허무는 행위다. EU가 집단적으로 '국가 후원 테러' 규정과 외교적 보복을 결합한 것은 대러 대응 방식의 격상을 의미한다.",
+        "what_is_changing": "러시아의 하이브리드 전쟁이 우크라이나 전선을 넘어 서유럽 핵심 인프라로 표적 범위를 확장하고 있다. EU가 회원국 개별 대응에서 벗어나 공동 제재 프레임으로 대응하는 전례를 만들었다.",
+        "connection": "젤렌스키의 러시아 영공 위험 경고와 연동되면 러시아 영공과 유럽 공항이 동시에 항공 안보 위협 구역으로 부상하는 구조가 형성된다. 이는 글로벌 항공 보험·운항 비용에 직접적인 영향을 미칠 수 있다.",
+        "signal": "러시아가 군사 전선 외부에서 경제·심리적 충격을 극대화하는 사보타주 전략을 체계화하고 있다는 신호다.",
+        "what_to_watch": "EU의 추가 대러 제재 패키지 내용, 독일 내 추가 인프라 공격 시도 여부, 그리고 러시아의 발트해 역내 실질적 도발 가능성."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "EU가 '국가 후원 테러'라는 강한 언어를 사용한 것은 법적·외교적으로 러시아의 행위를 전쟁 행위가 아닌 테러로 분류함으로써 새로운 대응 수단을 열어두는 전략적 선택이다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "소형 드론에 폭발물을 탑재해 민간 공항 인프라를 표적으로 삼는 방식은 적은 비용으로 대규모 심리적·경제적 충격을 주는 비대칭 전술로, 향후 유럽 공항 보안 기준을 전면 재설계하게 만들 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260902-why-did-russia-target-leipzig-airport-in-alleged-drone-attack",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "네팔이 1,000명 사망 홍수 이후 탄소 대국에 법적 기후 배상을 공식 청구했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "네팔 대홍수 사망자가 1,000명을 넘어서고 수천 명이 실종된 가운데, 네팔 총리가 '자선이 아닌 보상' 차원의 기후 피해 배상을 인도·미국·중국에 공식 외교 채널로 요구했다. 수력발전 터널에 고립된 노동자 구조 작업이 진흙과 잔해로 난항을 겪고, 신원 미상 시신에 번호를 붙여 매장하는 상황이 계속되고 있다. 유엔은 항공 구호물자 지원을 강화했다.",
+        "why_it_matters": "개발도상국 정부가 공식 외교 채널을 통해 특정 탄소 배출국에 구체적 배상을 청구한 것은, 기후 협상의 '손실과 피해(Loss & Damage)' 의제를 현실 외교전으로 전환시킨 주목할 만한 선례다.",
+        "what_is_changing": "기후 배상이 유엔 협상 테이블의 추상적 의제에서 국가 대 국가의 구체적 외교 요구로 격상됐다. 히말라야·티베트 빙하 융해가 반복 가능한 구조적 재난임을 확인시키면서, 조기경보 체계 투자와 국제 책임 분담 논쟁을 동시에 점화하고 있다.",
+        "connection": "앙골라 가뭄 이주민 인권 침해, UNICEF의 엘니뇨 아동 위기 경고와 결합하면, 기후 재난이 인도주의·법적·외교적 복합 위기로 전환되는 글로벌 패턴이 동시다발적으로 전개되고 있음을 보여준다.",
+        "signal": "네팔의 선례가 확산될 경우 다른 기후 취약국들이 유사한 법적 청구를 줄줄이 제기하며 기후 재정 국제 질서를 근본적으로 재편할 수 있다.",
+        "what_to_watch": "중국·미국·인도의 공식 반응 시점과 논리, 그리고 이 청구가 유엔 기후 협상 의제로 공식 상정될지 여부."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "네팔의 청구는 지정학적으로 복잡한 위치에 있는 소국이 강대국 모두를 동시에 겨냥함으로써 어느 편도 들지 않는 독립적 입장을 강조하는 외교 전략이기도 하다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "손실·피해 기금의 법적 구속력 논쟁이 현실 사례로 전환되면, 탄소 집약 산업의 법적 리스크 프리미엄이 상승하고 기업 기후 보험 비용 구조가 변화할 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/asia-pacific/20260902-nepal-tunnel-rescuers-hit-dead-ends-as-they-search-for-trapped-workers",
+          "region": "Europe"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/south-asia/nepal-sends-climate-bill-to-china-us-and-india-after-deadly-floods",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/not-charity-nepal-seeks-compensation-from-india-us-china-for-deadly-flood/articleshow/133705378.cms",
+          "region": "India"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go",
+          "region": "Nepal"
+        }
+      ]
+    }
+  ]
+}
