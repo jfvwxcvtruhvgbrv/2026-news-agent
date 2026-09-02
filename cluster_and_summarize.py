@@ -408,11 +408,12 @@ def build_daily_archive(items: list[dict]) -> dict:
         print(f"[WARN] 3단계 처리 실패: {e}")
         result = {"global_picture": {}, "issues": []}
 
-    from zoneinfo import ZoneInfo
-    kst_now = dt.datetime.now(ZoneInfo("Asia/Seoul"))
+    import zoneinfo
+    kst_now = dt.datetime.now(zoneinfo.ZoneInfo("Asia/Seoul"))
     return {
         "date": kst_now.strftime("%Y-%m-%d"),
         "session": "am" if kst_now.hour < 12 else "pm",
+        "time": kst_now.strftime("%H:%M"),
         "global_picture": result.get("global_picture", {}),
         "issues": result.get("issues", []),
     }
