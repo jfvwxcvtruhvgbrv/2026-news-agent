@@ -1,0 +1,219 @@
+{
+  "date": "2026-09-03",
+  "session": "pm",
+  "time": "21:03",
+  "global_picture": {
+    "world_right_now": [
+      "러시아가 독일 공항 드론 공격에 이어 문화기관 맞폐쇄로 맞서며 유럽과의 하이브리드 전쟁이 외교·문화 영역으로 확전되고 있다",
+      "네팔·티베트 대홍수로 사망자 1,270명 초과, 외국인 583명 실종—슈퍼 엘니뇨가 히말라야 일대에서 복합 재난을 현실화하고 있다",
+      "이란 결혼식 미군 공습으로 민간인 사상, ICC 조사 요청—미이란 군사충돌이 국제법 분쟁으로 비화하고 있다",
+      "노르웨이가 북극해에서 러시아 연구선을 나포해 크림반도 배상 판결을 강제 집행하며 서방의 대러 자산 압박이 새 단계에 진입했다",
+      "EU 외무장관 회의가 이스라엘 제재·우크라이나 지원 모두 합의에 실패하며 유럽 공동외교의 균열이 다시 노출됐다",
+      "SCO 정상회의가 키르기스스탄에서 열리며 미국 주도 질서에 대항하는 다극 외교 무대가 가동됐다",
+      "프랑스 패스트패션 규제법에 중국이 즉각 철회를 요구하며 환경 규제가 새로운 무역 분쟁 전선으로 부상했다",
+      "AI가 생성한 허위 콘텐츠가 AI 검색 서비스에 역유입되는 피드백 루프가 공식 확인돼 정보 생태계 신뢰 위기가 가시화됐다",
+      "DRC 에볼라 사망자 3,000명 돌파—세계보건비상사태 선언 이후에도 확산세가 꺾이지 않고 있다",
+      "유럽 해협과 대서양에서 이주민 밀입국 조직이 대형 고무보트로 전술 전환, 카나리아 제도 조난으로 80명 추정 사망"
+    ],
+    "emerging_signals": [
+      "영국에서 지카 바이러스 매개 모기 번식이 처음 확인돼 열대 침입종의 유럽 정착이 현실화 단계에 접어들고 있다",
+      "한국 공기업이 삼성·SK하이닉스에 수조 원대 전력 선납을 제안하는 새로운 AI 인프라 비용 분담 모델이 등장했다",
+      "방글라데시의 이슬람권 안보협의체 가입 검토가 인도에 경보를 울리며 남아시아 지정학 지형이 조용히 흔들리고 있다",
+      "구글 애드테크 반독점 제재에서 분사 명령이 제외되며 빅테크 규제의 실효성 한계가 드러났다",
+      "필리핀이 미국 의존도 축소를 공식화하며 동남아 동맹국들의 외교 다변화 흐름이 가속되고 있다"
+    ],
+    "structural_trends": [
+      "슈퍼 엘니뇨가 아시아 전역에서 홍수·가뭄·산불을 동시 촉발하며 기후 재난이 단발 사건이 아닌 상시 위기로 전환되고 있다",
+      "러시아의 하이브리드 공격이 군사·외교·문화 인프라를 동시에 표적으로 삼는 다층 전선으로 진화하고 있다",
+      "AI 인프라 팽창이 전력·수자원·정보 신뢰성 등 3개 시스템을 동시에 압박하는 구조적 부담을 만들어내고 있다",
+      "중국의 환경·무역 규제 대응 방식이 '차별' 프레임으로 표준화되며 서방 규제 자체가 새로운 통상 갈등 소재가 되고 있다",
+      "글로벌 사우스 국가들이 우크라이나 전쟁에서 중재 외교 역할을 확대하며 비동맹 외교의 영향력이 커지고 있다"
+    ],
+    "what_changed_today": [
+      "러시아-독일 갈등이 드론 공격 규탄을 넘어 문화기관 상호 폐쇄로 확전되며 물리적 충돌 직전 단계의 외교전으로 격화됐다",
+      "미-이란 충돌이 민간인 결혼식 공습으로 이어지며 ICC 제소 국면으로 전환됐다",
+      "노르웨이의 러시아 선박 나포로 크림반도 배상 판결이 실제 집행 단계에 진입해 법적 대러 압박이 새 차원으로 올라섰다",
+      "베네수엘라 석유 합의가 단기 유가 인하 효과를 내기 어렵다는 투자은행들의 경고로 시장과 백악관의 낙관론이 충돌하게 됐다"
+    ],
+    "what_to_watch_next": [
+      "이란의 미군 공습 ICC 제소 접수 여부와 미국의 공식 반응",
+      "노르웨이 선박 나포에 대한 러시아의 보복 조치 수위",
+      "네팔·티베트 홍수 구조 작업 경과 및 슈퍼 엘니뇨 강도 상승 시점",
+      "EU 외무장관 교착 상태 이후 이스라엘 제재 논의의 다음 회의 일정",
+      "브라질 보우소나루 판결 대법관 사임 압박 결과와 플라비우 보우소나루 선거 일정"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "러시아의 유럽 하이브리드 공격이 드론·외교·문화 기관을 동시에 표적으로 삼는 다층 전선으로 진화하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 독일 라이프치히 공항에 드론 공격을 감행한 것으로 지목된 후, 독일은 베를린 주재 러시아 문화기관 두 곳을 폐쇄했다. 러시아는 즉각 보복으로 독일 괴테인스티투트 러시아 내 지점 전체 폐쇄를 발표했다. 전문가들은 독일의 대응 조치가 러시아를 억지하기에는 역부족이라고 평가한다.",
+        "why_it_matters": "민간 공항 인프라에 대한 드론 공격은 전시도 평시도 아닌 '회색지대'에서 전쟁 행위의 경계를 시험하는 행동이다. 문화기관 상호 폐쇄는 물리적 충돌 직전 단계에서 벌어지는 외교 도구의 소멸을 의미한다.",
+        "what_is_changing": "러시아의 대유럽 공격이 우크라이나 전선을 넘어 NATO 회원국의 민간 인프라와 소프트파워 채널을 동시에 표적으로 삼는 방식으로 전환되고 있다. '하이브리드 공격이 전쟁 행위인가'라는 질문이 법적·정치적으로 본격 논의되기 시작했다.",
+        "connection": "독일 뮌헨 방산기업 건설 현장 방화 사건도 같은 날 발생해, 러시아의 유럽 내 물리적 교란 작전이 복수의 표적을 동시에 겨냥하고 있다는 분석을 뒷받침한다. NATO 국방비 증액 논의와도 직결된다.",
+        "signal": "이 사건은 러시아가 유럽 내 억지력 부재를 확인하며 하이브리드 공격 빈도와 범위를 점진적으로 늘리고 있다는 더 큰 흐름의 일부다.",
+        "what_to_watch": "독일 또는 EU 차원에서 러시아 하이브리드 공격을 '전쟁 행위'로 공식 규정하는 시도가 나올지, 그리고 그에 따른 집단 방위 논의가 이어질지 지켜봐야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "독일 내 러시아 문화기관 폐쇄는 상징적 조치에 그치며, 실질적 억지 효과 없이 러시아에게 추가 보복 명분만 제공했다는 비판이 있다. 유럽이 '회색지대 전쟁'에 대한 공동 대응 원칙을 아직 확립하지 못했음을 드러낸다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "민간 공항을 표적으로 삼는 드론 기술의 정밀도와 접근 용이성이 높아지면서, 민간 인프라 방어를 위한 대드론 기술 투자가 유럽 안보 예산의 핵심 항목으로 부상하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/russia-s-hybrid-attacks-on-germany-when-is-it-war/a-78784262?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/3/russia-to-close-goethe-institut-centres-as-germany-tensions-escalate?traffic_source=rss",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "슈퍼 엘니뇨가 히말라야에서 동남아까지 복합 재난을 현실화하며 국경을 초월한 기후 위기 대응을 요구하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "네팔·중국 접경 대홍수로 사망자 1,270명을 넘어섰고 외국인 583명을 포함한 대규모 실종 사태가 이어지고 있다. 동시에 티베트에서는 홍수·산사태 피해 지역에 규모 5.0 지진이 추가 발생했다. WMO와 유엔은 현재의 엘니뇨가 관측 사상 최강 수준에 도달할 수 있다고 경고하며, 동남아시아에서는 산불 연기로 1만 2천 명 이상의 어린이가 호흡기 질환을 앓고 있다.",
+        "why_it_matters": "단일 기상 현상이 홍수·지진·가뭄·산불·보건 위기를 동시에 촉발하고 있다. 외국인 583명 실종이라는 수치는 이 재난이 특정 국가만의 문제가 아닌 글로벌 인도주의 위기임을 보여준다.",
+        "what_is_changing": "기후 재난이 단발적 자연사건에서 벗어나 여러 위기를 동시에 촉발하는 '복합 재난'으로 진화하고 있다. 스리랑카 우물 고갈, 말레이시아 인공강우, 스페인 43도 폭염까지 아시아-유럽-아프리카를 관통하는 동시다발적 이상기후가 확인됐다.",
+        "connection": "UNEP는 현재 추세 지속 시 파리협정 1.5도 목표가 수년 내 초과될 것이라고 경고했다. 영국에서 지카 바이러스 매개 모기 번식이 처음 확인된 것도 같은 기후 변화의 맥락에서 해석된다.",
+        "signal": "최강 슈퍼 엘니뇨가 기후 임계점 돌파와 맞물릴 경우, 향후 수개월이 각국 방재 시스템과 국제 인도주의 대응 역량의 실제 한계를 검증하는 기간이 될 수 있다.",
+        "what_to_watch": "엘니뇨 강도가 내년 2월까지 계속 강해지는 과정에서 추가적인 인도·방글라데시·동남아 홍수, 아프리카 가뭄 확대, 유럽 폭염 장기화 여부를 주시해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "초국경 재난 앞에서 각국이 자국 대응에만 집중하는 한계가 드러나고 있다. 외국인 수백 명 실종이라는 국제적 규모에도 불구하고 공동 수색·구조 체계가 작동하지 않는 현실이 기후 거버넌스 공백을 부각시킨다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "아시아 농업·관광·물류 인프라에 대한 동시다발적 피해는 공급망 충격과 식량 가격 상승으로 이어질 수 있으며, 보험·재보험 산업의 기후 리스크 재평가를 촉진할 것으로 예상된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss",
+          "region": "Nepal/China"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/supersized-el-nino-could-be-strongest-on-record-un-says/a-78841246?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+          "region": "Global"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/south-asia/families-descend-on-nepal-in-search-of-missing-tourists",
+          "region": "Nepal"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/china/magnitude-5-earthquake-strikes-tibet-days-after-devastating-floods-kill-21-and-leave-hundreds-missing/articleshow/133731622.cms",
+          "region": "India"
+        }
+      ]
+    },
+    {
+      "headline": "이란 결혼식 미군 공습과 ICC 제소 요청—미-이란 군사충돌이 국제법 분쟁으로 비화하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란 쿠헤스타크에서 열린 결혼 피로연에 미군 공습이 가해져 4명이 사망하고 67명이 부상했다. 이란 적십자사는 국제형사재판소(ICC)에 수사를 공식 요청했다. 이란은 동시에 이스라엘의 레바논 남부 군사 거점 공격 시 강력 대응하겠다는 경고를 미국에 전달했다.",
+        "why_it_matters": "민간인 결혼식이 공습 표적이 됐다는 주장은 국제인도법 위반 논란을 불러일으킨다. ICC 제소 시도는 군사 충돌을 법적 분쟁으로 전환시키려는 이란의 새로운 전략을 보여준다.",
+        "what_is_changing": "어제까지 호르무즈 유조선 피격과 해협 긴장으로 요약됐던 미-이란 충돌이 민간인 피해와 국제사법 기구 개입이라는 새로운 차원으로 이동했다. 걸프 불안정이 미국 에너지 패권을 강화한다는 분석과 맞물려 이 충돌이 의도적으로 관리될 수 있다는 시각도 나온다.",
+        "connection": "시진핑의 이집트 방문과 중국의 이란 지지 한계 분석, 러시아의 이란 미사일 지원 등 이 충돌은 미중러 지정학 경쟁과 연결된 복합 전선 위에 놓여 있다.",
+        "signal": "이란이 ICC라는 다자 국제법 기구를 활용하는 전략은 미국의 군사 행동에 대항하는 새로운 비대칭 수단이 될 수 있다.",
+        "what_to_watch": "ICC의 이란 제소 접수 여부와 미국의 공식 반응, 이스라엘의 레바논 남부 작전 재개 시 이란의 실제 보복 수위를 주시해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "ICC 제소는 실질적 기소 가능성보다 국제 여론을 동원하고 미국을 외교적으로 수세에 몰기 위한 전략으로 해석된다. 미국이 ICC 관할권을 인정하지 않는다는 점에서 법적 실효성은 제한적이다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "걸프 긴장의 지속은 호르무즈 해협 통과 보험료 상승과 에너지 가격 변동성 확대로 이어지며, 역설적으로 미국 에너지 수출 경쟁력을 높이는 구조를 강화한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "Straits Times",
+          "link": "https://www.straitstimes.com/asia/iran-warns-us-against-israeli-attack-on-south-lebanon-ridge-held-by-hezbollah-sources-say",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "노르웨이, 북극해서 러시아 선박 나포—크림반도 배상 판결이 물리적 집행 단계에 진입했다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "노르웨이 당국이 스발바르 인근 북극해에서 러시아 연구선 '프로페서 몰차노프'호를 억류했다. 이는 우크라이나 국영 에너지기업 나프토가즈가 2014년 크림반도 자산 몰수에 대해 받아낸 약 42억 2천만 달러 중재 판정의 강제 집행 조치다. 러시아는 이를 해적 행위로 규정하며 강하게 반발했다.",
+        "why_it_matters": "국제 중재 판정이 실제로 다른 나라 영해에서 선박 나포로 집행된 것은 매우 이례적이다. 이는 서방이 러시아에 대한 법적·경제적 압박을 군사 지원 이외의 방식으로도 강화하고 있음을 보여주는 상징적 사건이다.",
+        "what_is_changing": "그동안 동결·제재에 머물렀던 서방의 대러 자산 압박이 물리적 나포·압류라는 더 강압적인 집행 수단으로 발전하고 있다. 북극 해역이 새로운 지정학적 충돌 공간으로 부상하고 있다.",
+        "connection": "러시아의 독일 드론 공격, 문화기관 폐쇄 보복 등 유럽 각지에서 동시에 진행 중인 대러 압박의 한 축으로 이해해야 한다.",
+        "signal": "다른 서방 국가들이 러시아 국유 자산을 자국 영해나 항만에서 유사하게 나포하는 사례가 확산될 수 있다.",
+        "what_to_watch": "러시아의 보복 조치 수위, 나포된 선박의 법적 처리 절차, 그리고 이 사례가 우크라이나 전쟁 배상 집행의 선례가 될지 여부를 주목해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "노르웨이의 이번 조치는 서방의 법적 대러 압박이 단순한 상징이 아닌 실질적 행동으로 전환되는 시점을 알리는 신호다. 러시아가 '해적 행위'로 규정한 것은 국제법 해석 분쟁으로 이어질 수 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "42억 달러 규모의 배상 집행은 러시아의 국제 상업 활동에 대한 법적 불확실성을 크게 높이며, 러시아 국영기업들의 외국 항만 입항 및 자산 운용 전략을 변화시킬 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20260903-norway-seizes-russian-ship-to-enforce-4-22-billion-ukrainian-arbitration-claim",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim?traffic_source=rss",
+          "region": "Norway/Russia"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/europe/article/3366254/norway-seizes-russian-ship-over-us42-billion-claim-ukrainian-energy-firm",
+          "region": "China"
+        }
+      ]
+    }
+  ]
+}
