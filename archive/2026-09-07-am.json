@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-07",
+  "session": "am",
+  "time": "06:12",
+  "global_picture": {
+    "world_right_now": [
+      "미국과 이란이 호르무즈 해협에서 유조선 격침·무인함정 타격을 주고받으며 군사 충돌이 본격화 단계로 진입했다",
+      "독일 작센-안할트 선거에서 AfD가 44% 이상을 득표하며 전후 최초 극우 주정부 탄생이 현실화 직전 단계에 이르렀다",
+      "미국 특사 위트코프·쿠슈너가 푸틴·젤렌스키를 연속 면담했으나 우크라이나 종전 협상은 구체적 합의 없이 겨울을 향해 가고 있다",
+      "러시아 드론이 키이우 보안 본부를 직접 타격했으며, 라이프치히 공항 공격 등 유럽 전역에서 러시아 사보타주 패턴이 확산되고 있다",
+      "아낙 크라카타우 화산이 연속 분화하며 자카르타 등 6개 공항이 폐쇄되고 17만 명 이상의 항공 여객이 발이 묶였다",
+      "네팔·중국 국경 일대 홍수·산사태로 1,300명 이상이 사망하고 5,000명이 실종된 가운데 유엔이 5,000만 달러 긴급 지원을 요청했다",
+      "EU 집행위원장이 그린란드를 방문해 수억 유로 규모 파트너십을 체결함으로써 미국의 그린란드 지배 시도에 정면 대응했다",
+      "아르헨티나 밀레이 정부가 포클랜드 인근 영국 석유기업에 제재를 선언하며 40년 만에 포클랜드 분쟁이 다시 점화됐다",
+      "중국이 해수 우라늄 추출 효율에서 미국 기준의 8배를 달성했다고 발표하며 핵연료 자원 경쟁에서 기술 우위를 주장했다",
+      "이스라엘이 레바논 휴전 이후에도 공습을 지속해 최소 7명이 사망했으며, 레바논 대통령이 국제사회에 중단을 공식 촉구했다"
+    ],
+    "emerging_signals": [
+      "팔란티르 CEO가 우크라이나 방위 스타트업에 투자하며 전장 기술의 민간 상업화와 서방 테크 자본의 방산 진출이 가속화되고 있다",
+      "독일 Isar Aerospace의 궤도 진입 성공으로 유럽 민간 발사체 산업이 SpaceX 의존에서 벗어나는 첫 발판을 마련했다",
+      "중국 공산당 이론지가 자국 내 세계사 재서술 시도를 공개적으로 경고하며 당 내부의 역사 내러티브 노선 갈등이 표면화됐다",
+      "중국 AI 기업들이 달러당 컴퓨팅 효율에서 미국 빅테크를 앞서고 있다는 분석이 나오며 AI 패권 경쟁의 측정 기준 자체가 바뀌고 있다",
+      "인도가 안다만 제도에 SMR 소형 원전 배치를 검토하며 에너지와 해양 안보를 통합한 대중국 전략이 구체화되고 있다"
+    ],
+    "structural_trends": [
+      "호르무즈 해협이 외교 위기 공간에서 실제 군사 교전 공간으로 전환되며 글로벌 에너지 수송 리스크가 구조적으로 상승하고 있다",
+      "유럽 전역에서 반이민 정서를 기반으로 한 극우 정당이 주류 의석을 넘어 실제 집권을 향해 이동하는 구조적 전환이 진행 중이다",
+      "러시아의 드론·사보타주를 활용한 하이브리드 전쟁이 우크라이나 전선을 넘어 유럽 핵심 인프라로 확장되고 있다",
+      "미국의 이민 단속이 의료·돌봄 인력 공백을 초래하며 이민 정책과 사회서비스 붕괴가 연결되는 구조가 가시화되고 있다",
+      "기후 재난(홍수·화산·엘니뇨)과 지정학적 갈등이 동시에 심화되며 글로벌 식량·에너지 안보에 복합 위기 구조가 형성되고 있다"
+    ],
+    "what_changed_today": [
+      "어제까지 '협상 탐색' 국면이었던 미-이란 관계가 유조선 격침과 무인함정 타격으로 실제 교전 단계로 전환됐다",
+      "AfD의 작센-안할트 압승이 출구조사 예측에서 실제 개표 결과(44%+)로 확정되며 단독 집권 가능성이 현실 문제로 부상했다",
+      "미국 특사가 키이우에 도착해 러시아 침공 이후 최초의 공식 미국 방문이 성사됐으나 구체적 결과물 없이 '겨울까지 전쟁 지속' 전망이 나왔다",
+      "아낙 크라카타우 분화로 인한 항공 대란이 자카르타를 넘어 싱가포르항공 노선 등 광역 항공망 영향으로 확대됐다"
+    ],
+    "what_to_watch_next": [
+      "이란이 예고한 호르무즈 해협 '금지 구역' 선포 시행 여부와 국제 유가·해운 보험료 반응",
+      "AfD 작센-안할트 최종 의석 배분 결과와 연립 협상 파트너 탐색 과정에서 방화벽 정당들의 입장 변화",
+      "위트코프-쿠슈너의 키이우 방문 이후 미국이 제시할 '평화 패키지' 구체 내용과 러시아의 반응",
+      "EU의 그린란드 파트너십 협정 서명에 대한 트럼프 행정부의 반응 및 북극 지역 다자 경쟁 구도 변화",
+      "네팔·인도네시아 복합 재난 상황에서 콜레라 등 2차 전염병 발생 여부와 국제 인도지원 조달 속도"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미-이란 군사 충돌이 외교 위기에서 실제 교전으로 전환됐다: 호르무즈 봉쇄 예고까지",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미군이 이란 혁명수비대 연계 유조선 3척을 격침했고, 이란은 호르무즈 해협에서 미국 무인 함정을 타격했다고 발표했다. 이란 안보 수장은 수일 내 호르무즈 해협 인근에 '금지 구역'을 설정하겠다고 공식 경고했으며, 미국 에너지장관은 핵합의 타결이 불확실하다고 인정했다.",
+        "why_it_matters": "호르무즈 해협은 전 세계 원유 수출의 약 20%가 통과하는 해상 요충지다. 이 수로가 실질적 교전 구역으로 굳어지면 글로벌 에너지 가격과 해운 보험료가 구조적으로 상승하며, 아시아 수입국들(한국·일본·인도·중국)이 즉각적 피해를 입는다.",
+        "what_is_changing": "기존에는 언어 위협과 외교 압박이 반복되는 패턴이었지만, 이번에는 양측이 실제로 선박과 무인 장비를 타격하는 단계로 넘어섰다. '금지 구역' 선포가 실행되면 이는 사실상의 해상 봉쇄 선언에 해당한다.",
+        "connection": "이란 육군장관 사임으로 미국 국방부 내부 갈등이 노출된 시점과 겹치며, 군사 결정 체계의 안정성에도 의문이 제기된다. 유가 상승 압박은 인플레이션과 싸우는 유럽·아시아 경제에도 연쇄 영향을 미친다.",
+        "signal": "해상 무인 장비가 실전 타격에 활용된 것은 비대칭 해전의 새로운 국면을 알리는 신호다. 드론·무인함정 간 교전이 표준화되면 기존 해군력 우위의 의미가 변할 수 있다.",
+        "what_to_watch": "이란의 '금지 구역' 실제 선포 여부, 국제 유가 $100 돌파 가능성, 중국과 인도의 이란산 원유 수입 대응, 미국 항모전단 추가 파견 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "호르무즈 봉쇄가 현실화되면 단기 유가 충격이 불가피하고, 이는 인플레이션 압박을 받고 있는 글로벌 경제에 추가 긴축 압력으로 작용할 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "미국 육군장관 사임과 군 수뇌부 공백이 겹친 시점의 이란 충돌은 트럼프 행정부 내 강경파와 협상파 간 노선 갈등을 외부로 노출시키는 정치적 리스크를 동반한다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "무인 함정과 드론이 실제 해전 교전에 활용됐다는 점은 미래 해상 전투의 자율화·무인화 흐름이 이미 실전 단계에 진입했음을 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/iran-us-hits-3-irgc-linked-oil-tankers/live-79044467?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260906-iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3366566/iran-will-declare-prohibited-zone-near-hormuz-coming-days-security-chief",
+          "region": "China"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
+          "region": "USA/Iran"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "AfD 44% 압승으로 전후 독일에 처음으로 극우 주정부가 탄생할 수 있게 됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "독일 동부 작센-안할트 주선거에서 극우 정당 AfD가 44% 이상을 득표하며 통일 이후 지방선거 최고 득표를 기록했다. 기존 집권 CDU는 18%대에 그쳤으며, 소수 정당들이 5% 봉쇄조항을 통과하지 못할 경우 AfD 단독 과반도 가능한 상황이다.",
+        "why_it_matters": "실현된다면 나치 집권 이후 독일 역사상 최초의 극우 주정부가 된다. AfD는 반이민·반EU뿐 아니라 친러·친트럼프 성향으로, 이 정당이 주정부를 장악하면 독일 내 정책 분열과 EU 결속에 실질적 균열이 생긴다.",
+        "what_is_changing": "기존에 주류 정당들은 AfD와의 연립을 거부하는 '방화벽' 전략을 유지해왔다. 그러나 AfD가 단독 과반에 근접하면서 이 전략 자체가 작동 불능 상태에 빠질 수 있다.",
+        "connection": "프랑스 RN, 이탈리아 형제당, 네덜란드 PVV 등 유럽 전역의 극우 부상과 동일한 궤적이다. AfD 집권은 이들 정당에 '집권 가능성의 증거'를 제공하는 도미노 효과를 낼 수 있다.",
+        "signal": "동독 지역에서 시작된 극우 지방선거 압승이 연방 정치로 번질 경우, EU 차원의 우크라이나 지원·대러 제재 정책에도 내부 균열이 생길 수 있는 전초 신호다.",
+        "what_to_watch": "최종 의석 배분 결과, 소수 정당들의 봉쇄조항 통과 여부, 방화벽 정당들의 연립 협상 거부 유지 여부, 연방 차원 AfD 지지율 변화"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "동독의 구조적 불만(낮은 임금, 높은 실업률, 통일 피로감)이 수십 년간 해소되지 않은 결과로, 극우 정당이 반엘리트 정서의 수혜자가 됐다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "이민 증가와 생활비 상승이 결합되면서 작센-안할트처럼 인구 감소가 심한 지역에서는 '변화에 대한 공포'가 극우 지지의 강력한 동인이 되고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "AfD가 집권할 경우 EU 공동 예산이나 그린딜 관련 투자 흐름에서 작센-안할트를 배제하거나 갈등을 유발할 수 있어, 해당 주의 중장기 경제 개발에도 불확실성이 생긴다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-takes-huge-lead-in-key-vote-early-results-suggest",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
+          "region": "Germany"
+        }
+      ]
+    },
+    {
+      "headline": "미국 특사가 푸틴과 젤렌스키를 연달아 만났지만 우크라이나 전쟁은 겨울을 넘길 것으로 보인다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "미국 특사 위트코프와 쿠슈너가 모스크바에서 푸틴 대통령을 면담한 뒤 러시아 침공 이후 최초로 키이우를 공식 방문해 젤렌스키 대통령과 회담했다. 영국·프랑스·독일 안보보좌관들도 동시에 우크라이나를 방문했으나, 젤렌스키는 전쟁이 겨울까지 지속될 것이라고 전망했다.",
+        "why_it_matters": "미국의 키이우 공식 방문 자체는 상징적으로 중요하지만, 러시아가 협상 기간에도 드론으로 키이우 보안 본부를 타격하는 상황은 양측 간 신뢰 부재를 보여준다. 위트코프는 '매우 의미 있는 진전'을 언급했으나 구체적 내용은 공개되지 않았다.",
+        "what_is_changing": "기존에 미국은 우크라이나 방문을 자제해왔다. 이번 방문은 트럼프 행정부가 중재자 역할을 공식화하는 전환점이지만, 러시아의 동시 드론 공격은 협상과 전쟁이 병행되는 구조를 고착화할 수 있다.",
+        "connection": "러시아가 유럽 인프라에 대한 사보타주와 드론 공격을 병행하면서 독일 등이 대드론 방어망 구축에 나서는 것과 연결된다. 협상이 진행될수록 러시아는 군사 압박을 높여 협상 레버리지를 확보하려는 패턴이 반복되고 있다.",
+        "signal": "미국이 '평화 패키지'를 준비 중이라는 보도는 영토 양보를 포함한 타협안이 수면 위로 올라올 가능성을 시사한다. 이는 우크라이나 주권 원칙과의 충돌 여부가 핵심 변수가 된다.",
+        "what_to_watch": "미국이 제시할 평화 패키지의 영토 조항 내용, 러시아의 공식 반응, 젤렌스키의 수용 한계선, 유럽 동맹국들의 입장 조율"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프 행정부 입장에서 우크라이나 종전은 중간선거 전 외교적 성과로 활용할 수 있는 카드지만, 젤렌스키가 수용 가능한 조건과 러시아가 요구하는 조건 간의 간극이 여전히 크다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "전쟁이 겨울을 넘기면 유럽의 에너지 비용과 우크라이나 재건 자금 부담이 추가로 누적되며, 유럽 납세자들의 지원 피로감이 정치 변수로 부상할 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/europe/article/3366544/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-putin-moscow?utm_source=rss_feed",
+          "region": "Ukraine"
+        }
+      ]
+    },
+    {
+      "headline": "러시아 드론이 키이우 심장부를 타격하는 동안 유럽 인프라도 사보타주 공격을 받고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아 드론이 키이우 보안 본부를 직접 타격했으며 젤렌스키가 이를 공식 확인했다. 독일은 라이프치히 공항 드론 공격의 배후로 러시아를 지목하고 대드론 방어망 구축 계획을 발표했다. 유럽 여러 국가에서 러시아의 하이브리드 전쟁 의심 사건이 동시다발적으로 보고되고 있다.",
+        "why_it_matters": "보안 기관 본부에 대한 직접 타격은 전략적 표적 타격 능력의 과시다. 유럽 민간 인프라에 대한 사보타주 확산은 NATO 국가들을 비전통적 방식으로 분쟁에 끌어들이는 저강도 전쟁 확전 전략이다.",
+        "what_is_changing": "전쟁이 우크라이나 전선에만 국한되던 구도에서 유럽 본토 인프라를 대상으로 한 은밀한 공격이 병행되는 구도로 이동하고 있다. 이는 각국이 민간 보안 예산을 대폭 확대해야 하는 구조적 압박을 만든다.",
+        "connection": "독일 AfD 압승과 결합될 경우, 드론 방어망 투자나 대러 제재 유지에 대한 국내 정치적 지지가 약화될 수 있다. 하이브리드 전쟁은 군사적 대응을 넘어 사회 내부의 정치 분열을 활용하는 것이 핵심 전략이다.",
+        "signal": "유럽 전역 사보타주 사건이 동시 다발적으로 발생하는 패턴은 러시아가 협상 국면에서도 군사·비군사 압박을 병행하는 전략을 채택했음을 보여주는 신호다.",
+        "what_to_watch": "독일 대드론 방어망 배치 속도, 유럽 각국의 러시아 외교관 추가 추방 여부, NATO의 사보타주 공동 대응 체계 수립 논의"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "저비용 드론과 소규모 사보타주 팀을 활용한 비대칭 전쟁이 고가의 방공 시스템을 보유한 NATO 국가들에도 비용 대비 효과적인 위협이 되고 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "하이브리드 전쟁의 목적은 군사적 타격보다 유럽 시민들의 안보 피로감을 높이고 정치 지형을 친러 방향으로 유도하는 데 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/germany-plans-anti-drone-shield-over-leipzig-attack-report/a-79052604?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/europe/from-drones-to-assassins-russias-hybrid-war-in-europe-could-turn-deadly-experts-warn/articleshow/133842974.cms",
+          "region": "India"
+        }
+      ]
+    }
+  ]
+}
