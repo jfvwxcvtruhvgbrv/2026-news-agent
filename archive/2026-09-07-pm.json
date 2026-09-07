@@ -1,0 +1,230 @@
+{
+  "date": "2026-09-07",
+  "session": "pm",
+  "time": "22:22",
+  "global_picture": {
+    "world_right_now": [
+      "독일 작센안할트 주에서 극우 AfD가 40%대 득표로 전후 최초 주정부 장악 가능성에 근접했고, 유럽 전반의 극우 포퓰리즘 확산 우려가 고조되고 있다",
+      "이스라엘이 레바논 휴전 합의에도 불구하고 공습을 지속하면서 중동 전선이 다층적으로 확대되고 있다",
+      "미-이란 군사 충돌 여파로 유가가 급등하고 이란이 호르무즈 해협 제한 수역 지정을 예고하면서 글로벌 에너지 공급망이 흔들리고 있다",
+      "러시아가 키이우를 24시간 드론·미사일 공습 체제로 전환했고 미국 특사의 중재에도 전쟁은 겨울까지 이어질 전망이다",
+      "러시아와 북한이 두만강 도로 교량을 개통하며 전략적 밀착을 물리적 인프라로 가시화했다",
+      "중국이 국영 금융기관에 540억 달러를 투입하며 내수 부양과 경제 안정화에 나섰다",
+      "아낙 크라카타우 화산이 분화해 인도네시아 공항이 폐쇄되고 27만 명의 이동이 차질을 빚고 있다",
+      "네팔 홍수로 1,380명 이상이 사망하는 대규모 재난이 발생했고 국가 애도의 날이 선포됐다",
+      "독일 스타트업 Isar Aerospace가 유럽 민간 기업 최초로 궤도 발사에 성공하며 우주 경쟁 판도에 변화를 예고했다",
+      "자메이카가 영국 국왕을 상대로 노예제 배상을 법적 채널로 공식 추진하면서 식민지 역사 배상 요구가 새 국면으로 진입했다"
+    ],
+    "emerging_signals": [
+      "AI 빅테크 간 순환 투자 구조가 S&L 위기 유사 시스템 리스크를 내포하고 있다는 경고가 전문가 사이에서 확산되고 있다",
+      "인도에서 대체연료 차량 판매가 처음으로 휘발유차를 추월하면서 세계 3위 자동차 시장의 구조 전환이 본격화되고 있다",
+      "중국이 민간 휴머노이드 로봇 기술을 군사 전용으로 전환하는 연구를 추진하면서 민군 기술 이전의 새로운 전선이 열리고 있다",
+      "호주가 소셜미디어 알고리즘 선택 해제 의무화 법안을 추진하면서 플랫폼 규제의 새 패러다임이 시험대에 오르고 있다",
+      "중국이 일본산 반도체 핵심 화학물질에 99%대 반덤핑 관세를 부과하며 반도체 공급망 갈등이 소재 분야로까지 확산되고 있다"
+    ],
+    "structural_trends": [
+      "유럽 전역에서 극우 포퓰리즘이 지방 권력 장악 단계로 진입하면서 정당 체제 자체가 재편되고 있다",
+      "미-이란 충돌과 이스라엘-레바논 전선이 중동 에너지 공급망 리스크를 구조적으로 끌어올리고 있다",
+      "러시아-북한 인프라 연결과 중러 북극 공동 조사 등 권위주의 진영의 물리적·전략적 통합이 가속화되고 있다",
+      "스마트 기기의 무단 데이터 수집과 AI 순환 투자 리스크 등 디지털 경제의 구조적 취약성이 동시에 부각되고 있다",
+      "기후변화가 아시아·유럽·아프리카에서 동시다발 재난을 촉발하며 인도네시아 화산, 네팔 홍수, 프랑스 포도 흉작 등이 같은 맥락에서 전개되고 있다"
+    ],
+    "what_changed_today": [
+      "어제 예고에 머물렀던 호르무즈 해협 봉쇄가 이란의 공식 제한 수역 설정 선언으로 한 단계 구체화됐다",
+      "AfD의 주정부 장악 가능성이 어제 선거 결과 확인으로 실재하는 과제가 됐고 연립 협상 구도가 본격 가시화됐다",
+      "미국 특사의 키이우 방문이 완료됐지만 협상 돌파구 없음이 확인됐고 러시아의 24시간 공습 체제 전환으로 전황이 더 악화됐다",
+      "러시아-북한 두만강 교량 개통이 공식화되면서 양국 밀착이 선언적 수준을 넘어 물리적 인프라로 전환됐다"
+    ],
+    "what_to_watch_next": [
+      "이란의 호르무즈 해협 제한 수역 실제 집행 여부와 미국·국제 해운사들의 대응 조치",
+      "독일 작센안할트 AfD 연립 협상 파트너 확보 여부 및 주류 정당들의 배제 기조 지속 가능성",
+      "이스라엘의 레바논 공습 확대 여부와 미국의 중재 개입 수위",
+      "아낙 크라카타우 화산 추가 분화 가능성과 동남아 항공망 차질 장기화 여부",
+      "중국의 일본산 화학물질 반덤핑 관세 최종 확정 및 일본의 보복 대응",
+      "Isar Aerospace 궤도 발사 성공 이후 유럽 우주 스타트업 투자 및 계약 동향"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "AfD가 전후 독일 최초로 주정부 권력에 근접했다: 유럽 극우는 이제 거버넌스의 문제다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "독일 작센안할트 주 선거에서 극우 정당 AfD가 40%를 넘는 득표로 1위를 차지했다. 단독 과반에는 미치지 못했으나 이는 제2차 세계대전 이후 독일에서 극우 정당이 주 차원 1위를 차지한 첫 사례다. 주류 정당들의 AfD 배제 원칙이 유지될 경우 연립 구성 자체가 불가능해지는 교착 상황이 예고된다.",
+        "why_it_matters": "AfD의 승리는 단순한 항의 투표를 넘어 독일 동부의 구조적 지지 기반이 실재함을 입증한 것으로, 분리 학급·시민감시대 같은 급진 정책이 실제 집권 의제로 부상할 가능성이 생겼다. 유럽 민주주의의 방파제 역할을 해온 독일에서의 변화가 갖는 상징성은 국경을 넘어 파급된다.",
+        "what_is_changing": "기존에는 극우 정당이 연방 의회나 지방의회에서 제1야당에 머물렀지만, 이제는 주정부 구성 협상의 당사자로 직접 나서는 단계로 진입했다. 선거 부정 주장이 소셜미디어에서 확산됐으나 팩트체크 결과 근거 없음이 확인됐음에도 담론은 이미 확산됐다.",
+        "connection": "프랑스 국민전선, 이탈리아 형제들당, 오스트리아 자유당 등 유럽 전역의 극우 세력이 동시에 부상하는 흐름과 맞물리며, 유럽의회 내 극우 블록 강화 가능성과 EU 정책 방향에도 영향을 미칠 수 있다.",
+        "signal": "지방 선거에서의 극우 집권 가능성은 유럽 정치가 '극우 견제'에서 '극우와의 공존 또는 연립'이라는 새로운 국면으로 전환되고 있다는 신호다.",
+        "what_to_watch": "AfD의 연립 파트너 확보 시도와 주류 정당들의 배제 기조 지속 여부, 그리고 이 결과가 올 하반기 다른 독일 주 선거 및 유럽 각국 선거에 미치는 여파."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "AfD의 승리는 메르츠 연방 정부에 대한 반발과 동독 지역의 경제·문화적 소외감이 결합된 결과로, 주류 정당들이 이 층위의 유권자와 소통에 실패했음을 드러낸다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "분리 학급과 시민감시대 같은 AfD의 정책 공약이 실제 집권 의제로 부상하면서 이민자·소수자 공동체의 일상적 불안이 커지고 있으며, 사회적 결속 약화가 가속될 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260907-far-right-afd-wins-crushing-victory-in-german-state-election",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/7/world-reacts-to-afd-victory-in-east-germany-state-election?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "중동 전선이 레바논·서안·호르무즈로 동시에 확장되고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이스라엘이 레바논 남부를 상대로 야간 공습을 지속해 의료진을 포함한 최소 11명이 사망했다. 레바논 대통령은 미국에 즉각적인 중재를 촉구했으나 공습은 멈추지 않았다. 동시에 이스라엘 국방장관이 서안지구 팔레스타인 자치정부에 전면전을 경고하고, 이란이 호르무즈 해협 제한 수역 설정을 선언했으며, 미-이란 충돌로 유가가 급등해 미국 소비자들이 6개월간 약 1,000억 달러의 추가 연료비를 부담했다.",
+        "why_it_matters": "개별 전선이 아닌 레바논·서안·이란이라는 세 축이 동시에 움직이면서 중동 전체가 연쇄 확전의 임계점에 근접하고 있다. 호르무즈를 통과하는 글로벌 원유의 약 20%가 위협받으면 에너지·공급망·물가에 미치는 충격이 전 세계로 파급된다.",
+        "what_is_changing": "기존 분쟁이 가자 중심의 국지전이었다면, 이제는 레바논 휴전 파기, 서안 전면전 경고, 이란 해협 봉쇄 예고가 맞물리면서 '복합 확전' 국면으로 전환되고 있다.",
+        "connection": "중국-카타르 외교 회담에서 중동 긴장 완화 공조가 논의됐고, 미-이란 핵협상도 사실상 중단 상태여서 외교적 출구가 모두 막힌 형국이다. 유가 상승은 유럽의 에너지 가격, 인플레이션 재점화, 각국 중앙은행 정책에도 압력을 가한다.",
+        "signal": "이란의 호르무즈 제한 수역 선언은 실제 봉쇄보다 협상 레버리지로 사용될 가능성이 크지만, 우발적 군사 충돌의 리스크가 선제적으로 높아지는 임계 신호다.",
+        "what_to_watch": "이란의 호르무즈 제한 수역 실제 집행 여부, 이스라엘의 레바논 공습 강도 변화, 미국의 개입 수위, 국제 유가 추가 상승 여부."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "유가 급등은 이미 미국 가구에 6개월간 평균 763달러의 추가 연료비 부담을 안겼으며, 유럽의 이란산 사프란 같은 틈새 공급망도 미국 제재의 여파를 피하기 어렵다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "레바논 대통령의 국제 중재 요청이 묵살되는 상황에서 미국의 역할이 중재자보다 이스라엘 지원자로 인식되면 중동 내 반미 정서와 이란의 전략적 결집이 강화될 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/7/iran-war-how-us-consumers-spent-an-additional-100bn-on-fuel?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/09/07/world-news/iran-says-it-plans-to-create-new-restricted-zone-near-strait-of-hormuz-as-it-desperately-tries-to-control-chokepoint/",
+          "region": "North America"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "러시아는 키이우를 24시간 공습하고, 북한과는 물리적 연결을 완성했다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "러시아가 우크라이나 수도 키이우에 대한 드론·미사일 공습을 24시간 체제로 확대해 경보 횟수가 전례 없는 수준에 달했다. 미국 특사 위트코프·쿠슈너가 푸틴 면담 후 키이우를 방문했으나 실질적 협상 진전은 없었고 젤렌스키는 전쟁이 겨울까지 계속될 것이라고 밝혔다. 같은 날 러시아와 북한은 두만강 최초 도로 교량을 공식 개통했다.",
+        "why_it_matters": "24시간 공습 체제는 민간 일상을 완전히 마비시키는 전략적 압박으로, 협상이 진행되는 동안에도 지상에서는 전투 강도가 오히려 높아지는 역설이 벌어지고 있다. 두만강 교량은 서방 제재를 우회하는 물류·군사 협력의 물리적 기반이 된다.",
+        "what_is_changing": "협상 채널이 열려 있음에도 전장에서는 러시아의 공세가 강화되고 있어 외교와 군사가 완전히 분리 작동하는 구조로 굳어지고 있다. 북한-러시아 인프라 연결은 전쟁 장기화를 뒷받침하는 후방 보급망으로 기능할 수 있다.",
+        "connection": "중국과 러시아의 북극 공동 해빙 조사, 중국-카타르 에너지 협력 강화 등과 맞물려, 서방 제재 진영에 맞선 대안 네트워크가 복수 축으로 동시에 구축되고 있다.",
+        "signal": "두만강 교량 개통은 러시아-북한 협력이 인적·물적 교류를 넘어 군사 물자 이동과 경제 의존 심화로 이어지는 구조적 전환점이 될 수 있다.",
+        "what_to_watch": "러시아의 키이우 공습 패턴 변화, 미국 특사의 다음 중재 시도 시점, 두만강 교량을 통한 물자 이동 내역."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "협상이 진행되는 동안 전장 압박을 강화하는 러시아의 전술은 우크라이나를 불리한 조건으로 협상 테이블에 앉히려는 전략적 의도로 읽힌다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "북한-러시아 교량은 서방 제재망 밖에서 구축되는 물류 대안 경로로, 제재의 실효성 자체를 장기적으로 약화시키는 경제적 함의를 갖는다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ukraine-zelenskyy-says-war-looks-set-to-go-on-into-winter/live-79135930?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/north-korea-and-russia-open-their-first-road-bridge-a-symbol-of-expanding-ties-tass-reports",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260907-signs-of-progress-after-us-envoys-witkoff-and-kushner-hold-talks-in-ukraine",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "아낙 크라카타우와 네팔 홍수: 아시아가 동시다발 자연재난으로 흔들리고 있다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "인도네시아 아낙 크라카타우 화산이 분화해 화산재를 약 15km 상공까지 분출했고, 자카르타 공항을 포함해 400편 이상의 항공편이 결항되면서 약 27만 명이 이동 차질을 겪었다. 자카르타 학교들은 온라인 수업으로 전환됐다. 한편 네팔에서는 히말라야 인근 대홍수·산사태로 1,380명 이상이 사망하고 5,500명이 실종됐으며, 수력발전소 터널에 121명이 고립된 것으로 추정돼 네팔 정부가 국가 애도의 날을 선포했다.",
+        "why_it_matters": "두 재난이 동시에 발생하면서 아시아태평양 지역의 재난 대응 능력과 인프라 취약성이 동시에 시험대에 올랐다. 아낙 크라카타우 화산의 항공망 차질은 싱가포르-자카르타 노선을 포함한 동남아 허브 기능을 위협한다.",
+        "what_is_changing": "기후 관련 극단 기상·지질 현상이 특정 지역에 국한되지 않고 히말라야에서 순다 해협까지 광범위하게 동시 발생하는 패턴이 강화되고 있다. 재난의 규모도 단기 복구가 어려운 수준으로 커지고 있다.",
+        "connection": "인도네시아 보르네오 이탄지 화재의 독성 스모그 확산, 말레이시아 사라왁 연무 비상사태, 프랑스 포도 흉작 등과 연결되는 기후변화 복합 재난의 연쇄 발현이다.",
+        "signal": "자카르타 인근에서 항공·교육·물류 인프라가 동시 마비된 것은 화산 활동이 단순 자연재해를 넘어 도시 기능 전체를 정지시키는 시스템 리스크가 될 수 있다는 신호다.",
+        "what_to_watch": "아낙 크라카타우 화산의 추가 분화 여부, 네팔 터널 고립자 구조 결과, 동남아 항공망 정상화 시점."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "항공편 대규모 취소는 항공사 손실과 관광·물류 산업 타격으로 이어지며, 동남아 인근 국가들의 공급망과 여행 수요에 단기 충격을 준다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "네팔 홍수 피해는 히말라야 인근 개발 취약 지역의 재난 회복력 부재를 드러내며, 기후 적응 인프라에 대한 국제 지원의 필요성을 다시 부각시킨다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+          "region": "Asia"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/se-asia/indonesia-volcano-eruption-schools-shift-online-offices-largely-remain-open-in-ash-hit-jakarta",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/nepal-rescuers-focus-on-900-hydropower-workers-121-could-be-trapped-in-tunnels-officials-say",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260907-nepal-holds-a-day-of-mourning-as-rescuers-continue-search-for-flood-missing",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
