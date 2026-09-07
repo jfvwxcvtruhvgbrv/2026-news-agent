@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-08",
+  "session": "am",
+  "time": "07:06",
+  "global_picture": {
+    "world_right_now": [
+      "독일 극우 AfD가 작센안할트 주 선거 1위를 기록하며 전후 최초 지역 집권이 현실화 직전까지 왔다",
+      "미국과 이란이 호르무즈 해협에서 실제 군사 충돌을 벌이며 국제 유가가 6주 최고치로 급등했다",
+      "이스라엘이 레바논 남부에 연속 공습을 재개해 이틀간 민간인 18명 이상이 사망했다",
+      "러시아-독일이 상호 영사관을 폐쇄하며 우크라이나 전쟁 이후 유럽-러시아 외교 단절이 가시화됐다",
+      "북한과 러시아가 두만강 도로 교량을 개통하며 전략적 밀착이 물리적 인프라로 구체화됐다",
+      "캐나다가 미국산 수입품에 최대 50% 보복 관세를 예고하며 북미 무역전쟁이 새 국면에 진입했다",
+      "아마존 화물기가 마이애미 공항에서 활주로를 이탈해 5명이 사망했다",
+      "전범 믈라디치가 세르비아에서 군사 예우로 안장되며 EU와 세르비아의 긴장이 고조됐다",
+      "중국 샤오미가 자체 설계 칩을 탑재한 폴더블폰을 공개하며 기술 자립 경쟁을 가속화했다",
+      "파나마 운하가 엘니뇨 가뭄으로 통행 추가 감축을 검토하며 글로벌 물류 위기가 심화되고 있다"
+    ],
+    "emerging_signals": [
+      "중국 PLA가 민간용 휴머노이드 로봇의 전투 투입 연구를 본격화하며 AI 무기화의 새 국면이 열리고 있다",
+      "바브엘만데브와 호르무즈 두 전략 해협이 동시에 분쟁화되며 중동 해상 공급망 전체가 위협받고 있다",
+      "시진핑이 트럼프와의 정상회담 전 SCO·BRICS를 집중 순방하며 다자 연대 외교 공세에 나섰다",
+      "콜롬비아 신정부가 취임 한 달 만에 이스라엘 관계를 복원하는 등 중남미 좌→우 정권 교체 후 외교 급변 패턴이 반복되고 있다",
+      "인도가 미국 등 25개국과 6G 공동 개발에 합류하며 통신 표준 경쟁에서 중국 대항 연대가 가시화되고 있다",
+      "보르네오 이탄지 산불이 수천 년치 탄소를 방출하며 기후 임계점 위기가 조용히 가속화되고 있다"
+    ],
+    "structural_trends": [
+      "유럽 전역에서 극우 정당이 지방·국가 선거에서 주류화되며 전통 정당 체제가 구조적으로 재편되고 있다",
+      "호르무즈·수에즈·바브엘만데브·파나마 운하 등 핵심 해상 통로가 동시에 위협받으며 글로벌 공급망 취약성이 상시화되고 있다",
+      "중국·인도·유럽이 반도체·6G·로봇 분야에서 기술 자립과 동맹 표준화를 병행 추진하며 기술 지정학 경쟁이 심화되고 있다",
+      "러시아-북한 인프라 연결, 러시아-독일 영사관 맞폐쇄 등으로 냉전 이후 유지된 외교 관행이 해체되고 있다",
+      "AI·자동화가 실업뿐 아니라 재직 노동자의 직무 의미와 심리적 안녕까지 구조적으로 침식하고 있다"
+    ],
+    "what_changed_today": [
+      "어제는 AfD의 선거 접근으로 분석했으나, 오늘은 연립정부 구성 협상 착수로 실제 집권 가능성이 한 단계 높아졌다",
+      "중동 긴장이 레바논 공습 지속에서 미-이란 호르무즈 해협 직접 군사 충돌로 확대되며 전선이 새로운 차원으로 격화됐다",
+      "북한-러시아 두만강 교량이 어제 예고에서 오늘 실제 공식 개통으로 완료됐다",
+      "아낙 크라카타우 화산 위기가 어제 대피·폐쇄 단계에서 오늘 재개항 이후에도 지속 운항 차질 경보 단계로 전환됐다"
+    ],
+    "what_to_watch_next": [
+      "작센안할트에서 AfD가 실제로 연립정부 구성을 완료할 수 있는지, 어느 정당이 파트너로 나서는지",
+      "호르무즈 해협 미-이란 충돌이 확전으로 이어지는지, 유가 100달러 돌파 여부",
+      "캐나다의 대미 보복 관세 화요일 발효 후 트럼프의 재반격 여부",
+      "시진핑-트럼프 정상회담(약 2주 후) 의제와 결과",
+      "이스라엘의 레바논 공습 지속 시 6월 휴전 합의의 완전 붕괴 여부",
+      "파나마 운하 추가 통행 감축 결정 시점과 글로벌 해운 운임 동향"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "AfD의 작센안할트 1위, 전후 독일에서 극우 집권이 협상 테이블에 올랐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "독일 작센안할트 주의회 선거에서 극우 AfD가 역대 최고 득표율로 제1당이 됐다. 단독 과반에는 세 석이 모자랐으나 선거 다음 날 연립정부 구성 협상에 착수했으며, 메르츠 총리는 '독일 전체가 바뀌었다'고 인정하며 개인 지지율 사상 최저치를 기록했다.",
+        "why_it_matters": "제2차 세계대전 이후 독일에서 극우 정당이 주 단위에서 제1당으로 실제 집권을 협상하는 것은 전례 없는 사태다. 독일 정치 실험은 유럽 전체 민주주의 규범의 시험대가 된다.",
+        "what_is_changing": "AfD는 지금까지 '코르돈 사니테르'(다른 정당들의 연립 거부)로 고립됐으나, 이제 협상 주체가 되는 현실적 상황이 만들어지고 있다. 주류 정당의 거부 전략이 유권자의 지속적 이탈을 막지 못했음이 입증됐다.",
+        "connection": "프랑스 르펜, 이탈리아 멜로니, 오스트리아 FPÖ 등 유럽 전역의 극우 부상과 직결되며 유럽의회 구성과 EU 정책 결정에도 연쇄 영향을 미칠 수 있다.",
+        "signal": "주 단위 극우 집권은 연방 차원으로 확산될 수 있는 초기 경로를 열어준다. 이민·유럽 통합·우크라이나 지원 정책 전반에 대한 독일의 입장 변화를 예고하는 전조일 수 있다.",
+        "what_to_watch": "어느 정당이 AfD와 연립 구성에 합의하는지, 그리고 이 결과가 2027년 독일 연방선거 여론조사에 어떻게 반영되는지"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "다른 정당들이 AfD와의 연립을 계속 거부할 경우 지역 거버넌스 마비가 발생하고, 수용할 경우 극우 정상화의 선례가 된다. 어느 쪽이든 주류 정치에는 전략적 딜레마다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "경제적 불안, 이민 불만, 기성 정치 불신이 교차하는 동독 지역 유권자들의 정서를 AfD가 독점적으로 흡수하고 있다. 이는 이념보다 박탈감에 기반한 투표 패턴이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/chancellor-merz-says-afd-result-changes-all-of-germany/a-79150560",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20260907-how-far-right-breakthrough-may-cause-absolute-chaos-in-germany-afd",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "미국과 이란이 호르무즈에서 실제로 충돌했다: 중동 전선이 해상 전면전으로 번지고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란 혁명수비대가 페르시아만에서 미 해군 함정을 향해 탄도미사일을 발사했고, 미군은 이란 원유 유조선 3척을 격침하는 것으로 보복했다. 동시에 예멘 후티 세력이 바브엘만데브 해협 통제권을 둘러싼 교전을 격화하며 중동의 두 핵심 해상 통로가 동시에 분쟁화됐다. 국제 유가는 6주 만에 최고치를 기록했다.",
+        "why_it_matters": "호르무즈 해협은 전 세계 석유 물동량의 약 20%가 통과하는 핵심 통로다. 실제 군사 충돌은 수십 년간 이어진 '벼랑 끝 전술'과는 질적으로 다른 단계로, 에너지 공급망 전체에 즉각적 충격을 준다.",
+        "what_is_changing": "그간 미-이란 긴장은 대리전과 제재를 통해 간접적으로 표출됐으나, 이번에는 양국 군사 자산이 직접 교전하는 형태로 전환됐다. 이란 내부에서도 소수민족 무장세력 활동이 증가하며 내외 압박이 동시에 가중되고 있다.",
+        "connection": "레바논 이스라엘 공습, 가자 분쟁, 바브엘만데브 교전, 파나마 운하 위기까지 연결되면 글로벌 해운·에너지 공급망이 복수의 병목에서 동시에 위협받는 복합 위기 구조가 형성된다.",
+        "signal": "중동 분쟁이 대리전 단계를 넘어 강대국 직접 충돌 단계로 진입하는 임계점일 수 있다. 인도 원유 수입 단가가 배럴당 100달러를 돌파한 것은 아시아 경제 전반에도 충격파가 전달되고 있음을 보여준다.",
+        "what_to_watch": "미-이란 충돌이 외교 채널 재가동으로 수습될지, 아니면 이란 본토 또는 걸프 동맹국으로 전선이 확대될지"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "유가 급등은 인플레이션 재점화와 금리 경로 불확실성을 높이며 글로벌 소비·투자 심리를 위축시킬 수 있다. 아시아 에너지 수입국들이 가장 큰 단기 피해를 입는다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프 행정부 입장에서 이란에 대한 군사적 강경 대응은 국내 지지층 결집에 유리하나, 확전 시 외교·군사 비용이 급격히 상승한다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "탄도미사일 요격 및 유조선 타격 작전은 전자전·드론·정밀 유도 기술의 실전 검증장이 되고 있으며, 이 데이터는 향후 군사 기술 개발 경쟁에 반영된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz",
+          "region": "Middle East"
+        },
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/video/us-forces-take-out-3-iranian-oil-tankers-in-retaliation/",
+          "region": "North America"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "이스라엘-레바논 휴전이 사실상 붕괴되고 있다: 이틀간 민간인 18명 사망",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이스라엘이 수주간의 소강 상태를 깨고 레바논 남부에 대규모 공습을 재개해 이틀간 어린이·구급대원을 포함한 민간인 18명 이상이 사망했다. 이스라엘은 헤즈볼라의 휴전 위반을 명분으로 제시했고, 레바논은 미국 중재 휴전 협정이 심각하게 위협받고 있다고 주장했다. 동시에 이스라엘은 팔레스타인 자치정부(PA)에 '10·7식 공격 시 전면전' 경고를 발령했다.",
+        "why_it_matters": "6월에 체결된 이스라엘-헤즈볼라 휴전은 미국 중재의 대표적 성과였다. 이것이 완전히 붕괴될 경우 레바논 재건·인도적 지원 전체가 무너지고, 미국의 중동 중재 신뢰도도 함께 타격을 입는다.",
+        "what_is_changing": "10월 이스라엘 총선을 앞두고 네타냐후 정부가 군사 행동을 정치적 레버로 활용한다는 국내외 비판이 커지고 있다. 전 군 참모총장이 공개적으로 '정치 생존 우선' 비판을 제기한 것은 군-정치 관계의 균열을 보여준다.",
+        "connection": "IAEA가 이스라엘이 2007년 파괴한 시리아 원자로가 핵무기 제조용이었다고 공식 확인한 것도 같은 날 나왔다. 이스라엘의 예방적 군사 행동 정당성을 둘러싼 국제 논쟁이 복잡해지고 있다.",
+        "signal": "레바논 공습 재개와 PA 경고 동시 발령은 이스라엘이 다중 전선 군사 압박을 총선 전략과 연동하고 있다는 신호일 수 있다.",
+        "what_to_watch": "헤즈볼라의 보복 강도와 미국의 이스라엘 자제 요구 여부, 10월 27일 이스라엘 총선에서 강경 노선이 지지를 받는지"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "선거를 앞둔 네타냐후에게 군사 강경 노선은 안보 정당성을 유지하는 수단이지만, 전 참모총장의 공개 비판은 이 전략이 내부에서도 분열을 만들고 있음을 보여준다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "어린이와 구급대원이 포함된 민간인 피해는 국제 여론을 악화시키며, 영국의 서안지구 정착촌 수입 금지 추진 같은 동맹국 내 정책 변화를 촉발하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/middle-east-israeli-strikes-kill-a-dozen-in-lebanon/live-79133242",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20260907-israeli-strikes-south-lebanon-violence",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "캐나다·북한·독일이 동시에 미국·러시아에 정면 대응하며 '동맹의 해체'가 가속화되고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "캐나다가 미국산 수입품에 최대 50%의 보복 관세를 화요일부터 시행하기로 했다. 동시에 러시아-독일이 상호 영사관을 폐쇄했고, 트럼프는 캐나다 항공사 봄바르디에의 미국 시장 접근을 차단하겠다고 위협했다.",
+        "why_it_matters": "미국-캐나다는 USMCA 파트너이자 NATO 동맹국이다. 관세 보복과 기업 제재 위협이 동맹 관계 내부에서 발생한다는 것은 냉전 이후 구축된 서방 동맹 질서가 구조적으로 흔들리고 있음을 의미한다.",
+        "what_is_changing": "동맹국에 대한 관세·제재 압박이 예외적 사건이 아닌 반복 패턴으로 자리잡고 있다. 이에 동맹국들이 더 이상 외교적 완충을 기대하지 않고 즉각 대응으로 전환하고 있다.",
+        "connection": "스웨덴의 HIMARS 7억 달러 규모 도입, 인도의 1.1조 루피 방산 독자 조달 결정 등은 동맹 불신을 배경으로 한 자국 방위력 강화 흐름과 연결된다.",
+        "signal": "미국 중심의 일방적 질서에 대한 동맹·파트너 국가들의 집단적 저항이 개별 사안이 아닌 구조적 재편의 형태로 나타나고 있다.",
+        "what_to_watch": "캐나다 보복 관세 시행 후 트럼프의 재보복 강도, EU의 대미 무역 협상 입장 변화"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "북미 공급망은 수십 년간 통합돼 왔다. 50% 관세는 단기적으로 양국 모두에 물가 상승과 기업 비용 증가를 유발하며, 공급망 재편 비용은 중장기적으로 소비자가 부담한다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 동맹 압박은 미국 내 제조업 재건 서사와 연동되지만, 동맹국들의 집단 반발이 강해질수록 미국의 지정학적 영향력은 역설적으로 약화될 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3366693/canada-set-hit-back-trump-tariffs-risking-wider-trade-war",
+          "region": "Hong Kong"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "북한-러시아 두만강 교량 개통: 제재망을 뚫는 물리적 연결이 완성됐다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "북한과 러시아가 두만강을 가로지르는 약 1km 길이의 2차선 도로 교량을 공식 개통했다. 러시아 총리가 직접 참석했으며, 같은 날 북한 신임 국방장관은 한·미·일 연합훈련을 도발로 규탄했다.",
+        "why_it_matters": "이 교량은 이전까지 철도 1개로만 연결됐던 양국 사이에 물자·인원 이동의 새로운 대규모 통로를 여는 것이다. 서방의 대러·대북 제재가 동시에 적용되는 상황에서 우회 물류망이 강화된다.",
+        "what_is_changing": "북러 협력이 군사 정보·무기 거래를 넘어 영구적 인프라 연결로 전환됐다. 이는 관계를 일시적 편의 동맹이 아닌 구조적 파트너십으로 격상시킨다.",
+        "connection": "북한의 포탄·미사일이 우크라이나 전선에서 소모되고, 러시아의 에너지·식량·기술이 북한으로 유입되는 교환 구조가 이 교량을 통해 확장될 수 있다. 서방 제재 실효성에 대한 재검토가 불가피하다.",
+        "signal": "중국이 묵인하는 상황에서 러시아-북한-이란 삼각 협력이 물리적 연결망으로 뒷받침되기 시작했다는 신호다.",
+        "what_to_watch": "교량을 통해 실제로 이동하는 물자의 종류와 규모, 그리고 한국·일본·미국의 제재 강화 대응 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아 총리의 직접 참석은 이 관계를 실용적 협력 그 이상으로 상징화하려는 의도다. 한반도 비핵화 협상의 외교적 공간은 더욱 좁아진다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "서방 제재 하에서 북러 무역의 물류 병목이 해소되면 양국의 제재 저항력이 높아지고, 다른 제재 대상 국가들에도 우회 경로 모델이 된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/north-korea-and-russia-open-their-first-road-bridge-a-symbol-of-expanding-ties-tass-reports",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3366679/north-korea-russia-open-first-road-bridge-new-symbol-friendship",
+          "region": "Hong Kong"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
