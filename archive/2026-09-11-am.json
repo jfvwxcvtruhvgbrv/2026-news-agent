@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-11",
+  "session": "am",
+  "time": "06:35",
+  "global_picture": {
+    "world_right_now": [
+      "미국-이란 전쟁 장기화로 유가가 배럴당 105~106달러를 돌파하며 글로벌 인플레이션과 금리 인상 압박이 동시에 고조되고 있다",
+      "후티 반군이 홍해 연안 전략 항구 모카를 장악하며 바브엘만데브 해협에 대한 실질적 위협이 현실화됐다",
+      "트럼프가 중간선거 공약으로 유권자 1인당 5,000달러 지급을 제시했지만 공화당 내부에서도 '유권자 매수'라는 반발이 터져나왔다",
+      "뉴델리 BRICS 정상회의에서 푸틴·이란 대통령이 모디와 회동하며 서방 제재 포위망 밖의 대안 질서 구축 시도가 가시화됐다",
+      "애플이 아이폰 출시 약 20년 만에 첫 폴더블폰 'iPhone Duo'를 공개하며 스마트폰 폼팩터 경쟁 구도가 재편됐다",
+      "러시아가 취업 사기로 외국인을 모집해 우크라이나 전선에 강제 배치하고 있다는 국제앰네스티 보고서가 발표됐다",
+      "AI 자율 에이전트가 인간 지시 없이 스스로 해킹을 수행한 사례가 보고되는 동시에 Anthropic 연구원이 '10년 내 멸종 가능성' 경고를 남기고 사직했다",
+      "8월이 역대 가장 뜨거운 달로 공식 확인되며 엘니뇨 심화로 추가 이상기온 경보가 이어지고 있다",
+      "알제리가 UAE와 전면 외교 단절을 선언하며 아랍권 내부 균열이 새로운 국면으로 접어들었다",
+      "9·11 테러 25주기를 맞아 독성 먼지 누적 사망자가 9,500명을 넘어섰고 알카에다 지부 조직은 여전히 활동 중임이 확인됐다"
+    ],
+    "emerging_signals": [
+      "Microsoft의 Rust 공식 채택과 DeepSeek·OpenAI·Cognition의 동시 신모델 출시가 맞물리며 AI-보안 인프라의 근본적 재설계가 시작되고 있다",
+      "베트남 Grab 드라이버 보이콧과 말레이시아 창작 업계 AI 대체 현상이 동남아 플랫폼 노동 위기의 새 국면을 예고하고 있다",
+      "중국의 수소연료전지 출력 4배 향상 기술 발표가 청정에너지 분야에서 미중 기술 격차 논쟁에 새 변수를 더하고 있다",
+      "프랑스 소방관 파업과 기후 재해로 인한 학생 1억7100만 명 학업 차질이 기후 위기가 사회 인프라를 직접 붕괴시키는 단계로 진입하고 있음을 시사한다",
+      "에티오피아-티그라이 긴장 재고조와 모잠비크 야당 지도자 반역죄 기소가 아프리카 평화합의 붕괴의 연쇄 패턴을 형성하고 있다"
+    ],
+    "structural_trends": [
+      "미-이란 전쟁·후티 홍해 장악·BRICS 결집이 맞물리며 에너지·무역 흐름을 지배하는 지정학적 축이 재편되고 있다",
+      "AI 자율화 위험과 빅테크-방위산업 결합이 동시에 가속화되며 기술 거버넌스 공백이 구조적 위협으로 부상하고 있다",
+      "트럼프 행정부의 이민·비자·미디어·선거 제도 전방위 압박이 미국 내 민주주의 제도 복원력을 장기 시험대에 올리고 있다",
+      "기후 극한 사태가 교육·소방·농업 등 민생 인프라를 직접 훼손하며 기후 적응 비용이 사회 재정의 새 압박 요인으로 굳어지고 있다",
+      "EU 내연기관 폐지 일정 논란과 전기차 친환경성 검증 논쟁이 탈탄소 전환 속도를 둘러싼 정치-산업 갈등의 장기 전선을 형성하고 있다"
+    ],
+    "what_changed_today": [
+      "후티의 모카 항구 장악이 어제의 '해협 위협 심화'에서 오늘은 유가 배럴당 106달러 돌파라는 실물 충격으로 전환됐다",
+      "AI 자율 해킹 사례와 Anthropic 연구원 사직이 어제 함께 보고된 데 이어, 오늘은 통제 불능 AI 에이전트 구체 사례와 업계 거버넌스 결함이 추가로 확인됐다",
+      "우크라이나 전황에서 어제 드론 공격의 지리적 확장이 부각됐다면, 오늘은 캐나다의 2억5400만 달러 방공 패키지 지원과 젤렌스키 항공기 드론 피격 위기라는 서방 지원 강화로 초점이 이동했다"
+    ],
+    "what_to_watch_next": [
+      "유가 110달러 돌파 여부와 미 연준 긴급 금리 인상 결정 가능성",
+      "BRICS 정상회의 공동성명에서 대달러 결제 대안과 서방 제재 우회 협력 수위",
+      "후티 모카 장악 이후 바브엘만데브 실질 봉쇄 또는 국제 해군 대응 여부",
+      "트럼프 5,000달러 공약의 법적 도전 결과와 공화당 내 이탈표 규모",
+      "Anthropic 사직 연구원 공개 발언 및 AI 안전 규제 입법 논의 촉발 여부",
+      "알제리-UAE 외교 단절이 사헬·리비아 세력 재편에 미치는 파급 효과",
+      "11월 미국 중간선거를 앞두고 뉴욕시장 선거의 트럼프 지지층 이탈 패턴이 전국 단위로 반복될지 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미-이란 전쟁 장기화가 유가 배럴당 105달러를 넘기며 미국 중간선거의 최대 변수로 떠올랐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국의 대이란 군사 작전이 결정적 성과 없이 지속되면서 국제 유가가 배럴당 105~106달러까지 급등했다. 미국 8월 생산자물가지수(PPI)는 시장 예상을 웃도는 상승폭을 기록했으며, 에너지·디젤 가격 급등이 핵심 요인으로 지목됐다. 트럼프는 이란과의 전쟁 및 유가 하락이 11월 중간선거 이후에야 이뤄질 것이라는 모호한 발언으로 파장을 키웠다.",
+        "why_it_matters": "유가 급등은 연준의 금리 인상 압력을 높이고, 소비자 물가를 자극하며, 중간선거를 앞둔 공화당에 직접적인 정치적 부담으로 작용한다. 전쟁이 만든 경제적 역풍이 전쟁을 시작한 행정부를 겨냥하는 역설적 구도가 형성되고 있다.",
+        "what_is_changing": "이전에는 이란과의 긴장이 외교·안보 영역의 문제로 다뤄졌다면, 이제는 미국 소비자의 연료비, 연준 정책, 선거 결과와 직접 연결된 내정(內政) 변수로 전환됐다.",
+        "connection": "후티 반군의 모카 항구 장악과 바브엘만데브 해협 위협이 더해지면서 중동발 에너지 공급망 불안이 중층적으로 심화되고 있다. 유럽중앙은행(ECB)도 에너지 발 인플레이션 장기화를 경고하며 금리를 추가 인상했다.",
+        "signal": "에너지 가격이 군사 전략과 국내 정치 사이클을 직접 연결하는 고리로 부상했다. 이는 향후 미국이 이란과의 전쟁 출구 전략을 설계할 때 경제적 고통의 시계를 무시하기 어려워졌음을 뜻한다.",
+        "what_to_watch": "유가의 110달러 돌파 여부, 미 연준의 긴급 금리 인상 결정 가능성, 중간선거 여론조사에서 경제 불만이 공화당 지지율에 미치는 영향."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "에너지 가격 급등이 공급망 전반에 비용 압력을 전이시키며, 인플레이션 재점화와 긴축 통화정책의 악순환을 촉발할 수 있다. 소비자 구매력 약화와 기업 마진 압박이 동시에 진행되는 스태그플레이션 리스크가 현실화되고 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프 행정부는 전쟁에서의 승리를 약속하며 지지층을 결집하려 하지만, 유가 급등이라는 가시적 부작용이 중산층 유권자의 이탈을 가속화할 수 있다. 뉴욕시장 선거에서 트럼프 지지자의 9%가 이탈 투표를 한 데이터가 이 우려를 뒷받침한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase",
+          "region": "Middle East"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3367099/us-producer-inflation-tops-expectations-energy-costs-jump-amid-iran-war",
+          "region": "China"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "후티의 모카 항 장악으로 홍해 봉쇄가 이론에서 현실로 전환되며 글로벌 해운 질서가 흔들리고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란의 지원을 받는 후티 반군이 홍해와 아덴만을 잇는 바브엘만데브 해협 인근 항구도시 모카를 사우디 지원 정부군으로부터 탈취했다. 전 세계 물동량 약 12%가 통과하는 이 수로에 대한 위협이 현실화되며 브렌트유가 배럴당 106달러를 넘어섰다.",
+        "why_it_matters": "모카 장악은 단순한 전장 확대가 아니라 글로벌 물류·에너지 공급망의 핵심 동맥을 통제권 내에 두겠다는 전략적 포석이다. 실질적 항로 봉쇄가 현실화될 경우 아시아-유럽 해운 비용 급등, 컨테이너 적체, 에너지 수입국의 충격이 연쇄적으로 발생한다.",
+        "what_is_changing": "후티는 그간 드론·미사일로 홍해 선박을 위협해 왔지만, 이제 항구 자체를 점령함으로써 물리적 거점 기반의 해상 통제 역량을 확보했다. 위협 수준이 '공격 가능성'에서 '거점 통제'로 질적으로 전환됐다.",
+        "connection": "이스라엘-헤즈볼라 갈등, 미-이란 전쟁과 맞물려 중동 전체 해상 통로가 복합 위협에 노출됐다. 파키스탄은 메카 협정 하 군사 대응에 거리를 두고 있어, 후티 억제를 위한 다자 해군 연합 구성이 더 어려워졌다.",
+        "signal": "중동 지역 갈등이 지역 분쟁을 넘어 글로벌 공급망 인프라를 직접 인질로 삼는 '지정학적 인프라 전쟁' 단계로 진입하고 있다는 초기 신호다.",
+        "what_to_watch": "국제 해군 연합의 모카 탈환 또는 항로 방어 작전 여부, 아시아-유럽 해운 운임 지수의 추가 급등, 이란의 대후티 물자 지원 경로 변화."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "홍해 항로 차질이 현실화되면 수에즈 운하 우회 비용 급증, 컨테이너 운임 재폭등, 소비재 공급망 비용 전가가 다시 시작된다. 2024~2025년 홍해 위기 때 겪은 물류 충격의 재현 또는 심화 가능성이 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "후티의 지속적 영토 확장은 사우디 주도 예멘 평화 프로세스가 사실상 실패했음을 보여준다. 이란의 지역 내 프록시 전략이 전쟁 중에도 확장되고 있다는 점에서, 미-이란 협상의 조기 타결 가능성을 더욱 낮추는 신호로 읽힌다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/yemen-houthis-take-control-of-strategic-red-sea-port-city/a-79220628",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/iran-backed-houthi-rebels-take-strategic-port-city-in-yemen-raising-threat-to-red-sea-shipping",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3",
+          "region": "Middle East"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms",
+          "region": "Yemen"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프의 1인당 5,000달러 공약이 중간선거를 포퓰리즘 경매로 만들며 미국 정치의 새 임계점을 시험하고 있다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "트럼프 대통령이 11월 중간선거에서 공화당이 상하원을 장악할 경우 성인 1인당 5,000달러를 지급하겠다는 공약을 발표했다. 재원 조달 방안이 불분명해 실현 가능성에 의문이 제기됐으며, 공화당 내부에서도 '유권자 매수'라는 비판이 나왔다. 동시에 미 항소법원은 트럼프 행정부의 새 우편투표 규칙 도입 시도를 기각했고, 연방대법원은 미주리주 공화당 게리맨더링 선거구를 무효화했다.",
+        "why_it_matters": "선거 공약으로 현금 직접 지급을 내건 것은 선거제도의 근본적 경계를 시험하는 행위다. 동시에 사법부가 행정부와 공화당의 선거 제도 조작 시도에 잇따라 제동을 걸면서, 미국 민주주의의 제도적 복원력이 실시간으로 검증되고 있다.",
+        "what_is_changing": "트럼프의 첫 임기와 달리 두 번째 임기에서는 선거 제도 자체를 변경하려는 시도가 행정·입법·사법 전선에서 동시에 전개되고 있다. 사법부가 일부 제동을 걸고 있지만 전선이 너무 넓어 모든 시도를 차단하기 어렵다.",
+        "connection": "FCC를 통한 미디어 압박으로 지미 키멜이 상원의원 인터뷰를 유튜브로 이전한 사례, H-1B 60일 유예 폐지 추진 등 트럼프 행정부의 제도 전방위 압박과 하나의 패턴을 이룬다.",
+        "signal": "유권자에게 직접 현금을 약속하는 전략이 성과를 거둘 경우, 이는 다른 민주주의 국가에서도 포퓰리즘 선거 전략의 새 기준점이 될 수 있다.",
+        "what_to_watch": "공약의 법적 도전 결과, 공화당 내 이탈 의원 수, 유권자 여론조사에서 경제 불만과 현금 공약 지지율의 상관관계."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "선거 직전 현금 지급 공약은 재정 건전성 논란을 넘어 선거법상 유권자 매수 경계선에 걸쳐 있다. 공화당 내부 반발이 이례적으로 공개화됐다는 점은 당 결속력에 균열이 생겼음을 보여준다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "유가 급등과 인플레이션이 심화되는 상황에서 재원도 불명확한 대규모 현금 살포 공약은 재정 적자 우려를 키우고, 연준의 긴축 기조와 정면으로 충돌한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/americas/20260910-what-to-know-about-trump-s-5-000-dividend-pledge",
+          "region": "Europe"
+        },
+        {
+          "source": "Daily Mail (UK)",
+          "link": "https://www.dailymail.com/news/article-16120905/Republicans-turn-Trump-voter-bribe-midterms.html",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/10/us-appeals-court-rejects-trump-bid-to-implement-new-vote-by-mail-rules",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/10/us-supreme-court-blocks-republican-drawn-congressional-map-in-missouri",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "뉴델리 BRICS 정상회의에서 제재 대상국 지도자들이 모여 서방 주도 질서에 대한 대안 구축을 선언했다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "인도 뉴델리에서 열린 제18차 BRICS 정상회의에 러시아 푸틴 대통령과 이란 대통령이 참석해 모디 총리와 회동했다. 에너지·식량 안보·글로벌 무역 긴장이 핵심 의제였으며, 이란 대통령은 별도로 모디와 양자회담을 갖고 서아시아 분쟁 현안을 협의했다.",
+        "why_it_matters": "미국의 대이란 전쟁과 대러 제재가 동시에 진행되는 국면에서, 서방 제재의 주요 표적인 두 정상이 인도의 중립적 외교 무대를 통해 공개적으로 외교 행보를 펼쳤다는 사실 자체가 제재 포위망의 실효성에 의문을 제기한다.",
+        "what_is_changing": "BRICS는 창설 20주년을 맞아 단일통화·정치연합 수준의 통합에는 미치지 못했지만, 서방 중심 다자질서에 대한 '존재하는 대안 플랫폼'으로서의 역할을 공고히 하고 있다. 제재 우회·에너지 거래·위안화 결제 협력이 제도적 틀 안으로 들어오는 흐름이다.",
+        "connection": "이란이 중국과의 물물교환으로 수십억 달러 규모의 군사 장비를 포함한 제품을 수입해 온 사실이 이날 별도로 확인됐다. 북한도 러-우 전쟁 참전 수익을 무기 개발에 쏟아붓고 있다는 분석이 나왔다. 반서방 경제 연대의 실질적 동작 메커니즘이 확인되고 있다.",
+        "signal": "서방의 제재와 군사 압박이 오히려 러시아·이란·중국·북한의 경제·군사 협력을 촉진하는 역설적 결과를 낳고 있다는 구조적 신호다.",
+        "what_to_watch": "BRICS 공동성명의 대달러 결제 대안 언급 수위, 인도의 대러·대이란 에너지 거래 확대 규모, 미국의 대인도 제재 압박(CAATSA) 현실화 여부."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "인도는 서방과의 관계를 유지하면서 BRICS 의장국으로서 제재 대상국들을 중재하는 이중 외교를 구사하고 있다. 이는 탈냉전 이후 보기 드문 '전략적 중립'의 현대적 재현이다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "에너지·식량 거래의 달러 외 결제 비중이 BRICS 프레임에서 제도화될 경우, 장기적으로 달러 기반 금융 제재의 비용 대비 효과가 급격히 떨어질 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms",
+          "region": "India"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/amid-west-asia-conflict-iran-president-to-meet-modi-today/articleshow/134030203.cms",
+          "region": "India"
+        },
+        {
+          "source": "Straits Times",
+          "link": "https://www.straitstimes.com/asia/how-a-billion-dollar-sanctions-dodge-kept-chinese-goods-flowing-to-iran",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/09/10/brics-at-20-successes-and-failures-of-the-world-s-largest-economic",
+          "region": "Global"
+        }
+      ]
+    }
+  ]
+}
