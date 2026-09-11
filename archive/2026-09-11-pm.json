@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-11",
+  "session": "pm",
+  "time": "21:09",
+  "global_picture": {
+    "world_right_now": [
+      "중동 전선이 이란-미군 충돌·후티 바브엘만데브 장악·이스라엘 레바논 작전으로 동시 확전 중이다",
+      "후티가 페림섬을 점령해 아시아-유럽 해상 교역의 병목인 바브엘만데브 해협 봉쇄를 현실화했다",
+      "뉴델리 BRICS 정상회의에서 푸틴·시진핑·모디가 회동하며 서방 주도 국제 질서의 대항 구도를 가시화했다",
+      "홍콩 법원이 천안문 추모 활동가들에게 최대 7년 실형을 선고하며 시민자유 공간의 소멸을 확인했다",
+      "앤트로픽이 AI를 이용한 생물무기 개발 시도와 국가 연계 반체제 감시 공작을 공개 적발했다",
+      "헝가리 신임 총리 마자르가 러시아 외교관 10명을 추방하며 오르반 이후 EU 내 친러 블록의 균열이 시작됐다",
+      "독일에서 AfD가 주 선거 강세를 이어가며 이주민 공동체의 이탈과 메르켈의 공개 경고를 촉발했다",
+      "9·11 테러 25주년을 맞아 테러와의 전쟁 유산을 재평가하는 논쟁과 함께 영국 정보기관 수장이 새로운 대형 테러 가능성을 경고했다",
+      "알제리가 UAE와 외교를 단절하며 아프리카 지역 분쟁 개입을 둘러싼 아랍권 내부 갈등이 표면화됐다",
+      "콩고민주공화국에서 에볼라가 6개 주로 확산되고 학교 화재로 어린이 24명이 숨지는 복합 인도적 위기가 진행 중이다"
+    ],
+    "emerging_signals": [
+      "유럽 국가들이 미국 보관 금 보유분을 자국으로 회수하며 달러 중심 금융 신뢰 체계에 균열 신호가 나타나고 있다",
+      "중국 J-10CE 전투기의 실전 전과가 방산 수출 마케팅의 핵심 논거로 부상하며 서방 방산 독점 구도에 도전하고 있다",
+      "인도에서 소셜미디어 주도 풀뿌리 운동이 장관 사임을 이끌어내며 새로운 형태의 청년 정치력이 가시화되고 있다",
+      "앤트로픽의 AI 위협 보고서가 국가 연계 AI 공작의 실체를 공개 확인하며 AI 안전 거버넌스 논의를 새 국면으로 이끌고 있다",
+      "인도 UPI가 오프라인 결제를 장악하며 직불카드를 사실상 대체하는 결제 생태계의 구조 전환이 진행 중이다"
+    ],
+    "structural_trends": [
+      "바브엘만데브에서 호르무즈까지 중동 해상 교통로 전체가 분쟁 변수로 전환되면서 글로벌 해운 경로 재편이 불가역적 단계로 진입하고 있다",
+      "BRICS가 서방 주도 국제금융기구 개혁을 공동 요구하며 다극 질서를 향한 제도적 압력을 체계화하고 있다",
+      "홍콩 국가보안법의 반복 적용이 아시아 시민자유의 기준선 자체를 낮추는 구조적 경로로 굳어지고 있다",
+      "AI가 생물무기·선거 개입·반체제 감시 등 안보 위협의 핵심 수단으로 전환되며 규제 없는 AI 경쟁의 비용이 현실화되고 있다",
+      "유럽 내 극우 정당의 지방 선거 우세가 이민·민주주의 담론의 중심을 이동시키며 주류 정치 지형을 재편하고 있다",
+      "우크라이나 전쟁에서 검증된 드론 전술이 미얀마 내전으로 이전되며 비대칭 전쟁의 세계적 확산이 가속되고 있다"
+    ],
+    "what_changed_today": [
+      "후티가 모카 항에 이어 페림섬까지 장악하며 홍해 봉쇄가 이론적 위협에서 물리적 통제로 전환됐다",
+      "이란이 바레인·요르단 주둔 미군 기지에 실질적 피해를 입혔다는 사실이 미국 당국자에 의해 공식 인정됐다",
+      "헝가리 새 총리가 러시아 외교관 추방이라는 직접 행동을 취하며 오르반 시대와의 단절을 행동으로 입증했다",
+      "앤트로픽이 AI 생물무기 악용 시도와 국가 연계 반체제 감시 공작을 처음으로 공개 보고서로 공개했다",
+      "BRICS 재무장관들이 IMF·세계은행 구조 개혁 요구 성명을 채택하며 제도 변화 압력을 공식화했다"
+    ],
+    "what_to_watch_next": [
+      "후티의 바브엘만데브 통제가 실제 상선 운항 차단으로 이어질지, 사우디·미군의 군사 대응 수위가 어디까지 높아질지",
+      "이란-미군 충돌이 공식 전쟁 선언 없이 어떤 형태로 관리 또는 확전될지",
+      "BRICS 정상선언이 달러 대안 결제 체계나 국제금융기구 개혁에 대한 구체적 실행 계획을 담을지",
+      "헝가리에 대한 러시아 가스 공급 중단이 현실화될 경우 EU의 에너지 연대 대응 여부",
+      "앤트로픽 보고서 공개 이후 AI 안전 규제에 관한 미중 정상회담 의제 설정 여부",
+      "캘리포니아 소셜미디어 알고리즘 규제법에 대한 빅테크의 법적 대응 및 다른 주로의 확산 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "후티, 바브엘만데브 해협 페림섬 장악…홍해 봉쇄가 현실 통제로 전환됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란 지원을 받는 예멘 후티 반군이 홍해 연안 항구 모카와 두바브에 이어 바브엘만데브 해협의 전략 거점인 페림(마윤)섬을 점령했다. 사우디 지원 예멘 정부군은 해당 섬에서 철수했으며, 사우디아라비아는 수십 차례 공습으로 맞대응하고 있다.",
+        "why_it_matters": "바브엘만데브는 아시아-유럽 해상 무역량의 약 12%가 통과하는 병목 지점이다. 페림섬 장악은 후티가 해협 양쪽 기슭에 대한 물리적 접근성을 갖게 됐음을 의미하며, 상선 억류·공격의 실질적 역량이 질적으로 높아졌다.",
+        "what_is_changing": "이전까지 후티의 홍해 위협은 미사일·드론을 이용한 원거리 공격에 의존했다. 이제 해협 내 주요 섬을 직접 점령함으로써 봉쇄가 이론적 위협에서 물리적 통제의 차원으로 전환됐다.",
+        "connection": "파키스탄은 사우디와 이란 모두와 관계를 유지해온 중재국으로서 편 선택 압박에 직면했으며, 한국도 이란 외교장관과 호르무즈 해협 항행 자유를 별도로 논의하는 등 아시아 국가들의 독립 외교 채널이 가동되고 있다. 유럽의 에너지 공급선과 아시아 수출 기업 모두에 직접적 비용이 발생할 수 있다.",
+        "signal": "홍해에서 호르무즈까지 중동의 주요 해상 교통로가 동시에 분쟁 변수로 전환되고 있다는 구조적 신호다.",
+        "what_to_watch": "후티가 실제 상선 통행을 물리적으로 차단·나포하는지, 미군 및 다국적 해군의 대응 수위, 사우디가 지상 작전으로 전환할지 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "아시아-유럽 해운 운임이 다시 급등 압력을 받을 수 있으며, 기업들은 아프리카 희망봉 우회 경로로 전환하는 비용 부담을 감수하거나 리스크를 감당하는 선택에 직면한다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란의 대리전 전략이 예멘을 발판으로 지역 세력 균형을 재편하고 있으며, 사우디아라비아의 군사적 대응 능력과 미국의 지역 개입 의지가 동시에 시험대에 올랐다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route",
+          "region": "Middle East"
+        },
+        {
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3367232/yemens-houthis-reach-strategic-island-bab-el-mandeb-strait",
+          "region": "China"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
+          "region": "Europe"
+        },
+        {
+          "source": "Straits Times",
+          "link": "https://www.straitstimes.com/asia/as-saudi-tensions-with-iran-backed-houthis-escalate-mediator-pakistan-faces-pressure-to-choose-a",
+          "region": "Southeast Asia"
+        }
+      ]
+    },
+    {
+      "headline": "이란-미군 충돌 공식 인정, 이스라엘 레바논 작전 병행…중동 전선이 동시 확전 중이다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국 당국자가 이란의 바레인·요르단 주둔 미군 기지 공격으로 심각한 피해가 발생했다고 공식 확인했다. 동시에 이스라엘군은 레바논 남부 알리 알-타헤르 능선의 헤즈볼라 지하 터널망을 1,100톤 이상의 폭발물로 파괴했고, 이는 미국 지질조사국 기준 규모 4.1의 지진파를 발생시켰다. 트럼프는 이란을 향해 '영리하게 굴지 말라'고 공개 경고했다.",
+        "why_it_matters": "이란과 미군 간의 직접 충돌이 공식적으로 확인된 것은 이번 분쟁 단계를 새로운 임계점으로 끌어올린다. 이란 핵 프로그램, 후티 지원, 헤즈볼라 지원이 하나의 전선으로 수렴되고 있다.",
+        "what_is_changing": "기존에는 이란의 대리세력(후티·헤즈볼라)이 미군과 이스라엘을 간접 압박하는 구도였다면, 이제 이란이 미군 기지를 직접 타격했다는 사실이 확인되며 직접 충돌의 문턱이 낮아졌다.",
+        "connection": "영국 경제 전망 보고서는 '이란 전쟁 비용'을 성장 둔화의 외부 충격 요인으로 명시하고 있으며, 미국 디젤 가격 급등(갤런당 6달러 돌파)도 이 맥락과 연결된다.",
+        "signal": "중동 내 다중 전선이 동시에 열리는 것은 냉전 이후 유례없는 지역 질서 붕괴의 초기 신호일 수 있다.",
+        "what_to_watch": "미국이 이란 본토에 대한 군사 보복을 감행할지, 전쟁이 공식 선포 없이 어떤 수위에서 관리될지, 이스라엘-헤즈볼라 충돌이 레바논 본토로 전면 확대될지"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프 행정부는 이란에 대한 군사적 강경 노선을 유지하면서도 중간선거를 앞두고 전쟁의 비용이 국내 정치에 미치는 영향을 저울질하는 이중 압박에 놓여 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "유가 상승과 해상 운임 급등이 맞물리며 글로벌 인플레이션 압력이 재점화될 수 있고, 영국을 포함한 유럽 경제의 하방 리스크가 구체화되고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan",
+          "region": "Middle East"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "뉴델리 BRICS 정상회의, 서방 주도 질서에 대한 제도적 도전을 공식화했다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "인도 뉴델리에서 개막한 BRICS 정상회의에 푸틴·시진핑·모디 등이 참석했으며, 시진핑은 2019년 이후 처음으로 인도를 방문했다. 재무장관·중앙은행 총재 사전 회의에서는 IMF·세계은행 등 국제금융기구의 구조 개혁과 신흥국 발언권 강화를 요구하는 공동 성명이 채택됐다. 필리핀도 처음으로 참관국 자격으로 참석했다.",
+        "why_it_matters": "BRICS가 단순한 경제 협력 포럼을 넘어 국제 금융·안보 질서 개혁을 집단적으로 요구하는 플랫폼으로 진화하고 있음을 보여준다. 서방 제재 대상국(러시아·이란)과 비동맹 국가들이 동일한 테이블에 앉아 공동 성명을 낸다는 사실 자체가 지정학적 신호다.",
+        "what_is_changing": "이전의 BRICS는 경제 성장 기대를 공유하는 느슨한 클럽이었다. 이제는 국제금융기구 개혁 요구, 달러 의존 축소, 우크라이나·중동 분쟁에 대한 대안적 입장 조율 등 제도적 대항 기능을 수행하는 블록으로 전환 중이다.",
+        "connection": "유럽 국가들의 금 보유분 미국 이전 회수, 메타의 라틴아메리카 팩트체킹 구조 변화 등 다양한 분야에서 미국 중심 시스템에 대한 신뢰 저하가 동시에 진행되고 있다.",
+        "signal": "BRICS 내부 결속이 완전하지 않더라도(인도는 반서방 노선에 거리를 두고 있음), 이 회의 자체가 서방의 일방적 패권 행사를 제약하는 구조적 압력으로 작동하고 있다.",
+        "what_to_watch": "정상선언이 달러 대안 결제 체계나 제재 우회 메커니즘에 대한 구체적 합의를 담을지, 인도가 중재자 역할을 유지하며 BRICS의 결속 방향을 어느 쪽으로 이끌지"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "인도는 BRICS가 반서방 동맹으로 굳어지는 것을 막으려 하지만, 러시아·중국의 의제 설정력이 강해지면서 인도의 중재 공간이 좁아지고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "국제금융기구 개혁 요구가 구체적 실행 계획으로 이어진다면 신흥국의 IMF 의존도를 낮추고 달러 기축통화 체계에 구조적 균열을 만들 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo",
+          "region": "Global"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars",
+          "region": "Europe"
+        },
+        {
+          "source": "Straits Times",
+          "link": "https://www.straitstimes.com/asia/brics-finance-chiefs-urge-reform-of-global-development-financial-institutions",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/11/bric-by-bric-has-brics-challenged-the-western-dominated-world",
+          "region": "Global"
+        }
+      ]
+    },
+    {
+      "headline": "앤트로픽, AI를 이용한 생물무기 개발 시도와 국가 연계 반체제 감시 공작을 동시 적발했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "AI 기업 앤트로픽이 위협 인텔리전스 보고서를 통해 자사 AI 모델을 이용한 생물무기 제조 시도를 탐지·차단했다고 밝혔다. 동시에 중국·이란·서아프리카 정부와 연계된 것으로 추정되는 세력이 AI를 활용해 홍콩 민주화 운동가 등 해외 반체제 인사와 소수민족을 감시하는 공작을 2026년 상반기에 수행했음을 공개했다. 또한 2027년 케냐 총선 개입을 노린 AI 기반 소셜미디어 영향 공작도 포착됐다.",
+        "why_it_matters": "AI가 대량살상무기 개발과 권위주의적 탄압의 실질적 도구로 이미 활용되고 있다는 사실이 기업 차원에서 공식 확인된 것은 처음에 가깝다. 이는 AI 안전 논의를 가상 시나리오에서 현실 대응의 영역으로 끌어올린다.",
+        "what_is_changing": "이전에는 AI 위험이 장기적·잠재적 위협으로 논의됐다면, 이제는 국가 행위자들이 현재 진행형으로 AI를 무기화하고 있다는 증거가 공개 보고서 형태로 제시되고 있다.",
+        "connection": "미중 정상회담 전 AI 안전 의제 부상, 인도 재무장관의 AI-선거 개입 우려 발언, AI 에이전트의 자율 해킹 사례 등과 맞물려 AI 거버넌스가 국제 안보 의제의 중심으로 이동하고 있다.",
+        "signal": "AI 기업들이 자사 플랫폼의 무기화를 탐지·공개하는 '위협 인텔리전스 보고서' 관행이 정착될 경우, 이는 AI 규제 논의에서 민간 기업의 역할을 새롭게 정의하는 전환점이 될 수 있다.",
+        "what_to_watch": "각국 정부가 이 보고서를 AI 안전 규제 입법의 근거로 활용할지, 미중 정상회담에서 AI 안전이 실질적 합의 의제로 채택될지, 다른 AI 기업들의 유사 공개 사례가 이어질지"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "AI 기업들이 자체 안전 탐지 역량을 보유하고 있다는 사실이 증명됐지만, 동시에 이들이 국가 행위자의 공격 벡터가 되고 있다는 구조적 취약성도 드러났다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "중국·이란 연계 세력의 AI 기반 반체제 감시가 확인됨으로써 기술 기업에 대한 각국의 규제 압력과 지정학적 진영 논리가 AI 시장에 본격 개입할 명분이 생겼다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o",
+          "region": "Global"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/technology/20260911-anthropic-ai-surveillance-targeting-dissidents-china-iran-west-africa",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons",
+          "region": "Global"
+        }
+      ]
+    }
+  ]
+}
