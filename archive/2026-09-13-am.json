@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-13",
+  "session": "am",
+  "time": "06:23",
+  "global_picture": {
+    "world_right_now": [
+      "이란 연계 세력이 사우디 송유관 드론 공격·홍해 거점 장악·이라크 경유 공작을 동시에 전개하며 중동 에너지·안보 위기가 복합적으로 고조되고 있다",
+      "뉴델리 BRICS 정상회의에서 탈달러 결제 확대와 중동 자제 공동선언이 채택되고, 모디-시진핑 6년 만의 정상회담이 열리며 글로벌 사우스의 외교 재편이 가속화되고 있다",
+      "독일 동부 주 선거에서 극우 AfD가 압승하자 15만 명이 반AfD 시위에 나서며 유럽 정치 지형이 분열 국면으로 진입하고 있다",
+      "Reform UK가 48시간 내 암호화폐 억만장자로부터 7,200만 파운드를 수령해 영국 역대 최대 단기 정치 후원 기록을 세웠다",
+      "AI 업계 최고 수장들이 개발 속도 조절을 공개 촉구하는 동시에, 내부 연구자가 '생명을 위험에 빠뜨리고 있다'며 업계를 완전히 이탈하는 사태가 발생했다",
+      "프랑스 노르망디 열차가 탈선해 44명이 부상했으며, 경찰은 선로 위 파편을 근거로 의도적 사보타주 가능성을 수사 중이다",
+      "불가리아의 우크라이나 지원 탄약 공장에서 한 달 간격으로 연속 화재가 발생해 러시아의 유럽 내 하이브리드 사보타주 의혹이 커지고 있다",
+      "트럼프가 아일랜드 방문 중 '아일랜드 통일이 환상적'이라고 발언해 영국 다우닝가가 즉각 굿프라이데이 협정 준수를 재확인했다",
+      "콩고민주공화국 에볼라가 7,000건을 넘어 역대 최대 규모를 기록하며 7번째 주로 확산 중이다",
+      "필리핀 여객선 화재 사망자가 76명으로 늘어났으며 실종자 수색이 계속되고 있다"
+    ],
+    "emerging_signals": [
+      "Anthropic이 말레이시아·케냐 선거를 겨냥한 AI 기반 여론 조작 공작을 탐지해 공개하며 AI의 민주주의 위협이 실체화되고 있다",
+      "유럽 중앙은행들이 미국 보관 금괴를 자국으로 이전하는 속도가 빨라지며 달러 기반 신뢰 체계에 균열 신호가 감지된다",
+      "중국 PLA가 레이저 무장 수륙양용 차량 신형을 개발하는 정황이 포착되며 대만 분쟁 대비 드론 대응 역량 강화 움직임이 관찰된다",
+      "암호화폐 자산가들이 미국·유럽 동시에 극우·포퓰리스트 정치 세력에 대규모 자금을 투입하는 패턴이 구조화되고 있다",
+      "나비에-스토크스 방정식 관련 클레이 수학연구소 공식 발표가 수학계 최대 난제 해결 가능성을 열어놓고 있다"
+    ],
+    "structural_trends": [
+      "이란이 대리 세력을 통한 분산 압박과 직접 충돌 회피를 병행하는 '신중한 확전' 전략을 중동 전역에서 체계적으로 구사하고 있다",
+      "BRICS가 반서방 연대를 넘어 현지 통화 결제·AI 협력 등 실질적 대안 질서 구축 플랫폼으로 진화하고 있다",
+      "유럽 전역에서 극우 세력이 선거 승리와 대규모 자금 유입을 동시에 달성하며 주류 정치 생태계를 위협하는 구조적 흐름이 강화되고 있다",
+      "AI 업계 내부에서 안전 우려가 공론화되고 있으나 규제 체계가 뒤따르지 못하는 간극이 지속적으로 벌어지고 있다",
+      "러시아가 우크라이나 지원 인프라에 대한 사보타주와 민간 시설 공습, NATO 인접국 영공 침범을 동시에 구사하며 유럽 전선을 다층적으로 압박하고 있다"
+    ],
+    "what_changed_today": [
+      "이란 연계 세력의 사우디 송유관 공격이 이라크 정부의 공식 확인과 국경 검문소 폐쇄로 이어지며 이라크-이란 긴장이 새로운 축으로 부상했다",
+      "BRICS 정상회의가 탈달러 결제 합의와 모디-시진핑 정상회담이라는 구체적 성과를 내며 선언 수준을 넘어선 실질적 합의 단계로 진입했다",
+      "독일 AfD의 동부 압승이 15만 명 반시위를 촉발하며 독일 정치 분열이 단순 선거 결과를 넘어 사회적 충돌 국면으로 전환됐다",
+      "Reform UK가 이틀 만에 7,200만 파운드를 조달하며 영국 선거 지형의 재정 균형이 급격하게 기울었다",
+      "Anthropic CEO의 AI 속도 조절 촉구에 알트먼과 머스크가 동조하며 경쟁 관계를 넘어선 업계 공동 경고가 처음 가시화됐다"
+    ],
+    "what_to_watch_next": [
+      "사우디 동서 파이프라인 가동 재개 여부와 국제 원유 가격 반응",
+      "독일 메클렌부르크-포어포메른 선거에서 AfD가 첫 극우 주정부를 구성할 수 있는지",
+      "G20 마이애미에서 젤렌스키-푸틴 직접 회담 성사 여부",
+      "콩고 에볼라의 르완다·우간다 확산 봉쇄 성공 여부",
+      "Reform UK의 7,200만 파운드 기부에 대한 영국 선관위의 법적 판단",
+      "미국의 '외국인 테러리스트 추방 법원' 재가동이 이민 정책 전반으로 확대되는지",
+      "테슬라 사이버캡 NHTSA 안전 감사 결과와 자율주행 규제 프레임워크의 향방"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "이란 연계 세력, 사우디 송유관 타격·홍해 거점 장악·이라크 경유 공작을 동시에 전개하며 중동 에너지 위기를 다층적으로 고조시키고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이라크 영토에서 발사된 드론이 사우디아라비아 동서 횡단 파이프라인(1,200km)을 타격해 시설이 폐쇄됐다. 이라크 정부는 공식 확인 후 이란 접경 지역 군 지휘관을 경질하고 이란과의 국경 검문소 3곳을 폐쇄했다. 동시에 후티 반군은 바브엘만데브 해협의 모카·페림 등 전략 거점을 추가 장악했다.",
+        "why_it_matters": "사우디 동서 파이프라인은 호르무즈 해협 봉쇄 시 원유를 대체 수출할 수 있는 핵심 안전판이다. 이 노선이 차단되면 이란이 호르무즈 봉쇄와 파이프라인 타격을 동시에 구사할 수 있어 에너지 공급 취약성이 급격히 높아진다.",
+        "what_is_changing": "이란의 대리전 전략이 예멘 단일 전선에서 이라크·홍해·사우디 영토를 동시에 압박하는 다축 전선으로 확대되고 있다. 이라크가 이란 연계 민병대를 직접 제어하는 압박을 받게 됐다는 점도 새로운 변화다.",
+        "connection": "BRICS 정상회의에서 이란-UAE 최고위급 접촉이 동시에 이뤄진 것은 군사적 압박과 외교적 줄다리기가 병행되는 이중 전략의 단면이다. 후티의 홍해 장악은 글로벌 해상 운송 비용에도 직접 영향을 미친다.",
+        "signal": "이란이 직접 충돌을 피하면서도 대리 세력을 통해 사우디의 에너지 수출 체계 전반을 조이는 '신중한 확전' 전략이 체계화되고 있다는 신호다.",
+        "what_to_watch": "사우디 파이프라인의 재가동 시점과 국제 원유 가격 반응, 이라크의 이란 연계 민병대 통제 의지, 미국의 대사우디 군사 지원 확대 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "호르무즈 해협 봉쇄의 대안인 파이프라인이 타격받으면서 에너지 시장은 이란의 이중 차단 시나리오를 가격에 반영하기 시작할 수 있다. 원유 가격 급등은 글로벌 인플레이션 압력을 다시 자극할 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란은 미국 중간선거를 앞두고 전면전을 피하면서 동맹국들에 최대 압박을 가하는 시간표를 조율하고 있다. 이라크 정부가 이란과의 국경을 폐쇄한 것은 이라크 내부 정치 균형이 이란 압박에 반응하기 시작했음을 시사한다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "에너지 가격 급등은 글로벌 남반구 저소득 국가들의 에너지 접근성에 직접적 타격을 가하며, 이 지역 정치 불안을 증폭시킬 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
+          "region": "Middle East"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "뉴델리 BRICS 정상회의, 탈달러 결제 합의와 모디-시진핑 6년 만의 정상회담으로 세계 질서 재편 플랫폼으로의 전환을 가속화하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "인도 뉴델리에서 열린 BRICS 정상회의에서 11개국이 현지 통화 기반 무역·결제 확대와 AI 협력에 합의하는 뉴델리 선언을 채택했다. 모디 총리와 시진핑 주석이 2020년 히말라야 충돌 이후 6년 만에 인도 땅에서 정상회담을 갖고 국경 분쟁 해결 의지를 공동 천명했다. 회의 기간 중 이란 대통령과 UAE 아부다비 왕세자가 전쟁 발발 후 첫 최고위급 접촉을 가졌다.",
+        "why_it_matters": "BRICS가 반서방 선언 수준을 넘어 현지 통화 결제, AI, 에너지 같은 구체적 협력 분야에서 합의를 도출하기 시작했다는 점이 이번 회의의 질적 변화다. 인도-중국 관계 해빙은 글로벌 사우스가 단일한 외교 목소리를 낼 수 있는 조건을 만들어가고 있다.",
+        "what_is_changing": "BRICS가 '선언만 하는 포럼'에서 실질적 경제·안보 협력 체계를 구축하는 플랫폼으로 성격을 전환하고 있다. 인도는 반서방 블록화를 견제하면서도 중국·러시아와의 관계를 강화하는 복합 외교를 통해 중재자 지위를 구축하고 있다.",
+        "connection": "탈달러 결제 합의는 유럽 중앙은행들의 금 자국 이전 가속화와 맞물려 달러 중심 국제 금융 체계에 대한 이중 압박 흐름을 형성한다. 이란-UAE 접촉은 BRICS가 중동 외교 채널로도 기능하기 시작했음을 보여준다.",
+        "signal": "서방 주도 국제 질서와 별개로, 글로벌 사우스 국가들이 실질적 제도와 합의를 쌓아가는 '평행 국제 질서' 구축의 초기 단계가 가시화되고 있다.",
+        "what_to_watch": "탈달러 결제 시스템의 실제 구현 속도, 인도-중국 국경 협의 진전 여부, BRICS 비회원국들의 참여 확대 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "현지 통화 결제 확대는 달러 수요를 구조적으로 줄이는 방향이지만, 실제 글로벌 교역에서 기축통화 지위를 단기간에 대체하기는 어렵다. 인도-중국 무역 불균형(중국 수출이 인도의 약 7배)이라는 근본 구조는 여전히 해소되지 않았다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "시진핑은 이번 회의에서 미국 정책을 우회 비판하며 회원국 연대를 촉구했다. 인도는 이를 중국 주도 블록 편입으로 해석되지 않도록 중재자 언어를 유지하면서 실익을 챙기는 줄타기 외교를 이어갔다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 협력 합의가 BRICS 선언에 처음 포함되면서, 서방 주도 AI 거버넌스 체계와 별개의 규범 경쟁이 시작될 가능성이 열렸다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3367303/chinese-leader-xi-urges-brics-play-its-due-role-bringing-peace-middle-east",
+          "region": "Asia"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/modi-xi-putin-bonhomie-car-diplomacy-gala-dinner-pahalgam-condemnation-and-new-delhi-declaration-brics-summit-key-takeaways/articleshow/134141337.cms",
+          "region": "India"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260912-brics-nations-urge-maximum-restraint-in-middle-east-war",
+          "region": "Global"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/south-asia/india-china-relations-from-conflict-to-cautious-thaw",
+          "region": "South Asia"
+        }
+      ]
+    },
+    {
+      "headline": "러시아-우크라이나 전쟁, 젤렌스키의 G20 회담 제안을 푸틴이 거부하고 민간 시설 공습과 NATO 인접국 영공 침범이 동시에 이어지며 이중 전선이 굳어지고 있다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "젤렌스키 대통령이 마이애미 G20을 계기로 푸틴과의 직접 회담을 제안했으나 크렘린은 이를 거부했다. 러시아 드론이 키이우 주유소를 공습해 민간인 2명이 사망했고, 몰도바·루마니아 영공을 반복 침범해 젤렌스키의 키시나우 이륙이 저지됐다. 유엔은 우크라이나가 전면 침공 이후 가장 혹독한 겨울을 맞을 것이라고 경고했다. 불가리아의 우크라이나 지원 탄약 공장에서도 한 달 간격으로 연속 화재가 발생해 러시아 GRU의 연루 가능성이 조사 중이다.",
+        "why_it_matters": "푸틴의 유럽 평화유지군 파견을 '전쟁 행위'로 규정한 경고와 NATO 인접국 영공 침범은 분쟁을 우크라이나 국경 내로 제한하는 암묵적 경계선이 흔들리고 있음을 시사한다. 동계 전력·수도 인프라 공격과 결합하면 인도주의 위기가 외교적 압박 수단이 된다.",
+        "what_is_changing": "러시아가 외교적 논의를 원천 차단하면서 동시에 유럽의 지원 공급망(불가리아 탄약 공장)과 인접국 심리(몰도바·루마니아 영공 침범)를 함께 압박하는 복합 전략으로 전환하고 있다.",
+        "connection": "독일 라이프치히 공항 테러 미수 사건의 배후로 GRU가 지목된 것과 함께, 유럽 전역에서 러시아의 사보타주 네트워크가 체계적으로 가동되고 있다는 증거들이 누적되고 있다.",
+        "signal": "러시아가 전선 교착 상태에서 군사적 돌파 대신 에너지·심리·공급망 압박을 통해 유럽과 우크라이나의 전쟁 지속 의지를 꺾으려는 장기 소모 전략을 본격화하고 있다는 신호다.",
+        "what_to_watch": "G20 마이애미에서 비공식 외교 접촉 가능성, 유럽 평화유지군 파견 계획의 구체화 여부, 우크라이나 동계 에너지 지원 규모"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "푸틴의 협상 거부와 NATO 인접국 영공 침범은 협상 테이블 자체를 무력화하는 전략이다. 유럽 내 평화유지군 파견 논의가 러시아의 경고를 받으면서 유럽 각국의 의지를 시험하는 외교적 압박으로도 기능하고 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "유엔이 경고한 '역대 최악의 겨울'은 전력·수도 인프라 파괴와 결합해 민간인 수백만 명의 생존 조건을 위협하며, 유럽 내 난민 압박을 다시 높일 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "독일 극우 AfD가 동부 주 선거에서 압승하고 15만 명이 반AfD 시위에 나서며 전후 독일 정치의 마지노선이 흔들리고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "독일 작센-안할트 주 선거에서 극우 AfD가 압승을 거뒀고, 전국 20여 개 도시에서 약 15만 명이 반AfD 시위에 참여했다. 다음 선거를 앞둔 메클렌부르크-포어포메른에서도 AfD가 여론조사 선두를 달리는 반면 메르츠 총리의 CDU는 7%대 역대 최저를 기록하고 있다.",
+        "why_it_matters": "AfD가 전후 독일 최초의 극우 주정부를 구성할 경우 유럽연합의 대러시아 정책, 우크라이나 지원, 이민 정책 전반에 직접적 영향을 미칠 수 있다. 독일 정치의 중도 붕괴는 유럽 전체 정치 지형의 재편 신호이기도 하다.",
+        "what_is_changing": "AfD의 극우 집권이 '가능성'에서 '현실적 시나리오'로 격상되고 있다. 동시에 대규모 반시위 발생은 사회 분열이 선거장을 넘어 거리 정치로 옮겨오고 있음을 보여준다.",
+        "connection": "영국 Reform UK의 7,200만 파운드 기부 사태와 함께, 유럽 전역에서 극우 세력이 선거 승리와 대규모 자금 유입을 동시에 달성하는 구조적 흐름이 같은 날 가시화됐다.",
+        "signal": "유럽에서 극우 세력이 주변부에서 집권 경쟁자로 진입한 것이 이제 단일 국가 현상이 아니라 대륙적 패턴으로 고착화되고 있다는 신호다.",
+        "what_to_watch": "메클렌부르크-포어포메른 선거 결과와 AfD 주정부 구성 가능성, CDU의 연정 파트너 선택, 독일 헌법재판소의 AfD 위헌 심사 재개 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "AfD의 지속적 상승은 난민·이민·경제 불안에 대한 주류 정당의 대응 실패가 누적된 결과다. 메르츠 CDU의 7% 붕괴는 보수 중도 노선이 극우의 대안을 제시하지 못하고 있음을 보여준다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "15만 명 반시위는 독일 시민사회가 극우 집권에 강한 거부감을 갖고 있음을 보여주지만, 선거 결과와 거리 반응 사이의 괴리가 커질수록 사회 갈등 수위는 높아진다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20260912-tens-of-thousands-of-people-protest-in-germany-against-far-right-afd",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260912-germany-afd-leads-in-mecklenburg-western-pomerania-merz-s-cdu-slumps-to-7",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
