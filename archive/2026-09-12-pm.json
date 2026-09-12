@@ -1,0 +1,235 @@
+{
+  "date": "2026-09-12",
+  "session": "pm",
+  "time": "20:35",
+  "global_picture": {
+    "world_right_now": [
+      "이란 연계 세력이 사우디 송유관 타격과 홍해 해협 장악을 동시에 추진하며 중동 에너지 공급망을 압박하고 있다",
+      "뉴델리 BRICS 정상회의에서 시진핑·푸틴·모디가 만나 반서방 진영의 결속과 세계 질서 재편을 논의했다",
+      "젤렌스키가 G20 계기 푸틴과의 직접 회담 의향을 밝혔으나 러시아는 산업 시설 공습을 멈추지 않고 있다",
+      "북한이 한미일 합동훈련 종료 직후 탄도미사일을 발사하며 도발 패턴을 반복하고 있다",
+      "홍콩 법원이 천안문 추모 활동가에게 최대 7년 실형을 선고하며 시민 자유 공간이 다시 좁아졌다",
+      "스웨덴 초박빙 총선을 앞두고 유럽 극우 세력의 제도권 진입 여부가 대륙적 관심사로 부상했다",
+      "테슬라 사이버캡이 핸들 없이 텍사스에서 상업 운행을 시작하자 미국 안전 당국이 즉각 감사에 착수했다",
+      "AI 기반 여론 조작이 말레이시아 선거를 겨냥해 탐지됐으며 민주주의 위협으로 공식 규정됐다",
+      "CIA가 중국 AI·반도체 분야 스파이 활동을 공개 인정하자 베이징이 보복을 경고했다",
+      "브라질 대선 한 달을 앞두고 플라비우 보우소나루에 대한 부패 수사가 개시됐다"
+    ],
+    "emerging_signals": [
+      "AI 도구를 이용한 대규모 계정 탈취가 모의 실험에서 입증되며 사이버 위협의 새로운 단계가 열리고 있다",
+      "구글의 검색 링크 구조 변경이 AI 스크래핑 차단을 겨냥하며 웹 생태계 통제 경쟁이 심화되고 있다",
+      "클레이수학연구소의 나비에-스토크스 관련 발표와 AI 수학 난제 접근이 과학 패러다임 전환의 신호일 수 있다",
+      "인도의 대중 무역 의존이 공급망 다각화 의지에도 불구하고 구조적으로 심화되는 모순이 드러나고 있다",
+      "짐바브웨 리튬 밀수 사건이 아프리카 핵심 광물 거버넌스 공백 문제를 재부각시키고 있다"
+    ],
+    "structural_trends": [
+      "이란 연계 세력이 드론·해상 거점을 동시 활용하며 중동 에너지 인프라 압박 전략을 구조화하고 있다",
+      "BRICS가 서방 주도 질서에 대한 대안 플랫폼으로 외연을 넓히며 글로벌 사우스 결속의 제도화 단계로 진입하고 있다",
+      "유럽 전역에서 반이민 정서가 선거 정치를 재편하며 극우 세력의 제도권 진입이 가속되고 있다",
+      "AI가 사이버 공격·여론 조작·자율주행·수학 연구까지 확산되며 기술·안보·민주주의의 경계를 동시에 흔들고 있다",
+      "러시아의 드론 위협이 NATO 인접 영공으로 확대되며 전쟁의 지리적 경계가 유럽 내부로 이동하고 있다"
+    ],
+    "what_changed_today": [
+      "어제 예고됐던 후티의 홍해 거점 장악이 사우디 송유관 폐쇄와 결합되며 에너지 위기가 복합적으로 현실화됐다",
+      "BRICS 정상회의가 공동선언 불확실성을 넘어 실제로 개막했고 시진핑이 AI 협력 이니셔티브를 제안하며 주도권을 행사했다",
+      "젤렌스키가 새롭게 G20 계기 푸틴 직접 회담 의사를 밝혀 외교 해법 논의가 구체화 단계로 진입했다",
+      "북한이 한미일 훈련 종료 다음날 미사일 도발을 단행하며 어제까지는 없었던 한반도 긴장 변수가 추가됐다"
+    ],
+    "what_to_watch_next": [
+      "사우디 송유관 복구 일정 및 국제 유가 반응 추이",
+      "BRICS 공동선언 최종 채택 여부와 이란의 신개발은행 가입 논의 결과",
+      "러시아의 G20 참석 가능성과 젤렌스키-푸틴 회담 성사 여부",
+      "스웨덴 총선 결과 및 극우 연립 참여 여부",
+      "테슬라 사이버캡 NHTSA 감사 결과와 자율주행 규제 입법 동향",
+      "북한 미사일 추가 도발 여부 및 한미일 대응 조치",
+      "CIA 발언 이후 시진핑 방미 일정 및 미중 외교 분위기 변화",
+      "브라질 보우소나루 부패 수사가 대선 판세에 미치는 영향"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "이란 연계 세력, 사우디 송유관 타격과 홍해 해협 장악을 동시에 감행하며 중동 에너지 공급망을 조이고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이라크 영토에서 발사된 드론이 사우디아라비아 핵심 석유 파이프라인을 타격해 운영이 중단됐다. 동시에 후티 반군이 바브엘만데브 해협 인근 페림섬과 항구도시 모카를 장악하며 홍해 주요 항로에 대한 통제력을 강화했다. 이라크 당국은 이란 국경 인근에서 드론이 발사됐다고 보고 군 지휘관을 해임하고 수사에 착수했다.",
+        "why_it_matters": "사우디아라비아는 세계 최대 원유 수출국이며, 바브엘만데브는 전 세계 해상 교역량의 상당 부분이 통과하는 전략 해협이다. 두 거점이 동시에 압박받으면 에너지 가격 상승과 글로벌 공급망 혼란이 복합적으로 발생할 수 있다.",
+        "what_is_changing": "과거 개별적으로 발생하던 드론 공격과 해상 위협이 동시다발적·조율된 방식으로 전개되고 있다는 점이 새롭다. 이란의 직접 개입 없이도 대리 세력이 에너지 인프라를 체계적으로 위협하는 구조가 확립되고 있다.",
+        "connection": "트럼프의 대이란 전쟁 결정이 역내 긴장을 고조시킨 배경으로 작용하고 있으며, 이란이 미국 중간선거를 앞두고 신중한 확전 전략을 구사하고 있다는 분석과도 연결된다.",
+        "signal": "이란 연계 세력의 다중 거점 동시 압박은 단순한 보복이 아니라 협상력을 높이기 위한 구조화된 전략일 수 있다.",
+        "what_to_watch": "사우디 파이프라인 복구 시점, 국제 유가 급등 여부, 미국 및 사우디의 대응 조치, 이란과의 협상 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "바브엘만데브와 사우디 송유관이 동시에 위협받으면 원유 수급 불안이 에너지 가격을 끌어올리고 이미 높은 인플레이션 압력을 가중시킬 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란은 직접 참전을 피하면서도 대리 세력을 통해 서방과 사우디를 동시에 압박하는 전략적 모호성을 유지하고 있으며, 이는 협상 테이블에서의 레버리지를 극대화하려는 계산으로 읽힌다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "예멘에서는 1주일 새 사상자 900명과 이재민 5,000가구가 발생했으며, 전략적 게임의 대가를 민간인이 치르고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "뉴델리 BRICS 정상회의, 반서방 블록에서 세계 질서 재설계 플랫폼으로 성격이 바뀌고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "인도 뉴델리에서 BRICS 창설 20주년 정상회의가 개막해 모디·시진핑·푸틴이 3년 연속 대면했다. 시진핑은 AI 기반 신산업화 협력 이니셔티브를 제안하고 중동 평화 구축에서 BRICS의 역할을 촉구했다. 모디는 UN 안보리 개혁, 글로벌 사우스의 국제금융기구 내 대표성 확대, 연속성 보장을 위한 트로이카 메커니즘 도입 등을 공식 제안했으며, 경쟁 관계에 있는 이란·사우디·UAE를 새벽까지 이어진 협상 끝에 공동선언 서명으로 이끌었다.",
+        "why_it_matters": "BRICS는 이제 단순한 신흥국 경제 협의체를 넘어 기존 서방 주도 국제 질서의 구조적 대안을 설계하는 무대가 되고 있다. 트럼프의 관세 압박이 역설적으로 회원국 결속을 강화하는 효과를 낳고 있다는 분석도 제기됐다.",
+        "what_is_changing": "5년 전 BRICS는 공동선언조차 어려운 느슨한 협의체였지만, 지금은 AI 협력·안보리 개혁·해상 안전·개발금융까지 구체적 의제를 조율하는 수준으로 격상됐다. 인도가 반서방화를 견제하는 동시에 중재자 역할까지 수행하며 실질적 영향력을 행사하고 있다.",
+        "connection": "갈완 계곡 충돌 이후 처음인 시진핑의 인도 방문과 인도-중국 관계의 조심스러운 해빙은 양국의 대미 관세 공동 대응 필요성과 맞물려 있다. 이란의 신개발은행 가입 논의는 중동 금융 질서에도 파장을 미칠 수 있다.",
+        "signal": "BRICS가 경제에서 안보·기술·금융제도까지 의제를 확장하는 것은 미국 주도 다자체제의 공백을 신흥국 연대가 채우려는 구조적 전환의 신호다.",
+        "what_to_watch": "공동선언 최종 채택 여부, 이란 신개발은행 가입 결론, 인도-중국 국경 문제 후속 협상, 모디-시진핑 양자 합의 내용"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "인도는 BRICS를 반서방 블록이 아닌 전략적 자율성의 플랫폼으로 활용하며, 미국·중국·러시아 모두와 독자적 관계를 유지하려는 균형 외교를 구현하고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "트럼프의 관세 압박이 BRICS 회원국들이 달러 의존도를 줄이고 자체 결제·금융 시스템을 구축하는 유인을 높이고 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "시진핑이 AI 기반 신산업화 협력을 BRICS 차원에서 제안한 것은 중국이 기술 협력을 지정학적 영향력 확대의 수단으로 활용하는 전략의 연장이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/unsc-reforms-cant-be-delayed-pm-modi-makes-strong-pitch-for-change-in-world-order-at-brics-summit/articleshow/134121297.cms",
+          "region": "India"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3367303/chinese-leader-xi-urges-brics-play-its-due-role-bringing-peace-middle-east?utm_source=rss_feed",
+          "region": "China"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/south-asia/xi-takes-centre-stage-at-modis-brics-summit-as-iran-war-deepens",
+          "region": "India/China"
+        }
+      ]
+    },
+    {
+      "headline": "러시아-우크라이나 전쟁, 외교 신호와 민간 인프라 공습이 동시에 진행되는 이중 구도가 굳어지고 있다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "젤렌스키 대통령이 마이애미 G20을 계기로 푸틴과 직접 회담할 의향이 있다고 밝혔으나, 러시아는 키이우 주유소 타격으로 민간인 2명을 사망케 하고 화물선·철강 공장 등 산업 시설을 전방위 공습했다. 영국 국방장관은 러시아군 전사자가 50만 명을 넘었다고 공식 발표했으며, 유엔은 올겨울이 개전 이후 최악의 겨울이 될 것이라고 경고했다. 러시아 드론이 몰도바·루마니아 영공을 반복적으로 침범하며 전쟁의 지리적 경계도 확장되고 있다.",
+        "why_it_matters": "외교적 대화와 군사 공세가 동시에 진행되는 구도는 어느 쪽도 진심으로 협상을 원하지 않거나, 협상력을 높이기 위한 수단으로 전투를 활용하는 전략을 시사한다. 러시아 핵 위협 경고까지 더해지며 서방의 대응 범위가 제약받고 있다.",
+        "what_is_changing": "드론 위협이 우크라이나 내부를 넘어 NATO 인접국 영공으로 확장되면서 전쟁이 단순한 양자 충돌을 넘어 유럽 안보 전반의 문제로 격상되고 있다.",
+        "connection": "러시아의 핵 위협 발언과 NATO 인접국 영공 침범은 우크라이나 지원을 확대하려는 서방의 결정에 직접적인 억제 효과를 노린 것으로 분석된다. 젤렌스키의 트럼프에 대한 추가 제재 요구도 교착 상태를 돌파하려는 외교적 압박의 일환이다.",
+        "signal": "유엔의 '최악의 겨울' 경고와 산업 시설 집중 공습은 러시아가 민간 에너지 인프라 붕괴를 통해 우크라이나의 전쟁 지속 의지를 꺾으려는 전략을 구사하고 있음을 보여준다.",
+        "what_to_watch": "G20 계기 젤렌스키-푸틴 회담 성사 여부, 미국의 추가 대러 제재 발표, 우크라이나 전력 인프라 복구 현황, 러시아 드론의 NATO 영공 추가 침범 사례"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "젤렌스키의 회담 제안과 러시아의 공습 지속은 협상이 아닌 상호 레버리지 확보 경쟁으로 읽힌다. 어느 쪽도 전장 우위 없이 협상 테이블에 앉을 유인이 없다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "수백만 우크라이나 민간인이 전력과 수도 없이 겨울을 맞을 위기에 처해 있으며, 전쟁의 인도주의적 비용이 임계점에 근접하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/09/12/world-news/more-than-500000-russian-troops-killed-in-ukraine-uk-defense-chief-says/",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "북한, 한미일 훈련 종료 다음날 미사일 발사…협상 없이도 안보를 확보한 김정은의 계산",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "북한이 한국·미국·일본 3국 합동 군사훈련 종료 하루 만에 단거리 탄도미사일 여러 발을 동해로 발사했다. 트럼프의 대화 제안에도 불구하고 김정은은 핵 개발 가속과 러시아·중국과의 밀착을 유지하며 응하지 않고 있다.",
+        "why_it_matters": "북한이 미국과의 협상 없이도 러시아·중국의 외교·경제적 지지를 확보한 상황에서 협상에 나설 유인이 사라지고 있다는 분석은 한반도 비핵화의 경로 자체가 닫히고 있음을 시사한다.",
+        "what_is_changing": "과거 북한의 도발은 협상 신호와 병행되곤 했지만, 현재는 러시아와의 군사협력을 배경으로 순수한 억지력 과시 목적의 도발 패턴이 굳어지고 있다.",
+        "connection": "북한의 러시아 밀착은 우크라이나 전쟁과 연결된다. 북한이 러시아에 포탄을 공급하는 대가로 에너지·안보 지원을 받는 구조가 김정은의 협상 의존도를 낮추고 있다.",
+        "signal": "미국의 대화 제안과 무관하게 군사 도발을 반복하는 패턴은 북한이 현재의 고립 구도를 오히려 안정적으로 관리하고 있다는 신호다.",
+        "what_to_watch": "북한의 추가 도발 규모와 시점, 한미일 공동 대응 조치, 유엔 안보리 논의 가능성, 북러 군사협력의 추가 진전"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "김정은에게 트럼프와의 협상은 선택지이지 필수가 아니다. 러시아·중국이 경제적 버팀목이 되는 상황에서 협상 비용이 실익보다 크다고 판단하고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "대러 포탄 수출이 외화 수입원이 되면서 대북 제재의 효과가 구조적으로 약화되고 있으며, 이는 비핵화 협상의 경제적 레버리지를 감소시킨다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/why-north-korea-s-kim-jong-un-doesn-t-need-a-us-deal/a-79227854?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/east-asia/north-korea-launches-unidentified-projectile-toward-east-sea",
+          "region": "Southeast Asia"
+        }
+      ]
+    }
+  ]
+}
