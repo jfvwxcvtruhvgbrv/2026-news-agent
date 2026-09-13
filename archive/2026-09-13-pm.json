@@ -1,0 +1,250 @@
+{
+  "date": "2026-09-13",
+  "session": "pm",
+  "time": "21:39",
+  "global_picture": {
+    "world_right_now": [
+      "후티 반군이 바브엘만데브 해협 마윤 섬을 장악하고 사우디 동서 파이프라인이 가동 중단되며 중동 에너지 공급망이 구조적 위협에 직면했다",
+      "BRICS 뉴델리 정상회의가 이란 전쟁 공동 규탄에 실패하며 블록 내 균열을 공식화했고 의장국이 인도에서 중국으로 이양됐다",
+      "독일과 스웨덴에서 동시에 극우 세력이 주류 정치권 진입을 가속화하며 유럽 정치 지형이 구조적으로 재편되고 있다",
+      "Anthropic 내부 연구원들의 공개 이탈과 CEO의 속도 조절 요구로 AI 안전 논쟁이 업계 내부 갈등으로 폭발했다",
+      "러시아가 우크라이나 전역에 연쇄 공습을 단행하고 평화협상 제안을 거부하며 전선이 고착되고 있다",
+      "트럼프가 아일랜드 통일 지지·북미 영토 지도 게시·포클랜드 중재 의사 표명을 잇따라 쏟아내며 동맹국들의 외교적 대응을 강제하고 있다",
+      "동남아·태평양에서 여객선 사고가 하루 새 세 건 동시 발생해 인도네시아·필리핀·바누아투에서 수백 명이 실종·사망했다",
+      "유럽 중앙은행들이 미 연준 보관 금을 자국으로 이전하는 흐름이 복수 국가에서 동시에 진행되고 있다",
+      "DR콩고 에볼라가 6개 주 61개 보건구역으로 확산되며 서아프리카 공중보건 비상 상황이 심화되고 있다",
+      "필리핀 방사모로 자치지역에서 수십 년 분쟁 종식 후 역사적 첫 자치 선거가 실시됐다"
+    ],
+    "emerging_signals": [
+      "AI 에이전트의 기만·조율 행동에 대한 학계 경고가 쌓이며 AI 규제 논쟁이 '속도'에서 '행동 제어'로 이동하고 있다",
+      "영국 암호화폐 자본의 극우 정당 대규모 유입이 외국인 정치자금 규제 논쟁을 촉발하며 민주주의 자금 생태계 변화를 예고하고 있다",
+      "중국이 해저 데이터센터·강유전체 메모리·AI 반도체 설계 자급화를 동시에 발표하며 기술 자립의 복합 전선을 구축하고 있다",
+      "한국의 반도체 간첩법 시행과 인도의 반도체 투자 급증이 맞물리며 아시아 내 기술 안보 경쟁이 입법·자본 단계로 진화하고 있다",
+      "노르웨이의 말라위 대사관 폐쇄가 서방 원조국의 아프리카 외교 거점 축소 흐름의 신호로 부상하고 있다"
+    ],
+    "structural_trends": [
+      "이란 전쟁을 계기로 중동 에너지 인프라가 분쟁의 직접 표적이 되며 글로벌 에너지 공급망 위험이 상시화되고 있다",
+      "BRICS가 공동 규탄에 실패하며 '반서방 블록'이 아닌 이해관계 다원 연합으로 성격이 재정의되고 있다",
+      "유럽 극우 정당들이 반발에도 불구하고 주류 연립정부 진입을 현실화하는 단계로 진입했다",
+      "트럼프 행정부의 압박에 서방 동맹국들이 저항·굴복·전략적 회피로 갈리며 동맹 결속력이 분화되고 있다",
+      "유럽 중앙은행의 미 연준 금 이전이 탈달러화·지정학적 리스크 대비의 제도적 행동으로 구체화되고 있다",
+      "AI 업계 내부에서 개발 속도와 안전 통제를 둘러싼 공개 갈등이 구조화되며 거버넌스 공백이 가시화되고 있다"
+    ],
+    "what_changed_today": [
+      "후티 반군이 마윤 섬을 실제 점령함으로써 바브엘만데브 해협 통제가 주장에서 현실로 전환됐다",
+      "BRICS 정상회의가 이란 전쟁 규탄에 실패하며 블록의 결속력 부재가 공식 확인됐고 의장국이 중국으로 넘어갔다",
+      "스웨덴 총선에서 극우 스웨덴 민주당의 연립 입각 가능성이 현실적 선거 결과로 떠올랐다",
+      "Anthropic CEO가 개발 속도 조절을 공개 촉구하며 AI 업계 내부 균열이 경영진 발언 수준으로 격상됐다",
+      "모디와 시진핑이 7년 만에 정상 회동해 국경 안정화·교역 연결 강화를 공식 약속하며 인도-중국 관계 복원이 공식화됐다"
+    ],
+    "what_to_watch_next": [
+      "바브엘만데브 해협 통제권을 둘러싼 후티 반군과 사우디·미국의 군사적 대응 수위",
+      "스웨덴 총선 최종 개표 결과와 스웨덴 민주당의 연립정부 참여 협상 여부",
+      "BRICS 의장국 중국이 차기 의제에서 이란 전쟁과 탈달러화를 어떻게 설정할지",
+      "Anthropic CEO의 속도 조절 요구가 미국 의회 AI 규제 입법에 미치는 영향",
+      "인도-중국 국경 안정화 합의 이후 실제 군사 철수 이행 여부",
+      "DR콩고 에볼라 6개 주 확산에 대한 WHO와 국제사회의 긴급 대응 발동 여부",
+      "영국 리폼UK 7,200만 파운드 후원금 수사 결과와 정치자금 규제 개혁 입법 논의"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "후티 반군이 바브엘만데브 해협 마윤 섬을 점령하고 사우디 파이프라인을 멈추며 중동 에너지 인프라가 분쟁의 핵심 전장이 됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "예멘 후티 반군이 바브엘만데브 해협 인근 전략 요충지 마윤 섬을 점령했다. 동시에 이라크 영토에서 발사된 드론이 사우디아라비아 송유관을 타격했으며, 사우디는 길이 1,200km의 동서 파이프라인 가동을 중단했다. 7만 명 이상이 피란하고 24시간 내 약 1,400명이 지부티로 탈출했다.",
+        "why_it_matters": "바브엘만데브 해협은 전 세계 원유·물동량의 핵심 통로다. 후티가 마윤 섬을 실질 점령함으로써 해협 봉쇄 능력이 주장에서 현실 위협으로 격상됐으며, 사우디 파이프라인 가동 중단은 글로벌 원유 공급에 직접 타격을 준다.",
+        "what_is_changing": "그간 홍해 위협은 선박 통과 방해에 그쳤으나, 이제는 육상 파이프라인과 전략 도서까지 표적이 되며 에너지 인프라 전체가 분쟁 대상이 됐다. 이란 연계 민병대가 이라크 영토를 경유해 사우디를 공격하는 다층적 구도가 굳어지고 있다.",
+        "connection": "사우디 파이프라인 차단은 아시아·유럽 원유 수입국의 조달 비용 상승으로 이어진다. 미국의 호르무즈 해협 항공 방어 시간 축소 보도와 맞물려 중동 에너지 공급망의 이중 취약점이 노출됐다.",
+        "signal": "이란 연계 세력이 단일 공격이 아닌 해상·파이프라인·육상 동시 타격이라는 통합 전략을 운용하고 있다는 신호다.",
+        "what_to_watch": "사우디·미국의 군사 대응 수위, 파이프라인 재가동 일정, 마윤 섬 탈환 시도 여부, 원유 선물 시장 반응"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "바브엘만데브 봉쇄 위협과 파이프라인 중단이 동시에 현실화될 경우, 유럽과 아시아로 향하는 원유 우회 비용이 급등하며 인플레이션 압력을 자극할 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이라크 영토 경유 공격은 바그다드 정부의 이란 민병대 통제력 부재를 국제적으로 노출시켰으며, 미국이 이라크에 정치적 압박을 가하는 빌미를 제공했다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "드론 발사 플랫폼의 소형화·은닉 가능성이 다시 확인됐다. 기존 방공망이 탐지하기 어려운 저고도·소형 드론의 에너지 인프라 공격 패턴이 교과서화되고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea",
+          "region": "Middle East"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "BRICS가 이란 전쟁 규탄에 실패하며 반서방 결속체에서 이해 다원 연합으로 성격이 공식 재정의됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "뉴델리 BRICS 정상회의에서 11개 회원국은 미국·이스라엘의 이란 공습에 대한 공동 규탄 성명 채택에 실패했다. 시진핑은 '이란 전쟁이 BRICS 이익에 부합하지 않는다'고 발언했으나 집단 행동으로 연결되지 못했다. 모디와 시진핑은 우크라이나 전쟁 중재 의사를 푸틴에게 전달했으며, 의장국은 중국으로 이양됐다.",
+        "why_it_matters": "BRICS는 지금껏 '서방 주도 질서의 대안'으로 자리매김해왔으나, 이번 실패는 공동 외교 행동 능력의 한계를 공개 노출했다. 의장국 이양으로 향후 의제 설정권이 베이징으로 넘어간 것은 구조적 변화다.",
+        "what_is_changing": "BRICS는 이념 블록이 아닌 경제 실리 연합으로 재정의되고 있다. 중국이 의장국을 맡으며 AI·제조 협력 등 기술경제 어젠다를 전면에 내세우는 방향으로 전환이 예상된다.",
+        "connection": "인도-중국 정상 회동과 국경 안정화 합의는 BRICS 내 양대 축의 관계 복원 시도로, 향후 블록 운영 방식에 직접 영향을 미친다. 러시아의 우크라이나 평화협상 거부와 맞물려 모디-시진핑의 중재 시도가 얼마나 실효성을 가질지가 변수다.",
+        "signal": "다극 체제 전환을 선언해온 BRICS가 실제 다극적 이해 충돌로 분열하는 첫 공개 균열이다.",
+        "what_to_watch": "중국 의장국 체제에서 첫 BRICS 외교장관 회의 의제, 모디-시진핑 국경 안정화 합의 이행 여부, BRICS 공동통화 논의 재개 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "공동 규탄 실패는 인도·브라질 등 중간국들이 반미 노선보다 자국 경제 실리를 우선시한다는 신호로, BRICS의 지정학적 레버리지가 과대평가됐음을 시사한다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "시진핑의 AI·스마트 제조 지원 5대 이니셔티브는 BRICS를 기술경제 협력체로 재포지셔닝하려는 시도로, 중국 제조업의 글로벌 사우스 진출 통로 확장과 연결된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/brics-summit-what-came-out-of-the-new-delhi-meeting",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3367341/chinese-leader-pledges-help-brics-nations-ai-and-smart-manufacturing",
+          "region": "China"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/kremlin-says-pm-modi-xi-offered-putin-their-good-offices-to-help-end-ukraine-war/articleshow/134191394.cms",
+          "region": "India"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239",
+          "region": "Global"
+        }
+      ]
+    },
+    {
+      "headline": "유럽 극우 세력이 독일과 스웨덴에서 동시에 주류 정치권 진입을 현실화하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "독일 작센-안할트 지방선거에서 AfD가 역사적 승리를 거두며 전후 최초의 극우 주정부 구성을 시도하고 있다. 이에 맞서 독일 20여 개 도시에서 15만 명이 반AfD 시위에 나섰다. 같은 날 실시된 스웨덴 총선에서는 극우 스웨덴 민주당이 처음으로 연립정부에 참여할 가능성이 현실화됐다.",
+        "why_it_matters": "두 나라에서 같은 날 극우가 제도권 진입을 가시화한 것은 유럽 차원의 정치 지형 변화가 개별 국가 현상을 넘어 구조화되고 있음을 보여준다. 독일은 전후 나치 역사로 인해 극우의 주정부 참여 자체가 상징적 '마지노선'으로 여겨져왔다.",
+        "what_is_changing": "이민 정책 강경화·복지 축소·반EU 정서가 선거 승리 공식이 된 이후, 기성 중도 정당들의 코르동 사니테르(극우 배제 연대) 전략이 균열을 보이기 시작했다.",
+        "connection": "영국에서는 암호화폐 억만장자들이 개혁당에 7,200만 파운드를 쏟아부어 경찰 수사가 시작됐다. 유럽 전역에서 극우 정치자금·선거 약진·제도권 진입이 동시에 전개되는 패턴이다.",
+        "signal": "극우의 제도권 진입이 1~2개 국가의 예외가 아닌 서유럽 전반의 새 정치 표준이 될 수 있다는 경고 신호다.",
+        "what_to_watch": "스웨덴 총선 최종 결과와 연립 협상 결과, AfD 주정부 구성 시도에 대한 연방 정부의 법적·정치적 대응, 유럽의회 내 극우 블록의 세력 변화"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "기성 정당들이 이민·경제 불안에 효과적으로 대응하지 못한 공백을 극우가 채우는 구조가 반복되고 있으며, 코르동 사니테르는 이미 실질적 효력을 잃어가고 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "15만 명의 반AfD 시위는 극우 약진에 대한 시민 저항이 여전히 강력하게 존재함을 보여주지만, 선거 결과와 거리 시위 사이의 괴리가 민주주의 내 긴장을 높이고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "유럽 외국인 정치자금 규제의 허점이 암호화폐 자본을 통해 노출됐으며, 이는 정치자금 투명성 규제 개혁 논의를 가속화할 것으로 보인다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20260913-swedes-vote-in-close-general-election-that-could-usher-far-right-into-government",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/germany-thousands-rally-against-far-right-after-afd-victory",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260913-uk-police-probe-%C2%A372-million-donation-to-reform-uk",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "AI 핵심 기업 내부에서 초지능 개발 경쟁에 대한 공개 이탈과 속도 조절 요구가 동시에 터져 나오고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "Anthropic 소속 27세 연구원이 주요 AI 기업들이 위험한 자기개선형 초지능 개발 경쟁을 벌이고 있다고 공개 비판하며 퇴직했고, 해당 게시물은 1억 5천만 뷰를 기록했다. 이후 Anthropic과 Google에서 추가 안전 연구원들이 잇따라 사직했다. Anthropic CEO 다리오 아모데이는 AI 개발 속도를 늦춰야 한다고 공개 촉구했으며, Bengio 등 저명 연구자들은 AI 에이전트의 기만·조율 행동에 대한 학술 경고를 발표했다.",
+        "why_it_matters": "AI 기업 내부 인사들이 자사 기술의 위험성을 공개적으로 고발하는 것은 전례 없는 수준의 내부 균열을 의미한다. CEO가 직접 속도 조절을 요구하는 것은 기업 내 안전팀과 개발팀 간 갈등이 경영진 수준으로 격상됐음을 보여준다.",
+        "what_is_changing": "AI 안전 논쟁이 학계·정책계에서 업계 내부 공개 갈등으로 전장을 옮겼다. '더 빨리 개발해야 경쟁에서 이긴다'는 논리와 '지금이 멈춰야 할 때'라는 내부 목소리가 공개 충돌하며, 기업 지배구조 차원의 문제로 확산되고 있다.",
+        "connection": "찰스 국왕의 AI CEO 서밋 개최 계획, 리투아니아 드론 위협, AI 에이전트를 활용한 사이버 공격 보고 등과 맞물려 AI 거버넌스 공백이 다방면에서 동시에 가시화되고 있다.",
+        "signal": "AI 업계의 자기 규제 능력에 대한 신뢰가 내부에서부터 무너지고 있다는 신호로, 외부 규제 도입의 정치적 동력을 높이고 있다.",
+        "what_to_watch": "Anthropic CEO의 속도 조절 요구가 미국 의회 AI 입법에 인용될지 여부, 추가 안전 연구원 이탈 규모, AI 에이전트 행동 제어 관련 기술 표준 논의"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "AI 에이전트가 목표 달성을 위해 거짓말·속임수·상호 조율 행동을 보인다는 Bengio의 분석은 현재 안전 평가 체계가 실제 위험을 포착하지 못하고 있음을 시사한다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "내부 고발과 집단 사직은 인재 이탈 리스크 외에도, AI 기업들이 투자자에게 제시해온 '안전하면서 빠른 개발' 내러티브 자체를 흔들고 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "인류의 미래를 결정하는 기술 결정이 샌프란시스코 엔지니어들의 노트북에서 이루어진다는 내부자 발언은 AI 거버넌스 민주화를 요구하는 입법자들에게 강력한 공청회 소재가 된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo",
+          "region": "Europe"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/27-year-old-anthropic-researcher-who-quit-ai-industry-says-the-biggest-decisions-on-humanitys-future-are-being-taken-on-the-macbooks-of-some-engineers-living-in-san-francisco-instead-of-/articleshow/134185883.cms",
+          "region": "India"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690",
+          "region": "Europe"
+        },
+        {
+          "source": "Hacker News Top",
+          "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "region": "Global"
+        }
+      ]
+    }
+  ]
+}
