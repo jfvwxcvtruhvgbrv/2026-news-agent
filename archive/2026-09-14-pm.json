@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-14",
+  "session": "pm",
+  "time": "22:43",
+  "global_picture": {
+    "world_right_now": [
+      "러시아가 453기 드론으로 우크라이나를 공습하며 폴란드 국경 800m 지점까지 타격 범위를 확장했다",
+      "사우디 송유관 폐쇄와 호르무즈 협상 결렬로 유가가 배럴당 107달러를 돌파하며 글로벌 에너지 위기가 현실화됐다",
+      "스웨덴 총선에서 중도좌파가 초박빙 우세를 유지하며 극우 스웨덴민주당은 예상을 밑돌았다",
+      "AI가 미사일 유도·소수민족 추적·대규모 감시에 실제로 악용됐음이 앤트로픽 보고서로 공식 확인됐다",
+      "네팔 히말라야 돌발홍수 사망자 1,400명·실종 5,130명에 달하며 기후재난 책임론이 국제사회로 확산됐다",
+      "핀란드가 프랑스 주도 핵억지 이니셔티브에 합류하며 유럽 독자 핵우산이 러시아 국경까지 확대됐다",
+      "터키 경찰이 LGBTQ+ 바와 활동가 자택을 동시 급습해 60명 이상을 연행하며 조직적 탄압을 공식화했다",
+      "중국 연구진이 인간 개입 없이 스스로 진화하는 AI의 5단계 로드맵을 발표하며 AI 자기개선 경쟁이 공개 전선으로 부상했다",
+      "브라질 대선이 10월 4일을 앞두고 룰라·볼소나루 진영 동시 거리집회로 초접전 양상을 확인했다",
+      "필리핀 방사모로에서 수십 년 만의 첫 자치의회 선거가 진행됐으나 투표소 총격 등 폭력 사태가 얼룩졌다"
+    ],
+    "emerging_signals": [
+      "AI 에이전트가 RubyGems 등 오픈소스 공급망을 자동 공격하는 사례가 처음 확인되며 새로운 사이버 위협 유형이 등장했다",
+      "Apple iOS에 Siri를 ChatGPT·Claude로 교체하는 기능이 내장돼 모바일 AI 생태계 주도권 구도가 재편될 수 있다",
+      "일본이 드론 탑재 소형 양자 센서로 잠수함을 탐지하는 기술 개발에 착수하며 인도·태평양 수중전 경쟁이 새 국면에 진입했다",
+      "방글라데시에서 홍역 사망자가 1,000명을 넘어서며 백신 공급보다 보건 체계 구조 붕괴가 더 큰 위협임이 드러났다",
+      "중국산 J-10CE 전투기의 해외 운용국이 세 번째로 늘어나며 중국 방산의 글로벌 침투가 점진적으로 가속되고 있다"
+    ],
+    "structural_trends": [
+      "AI 규제 논쟁이 안전 대 속도의 기술 문제를 넘어 미중 지정학 갈등의 새로운 전선으로 고착화되고 있다",
+      "러시아의 EU 내 사보타주·스파이 활동이 제3국 국적자를 통해 체계적으로 수행되는 하이브리드전 패턴이 반복 확인되고 있다",
+      "유럽 각국에서 극우 세력의 의석은 증가하지만 집권에는 실패하는 '극우의 제도화 한계'가 스웨덴·독일에서 동시에 나타나고 있다",
+      "히말라야 빙하 소실과 남아시아 이상기후 재난이 기후 정의 책임 논의를 국제 외교 의제로 격상시키고 있다",
+      "캐나다·핀란드 등 중견국들이 미국 안보 우산 의존에서 벗어나 유럽 중심의 독자 외교 구조로 전환을 가속하고 있다"
+    ],
+    "what_changed_today": [
+      "어제 서방 인사 탑승 열차 공격으로 주목받던 러시아 드론 공습이 폴란드 국경 800m 타격으로 확전 위협 수위가 한 단계 더 높아졌다",
+      "어제 후티의 해협 장악으로 부각된 홍해 위기가 사우디 송유관 폐쇄와 호르무즈 협상 결렬로 연결되며 유가 107달러 돌파라는 경제적 충격으로 구체화됐다",
+      "어제 예고된 스웨덴 총선 결과가 중도좌파 초박빙 우세로 확인되며 극우 스웨덴민주당 하락세가 공식 수치로 뒷받침됐다",
+      "어제 BRICS 뉴델리 회의에서 부각된 대안 국제질서 논쟁이 오늘 이란 전쟁발 BRICS 내부 균열 보도로 이어지며 결속력에 의문이 제기됐다"
+    ],
+    "what_to_watch_next": [
+      "폴란드 국경 인근 드론 낙하에 대해 NATO가 공식 대응 성명을 내놓을지, 집단 방위 조항 논의로 이어질지 주목해야 한다",
+      "호르무즈 협상 재개 가능성과 이란-아랍 정상회담 재추진 일정이 유가 방향의 핵심 변수다",
+      "스웨덴 잔여 개표가 완료되면 최종 의석 배분과 연립정부 구성 협상이 본격 시작된다",
+      "앤트로픽 AI 악용 보고서에 대한 미국 의회와 EU 규제 당국의 반응 및 입법 움직임을 확인해야 한다",
+      "시진핑 방미 정상회담 일정이 공식 확정되면 미중 AI·무역·군사 의제에서 어떤 합의가 가능할지 윤곽이 드러날 것이다",
+      "브라질 대선(10월 4일)까지 남은 3주간 여론조사 추이와 선거 폭력 발생 여부를 면밀히 추적해야 한다"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "러시아 드론 453기, 폴란드 국경 800m까지 타격하며 NATO 레드라인을 직접 시험하다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 453기의 드론으로 우크라이나를 야간 공습했으며, 그 중 하나가 폴란드 국경에서 불과 800m 떨어진 지점에 낙하했다. 폴란드군은 즉각 전투기와 헬기를 긴급 출격시켰고, EU 외교 수장은 이번 공격이 서방 지지국들을 겨냥한 의도적 위협이라고 규정했다. 우크라이나-폴란드 국경 인근을 운행 중이던 열차도 피격됐으며, 해당 열차에는 보리스 존슨 전 영국 총리 등 서방 고위 인사들이 직전까지 탑승했던 것으로 확인됐다.",
+        "why_it_matters": "NATO 회원국인 폴란드 영토와 사실상 인접한 지점까지 드론이 도달했다는 것은 러시아가 집단 방위 조항 발동의 경계선을 의도적으로 건드리고 있음을 시사한다. 서방 지원을 위협하는 심리전과 실제 영토 확전 위험이 동시에 고조되는 국면이다.",
+        "what_is_changing": "지금까지 러시아의 공격 목표는 우크라이나 내부 인프라에 집중됐으나, 이번에는 NATO 국경과 서방 인사들의 이동 경로를 동시에 압박하는 전략으로 전환하는 양상이 뚜렷하다.",
+        "connection": "핀란드의 유럽 독자 핵억지 이니셔티브 합류, 독일-헝가리 외교 재건 시도 등과 맞물려 유럽의 집단 대응 결속력이 시험대에 올랐다. EU 내 사보타주·스파이 사건 반복 패턴과도 연결되는 러시아의 다층적 하이브리드전 전략이다.",
+        "signal": "드론 타격 범위가 NATO 국경에 근접할수록 서방 내부에서 직접 개입과 전략적 자제 사이의 긴장이 증폭된다. 이는 우크라이나 전쟁의 '확전 문턱'을 둘러싼 국제 규범이 실시간으로 재정의되고 있다는 신호다.",
+        "what_to_watch": "폴란드와 NATO의 공식 성명, 집단 방위 조항(5조) 논의 여부, 러시아의 추가 국경 인접 공격 패턴 지속 여부를 확인해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아는 서방의 우크라이나 지원 의지를 시험하는 동시에 NATO 내부의 분열—특히 개입 확대에 소극적인 회원국들—을 활용하려는 전략적 계산을 하고 있다."
+        },
+        {
+          "frame": "Military View",
+          "summary": "대규모 드론 포화 전술은 우크라이나 방공망을 포화 상태로 만들어 요격률을 낮추는 동시에, NATO 국경 근접 타격으로 확전 가능성을 심리적으로 압박하는 이중 효과를 노린다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/eu-leaders-urge-unity-after-russian-strike-on-train/a-79259807?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260914-russia-strikes-ukraine-with-drones-as-poland-warns-of-escalation",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "사우디 송유관 폐쇄·호르무즈 협상 결렬로 유가 107달러 돌파, 에너지 위기가 지정학 위기로 전환되다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "사우디아라비아의 동서 송유관(약 1,200km) 폐쇄로 글로벌 원유 공급의 최대 5%가 영향을 받으며 브렌트유 선물가격이 배럴당 107달러를 돌파했다. 호르무즈 해협 긴장 완화를 위한 이란-아랍 정상회담은 사우디 측 요청으로 연기됐으며, 이란은 예멘 사태를 이유로 들었다. 후티 반군은 모카 항구와 바브엘만데브 해협 인근 섬을 장악하며 홍해 해운을 직접 압박하고 있다.",
+        "why_it_matters": "세계 원유 공급의 20%가 통과하는 호르무즈 해협과 홍해 해운 루트가 동시에 위협받는 이중 병목이 형성됐다. 이는 글로벌 인플레이션 재점화, 동남아 에너지 전환 지연, 유럽 에너지 수급 불안을 동시에 촉발할 수 있다.",
+        "what_is_changing": "2024년까지만 해도 홍해 위기는 후티 반군의 이스라엘 관련 수사였으나, 2026년에는 후티가 예멘 주요 거점을 장악하면서 이란의 역내 전략적 영향력을 강화하는 독립적 분쟁으로 진화했다.",
+        "connection": "동남아 각국은 LNG 가격 급등과 AI 데이터센터 전력 수요 증가가 겹치며 에너지 전환 목표가 이중으로 위협받고 있다. 이란의 해상 봉쇄 대응을 위한 육로 무역 전환 시도, BRICS 내부 균열 심화와도 맞물린다.",
+        "signal": "에너지 공급선을 무기로 활용하는 지역 분쟁 행위자들이 미국·EU의 대응 한계를 학습하면서 협상 레버리지로 삼는 패턴이 구조화되고 있다.",
+        "what_to_watch": "호르무즈 협상 재개 일정, 미국 군사 개입 가능성, 유가 110달러 돌파 시 서방 전략비축유 방출 결정 여부를 주시해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "유가 100달러 이상이 장기화되면 수입국 경상수지 악화와 인플레이션 재점화가 맞물려 각국 중앙은행의 금리 인하 시나리오가 지연될 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란은 예멘 사태를 호르무즈 협상 지연의 명분으로 활용하며 협상력을 높이는 동시에, 서방의 군사 대응 비용을 극대화하는 이중 전략을 구사하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260914-they-drove-us-from-our-land-thousands-displaced-by-yemen-conflict",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "AI가 미사일을 유도하고 소수민족을 추적했다—앤트로픽 보고서가 AI 무기화를 공식 확인하다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "앤트로픽의 위협 인텔리전스 보고서는 자사 AI 클로드가 2025년 12월~2026년 8월 사이 예멘 세력의 미사일 유도 코드 작성, 이란 연계 해군 타격 작전 지원, 중국 연계 시리아 내 위구르족 프로파일링, 말리에서 2,500만 개 SIM 카드 감시 플랫폼 구축 등에 악용됐음을 공개했다. 중국 관영 매체는 이 보고서를 중국 AI 산업 억제를 위한 냉전식 전략이라고 반박했다.",
+        "why_it_matters": "AI 악용이 이론적 위험에서 실제 군사 작전과 대규모 감시로 전환됐음이 공식 문서로 입증됐다. AI 기업들이 악용 사례를 스스로 공개하는 전례가 생기면서 AI 거버넌스 논의의 성격이 근본적으로 달라졌다.",
+        "what_is_changing": "이전까지 AI 안전 논쟁은 주로 미래 위험에 대한 예방적 논의였으나, 이제는 현재 진행 중인 분쟁에서 실제로 AI가 작전에 통합되고 있다는 사실이 확인됐다. 또한 러시아·우크라이나 양측이 완전 자율 AI 드론 개발 경쟁을 가속하며 자율 살상 무기 체계가 전장의 현실로 부상했다.",
+        "connection": "트럼프 행정부의 AI 규제 반대 기조, 중국의 AI 감속 거부, 중국 연구진의 자기진화 AI 5단계 로드맵 발표가 동시에 맞물리며 AI 거버넌스 공백이 군사적 위험으로 직결되는 구조가 형성됐다.",
+        "signal": "AI 악용의 지리적·군사적 범위가 이미 글로벌 수준에 도달했다는 점은 국제 AI 규제 체계 없이는 기존 국제 무기통제 협약이 무력화될 수 있음을 보여주는 강력한 신호다.",
+        "what_to_watch": "미국 의회와 EU의 AI 군사 활용 규제 입법 움직임, 자율 살상 무기 관련 유엔 논의 재개 여부, AI 기업들의 추가 위협 보고서 공개 패턴을 주시해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "AI 모델 자체보다 접근 제어와 사용 목적 검증 체계의 취약성이 핵심 문제로 드러났다. AI 안전 연구가 기술 윤리에서 국제 안보 문제로 범주가 확장됐다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "AI 속도 조절 요구를 둘러싼 미중 갈등이 기술 경쟁을 넘어 군사 역량 우위 경쟁으로 격화되고 있으며, 중국의 '냉전 전략' 반발은 국제 AI 거버넌스 다자 협의를 더욱 어렵게 만든다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-says-claude-ai-was-used-to-build-missiles-hunt-uyghurs-and-spy-on-25-million-phones-5-shocking-cases-from-its-new-threat-report/articleshow/134239642.cms",
+          "region": "India"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/east-asia/china-state-newspaper-blasts-anthropics-calls-to-slow-ai-as-cold-war-tactic",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "스웨덴 총선 초박빙—극우 예상 밖 하락, 유럽 '극우 제도화'의 한계가 반복 확인되다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "스웨덴 총선 개표에서 사민당 안데르손이 이끄는 중도좌파 4당 연합이 현 집권 우파 연합(스웨덴민주당 포함)에 의석 1~3석 차로 앞서는 초박빙 결과가 나왔다. 예상과 달리 극우 스웨덴민주당의 지지율이 하락했으며, 복지 재건과 국방비 동시 증가를 어떻게 재원 조달할지가 최대 쟁점이었다.",
+        "why_it_matters": "독일 니더작센에서 AfD가 3위에 그친 데 이어 스웨덴에서도 극우가 집권에 실패하면서, 유럽 극우가 의석을 늘리는 데는 성공하지만 실제 정권을 장악하는 데는 구조적 벽이 존재함이 반복 확인됐다.",
+        "what_is_changing": "스웨덴 유권자들은 NATO 가입 후 안보 환경 변화 속에서 복지와 국방을 동시에 요구하는 방향으로 이동하고 있다. 극우 지지층 일부가 안보 신뢰도를 이유로 주류 보수로 회귀하는 현상이 감지된다.",
+        "connection": "영국 리폼 UK의 급격한 정치자금 수혈과 프랑스 Z세대의 멜랑숑 집결은 극우·극좌가 동시에 성장하는 양극화 구조를 보여준다. 스웨덴의 사례는 중도 연합이 분열하지 않을 때 극단 세력을 막을 수 있음을 시사한다.",
+        "signal": "유럽 전반에서 극우는 '집권'보다 '거부권 행사자'로서의 역할에 정착하는 구조적 전환이 진행 중일 수 있다.",
+        "what_to_watch": "잔여 개표 완료 후 최종 의석 수, 좌파 블록의 연립 구성 협상 과정, 그리고 스웨덴민주당이 야당으로서 국방·이민 예산에 거부권을 행사할 수 있는지를 주시해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "스웨덴과 독일 니더작센의 결과는 극우 세력의 선거 천장이 존재함을 보여주지만, 그 세력이 사라진 것은 아니어서 연립정부 구성을 복잡하게 만드는 구조적 변수로 자리 잡았다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "복지 재건과 국방비 증가를 동시에 원하는 스웨덴 유권자들의 요구는 증세 없이는 실현 불가능한 재정 딜레마를 새 정부에게 남겼다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/sweden-election-very-close-as-left-bloc-claims-tight-lead/a-79248599?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260914-a-complicated-autumn-awaits-sweden-after-knife-edge-vote",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo",
+          "region": "Sweden"
+        }
+      ]
+    }
+  ]
+}
