@@ -1,0 +1,234 @@
+{
+  "date": "2026-09-17",
+  "session": "am",
+  "time": "07:03",
+  "global_picture": {
+    "world_right_now": [
+      "미 연준이 3년 만에 기준금리를 인상하며 트럼프와 정면충돌—중앙은행 독립성이 최대 시험대에 올랐다",
+      "후티가 성지 메카를 향해 드론을 날리고 사우디는 '레드라인'을 선언—중동 분쟁이 이슬람 성지 안보로 번지며 새 차원으로 진입했다",
+      "EU가 캐나다에 준회원국을 공식 제안하며 트럼프 압박에 맞선 서방 재편이 가시화됐다",
+      "트럼프 행정부가 바이든이 막았던 1톤 대형 폭탄 4만 발을 포함한 28억 달러 무기를 이스라엘에 승인했다",
+      "스웨덴 총선에서 중도좌파가 극소 차이로 집권 우파를 꺾으며 유럽 정치 지형에 반전 신호를 보냈다",
+      "코소보 전 대통령 타치와 전 필리핀 대통령 두테르테가 동시에 국제 법정에 서는 전례 없는 국면이 이어지고 있다",
+      "미군 합참의장이 달 주변 우주 전투 대비를 공개 언급하고 우주 무기 배치를 처음으로 공식 인정했다",
+      "콩고 에볼라가 7개 주 7,000건을 넘어섰으며 공식 선언 수개월 전부터 이미 확산됐을 가능성이 제기됐다",
+      "인도-파키스탄 해군 함정이 아라비아해에서 물리적으로 충돌해 양국이 서로 책임을 전가하며 외교 긴장이 고조됐다",
+      "트럼프-시진핑 정상회담이 다음 주로 예정되며 AI 패권 경쟁이 핵심 의제로 부상했다"
+    ],
+    "emerging_signals": [
+      "좌파 샌더스와 우파 배넌이 AI 위험에 공동 경고—이념을 넘는 AI 규제 연대가 형성되고 있다",
+      "중국이 국산 칩만으로 세계 수준 기상예측 시스템을 완성—반도체 수출 규제 우회 가능성을 보여주는 첫 대규모 실증 사례다",
+      "말레이시아가 국제사회 비판을 감수하고 미얀마 군부 수장을 공식 초청해 로힝야 송환을 추진—인권보다 실용외교를 택하는 동남아 흐름이 뚜렷해지고 있다",
+      "한국이 임신 9주 이내 낙태약 허용을 결정—동아시아 보수적 사회 규범의 균열 신호로 읽힌다",
+      "미국이 30년간 잠들어 있던 비밀 추방 법원을 재가동해 첫 추방을 집행했다"
+    ],
+    "structural_trends": [
+      "미중 AI 패권 경쟁이 모델 개발에서 칩·인프라·외교 의제로 동시에 확전되고 있다",
+      "트럼프 행정부가 중남미(베네수엘라), 유럽(벨라루스), 아프리카(남아공) 등 전방위에서 제재를 외교 레버리지로 활용하는 거래적 외교를 제도화하고 있다",
+      "중동 분쟁이 가자·예멘·이란을 연결하는 복합 전선으로 구조화되며 사우디의 방어 한계가 노출되고 있다",
+      "국제형사재판소와 특별재판소가 현직·전직 국가수반을 동시에 겨냥하며 글로벌 책임 규범이 실질화 단계로 진입하고 있다",
+      "글로벌 AI 기업들이 아시아·태평양 데이터센터 구축을 경쟁적으로 확대하며 AI 인프라 지형이 미국 밖으로 빠르게 분산되고 있다"
+    ],
+    "what_changed_today": [
+      "미 연준이 금리 인상을 실행으로 옮기며 트럼프와의 갈등이 구체적 국면으로 진입했다",
+      "후티의 공격 대상이 군사시설에서 이슬람 성지 메카로 확대되며 분쟁의 종교적 차원이 새로 열렸다",
+      "트럼프 행정부가 바이든이 중단했던 대형 폭탄 공급을 이스라엘에 재개 결정해 미국의 가자 정책이 공식 전환됐다",
+      "스웨덴 총선 결과로 유럽 우파 집권 흐름에 첫 역전 사례가 등장했다",
+      "인도-파키스탄 해군 함정 충돌이 외교 초치 단계로 격화됐다"
+    ],
+    "what_to_watch_next": [
+      "트럼프-시진핑 정상회담 결과—AI·반도체·무역에서 합의가 나오는지, 아니면 갈등이 공식화되는지",
+      "사우디가 메카 드론 공격에 어떻게 보복하는지—이란 대리전 확전의 분기점",
+      "유엔총회 계기 젤렌스키-트럼프 회담 성사 여부—러-우 종전 협상 경로가 열리는지",
+      "미 연준 금리 인상 이후 트럼프의 파월 의장 해임 시도 여부—중앙은행 독립성 위기로 번질 수 있다",
+      "콩고 에볼라가 7,000건을 넘어선 상태에서 WHO의 비상사태 격상 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미 연준, 3년 만에 기준금리 인상—트럼프와의 충돌이 통화정책 독립성 위기로 번지고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국 연방준비제도가 약 3년 만에 처음으로 기준금리를 25bp 인상해 3.75~4.00% 구간으로 올렸다. 지속되는 인플레이션에 대응한 조치로, 트럼프 대통령은 금리 인하를 공개적으로 요구했으나 연준은 이를 거부했다.",
+        "why_it_matters": "트럼프 행정부의 고율 관세 정책이 인플레이션을 자극한 상황에서 연준이 이에 맞서 금리를 올린 것은 행정부와 중앙은행 간 정면충돌을 의미한다. 중앙은행 독립성에 대한 정치적 도전이 실질화될 경우 달러 신뢰도와 글로벌 금융 안정성에 광범위한 파장이 예상된다.",
+        "what_is_changing": "그간 연준은 코로나 이후 저금리 기조를 유지해왔으나, 관세발 인플레이션이 추가 긴축을 강제하는 역설적 상황이 연출됐다. 대통령이 중앙은행 수장을 공개적으로 압박하는 구도가 전례 없는 수준으로 강화되고 있다.",
+        "connection": "금리 인상은 신흥국 자본 유출 압력을 높이고, 러시아산 에너지를 구매하는 인도 등 주요국의 달러 부채 부담을 가중시킨다. 트럼프의 대러 에너지 관세 법안과 맞물려 글로벌 금융·에너지 시장에 복합 충격을 줄 수 있다.",
+        "signal": "행정부가 연준 의장을 압박하거나 교체를 시도할 경우, 이는 단순한 정책 갈등을 넘어 미국 제도적 신뢰성에 대한 근본적 의문으로 번질 수 있는 초기 신호다.",
+        "what_to_watch": "트럼프가 파월 의장 해임이나 연준 구조 개편을 시도하는지, 그리고 이번 인상이 단발성인지 추가 긴축 사이클의 시작인지를 확인해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "관세가 유발한 인플레이션을 금리로 억제하는 구조는 경기 둔화 없이는 효과가 제한적이며, 오히려 고금리·고물가·고관세의 삼중 압박이 미국 소비와 투자를 동시에 위축시킬 위험이 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 공개적 금리 인하 압박은 중앙은행 독립성을 정치 의제로 끌어들이는 행위로, 의회와 시장 모두 연준의 자율성이 훼손되는지를 예의주시하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3367774/us-federal-reserve-raises-interest-rates-first-time-3-years-risking-trumps-ire",
+          "region": "China"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms",
+          "region": "India"
+        }
+      ]
+    },
+    {
+      "headline": "후티가 메카를 향해 드론을 날렸다—사우디의 '레드라인' 선언이 중동 전체를 새로운 분쟁 차원으로 끌어들이고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "예멘 후티 반군이 이슬람 최대 성지 메카를 향해 드론을 발사했다고 사우디아라비아가 비난하며 이를 '레드라인'으로 규정했다. 후티 측은 메카 표적화를 전면 부인했으나 사우디 F-15 격추를 주장하는 영상을 공개했다. 사우디는 미사일 요격 자산이 소진 위기에 처하자 프랑스·영국·파키스탄 등에 방공 지원을 요청했고, 중국은 이란에 지지를 확인하면서도 확전 자제를 요청했다.",
+        "why_it_matters": "메카는 전 세계 18억 무슬림의 성지다. 이곳이 공격 대상으로 거론된 것은 분쟁에 종교적 차원을 더해 전 이슬람 세계의 감정을 자극할 수 있으며, 사우디의 방어 능력 한계 노출은 걸프 안보 구조 전체에 의문을 제기한다.",
+        "what_is_changing": "후티의 공격 범위가 군사 시설과 해상 항로를 넘어 종교적 상징 공간으로 확대됐다. 사우디가 동맹국에 방공 지원을 요청해야 하는 상황은 자국 방어 역량의 구조적 한계를 드러내는 전환점이다.",
+        "connection": "홍해 해상 봉쇄가 수에즈 운하 수입을 잠식하며 이집트에도 압박을 가하고, 호르무즈 해협 긴장과 맞물려 글로벌 에너지 공급망 전체가 흔들리는 구도가 형성되고 있다. 중국은 이란 지지와 확전 자제를 동시에 요구하며 중재자 역할을 모색 중이다.",
+        "signal": "사우디가 요격 자산 부족을 공개적으로 인정하고 외부 지원을 요청한 것은, 중동 친미 동맹 구조의 방어 역량에 실질적 균열이 발생했음을 보여주는 신호다.",
+        "what_to_watch": "사우디의 대후티 보복 수위, 이란의 직접 개입 여부, 그리고 파키스탄이 사우디 방공 지원 요청에 응하는지가 확전 여부를 결정할 핵심 변수다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "성지 안보를 레드라인으로 선언한 사우디는 이제 실질적 보복 행동을 해야 하는 정치적 압박에 놓였으며, 행동하지 않으면 왕실 권위가 손상된다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "홍해 봉쇄와 사우디 에너지 시설에 대한 위협이 동시에 고조되면 글로벌 원유 가격 급등과 해상 보험료 폭등이 불가피하다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "메카 공격 의혹은 종파와 국적을 초월해 전 무슬림 세계의 공분을 살 수 있는 사안으로, 후티가 실제로 이를 시도했다면 광범위한 이슬람권 역풍을 감수해야 한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "http://www.france24.com/en/middle-east/20260916-saudi-arabia-accuses-houthis-of-targeting-mecca-calling-it-a-red-line",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3367777/saudis-seek-allies-help-missile-defences-run-low-fight-houthis",
+          "region": "China"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/how-the-houthis-are-also-putting-egypt-under-pressure/a-79291103?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/mecca-red-line-gate-of-tears-saudi-crown-prince-mbs-houthis-iran-us-war/articleshow/134284212.cms",
+          "region": "India"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "EU가 캐나다에 준회원국 지위를 제안했다—트럼프 충격이 대서양 동맹 지도를 새로 그리고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "EU 집행위원장이 캐나다 총리 카니의 방문을 계기로 캐나다를 EU 최초의 준회원국으로 제안하는 전례 없는 구상을 공개했다. 이는 트럼프의 캐나다 합병 위협과 관세 압박에 대응해 캐나다가 유럽으로 전략적 무게중심을 이동하는 지정학적 재편의 신호다.",
+        "why_it_matters": "EU 준회원국 제도는 기존에 존재하지 않던 새로운 외교 형식으로, 창설 자체가 트럼프 시대 서방 동맹 재편의 깊이를 보여준다. 영국이 브렉시트 이후 EU 복귀를 희망하는 사이 캐나다가 먼저 유럽 통합 구조 안으로 들어오는 역설적 상황이 연출됐다.",
+        "what_is_changing": "대서양 관계의 축이 미국-유럽에서 캐나다-유럽으로 보완적으로 이동하고 있다. EU는 단순 무역 파트너를 넘어 안보·정치 동반자로서 캐나다를 품으려 하며, 이는 유럽의 전략적 자율성 추구와 맞닿아 있다.",
+        "connection": "영국은 브렉시트 이후 EU와의 관계 복원을 기대해왔으나, 캐나다가 먼저 준회원국 후보로 거론되면서 외교적으로 밀려나게 됐다. 미국의 캐나다·멕시코 관세 압박이 북미 동맹을 약화시키고 유럽의 영향력을 확대하는 역설적 효과를 낳고 있다.",
+        "signal": "EU가 지리적으로 유럽 밖 국가에 준회원국을 제안한 것은, 지정학적 재편기에 서방 민주주의 연대가 전통적 지역 경계를 넘어 재구성되고 있음을 보여주는 선례적 사건이다.",
+        "what_to_watch": "캐나다 의회와 EU 회원국들이 준회원 협상을 실제로 개시하는지, 그리고 영국이 이에 자극받아 대EU 관계 전략을 수정하는지를 주목해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 압박이 의도치 않게 유럽과 캐나다를 결속시키는 촉매가 되고 있으며, 미국 주도의 단극 서방 질서가 다중 중심으로 분산되는 흐름이 가속화되고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "캐나다의 EU 준회원국 지위는 무역·투자·에너지 협력의 새로운 경로를 열어 대미 의존도를 낮추는 경제적 다변화 전략과 직결된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/can-canada-and-the-eu-build-a-deeper-partnership/a-79295388?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "http://www.france24.com/en/tv-shows/the-debate/20260916-the-28th-state-carney-s-canada-draws-closer-to-european-union",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/europe/article/3367771/eu-cosies-canada-burnhams-brexit-britain-feels-sidelined",
+          "region": "China"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프가 바이든의 대형 폭탄 금수를 뒤집었다—28억 달러 무기 패키지가 가자 전쟁의 미국 역할을 재정의하고 있다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "트럼프 행정부가 이스라엘에 28억 달러 규모 무기 패키지를 승인할 예정이며, 여기에는 민간인 피해 우려로 바이든 행정부가 2년 전 공급을 중단했던 1톤급 대형 폭탄 4만 발이 포함된다. 같은 날 가자지구에서 파손 건물이 붕괴해 어린이를 포함한 최소 21명이 사망했으며, 영국 노동조합은 이스라엘 불매·제재 지지 결의안을 채택했다.",
+        "why_it_matters": "대형 폭탄 재공급은 미국의 가자 정책이 인도주의적 제약에서 무조건적 지원으로 공식 전환됐음을 의미한다. 이는 유럽 동맹국들과의 균열을 심화시키고 중동 전역에서 미국의 도덕적 권위를 더욱 잠식할 수 있다.",
+        "what_is_changing": "바이든이 최소한의 인도주의적 레버리지로 활용했던 무기 공급 제한이 완전히 사라졌다. 이는 이스라엘이 서방의 조건 없이 군사 작전을 지속할 수 있는 환경을 의미한다.",
+        "connection": "영국 노동조합의 불매 결의는 유럽 시민사회 압력의 구체적 표현이며, 가자 상황에 대한 서방 내부 분열이 점차 제도적 차원으로 이동하고 있음을 보여준다.",
+        "signal": "서방 동맹국들이 이스라엘 무기 지원 문제로 미국과의 공조에 균열을 보이는 현상이 군사적 차원을 넘어 무역·외교 영역으로 확산되는 초기 신호다.",
+        "what_to_watch": "EU와 영국 정부가 공식 제재 논의로 이어가는지, 그리고 유엔총회에서 가자 문제가 어떤 결의로 귀결되는지를 확인해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프는 이스라엘 지지를 국내 정치 기반 결집 수단으로 활용하는 한편, 중동 동맹국들과의 거래적 관계를 강화하는 이중 목적을 추구하고 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "가자 민간인 사망과 대형 폭탄 재공급이 동시에 보도되는 상황은 서방 사회 내부의 반전·불매 운동에 강력한 동력을 제공하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "http://www.france24.com/en/washington-set-to-approve-2-8-bn-arms-package-for-israel",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/16/nowhere-to-go-gazas-damaged-buildings-turn-deadly?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/gaza-at-least-21-dead-including-children-in-building-collapse/a-79293453?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    }
+  ]
+}
