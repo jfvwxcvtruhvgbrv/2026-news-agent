@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-18",
+  "session": "am",
+  "time": "07:06",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프-시진핑 정상회담이 일주일 앞으로 다가오면서 군사·무역·AI·대만 등 전방위 의제가 동시에 조율되고 있다",
+      "미-이란 무력 충돌이 반년을 넘기며 트럼프가 정권 전복 가능성을 공개 언급하고 이란 시설 피해가 사진으로 확인됐다",
+      "걸프 위기 여파로 LNG 공급이 3,600만 톤 급감하고 중국 유가가 사상 최고치를 기록하는 등 에너지 복합 충격이 확산되고 있다",
+      "EU가 캐나다를 준회원으로 제안하고 카니 총리가 유럽의회에서 미국 의존 탈피를 선언하자 트럼프가 유럽과의 무역 중단으로 위협했다",
+      "러시아 의회 선거가 전시 체제 속에 진행되는 동안 폴란드는 러시아가 우크라이나 동맹국 공습을 계획하고 있다고 공개 경고했다",
+      "스웨덴 총선에서 좌파 연합이 승리해 총리가 사임하며 유럽 정치 지형이 다시 흔들렸다",
+      "EU가 15세 미만 소셜미디어 금지와 알고리즘 규제를 담은 강력한 아동 보호 디지털 정책을 발표했다",
+      "미 연준이 트럼프 압박에도 3년 만에 금리를 인상하며 글로벌 통화정책이 엇갈리는 분기점이 됐다",
+      "자포리자 원전 전력선이 러시아에 의해 훼손되고 있다는 그린피스 조사 결과가 나오며 핵 안전 우려가 재점화됐다",
+      "DRC 에볼라 사태가 공식 선언 수개월 전부터 시작됐을 가능성이 제기되며 역대 최대 규모로 확산 중이다"
+    ],
+    "emerging_signals": [
+      "중간소득 국가에서 AI 규제 신뢰도가 중국이 미국·EU를 앞지른다는 Pew 조사 결과는 AI 거버넌스 소프트파워 경쟁의 새로운 전선을 시사한다",
+      "미국의 대중 기술 제재가 역설적으로 중국 기업의 자체 혁신을 72% 가속시켰다는 연구는 봉쇄 정책의 효과에 근본적 의문을 제기한다",
+      "피지의 HIV 감염자 7년 만에 16배 급증은 태평양 도서국 전역으로의 감염병 확산 가능성을 경보하는 초기 신호다",
+      "호주의 정부 청사 내 스마트 안경 금지 검토는 AI 웨어러블 기기에 대한 세계 최초 정부 규제 사례가 될 수 있다",
+      "중국이 지부티 기지를 대규모 업그레이드하며 중동·아프리카 감시망을 확장하는 것은 해외 군사력 투사의 단계적 정상화를 보여준다"
+    ],
+    "structural_trends": [
+      "서방 민주국가들이 미국 중심 질서에서 벗어나 EU-캐나다 준회원, 폴란드 미군 기지 등 새로운 다극 안보·외교 구조를 실험하고 있다",
+      "유럽 전역에서 반이민 정서가 제도권으로 흡수되며 국경 통제 강화가 복지국가의 새로운 기본값이 되어가고 있다",
+      "미중 기술 경쟁이 반도체·AI 모델에서 거버넌스 표준 설정과 글로벌 남반구 신뢰 확보 경쟁으로 전선이 확장되고 있다",
+      "걸프 분쟁의 에너지 충격이 남아시아·동아시아 전반으로 파급되며 에너지 지정학이 무역·재정 긴축과 연동되고 있다",
+      "AI가 법률·코드 관리 등 전문직 영역으로 급속히 침투하면서 자율화·에이전트화가 산업 구조를 근본적으로 재편하고 있다"
+    ],
+    "what_changed_today": [
+      "미 연준 금리 인상이 어제 예고에서 오늘 공식 단행으로 확정되며 글로벌 자금 이동이 본격화될 전망이다",
+      "트럼프가 이란에 대한 '섬멸' 가능성을 공개 언급하며 군사 옵션이 실제 정책 선택지로 가시화됐다",
+      "러·중이 유엔 이란 제재 감시 패널에 거부권을 행사해 국제 제재 이행 체계가 사실상 붕괴됐다",
+      "스웨덴 총선 결과로 총리가 사임하며 유럽 정치 균형추가 한 걸음 더 좌측으로 이동했다",
+      "미국이 사우디에 F-35 48대 판매를 승인하며 중동 군비 경쟁이 새로운 국면에 진입했다"
+    ],
+    "what_to_watch_next": [
+      "9월 23일 트럼프-시진핑 정상회담에서 군사 교류 복원·대만·AI 의제가 어떻게 타결될지",
+      "트럼프의 이란 추가 공격 또는 정권 전복 결정 발표 여부",
+      "말레이시아 사면위원회가 9월 18일 나집 전 총리 석방 안건을 어떻게 처리할지",
+      "러시아 의회 선거 이후 크렘린이 평화 협상 여론에 어떻게 대응할지",
+      "미 의회 대러 제재법의 상원 통과 여부와 인도의 에너지 정책 전환 속도",
+      "자포리자 원전 전력선 훼손이 실질적 핵 안전 사고로 이어질 가능성",
+      "DRC 에볼라 초기 탐지 실패 규명이 WHO 조기 경보 체계 개혁으로 이어질지"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "트럼프-시진핑 회담이 일주일 앞으로 당겨지며 미중 관계의 새로운 방정식이 시험대에 올랐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 대통령이 9월 23일 앤드루스 공군기지 활주로에서 시진핑을 직접 영접하는 이례적 의전을 준비하고 있다. 왕이-루비오 외교장관 통화를 통해 군사 교류 복원, 군비통제 재개, 무역·대만·이란·AI 의제가 사전 조율됐다. 중국에 억류된 중국계 미국인 가족들은 이번 회담을 계기로 석방 협상을 압박하고 있다.",
+        "why_it_matters": "이번 회담은 단순한 관계 관리가 아니라 군사 채널 복원과 AI 거버넌스 표준 경쟁을 포함한 다층적 재편의 분기점이 될 수 있다. 중단된 군비통제 대화가 재개될 경우 핵 억지력 균형에도 영향을 미친다.",
+        "what_is_changing": "무역 중심이던 미중 의제가 군사·AI·우주·인권 등으로 폭발적으로 확장되고 있다. 트럼프의 공군기지 영접은 의전 파격을 통해 협력 의지를 신호하는 동시에 내부 정치적 설득 수단으로 활용된다.",
+        "connection": "이란 제재, 대러 원유 관세, 포클랜드 자원 갈등 등 글로벌 현안이 미중 회담의 배경을 구성하며, 중국의 후티 억제 외교도 회담 카드로 작동할 수 있다.",
+        "signal": "미중이 공개적으로 타협 가능한 의제를 열거하기 시작한 것은 '관리된 경쟁' 프레임이 실제 외교 언어로 정착되고 있다는 신호다.",
+        "what_to_watch": "군사 교류 복원 범위, 대만 관련 공동성명 여부, 억류 미국인 석방 조건, AI 협력 또는 규제 공조 논의 결과"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프는 공군기지 영접이라는 의전 파격으로 국내 강경파를 달래면서 동시에 회담 성과를 선거 자산으로 삼으려 한다. 시진핑은 이란 억제 협력과 무역 안정화를 맞교환하는 구도를 원할 것이다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "회담에서 관세 완화·브라질 니켈 광산 문제·기술 수출 통제 조정이 논의될 경우 글로벌 공급망 재편 속도에 직접 영향을 준다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 거버넌스 표준 공조 또는 경쟁 심화 여부가 이번 회담의 숨겨진 핵심 의제이며, 결과에 따라 글로벌 AI 규제 체계의 방향이 달라질 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3367849/china-us-may-unveil-measures-boost-military-ties-when-xi-visits-washington",
+          "region": "China"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/what-will-trump-and-xi-discuss-in-washington-next-week",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3367905/rare-honour-trump-will-greet-xi-andrews-not-just-white-house",
+          "region": "China"
+        }
+      ]
+    },
+    {
+      "headline": "미-이란 전쟁 6개월, 트럼프가 '섬멸 결정'을 공개 예고하며 전선이 정권 교체 논의로 옮겨갔다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 대통령이 이란에 대한 추가 군사 행동 또는 정권 전복 여부를 두고 '큰 결정'이 임박했다고 공개적으로 밝혔다. CBS뉴스가 입수한 사진을 통해 이란의 미국 시설 공격으로 군용기 파손과 건물 파괴가 확인됐다. 유엔 전문가들은 미국의 이란 민간 시설 공습이 전쟁범죄에 해당할 수 있다고 지적했으나 미국은 공습 자체를 인정하지 않고 있다.",
+        "why_it_matters": "반년을 넘긴 미-이란 무력 충돌이 정권 교체 논의로 격상되는 것은 중동 전체 안보 구조를 뒤흔드는 분기점이다. 이란의 핵 프로그램, 후티 후원, 헤즈볼라 지원이 연쇄적으로 영향을 받는다.",
+        "what_is_changing": "6개월 전까지만 해도 '제한적 충돌'로 규정됐던 미-이란 대립이 이제 정권 교체가 실제 옵션으로 거론되는 단계로 격상됐다. 러·중의 이란 제재 패널 거부권 행사로 국제 제재 이행 체계도 사실상 붕괴됐다.",
+        "connection": "미국이 오만에서 후티와 비공개 접촉을 진행하는 동시에 사우디의 군사 지원 요청을 거절한 것은 이란 본토와 대리세력을 분리 관리하려는 전략의 일환일 수 있다.",
+        "signal": "트럼프의 공개 발언이 협상 압박용인지 실제 군사 명령의 전조인지가 향후 며칠 안에 판가름 날 것이다.",
+        "what_to_watch": "트럼프의 이란 결정 공표 시점, 유엔 총회에서의 이란 대표단 발언 내용, 러·중의 제재 대안 제시 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 '섬멸' 언급은 국내 강경 지지층을 결집하면서 동시에 이란에 최대 압박을 가하는 이중 목적 발언으로 읽힌다. 유엔에서 이란 대표단 비자를 승인한 것은 외교 채널을 완전히 닫지 않으려는 신호다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "이란 분쟁 확대는 호르무즈 해협 봉쇄 위험을 높여 이미 급등한 글로벌 에너지 가격에 추가 충격을 줄 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/09/17/world-news/trump-says-he-has-a-big-decision-coming-up-on-iran-do-i-want-to-go-in-and-annihilate-them/",
+          "region": "North America"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "걸프 전선이 확대되며 에너지·난민·유가 3중 충격이 아시아와 아프리카로 동시에 전파되고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "사우디-후티 교전이 격화되며 드론 공격으로 사망자가 발생했다. 걸프 위기로 LNG 공급이 약 3,600만 톤 감소하면서 방글라데시·파키스탄의 에너지 수급이 불안정해졌고, 중국 국내 석유 가격이 사상 최고치를 기록했다. 예멘 분쟁 격화로 지부티로 향하는 난민도 급증하고 있다. 중국은 사우디 요청을 받아 이란을 통해 후티를 억제하는 비공개 외교를 진행 중이다.",
+        "why_it_matters": "에너지 공급망 차질이 남아시아 전력망과 동아시아 산업 생산 비용을 동시에 압박하고 있다. 후티가 바브엘만데브 해협 인근 거점을 확보했다고 주장하면서 홍해 해상 교통로 위협도 현실화되고 있다.",
+        "what_is_changing": "걸프 분쟁이 지역 사건에서 글로벌 에너지·물류·인도주의 위기의 복합 진원지로 전환되고 있다. 미국이 사우디 지원을 거절하면서 걸프 안보의 미국 의존 구조에 균열이 생기고 있다.",
+        "connection": "파키스탄은 에너지 위기로 공무원 해외 출장·공식 만찬까지 금지하는 극단적 긴축에 돌입했다. 인도는 러시아 원유 의존과 걸프 LNG 감소라는 이중 에너지 압박에 처해 있다.",
+        "signal": "에너지 위기가 남아시아 정부 예산과 정치 안정성까지 위협하는 구조적 파급으로 확산되기 시작한 첫 단계다.",
+        "what_to_watch": "후티-미국 오만 협상의 진전 여부, 중국의 이란 경유 후티 억제 외교 성과, 홍해 해상 운임 추가 급등 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "LNG 공급 급감과 유가 사상 최고치의 조합은 아시아 제조업 원가와 인플레이션 압력을 동시에 끌어올리며 각국 중앙은행의 금리 결정을 제약하는 변수가 된다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "미국이 사우디 지원을 거절하고 후티와 비밀 접촉하는 이중 플레이는 전통적 중동 동맹 구조를 교란하며, 이 공백을 중국이 중재자로 메우려 한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/south-asia/energy-disruption-hits-bangladesh-and-pakistan-as-gulf-crisis-worsens",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/trump-declines-to-back-saudi-arabia-as-us-officials-reportedly-meet-iran-backed-houthis-in-oman",
+          "region": "Europe"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/china-presses-iran-to-help-rein-in-houthis-after-saudi-appeal-sources-say",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "캐나다-EU 준회원 구상이 서방 동맹 재편의 시험 무대가 되자 트럼프가 무역 전쟁으로 맞불을 놨다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "EU 집행위원장 폰데어라이엔이 캐나다에 준회원 지위를 제안했고, 카니 총리는 유럽의회 연설에서 이를 환영하며 에너지·AI·우주·결제 주권 분야로의 협력 확장 의지를 표명했다. 트럼프는 EU가 캐나다를 준회원으로 받아들일 경우 유럽과의 무역을 전면 중단하겠다고 위협했다. 현행 EU 조약에는 준회원 지위가 존재하지 않아 실현에는 조약 개정이 필요하다.",
+        "why_it_matters": "트럼프의 무역 압박이 역설적으로 서방 민주국가들이 미국 없이도 협력 구조를 만들 수 있다는 실험을 촉진하고 있다. EU 역사상 비유럽 국가를 준회원으로 초대하는 것은 전례 없는 구조 변화다.",
+        "what_is_changing": "지금까지 EU 확대는 지리적 유럽 국가에만 적용됐으나, 이 구상이 실현되면 가치 공유 민주주의 국가로의 동맹 확장이라는 새로운 모델이 만들어진다.",
+        "connection": "폴란드 미군 기지 협상, 스웨덴 총선 좌파 정권 교체와 맞물리며 유럽 안보·외교의 자율성 강화 흐름이 동시에 진행되고 있다.",
+        "signal": "미국이 서방 동맹의 구심점에서 이탈할수록 EU-캐나다 같은 탈미국 연대 실험이 가속될 것이라는 구조적 신호다.",
+        "what_to_watch": "EU 조약 개정 논의 착수 여부, 트럼프의 대EU 무역 압박 실제 실행 여부, 다른 민주 국가들의 유사 지위 요청 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "카니에게 준회원 구상은 미국 의존을 줄이고 국내 반미 감정을 외교 자산으로 전환하는 정치적 서사가 된다. 트럼프에게는 동맹 이탈을 막으려는 강압이 오히려 이탈을 가속하는 역설이 발생하고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "캐나다-EU 에너지 협력이 실현되면 유럽의 러시아 에너지 대체 다변화에 직접 기여하며, 동시에 캐나다는 미국 시장 의존도를 낮출 수출 채널을 확보할 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/carney-pushes-canada-eu-ties-beyond-trade",
+          "region": "Europe"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/09/16/eu-proposes-canada-as-its-first-associate-member-a-status-that-does-not-yet-exist",
+          "region": "Latin America"
+        }
+      ]
+    }
+  ]
+}
