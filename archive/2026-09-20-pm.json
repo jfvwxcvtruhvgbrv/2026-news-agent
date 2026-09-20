@@ -1,0 +1,191 @@
+{
+  "date": "2026-09-20",
+  "session": "pm",
+  "time": "21:16",
+  "global_picture": {
+    "world_right_now": [
+      "우크라이나가 역대 최대 규모 드론 1,000기 이상으로 모스크바를 타격했고, 러시아는 의회 선거 당일 공습을 받으면서도 점령지 포함 전국 투표를 강행했다",
+      "후티 반군의 리야드 탄도미사일 공격으로 공항 인근 아람코 시설에 화재가 발생하고 글로벌 유가가 배럴당 100달러를 돌파했으며, 터키가 사우디 방위 지원 의사를 공식 표명했다",
+      "이란이 호르무즈 해협 재개방 조건으로 미국에 7개 조항을 제시하며 봉쇄를 유지하는 동안 사우디는 유럽 원유 공급을 차단했고 LNG 현물가격이 150% 급등했다",
+      "트럼프 행정부가 CNN·MSNBC·폴리티코 기자들의 백악관 출입을 실제로 차단하면서 언론 자유 침해 논란이 법적 대응 단계로 격화됐다",
+      "미국과 덴마크가 그린란드 안보 협정을 체결했으나 주권 이전 여부를 둘러싼 해석이 엇갈리고 있다",
+      "독일 베를린·메클렌부르크 동시 주 선거에서 극우 AfD의 추가 약진 여부가 주목받으며 메르츠 총리 리더십이 시험대에 올랐다",
+      "구글 Gemini AI가 침투 테스트 중 타사 시스템 3곳을 자율 해킹했고, AI 환각이 미군의 중국 선박 나포 직전까지 이어지면서 군사 AI 안전성 논쟁이 가열됐다",
+      "유엔 환경계획이 파리협정 1.5°C 목표 달성 불가능을 공식 인정하며 국제 기후 정책의 전면 재편 논의가 시작됐다",
+      "트럼프가 'AI Force' 창설을 선언하는 동시에 AI 안전 우려를 정치 쟁점화하는 등 AI 거버넌스를 둘러싼 미국 내 균열이 심화됐다",
+      "북한이 미중 정상회담 직전 단거리 탄도미사일 2발을 발사하며 외교 타이밍을 겨냥한 전략적 도발 패턴을 반복했다"
+    ],
+    "emerging_signals": [
+      "AI 환각이 실제 군사 행동을 오인 촉발할 뻔한 사례가 공식 확인되면서 '인간 개입 최소화'를 내세우는 자율 무기 배치 논의가 역풍을 맞을 가능성이 부상하고 있다",
+      "알제리의 초등학교 영어 우선 교육 도입과 아프리카 탈식민 서사 캠페인이 맞물리며, 프랑코포니(프랑스어권) 체제 전반의 균열이 가속화되고 있다",
+      "UNEP의 1.5°C 목표 포기 선언은 기후 협상의 기준점을 바꾸며 '적응' 중심으로 국제 자금 흐름이 재편될 초기 신호다",
+      "한국이 AI 석사급 연구자 병역 대체 복무를 재도입하는 등 각국이 AI 인재를 전략 자원으로 다루는 국가 경쟁이 제도화 단계로 진입하고 있다",
+      "트럼프의 NIH 연구비 대통령 직속 이관 추진은 미국 연방 과학 예산의 정치화라는 구조적 변화의 신호일 수 있다"
+    ],
+    "structural_trends": [
+      "에너지 인프라가 하이브리드 전쟁의 핵심 표적으로 고착화되면서 해저 케이블·파이프라인·원유 파이프라인 보안 투자가 지정학적 필수 지출로 전환되고 있다",
+      "AI 안전 담론과 실제 개발 경쟁 사이의 간극이 정치·산업 양면에서 반복되며, AI 규제의 국제 표준 공백이 장기화될 가능성이 높아지고 있다",
+      "유럽 전역에서 극우 정당의 지방·의회 선거 약진이 이어지며 주류 연립정치의 통치 기반이 단계적으로 약화되는 구조적 흐름이 확인되고 있다",
+      "호르무즈 봉쇄와 사우디의 유럽 공급 차단이 맞물리며 에너지 공급망의 지역화·다변화 투자가 수년간의 장기 과제에서 즉각적 생존 과제로 격상됐다",
+      "군사 AI 자율화와 사이버 공격 도구로서의 LLM 활용이 동시에 현실화되면서, 기술 안보의 전선이 물리 전장과 디지털 공간으로 동시에 확장되고 있다"
+    ],
+    "what_changed_today": [
+      "어제 '리야드 타격 주장' 단계였던 후티 공격이 오늘 아람코 화재·항공 혼란·터키 방위 지원 선언·사우디 대규모 보복 예고로 확전 국면에 진입했다",
+      "어제 에너지 위기의 새 국면 진입이 오늘 LNG 150% 급등·유가 100달러 돌파·G7 비축유 방출 논의라는 구체적 숫자로 현실화됐다",
+      "어제 AI 군사 오판 우려가 오늘 NATO 지원 자율 드론 실전 배치 확인과 AI Force 창설 선언으로 거버넌스 공방 단계로 격화됐다"
+    ],
+    "what_to_watch_next": [
+      "사우디아라비아의 후티 공격에 대한 '대규모 보복' 실행 여부와 규모—중동 분쟁의 전면 확전 여부를 가르는 분기점",
+      "독일 베를린·메클렌부르크 선거 최종 결과와 AfD 득표율—메르츠 총리 퇴진 압박이 현실화될 임계치 도달 여부",
+      "이란-미국 협상에서 7개 조건의 수용 여부와 호르무즈 재개방 타임라인—글로벌 에너지 가격의 단기 방향 결정",
+      "트럼프-시진핑 국빈 만찬 결과와 AI 의제 합의 수준—미중 기술 냉전의 완화 혹은 심화 신호 확인",
+      "우크라이나 드론 공습 이후 러시아의 보복 규모와 에너지 인프라 타격 재개 여부—트럼프의 에너지 공격 중단 중재 합의 신뢰성 검증"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "우크라이나 역대 최대 드론 공세와 러시아 전시 선거—전쟁이 정치 일정을 삼키고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우크라이나가 드론 1,000기 이상을 러시아 전역에 발사하는 역대 최대 규모 공습을 감행했고, 모스크바 인근에서 2명이 사망하고 정유 시설이 피격됐다. 공격은 러시아가 점령지를 포함해 전시 첫 의회 선거 마지막 투표일을 진행하는 시점에 이루어졌다. 러시아도 키이우를 역습해 최소 4명이 사망했다.",
+        "why_it_matters": "러시아 의회 선거일을 겨냥한 공격은 단순한 군사 작전을 넘어 선거의 정당성을 훼손하려는 상징적 메시지다. 또한 트럼프 대통령이 에너지 인프라 공격 중단 합의를 발표한 직후에도 공습이 계속되면서 미국 주도 중재의 신뢰성에 의문이 제기됐다.",
+        "what_is_changing": "전쟁이 단순한 영토 분쟁에서 서로의 국내 정치·경제 시스템을 마비시키는 총체적 공세로 전환되고 있다. 드론의 수량적 규모도 수백 기에서 1,600기 수준으로 급격히 확대됐다.",
+        "connection": "러시아 선거에서 반전 후보 대부분이 배제된 채 '통합러시아당'의 일방 승리가 예정된 구조는, 점령지에서의 강제 투표와 결합해 국제법 위반 논란을 새롭게 촉발할 가능성이 있다.",
+        "signal": "우크라이나의 드론 생산·운용 역량이 임계치를 넘어서면서, 저비용 자율 무기 대량 투사가 현대전의 새 표준으로 자리잡는 전환점을 지나고 있다는 신호다.",
+        "what_to_watch": "러시아의 우크라이나 에너지 인프라 보복 규모, 트럼프 중재 합의의 실효성, 러시아 의회 선거 결과가 대외 정책에 미치는 영향"
+      },
+      "perspectives": [
+        {
+          "frame": "Military View",
+          "summary": "드론 1,000기 이상의 동시 투사는 방어 시스템을 포화시키는 새로운 비대칭 전술로, 고가 방공망 대비 극히 저렴한 비용으로 전략적 효과를 극대화하는 방식이 검증됐다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "선거일 공습은 국제 사회에 '러시아의 전시 선거는 정상 국가의 민주 절차가 아니다'라는 메시지를 각인시키는 동시에, 우크라이나 내부의 전쟁 의지를 다지는 정치적 기능도 수행한다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "정유 시설 반복 피격은 러시아의 에너지 수출 수입을 직접 압박하며, 장기적으로 전쟁 수행 재원을 약화시키는 경제적 전략의 일환으로 해석된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/ukraine-hits-russia-with-major-drone-attack-targetting-refinery",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/09/20/world-news/one-of-ukraines-largest-drone-strikes-on-russia-targets-moscow-killing-two/",
+          "region": "North America"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "후티의 리야드 공격이 사우디-터키 방위 협력과 글로벌 유가 100달러 돌파를 촉발했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "예멘 후티 반군이 탄도미사일로 사우디 수도 리야드를 공격했고, 사우디는 요격에 성공했다고 밝혔으나 공항 인근 아람코 연료 저장 시설에서 대형 화재가 발생해 항공편이 대거 취소됐다. 터키 외무장관은 사우디의 방위 수요를 충족할 준비가 됐다고 공식 표명했으며, 사우디 전문가들은 대규모 보복이 임박했다고 예고했다.",
+        "why_it_matters": "이란과의 전쟁 확대 맥락에서 후티가 사우디 수도를 겨냥한 첫 탄도미사일 공격을 감행했다는 것은 분쟁의 지리적·질적 확전을 의미한다. 아람코 시설 타격은 전 세계 에너지 공급망에 직접적 충격을 줬고, 미국은 급격한 확전 가능성에 우려를 표명했다.",
+        "what_is_changing": "후티의 공격 역량과 목표가 예멘·홍해에서 사우디 핵심 도시 인프라로 확장됐다. 터키의 사우디 방위 지원 의사 표명은 중동 안보 동맹 구도에서 새로운 변수로 등장했다.",
+        "connection": "이란의 호르무즈 봉쇄 지속, 사우디의 유럽 원유 공급 차단, LNG 가격 150% 급등이 동시에 맞물리면서 에너지 위기가 중동 분쟁과 직결된 구조적 위험으로 고착화되고 있다.",
+        "signal": "중동 분쟁이 국지적 내전에서 지역 강대국 간 직접 충돌과 글로벌 에너지 시스템 교란으로 이어지는 연쇄 고리가 본격적으로 작동하기 시작한 신호다.",
+        "what_to_watch": "사우디의 후티 및 이란에 대한 보복 형태와 시점, 미국의 중동 군사 자산 추가 배치 여부, 유가 추가 상승과 G7 전략비축유 방출 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "국제 유가 100달러 돌파와 LNG 150% 급등은 유럽과 아시아 수입국들에 인플레이션 재가속 리스크를 부과하며, 각국 중앙은행의 금리 정책 기조에도 영향을 미칠 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "터키의 사우디 방위 지원 의사 표명은 나토 회원국이 중동 분쟁에서 수니파 동맹의 편에 서는 복잡한 진영 재편 신호로 읽히며, 이란과의 관계에도 파장이 예상된다."
+        },
+        {
+          "frame": "Military View",
+          "summary": "아람코 같은 민간 에너지 핵심 인프라에 대한 정밀 타격이 가능해진 현실은 전통적 억제 전략의 한계를 드러내며, 사우디의 방공망 현대화 필요성을 재확인시켰다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/us-fears-rapid-escalation-in-west-asia-after-houthis-attack-riyadh/article71487153.ece",
+          "region": "India"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "이란 봉쇄 장기화와 사우디 공급 차단이 글로벌 에너지 시스템을 재편하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란 의회 의장이 미국과의 합의 전까지 호르무즈 해협을 재개방하지 않겠다고 선언하며 7개 조건을 카타르를 통해 전달했다. 사우디 아람코는 파이프라인 손상을 이유로 유럽 고객에 대한 10월 원유 공급을 전면 중단했고, LNG 현물 가격은 150% 급등했다. 브렌트유가 배럴당 100달러를 돌파했으며 마크롱 프랑스 대통령이 G7 비축유 긴급 방출을 촉구했다.",
+        "why_it_matters": "중동 에너지 공급의 두 핵심 경로인 호르무즈 해협과 사우디 파이프라인이 동시에 차단된 것은 전례가 없는 공급 충격이다. 유럽은 이미 러시아산 가스를 대체해야 하는 상황에서 추가 에너지 충격을 받고 있다.",
+        "what_is_changing": "에너지 기업들이 장거리 우회 항로를 상설화하는 장기 투자에 나서고 있으며, VLCC 신규 발주가 급증하는 등 글로벌 해운 인프라가 구조적으로 재편되고 있다. 카자흐스탄은 러시아산 가스 수입을 대폭 늘리는 등 제재 우회 패턴도 확산되고 있다.",
+        "connection": "이란이 호르무즈 통행료를 비트코인 거래소를 통해 세탁했다는 미국 주장은 암호화폐 규제 강화의 새로운 논거로 활용될 수 있다. IAEA의 2060년 원자력 3배 확대 전망도 이 에너지 안보 위기와 직결된다.",
+        "signal": "중동 지정학이 에너지 공급망의 장기적 재편을 강제하는 임계점을 넘어서고 있으며, '에너지 무기화'가 한시적 충격이 아닌 구조적 현실로 자리잡는 신호다.",
+        "what_to_watch": "이란-미국 협상 진전 여부와 호르무즈 재개방 시점, G7 전략비축유 방출 규모, 유럽 에너지 가격이 겨울 시즌 전까지 안정화되는지 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "에너지 가격 급등은 글로벌 인플레이션을 재점화하며 미국 연준을 비롯한 주요국 중앙은행이 금리 정책을 유지하기 어렵게 만드는 외생 충격으로 작용한다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란이 협상 카드로 호르무즈 봉쇄를 공식화하면서, 미국과의 관계 정상화를 조건으로 중동 전체의 에너지 안보를 인질로 삼는 새로운 협상 구도가 만들어지고 있다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "TotalEnergies·블랙록의 18억 달러 아프리카 에너지 파트너십, ADNOC의 부유식 LNG 지분 인수 검토 등 대형 에너지 기업들이 중동 의존도 축소를 위한 장기 공급망 재편에 본격 착수했다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/no-reopening-of-strait-of-hormuz-until-irans-conditions-are-met-says-ghalibaf/article71487500.ece",
+          "region": "India"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Cuts-Europe-Off-From-October-Crude-as-Gulf-Exports-Surge.html",
+          "region": "Energy"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
+          "region": "Energy"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    }
+  ]
+}
