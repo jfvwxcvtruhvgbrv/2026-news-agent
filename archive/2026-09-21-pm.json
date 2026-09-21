@@ -1,0 +1,212 @@
+{
+  "date": "2026-09-21",
+  "session": "pm",
+  "time": "22:50",
+  "global_picture": {
+    "world_right_now": [
+      "러시아 전시 의회 선거에서 푸틴 여당이 압승하며 전쟁 지속 기조를 재확인했고, 우크라이나는 선거 마지막 날 1,000기 이상의 드론으로 역대 최대 공세를 감행했다",
+      "트럼프-시진핑 정상회담을 앞두고 미중이 AI 안전 대화 채널 구축과 무역 휴전 연장을 사전 협의하며 긴장 완화 제스처를 취하고 있다",
+      "호르무즈 해협 봉쇄로 글로벌 연료 위기가 심화되며 LNG 현물가 150% 급등, 미국 디젤 사상 최고가, 유럽 항공유 부족까지 확산되고 있다",
+      "독일 지방선거에서 메르츠의 CDU가 역대급 참패를 기록했고 AfD는 유럽 극우와의 연대를 선언하며 독일 정치 양극화가 가속되고 있다",
+      "트럼프 행정부가 CNN·MSNBC·폴리티코를 백악관에서 배제하자 해당 언론사들이 헌법 소송으로 맞섰다",
+      "비트코인이 3분기 44% 급등하며 8만5천 달러를 돌파했고, ECB는 도매 토큰화 결제 플랫폼을 가동하며 블록체인 금융의 제도권 편입이 가속화되고 있다",
+      "시진핑이 자신의 최측근이던 전 중앙군사위 부주석 장유샤를 포함한 고위 장성 2명을 전격 제명하며 군부 통제를 강화했다",
+      "트럼프가 이란과의 대화 가능성을 언급하자 유가가 배럴당 100달러 아래로 내려갔으나, 동시에 군사 위협도 병행하는 양면 전략을 구사하고 있다",
+      "캐나다가 EU 준회원국 가입 가능성을 논의하고 영국에 경제동맹 합류를 제안하는 등 미국 외 서방 동맹 재편이 가시화되고 있다",
+      "AI 모델이 타사 시스템 해킹에 실제로 사용되고, AI 허위 보고서가 미군의 중국 선박 나포 직전 상황까지 만들어내며 AI 안전 위기가 현실화되고 있다"
+    ],
+    "emerging_signals": [
+      "중국 문샷AI의 Kimi K3가 AWS에 공급되기 시작하며 중국산 AI 모델의 글로벌 수익화 가능성이 처음 시험대에 올랐다",
+      "NATO 지원 스타트업이 AI 기반 자율 공격 드론을 실전 배치하며 자율 무기 확산의 임계점을 넘기 시작했다",
+      "AI 워터마킹 기술(SynthID)이 오히려 모델 안전 장치를 약화시킨다는 연구 결과가 나오며 AI 거버넌스의 역설적 취약점이 드러났다",
+      "구글·애플이 스테이블코인 인재를 대규모 채용하며 빅테크의 블록체인 금융 진입이 가시화되고 있다",
+      "에티오피아 7개 반군 연합 결성, 수단 의료시스템 붕괴, 예멘 후티 사우디 공항 공격이 맞물리며 아프리카·중동의 복합 불안이 동시 고조되고 있다"
+    ],
+    "structural_trends": [
+      "미중 AI 패권 경쟁이 기술 통제에서 외교 의제화로 전환되며 AI 안전이 정상회담의 핵심 협상 카드가 됐다",
+      "유럽 극우 세력의 부상이 개별 국가 선거를 넘어 이탈리아·독일 AfD 연대 선언 등 초국가적 연합 단계로 진화하고 있다",
+      "호르무즈 위기로 촉발된 에너지 공급망 붕괴가 에너지·해운 기업들의 장기 우회 인프라 투자와 석탄 수요 사상 최고치 전망으로 이어지며 에너지 전환이 역행하고 있다",
+      "트럼프 행정부의 이민자 제3국 추방과 ICE 총기 사용이 구조적 정책으로 고착화되며 미국 내외에서 법적·외교적 반발이 축적되고 있다",
+      "글로벌 금융 인프라가 블록체인 기반 토큰화 결제로 실질 전환되기 시작했고, 비트코인은 기관 투자자의 필수 자산군으로 재정의되는 국면에 접어들었다"
+    ],
+    "what_changed_today": [
+      "러시아 의회 선거가 공식 종료되며 푸틴 여당 압승이 확정됐고, 서방 5개국이 '가짜 선거' 규탄 공동성명을 발표했다",
+      "트럼프-시진핑 정상회담 일정이 공식 확인됐고 미중이 AI 안전 핫라인 메커니즘에 합의에 근접했다",
+      "시진핑이 집권 이래 최고위급 군부 숙청을 단행하며 전 중앙군사위 부주석을 제명했다",
+      "비트코인이 8만5천 달러를 돌파하며 역사적 강세장 전조 기술적 저항선을 넘었다",
+      "트럼프 백악관 언론 배제에 대해 주요 언론사들이 헌법 소송을 공식 제기하며 사법 분쟁이 개시됐다",
+      "ECB 도매 토큰화 결제 플랫폼 Pontes가 가동을 시작했다"
+    ],
+    "what_to_watch_next": [
+      "9월 24일 예정된 트럼프-시진핑 정상회담에서 AI 안전 협정과 무역 휴전 연장이 실제 합의로 이어질지",
+      "호르무즈 해협 봉쇄가 지속될 경우 유럽·아시아 에너지 수급 위기가 어느 수준까지 심화될지",
+      "독일 CDU의 연속 패배가 메르츠 총리의 연방 연립정부 유지에 실질적 균열을 만들지",
+      "AI 모델의 실제 군사·사이버 사고 사례가 미중 AI 안전 협상 의제에 구체적 제약으로 작용할지",
+      "비트코인 8만5천 달러 돌파 이후 기관 추가 매수와 ETF 자금 유입이 본격 강세장을 촉발할지",
+      "미국 법원이 주요 언론사의 백악관 취재 복귀 소송을 수리할지"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "우크라이나 1,000기 드론 공세·러시아 선거 압승—전쟁이 정치 행사를 전장으로 삼는 단계에 진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우크라이나가 러시아 국가두마 선거 마지막 날 1,000기 이상의 드론을 발사해 모스크바를 포함한 러시아 본토를 공격했으며, 정유 시설이 피격되고 2명이 사망했다. 러시아는 키이우 창고 단지를 보복 타격했다. 선거에서는 푸틴의 통합러시아당이 약 58%를 득표해 압승했고, 영국·캐나다·호주·뉴질랜드·노르웨이 5개국이 '가짜 선거'라며 즉각 규탄 성명을 냈다.",
+        "why_it_matters": "우크라이나가 러시아 선거일이라는 정치적 상징 시점에 맞춰 역대 최대 공세를 감행한 것은 단순 군사 작전을 넘어 러시아 내부 여론과 국제 이목을 겨냥한 정보전 전략이다. 푸틴 여당의 압승은 전쟁 지속에 대한 크렘린의 정치적 정당성을 강화하는 데 활용될 것이다.",
+        "what_is_changing": "드론 전쟁이 수도권을 직접 타격할 수 있는 전략 무기로 자리잡았고, 선거라는 민간 정치 행사가 전쟁의 시간표로 편입됐다. 트럼프는 러시아의 디젤 산업 마비를 거론하며 즉각 종전을 촉구하는 등 전쟁 피로감이 서방 내부에서도 외교 압력으로 전환되고 있다.",
+        "connection": "러시아의 에너지 인프라 타격은 글로벌 디젤 공급과 직결되며 호르무즈 봉쇄로 이미 취약해진 에너지 시장을 추가로 압박하고 있다. EU의 대러 제재 연장 협의에서 프랑스의 이견이 표면화되며 서방 결속에도 균열 신호가 감지된다.",
+        "signal": "전쟁이 4년차로 접어들며 군사·정치·에너지·외교가 복합적으로 얽히는 '총력전 다층 구조'로 진화하고 있다는 초기 신호다.",
+        "what_to_watch": "러시아 정유 시설 피격의 글로벌 에너지 가격 파급 효과, EU 대러 제재 갱신 협상 결과, 트럼프의 종전 압력이 우크라이나 전략에 실제로 제약을 가할지"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아가 전시 선거를 통해 국내 결집을 도모하는 사이 우크라이나는 선거 당일 공세로 그 정당성을 국제적으로 훼손하려 했다. 서방 5개국의 공동 규탄 성명은 상징적이지만 즉각적 군사 지원 확대로는 이어지지 않고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "러시아 정유 시설 타격이 글로벌 디젤 공급망에 미치는 영향이 트럼프 발언에서도 언급될 만큼 현실화되고 있다. 전쟁의 장기화는 에너지·군수 비용 상승을 통해 세계 경제에 비선형적 충격을 누적시키고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260921-moscow-ukraine-launches-huge-drone-attack-as-election-wraps-up",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine",
+          "region": "North America"
+        },
+        {
+          "source": "Mirror (UK)",
+          "link": "https://www.mirror.co.uk/news/world-news/putin-wins-record-number-seats-37685033",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+          "region": "Russia"
+        },
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/09/21/us-news/trump-says-russia-lost-control-of-its-diesel-oil-industry-after-ukraine-drone-attacks-calls-for-end-to-war/",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "호르무즈 봉쇄가 에너지 구조를 재편하고 있다—디젤·LNG·석탄이 동시에 역사적 임계점을 향해 달리고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "호르무즈 해협 통과 선박이 일주일 만에 35척에서 12척으로 급감하며 글로벌 연료 공급 위기가 심화되고 있다. LNG 현물가가 150% 이상 급등하고 미국 디젤 소매가는 갤런당 6.50달러로 사상 최고치를 기록했다. IEA는 올해 전 세계 석탄 수요가 사상 최고치를 기록할 것으로 전망했으며, 유럽에서는 디젤에 이어 항공유 부족 위기까지 확산되고 있다. 사우디 동서 원유 송유관 운영 중단도 겹치면서 아시아—특히 한국—에 추가 충격이 우려된다.",
+        "why_it_matters": "단일 지점(호르무즈)의 봉쇄가 석유·LNG·석탄·디젤·항공유 등 전 에너지 시스템에 동시 충격을 주는 '연쇄 위기 구조'가 현실화됐다. 에너지 전환 정책을 추진 중인 유럽과 인도조차 석탄으로 회귀하는 아이러니가 발생하고 있다.",
+        "what_is_changing": "에너지 시장이 수급 균형보다 지정학적 리스크에 먼저 반응하는 구조로 전환됐다. 에너지·해운 기업들은 장기 우회 공급망에 수십억 달러를 베팅하며 고운임 시대의 구조적 장기화를 이미 가격에 반영하고 있다. 인도는 화력발전소 40%가 석탄 재고 3일치 미만이라는 위기 상황에 처해 에너지 자립의 구조적 취약성을 드러냈다.",
+        "connection": "우크라이나의 러시아 정유 시설 공격이 유럽 디젤 공급을 추가 압박하며 호르무즈 위기와 상승 작용하고 있다. 중국의 2035년 세계 최대 핵에너지 생산국 전망과 맞물려 에너지 패권 지형이 근본적으로 재편될 조짐이다.",
+        "signal": "에너지 안보가 기후 정책보다 우선시되는 구조 전환의 변곡점이며, 석탄 수요 최고치 전망은 탄소 중립 일정표에 근본적 의문을 던진다.",
+        "what_to_watch": "호르무즈 봉쇄 해제 협상 진전 여부, 이란-미국 협상이 유가 방향을 결정할 변수, 겨울 전 유럽 LNG 재고 확보 성공 여부, 인도 전력 수급 위기로의 확대 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "에너지 비용 급등이 관세·고금리와 맞물려 미국·유럽 기업의 3중 수익성 압박을 형성하고 있다. 단기 충격을 넘어 글로벌 인플레이션 재점화의 구조적 요인으로 작동할 가능성이 높다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프가 사우디의 후티 공동 타격 제안을 거부하면서 미국의 중동 군사 개입 의지에 대한 동맹국의 신뢰가 흔들리고 있다. 이란과의 유화 제스처와 군사 위협의 병행은 중동 에너지 안보를 추가로 불안정하게 만든다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "중국이 SMR 포함 핵에너지 확장에 박차를 가하며 에너지 위기를 원전 지위 강화의 기회로 활용하고 있다. 영국의 전력망 1,500억 파운드 업그레이드 필요성도 재생에너지 전환의 인프라 병목이 에너지 안보의 새 취약점임을 시사한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Shipping-Traffic-Falls-Further-as-Saudi-Oil-Flows-Rise.html",
+          "region": "Global"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html",
+          "region": "Global"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Fuel-Crisis-Spreads-From-Diesel-to-Jet-Fuel.html",
+          "region": "Europe"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Hits-Record-650-as-Global-Fuel-Crunch-Deepens.html",
+          "region": "USA"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/09/21/saudi-pipeline-closure-asia-oil-import-korea.html",
+          "region": "Business"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
+          "region": "Europe/Asia"
+        }
+      ]
+    },
+    {
+      "headline": "독일 CDU의 잇단 참패와 AfD의 유럽 연대 선언—유럽 극우는 이제 집권보다 동맹 구축 단계로 이동하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "독일 메클렌부르크-포어포메른 주 선거에서 CDU가 5% 봉쇄 조항을 넘지 못해 의회 진입 자체에 실패했고, 베를린에서는 극좌 Die Linke가 1위를 차지했다. AfD는 양 주에서 득표를 대폭 늘렸고, 메르츠 총리는 결과를 '재앙'으로 인정하면서도 CDU-SPD 연립 유지 의지를 재확인했다. AfD는 연내 메르츠 실각을 예측하며 이탈리아 급진 우파와의 공식 연대를 선언했다.",
+        "why_it_matters": "유럽 최대 경제국 독일의 집권당이 두 주에서 동시에 참패한 것은 연방 정치의 구심력이 붕괴하고 있다는 신호다. AfD가 집권 가능성이 막혀도 세를 유지하면서 유럽 극우 네트워크를 구축하기 시작했다는 점은 단기 선거 현상을 넘어 구조적 변화다.",
+        "what_is_changing": "유럽 극우 정치가 국내 선거 승리에서 초국가적 연합 형성으로 전략의 무게중심을 이동하고 있다. 동시에 폭스바겐의 DAX 퇴출 위기 등 경제 하강이 정치 불안을 심화시키는 상호 강화 고리가 형성되고 있다.",
+        "connection": "EU 대러 제재 연장에서 프랑스가 이견을 표명하는 등 유럽 주요국들의 내부 결속 균열이 동시에 진행 중이다. 독일 자동차 업계의 노사 갈등과 전기차 전환에 따른 연료세 수입 감소도 CDU의 정치적 토대를 약화시키는 경제 구조 변화와 맞닿아 있다.",
+        "signal": "1990년대 통일 이후 독일 정치를 지배해온 중도 대연정 구도가 양극화 압력 하에서 재생 불가능한 상태로 접어들고 있다는 구조적 신호다.",
+        "what_to_watch": "AfD-이탈리아 우파 연대가 실제 유럽의회 전략 연합으로 발전할지, 메르츠의 연방 연립 유지 가능 기간, 폭스바겐 위기가 독일 경제 성장 전망에 주는 영향"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "AfD는 집권이 아닌 '거부권 행사자'와 '유럽 연대 구심점'으로 역할을 재정의하고 있다. 이 전략은 봉쇄 조항으로 집권이 어려운 현실에서도 영향력을 극대화할 수 있는 장기 포석이다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "독일 주요 제조업체들의 노동시간 연장 요구와 폭스바겐의 실적 경고는 CDU의 경제 성과 서사를 무너뜨리고 있으며, 유권자들이 기성 정당이 아닌 극단으로 이동하는 경제적 토대를 만들고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+          "region": "Germany"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/09/21/german-election-result.html",
+          "region": "Business"
+        },
+        {
+          "source": "Daily Mail (UK)",
+          "link": "https://www.dailymail.com/news/article-16148071/Germany-chancellor-Friedrich-Merz-AfD-election.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
