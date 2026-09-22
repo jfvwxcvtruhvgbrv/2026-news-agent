@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-23",
+  "session": "am",
+  "time": "07:06",
+  "global_picture": {
+    "world_right_now": [
+      "유엔총회를 무대로 트럼프-시진핑 정상회담, 미-이란 3시간 회담, 영-미·일-미 회동이 동시에 열리며 2026년 국제 질서의 핵심 좌표가 그려지고 있다",
+      "미국과 이란의 소모전이 6개월을 넘어서며 후티 반군이 예멘 서부로 공세를 확장하고 사우디 에너지 인프라를 반복 타격하는 중이다",
+      "OpenAI와 Anthropic이 같은 날 차세대 모델을 동시 출시하며 AI 프런티어 경쟁이 최고조에 달하고 있다",
+      "미국·덴마크·그린란드 북극 안보 협정이 서명되면서 수개월간의 외교 긴장이 일단 제도화됐다",
+      "EU가 러시아 올리가르히 우스마노프·프리드만 제재를 해제해 서방 대러 제재 연대에 균열 신호가 나타났다",
+      "독일 자동차 산업 노동자들이 중국 경쟁과 미국 관세 이중 압박에 대규모 시위를 벌이며 유럽 제조업 위기가 가시화됐다",
+      "태풍 두쥐안이 도쿄 인근을 강타해 수명이 숨지고 100만 명 이상 대피 권고가 내려졌다",
+      "ShinyHunters가 FBI 요원 개인정보를 탈취했다고 주장하며 미국 정부 사이버 보안 전반에 경보가 발령됐다",
+      "북한이 아시안게임 참가 선수 2명이 일본에 망명 신청했다는 보도가 나오며 이례적 사태로 부각됐다",
+      "파라마운트·워너브라더스 합병이 최종 완료되면서 할리우드 대형 IP가 하나의 기업 산하에 집결됐다"
+    ],
+    "emerging_signals": [
+      "캐나다 BC주의 OpenAI 제소는 AI 플랫폼에 법적 책임을 묻는 첫 정부 대 기업 소송으로 글로벌 선례가 될 수 있다",
+      "딥시크가 유엔 안보리에서 직접 브리핑할 예정이어서 민간 AI 기업이 최고위 국제 안보 무대에 편입되는 새로운 패턴이 생겨나고 있다",
+      "토요타의 공장 내 휴머노이드 로봇 40만 대 계획은 제조업 고용 구조 변화를 예고하는 대규모 신호다",
+      "인도네시아 산불 연무 피해가 17만 건을 넘어서며 동남아 초국경 공중보건 위기가 구조적 문제로 굳어지고 있다",
+      "트럼프 행정부의 NIH 연구비 정치 거부권 추진은 미국 연방 과학 생태계의 근본 변화를 시사한다"
+    ],
+    "structural_trends": [
+      "미중 기술 갈등이 AI 모델 속도 규제, 반도체 수출 통제, 희토류 협상 카드를 동시에 가동하는 복합 전선으로 고착화되고 있다",
+      "중동 에너지 인프라 위협이 호르무즈·바브엘만데브·리비아 동시에 작용하며 글로벌 원유 공급의 구조적 취약성이 상시화됐다",
+      "유럽 전통 제조업이 중국 가격 경쟁, 에너지 비용 급등, 미국 관세 삼중 압박에 노출되며 탈산업화 속도가 빨라지고 있다",
+      "AI 에이전트 보안 취약점(메타 Muse 제로데이, 구글 Gemini 해킹)이 현실 위협으로 전환되면서 AI 거버넌스 논의가 인프라 보안 영역으로 확장되고 있다",
+      "트럼프 행정부의 언론 배제·이민 강제추방·오바마케어 취소·멸종위기종법 무력화가 동시에 진행되며 미국 내 제도 경계가 빠르게 이동 중이다"
+    ],
+    "what_changed_today": [
+      "트럼프-이란 3시간 회담이 성사되며 강경 위협과 협상 제스처를 동시에 구사하는 이중 트랙이 구체화됐다—어제까지는 봉쇄 협상 단계였다",
+      "미국·덴마크·그린란드 북극 안보 협정이 서명되어 수개월간의 외교적 불확실성이 공식 합의로 전환됐다",
+      "OpenAI GPT-6·Anthropic Claude Opus 5.5 동시 출시로 AI 모델 경쟁이 단순 성능 대결에서 가격-성능 복합 경쟁으로 전환됐다",
+      "EU의 러시아 올리가르히 제재 해제 결정이 공식화되면서 서방 제재 공조의 균열이 가시화됐다"
+    ],
+    "what_to_watch_next": [
+      "트럼프-시진핑 만찬 결과—대만 무기판매, 희토류, AI 안전 분야에서 어느 정도의 실질적 합의가 나올지",
+      "이란의 호르무즈 해협 재개방 조건 이행 여부—7일 내 재개방 약속이 실제로 지켜지는지",
+      "후티 반군의 사우디 에너지 시설 추가 공격 여부와 G7 군사 지원의 구체화 속도",
+      "BC주 대 OpenAI 소송의 초기 법원 결정—AI 플랫폼 법적 책임 범위의 기준점이 될 수 있다",
+      "FBI 해킹 주장에 대한 공식 수사 결과 및 피해 규모 확인",
+      "독일 AfD·좌파당 약진에 메르츠 연립정부가 어떤 정책 수정으로 대응할지"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "유엔총회가 복합 전쟁 외교의 중심 무대가 됐다—트럼프-이란 회담, 시진핑 방미, 그린란드 협정이 동시에 작동하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 대통령은 유엔총회 연설에서 이란에 핵합의 또는 군사적 응징을 요구하면서도 이란 대표단과 약 3시간 회담을 가졌다. 같은 날 미국·덴마크·그린란드가 북극 안보 협정에 서명했고, 시진핑 주석의 미국 국빈 방문이 이어졌다. 마크롱·젤렌스키·카타르 에미르·룰라 등 주요국 지도자들도 각자 우크라이나·중동·AI 의제를 제시했다.",
+        "why_it_matters": "단일 외교 주간에 미-이란 전쟁 출구, 미중 기술 패권, 북극 군사 배치, 우크라이나 에너지 휴전이라는 네 개의 구조적 갈등이 동시에 협상 테이블에 올랐다는 점에서 역대 어느 유엔총회보다 지정학적 밀도가 높다.",
+        "what_is_changing": "기존 유엔총회가 주로 선언적 성격이었다면, 이번 회의는 실제 군사·경제 협정이 서명되고 교전 당사국 대표가 직접 회담하는 실질적 협상 공간으로 기능하고 있다.",
+        "connection": "그린란드 협정은 트럼프의 영토 확장 발언을 제도화한 것이고, 이란 회담은 6개월 소모전의 첫 외교 접촉이며, 시진핑 방미는 희토류·AI·대만 무기판매를 연계한 복합 거래의 무대다.",
+        "signal": "강대국들이 '힘의 언어'를 구사하면서도 동시에 협상 채널을 열어두는 이중 전략이 새로운 외교 규범으로 자리 잡고 있다는 신호다.",
+        "what_to_watch": "트럼프-시진핑 만찬의 구체적 합의 내용, 이란의 호르무즈 재개방 이행 여부, 그린란드 협정에 대한 러시아·중국의 반응."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프는 국내 정치 위기(법적 소송, 언론 갈등)를 국제 외교 성과로 돌파하려는 구도를 연출하고 있으며, 강경 위협과 협상 개방성을 동시에 구사해 각 국내 지지층 모두에게 메시지를 보내고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "이란 협상 결과는 유가와 글로벌 에너지 비용에 직결되며, 미중 정상회담은 반도체·희토류·AI 공급망 재편의 속도를 결정한다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "트럼프의 AI를 '슈퍼 인텔리전스'로 재명명하고 AI Force를 신설하는 행보는 AI 거버넌스를 규제가 아닌 군사·경제 경쟁력 문제로 틀 짓는 의도적 프레이밍이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3368440/us-law-enforcement-tightens-security-xi-summit-welcome-and-protest-events-planned",
+          "region": "China"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "미-이란 전쟁이 출구 없는 소모전으로 굳어지는 가운데 후티가 예멘 서부를 장악하고 G7이 군사 개입을 확대하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "6개월 이상 지속된 미국-이란 무력 충돌 속에서 이란 지원을 받는 후티 반군이 예멘 서부 해안선을 장악하며 사우디아라비아 공격을 이어갔다. G7 외교장관들이 후티의 민간 해운 공격 즉각 중단을 요구했고, 영국은 사우디에 공중 급유 지원을 제공하기로 했다. 유엔은 향후 수개월 내 1만 명 이상이 예멘에서 지부티로 피란할 수 있다고 경고했다.",
+        "why_it_matters": "호르무즈 해협과 바브엘만데브 해협이 동시에 위협받으면서 글로벌 에너지 공급로 두 개가 동시에 불안정해지는 전례 없는 상황이 전개되고 있다.",
+        "what_is_changing": "전쟁이 미-이란 양자 충돌을 넘어 후티-사우디, G7 군사 개입, 예멘 인도주의 위기라는 다층 복합 전선으로 확장됐다. 이란은 협상 가능성을 동시에 시사함으로써 군사 압박과 외교 유연성을 병행하고 있다.",
+        "connection": "유럽 연료 가격이 사상 최고치를 기록하고, 필리핀 디젤값이 두 배로 뛰는 등 중동 전쟁의 경제적 파급이 전 세계에 실시간으로 전달되고 있다.",
+        "signal": "중동 분쟁이 에너지 공급망 경제와 직결되면서 '에너지 외교'와 '군사 개입'의 경계가 사라지는 구조적 변화가 진행 중이다.",
+        "what_to_watch": "이란의 7일 내 호르무즈 재개방 약속 이행 여부, 후티의 메카·리야드 공항 추가 공격 가능성, 사우디 동서 파이프라인 완전 복구 시점."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "사우디 동서 파이프라인 재가동에도 VLCC 탱커 운임이 급등하고 완충 재고가 소진되면서 글로벌 원유 시장은 가격 충격에 매우 취약한 상태다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프는 '섬멸 또는 평화'라는 이란 양자택일 프레임을 유지하면서 중간선거 직후 협상 타결 가능성을 내비쳐 국내 정치와 외교 협상을 연계하는 전략을 구사하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/22/nx-s1-5966364/war-between-u-s-and-iran-becomes-a-test-of-who-will-blink-first",
+          "region": "North America"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/houthis-must-immediately-cease-strikes-against-saudi-arabia-g7-foreign-ministers/article71494097.ece",
+          "region": "India"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+          "region": "USA"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Restart-Fails-to-End-Oil-Market-Tightness.html",
+          "region": "글로벌"
+        }
+      ]
+    },
+    {
+      "headline": "시진핑-트럼프 복합 거래가 시작됐다—대만 무기판매, 희토류, AI 안전이 하나의 협상 패키지로 묶이고 있다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "시진핑 주석의 미국 국빈 방문에서 중국은 희토류 수출을 조이고 AI 기업 경영진 없이 전기차·배터리 기업 중심의 경제 대표단을 구성했다. 중국은 대만 무기판매 중단 요구와 이란 압박 지원을 연계한 복합 외교 전략을 제시할 것으로 알려졌다. 중국은 또한 펜타닐 전구물질 수출 규제를 발표해 미국 측 요구에 사전 화해 제스처를 보냈다.",
+        "why_it_matters": "미중 관계가 단일 의제 협상이 아닌 안보·기술·무역·마약을 묶은 복합 패키지 거래 구조로 전환됐음을 보여준다. 협상 결과가 글로벌 공급망, AI 경쟁, 대만 해협 긴장 수준 모두에 동시에 영향을 준다.",
+        "what_is_changing": "중국이 AI 기업 대신 제조업 기업 중심으로 대표단을 구성한 것은 미중 기술 갈등의 민감성을 인정하면서도 경제 협력 공간을 찾으려는 선택적 분리 전략이다.",
+        "connection": "미중 무역 긴장 완화 기대는 인도의 China+1 수혜를 줄이고, 베트남과의 미국 무역 협정 협상에도 영향을 준다. 희토류 수출 통제는 일본, 한국, 독일 등 반도체·자동차 공급망 전체에 파급된다.",
+        "signal": "지정학적 경쟁과 자본 흐름이 반드시 일치하지 않는다는 것이 확인됐다—글로벌 투자자들은 미중 양국 AI 기업에 동시에 베팅하고 있다.",
+        "what_to_watch": "만찬 후 공동성명 내용, 대만 무기판매에 대한 트럼프의 실제 반응, 희토류 수출 규제 완화 여부."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "중국의 희토류 카드는 단기 협상 레버리지지만, 대체 공급망 개발을 가속화하는 역효과를 낳을 수 있어 장기적으로 중국에 불리한 전략일 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프는 합의를 국내 정치 성과로 포장하려 할 것이고, 시진핑은 대만 문제에서의 원칙적 입장을 대내적으로 보여줘야 하는 구도다—양측 모두 타협의 여지가 좁다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "알리바바의 자체 AI 칩 발표와 하이곤의 엣지 AI 칩 출시가 같은 주에 이루어진 것은 미국 제재 속에서 중국 기술 자립화가 현실적 속도로 진행되고 있음을 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/economy/global-economy/article/3368409/why-chinas-frontier-ai-pioneers-are-expected-miss-weeks-xi-trump-summit",
+          "region": "China/USA"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/22/asia-pacific/politics/china-xi-trump-halt-taiwan-arms-sales/",
+          "region": "Japan"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Metals/Commodities/Beijing-Tightens-Rare-Earth-Flow-Ahead-Of-Washington-Summit-With-Trump.html",
+          "region": "미국/중국"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/east-asia/china-curbs-drug-precursor-exports-ahead-of-xis-us-visit",
+          "region": "Southeast Asia"
+        }
+      ]
+    },
+    {
+      "headline": "OpenAI와 Anthropic이 같은 날 신형 모델을 출시했다—AI 경쟁이 성능 싸움에서 가격·인프라·법적 책임의 삼중 전선으로 확대되고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "OpenAI가 GPT-6 Sol과 Luna를, Anthropic이 Claude Opus 5.5를 같은 날 공개했다. 캐나다 BC주는 총기 사건 가해자의 ChatGPT 사용을 근거로 OpenAI를 제소했고, 퀄컴은 기기 내에서 300억 파라미터 모델을 실행하는 스마트폰 칩을 발표했다. 메타는 자사 AI 어시스턴트 Muse가 경쟁사를 모방했다고 공식 인정했으며, Muse에서는 심각한 제로데이 취약점도 발견됐다.",
+        "why_it_matters": "AI 경쟁이 단순한 성능 벤치마크를 넘어 법적 책임, 보안 취약성, 온디바이스 인프라, 지식재산권이라는 네 가지 새로운 전선을 동시에 열었다.",
+        "what_is_changing": "AI 개발 속도를 제한하자는 국제적 요구가 높아지는 가운데, 주요 기업들은 오히려 출시를 가속화하고 있다. 법적 책임 논쟁이 이제 정부 소송 단계로 진입했다.",
+        "connection": "트럼프 행정부의 AI Force 신설 선언, 딥시크의 유엔 안보리 브리핑, 중국의 AI 개발 속도 규제 반발이 모두 같은 주에 발생해 AI 거버넌스 갈등이 국제 안보 의제로 격상됐다.",
+        "signal": "BC주 소송은 AI 플랫폼을 '인지한 위험을 경고해야 하는 책임 주체'로 규정하려는 첫 정부 시도로, 향후 수백 건의 유사 소송의 선례가 될 수 있다.",
+        "what_to_watch": "BC주 법원의 초기 결정, GPT-6와 Claude Opus 5.5의 실제 시장 채택률 비교, Muse 제로데이 취약점에 대한 메타의 패치 일정."
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "온디바이스 AI 칩(퀄컴)과 클라우드 프런티어 모델(OpenAI·Anthropic)이 동시에 발전하면서 AI 실행 환경이 중앙화된 데이터센터에서 분산 단말기로 이동하는 구조 변화가 가속화되고 있다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "같은 날 동시 출시는 두 기업 모두 상대방의 발표를 의식한 전략적 타이밍 조율로, AI 산업의 경쟁이 기술 개발을 넘어 미디어 주목권 확보 경쟁으로 변질되고 있음을 보여준다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "BC주 소송은 개별 기업 배상 청구를 넘어 AI 기업이 플랫폼 내 사용자 행동 모니터링 의무를 져야 하는지를 묻는 헌법적 질문을 제기한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+          "region": "Global"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+          "region": "Global"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+          "region": "Technology"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+          "region": "Global"
+        }
+      ]
+    }
+  ]
+}
