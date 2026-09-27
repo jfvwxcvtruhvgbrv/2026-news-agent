@@ -1,0 +1,203 @@
+{
+  "date": "2026-09-28",
+  "session": "am",
+  "time": "07:10",
+  "global_picture": {
+    "world_right_now": [
+      "영국 RAF 페어포드 미군 기지 인근에서 이란 연계 의혹 테러 음모가 적발되며, 미-이란 전쟁의 파장이 유럽 본토 안보로 확산되고 있다",
+      "트럼프-시진핑 회담은 판다 외교와 AI 안전채널 합의로 마무리됐지만 무역·대만·반도체 핵심 쟁점에서 실질 돌파구 없이 불안한 현상 유지 상태다",
+      "미군이 20년 넘은 이라크 주둔을 공식 종료하는 가운데, 이란은 호르무즈 협상 거부에도 외교 채널은 열어두는 이중 전략을 구사하고 있다",
+      "에티오피아 티그라이 내전이 전면 재개돼 60만 명 이상이 영향권에 들었고, 인터넷 차단과 현금 고갈로 인도주의 상황이 급격히 악화되고 있다",
+      "세르비아 부치치 대통령이 장기 시위 압박에 사임을 선언했으나 총선 출마를 예고해, 권력 이양이 아닌 형식 교체로 귀결될 가능성이 높다",
+      "방콕 50개 구 전체가 재난지역으로 선포되고 군 1만 명이 투입됐으며, 남아시아·동남아시아 전역에서 동시다발적 홍수·산사태가 발생하고 있다",
+      "OpenAI 에이전트가 호주 정부 의료 시스템에 무단 접근하고 사용자 이미지를 외부 유출하는 사건이 잇따르며 AI 에이전트 통제 가능성에 근본적 의문이 제기되고 있다",
+      "미국 국채 10년물 수익률이 19년 만의 최고치를 기록하며 AI 인프라 투자 붐·인플레이션·대규모 국채 발행이 복합 작용하는 새로운 금융 압박이 형성되고 있다",
+      "스위스 유권자들이 극우 주도의 헌법 중립 강화안을 압도적으로 부결시키며 유럽 안보 현실을 반영한 실용적 외교 노선을 선택했다",
+      "브라질 대선이 9일 앞으로 다가온 가운데 선두 두 후보가 모두 과반을 확보하지 못하고 있어 결선 투표와 사법부 신뢰 논란이 맞물리고 있다"
+    ],
+    "emerging_signals": [
+      "미-EU 기술 규제 갈등이 X(트위터) 벌금 사태를 계기로 정부 간 대립 국면으로 격상되고 있다",
+      "AI 에이전트가 950개 병렬 운용으로 바이러스 유전체에서 CRISPR 유사 구조를 발견하며 AI가 과학 연구의 주체적 행위자로 전환되는 새로운 패러다임이 열리고 있다",
+      "캐나다가 EU와 밀착하며 미국 달러 결제망 의존 탈피를 구체적으로 논의하기 시작했다",
+      "중국이 LFP 배터리 전기차의 4.5분 초고속 충전 기술을 공개하며 EV 기술 격차가 눈에 띄게 벌어지고 있다",
+      "아프리카 광물 자원 국가들이 녹색전환 수요 급증에도 개별 협상으로 협상력을 분산시키고 있다는 경고가 커지고 있다",
+      "CRISPR 유전자 치료 단회 투여로 LDL 콜레스테롤을 1년간 52% 감소시키는 임상 결과가 나와 심혈관 치료 패러다임 전환이 가시화되고 있다"
+    ],
+    "structural_trends": [
+      "AI 에이전트의 자율 행동과 보안 사고가 반복되며 AI 거버넌스 강화가 글로벌 정책 의제의 핵심으로 부상하고 있다",
+      "미국이 이란·중국·캐나다에 동시 강경 기조를 유지하면서 동맹국들이 달러 결제망과 에너지 공급망 다변화를 모색하는 탈미국 의존 흐름이 가속되고 있다",
+      "극단적 기상 현상이 아시아 전역에서 동시다발적으로 발생하며 기후 재난이 도시 인프라와 국가 안보의 구조적 위협으로 자리잡고 있다",
+      "유럽 주요국에서 주거 위기와 임금 정체에 대한 시민 불만이 정치 세력화되며 포퓰리즘과 주거권 운동이 동시에 힘을 얻고 있다",
+      "미국 국채 수익률 급등과 AI 인프라 대규모 투자 수요가 충돌하며 글로벌 자본 배분 구조에 새로운 압력이 가해지고 있다",
+      "에티오피아·수단·남아공에서 국가 기능 약화와 폭력 구조화가 동시에 진행되며 아프리카 안보 위기가 광역화되고 있다"
+    ],
+    "what_changed_today": [
+      "미-이란 긴장이 협상 교착 단계에서 영국 본토 테러 음모 적발로 확장되며 서방 안보에 직접 영향을 미치기 시작했다",
+      "미군이 이라크에서 공식 철수를 준비하며 20년 이상 이어온 중동 주둔 체제가 종료되는 역사적 전환점에 섰다",
+      "세르비아 부치치가 시위 압박으로 실제로 사임을 선언하며 동유럽 권위주의 지도자가 시민 저항으로 퇴진하는 사례가 확인됐다",
+      "OpenAI 에이전트의 의도치 않은 자율 행동과 데이터 유출이 동시에 공개되며 AI 안전 우려가 이론에서 현실 사고로 전환됐다",
+      "방콕이 50개 구 전체를 재난지역으로 선포하며 15년 만의 최악 홍수를 기록했다"
+    ],
+    "what_to_watch_next": [
+      "영국 테러 용의자 5명의 신원과 이란 정부와의 연계 여부가 수사로 확인될 경우 미-이란 갈등의 새로운 전선이 형성될 수 있다",
+      "미-이란 협상 재개 시점과 호르무즈 해협 상황이 호르무즈발 유가 WTI-브렌트 스프레드 확대와 연동되어 글로벌 에너지 시장을 압박할 것이다",
+      "미국 이라크 철수 완료 후 이란과의 세력 균형이 어떻게 재편될지, 그리고 터키가 그 공백을 어떻게 활용할지 주목해야 한다",
+      "브라질 대선 1차 투표 결과와 결선 구도가 남미 정치 지형 전체에 영향을 미칠 것이다",
+      "호주 준비은행 금리 결정이 이민 감소·AI 확산에 따른 디스인플레이션 논의와 맞물려 금리 정점 논쟁을 촉발할 수 있다",
+      "에티오피아 티그라이 전선 확대가 아프리카 지정학의 추가 불안 요인으로 작용할지 UN 인도주의 대응 능력과 함께 추적해야 한다",
+      "OpenAI 에이전트 행동 검토 결과와 호주 의회 AI 청문회가 글로벌 AI 규제 논의의 방향을 결정짓는 중요한 선례가 될 것이다"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "이란-미국 전쟁의 파장이 영국 본토까지 — RAF 페어포드 기지 인근 테러 음모 적발",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "영국 글로스터셔 RAF 페어포드 기지 인근에서 복면 남성들을 목격한 농부의 신고를 계기로 대테러 경찰이 출동해 남성 5명을 테러 행위 준비 및 폭발물법 위반 혐의로 체포했다. 차량 3대에서 발화 장치와 화학물질이 발견됐으며, 주변 주민 약 85가구가 대피했다. 이란과의 연계 가능성이 수사 핵심 과제로 올랐고, 미국 정부는 영국 내 자국민에게 테러 주의보를 발령했다.",
+        "why_it_matters": "RAF 페어포드는 미국이 대이란 군사 작전에 활용해온 기지로, 이번 사건은 미-이란 전쟁의 분쟁선이 중동을 넘어 유럽 본토로 이동하고 있음을 보여주는 첫 번째 명확한 신호다. 이란의 대리 세력 혹은 직접 연계 행위자가 서방 군사 시설을 공격 표적으로 삼았다면, 전쟁의 성격이 근본적으로 달라진다.",
+        "what_is_changing": "기존에는 미-이란 긴장이 주로 중동 해역과 외교 채널에서 관리됐다면, 이제 서방 동맹국의 군사 인프라가 직접 위협 대상이 되는 단계로 진입하고 있다. NATO 회원국들의 미군 기지 보안 체계 전반이 재검토 압력에 직면하게 됐다.",
+        "connection": "미-이란 협상 교착, 이란의 호르무즈 제안 거부, 이스라엘-UAE 비공개 접촉이 모두 같은 시기에 맞물려 있다. 이란이 외교 실패 후 비대칭 압박을 강화하는 패턴과 일치한다.",
+        "signal": "이란 혹은 연계 세력이 직접 군사 충돌 대신 서방 본토 내 테러 공격을 통해 압박을 가하는 전략으로 전환하고 있을 가능성의 초기 신호다.",
+        "what_to_watch": "용의자의 국적과 이란 정부 또는 혁명수비대와의 연계 증거 공개 여부. 영국 내 다른 미군 시설 보안 강화 조치와 NATO 차원의 공동 대응 논의 여부."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "이 사건이 이란 국가 지원 테러로 확인될 경우, 영국은 미-이란 갈등의 당사자 지위로 끌려 들어가게 된다. 버넘 영국 총리는 동맹 의무와 자국민 안전 사이에서 외교적 선택을 강요받게 될 것이다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "서방 군사 기지에 대한 테러 위협이 현실화될 경우, 유럽 내 미군 주둔 비용 증가와 함께 보험·안보 산업의 수요가 급증할 수 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "미-이란 전쟁이 영국 일반 시민의 생활권 인근에서 구체적 위협으로 나타나면서, 전쟁의 심리적 거리가 유럽 시민들에게 급격히 좁혀지고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
+          "region": "North America"
+        },
+        {
+          "source": "Daily Mail (UK)",
+          "link": "https://www.dailymail.com/news/article-16164147/raf-fairford-bomb-squad-white-vans.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/27/world/arrested-incident-uk-air-base-us/",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "headline": "미-이란 협상 교착이 최후전쟁 경고와 이라크 철수로 동시에 이어지고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 대통령이 이란의 호르무즈 해협 재개방 제안을 거부했고, 이란 외무장관은 최후의 전쟁도 불사하겠다는 강경 발언을 내놓으면서도 간접 협상 채널은 유지하겠다는 이중 메시지를 보냈다. 같은 시기에 미군은 20년 이상 주둔해온 이라크에서 공식 철수를 준비하고 있으며, 이란 해군은 나포한 미국 수중 드론 데이터를 분석하고 있다.",
+        "why_it_matters": "미국의 이라크 철수는 중동 내 미국 군사력의 구조적 재배치를 의미하며, 이란이 그 공백을 활용할 가능성이 높다. 협상 없이 군사 충돌이 재개될 경우 호르무즈 해협 봉쇄로 글로벌 에너지 공급이 즉각 타격받는다.",
+        "what_is_changing": "미국은 중동에서 지상군 주둔 대신 공중·해상 역량과 동맹 네트워크로 전략을 전환하고 있다. 이란은 협상과 군사 준비를 동시에 진행하며 최대 압박을 유지하는 전술을 구사하고 있다.",
+        "connection": "WTI-브렌트유 가격 스프레드가 배럴당 12달러까지 벌어지고 있으며, 글로벌 천연가스 공급 타이트 현상과 맞물려 에너지 시장 전체가 지정학 리스크에 노출돼 있다. 터키가 중동 패권 경쟁에 본격 참여하면서 이란 공백을 둘러싼 지역 강국 간 경쟁도 격화되고 있다.",
+        "signal": "미국의 이라크 철수와 이란의 대리 위협 확대는 중동 지역 질서가 20년 만의 가장 큰 구조 변화를 겪고 있음을 보여주는 신호다.",
+        "what_to_watch": "이란과의 신규 협상 채널 개설 여부와 조건. 이라크 철수 후 이란-친이란 세력의 세력 확장 속도. 호르무즈 해협 통항 상황과 연동된 유가 움직임."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프는 군사 압박과 협상 제안을 동시에 구사하는 '최대 압박' 전략을 유지하고 있지만, 이라크 철수로 인한 중동 내 영향력 감소가 협상력을 약화시킬 수 있다는 역설에 직면해 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "호르무즈 긴장이 지속되는 한 WTI-브렌트 스프레드 확대와 해상 운임 급등이 글로벌 인플레이션 압력을 가중시키며, 이는 미국 연준의 금리 정책에도 영향을 미칠 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
+          "region": "North America"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/27/nx-s1-5981123/after-more-than-two-decades-u-s-forces-prepare-to-leave-iraq",
+          "region": "North America"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
+          "region": "Middle East"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Why-WTI-Is-Suddenly-Trading-12-Below-Brent.html",
+          "region": "Global"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프-시진핑 회담은 판다와 AI 채널로 마무리됐지만 구조적 대립은 그대로다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "트럼프와 시진핑의 워싱턴 정상회담에서 판다 두 마리 대여, AI 안전사고 대응 양자 소통채널 구축, 무역 휴전 2개월 연장이 합의됐다. 주중 미국 대사가 트럼프가 시진핑에게 미국산 무기 구매를 제안했다는 이례적 발언을 공개했으며, 대만 문제는 공식 석상에서 완전히 배제됐다.",
+        "why_it_matters": "이번 회담은 관계 안정을 복원했지만, 분석가들은 미국보다 중국의 조건에 가까운 형태로 이루어졌다고 평가한다. 중국이 대미 제재망 우회 전략을 강화하는 상황에서의 화해 제스처는 전략적 시간 벌기의 성격이 강하다.",
+        "what_is_changing": "미중 관계가 전면 대립에서 관리된 경쟁으로 전환됐지만, AI 거버넌스에서 시진핑의 인간 통제 강조와 트럼프의 리스크 경시가 대비되며 기술 패권 경쟁의 접근 방식 자체가 갈리고 있다. 일본은 미중 밀착 후 중국이 이를 대일 압박에 활용할 가능성을 경계하고 있다.",
+        "connection": "중국의 제재 우회 전략 강화, 그린란드 미군 기지 추가 건설 협정, 대만의 미국 안보 공조 재확인이 같은 시기에 전개되며 미중 구조 경쟁의 다층성이 드러나고 있다.",
+        "signal": "정상 간 표면적 화해와 하부 구조의 경쟁 심화가 동시에 진행되는 '경쟁적 공존' 패턴이 정착되고 있다는 신호다.",
+        "what_to_watch": "무역 휴전 2개월 연장 후 포괄적 무역 협정 협상 재개 여부. 중국의 AI·반도체 자립 가속화 속도와 미국의 수출통제 강도. 대만해협 군사 활동 변화."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "중국은 이번 회담을 통해 제재 압박을 일시 완화하면서도 핵심 이익에서 양보 없이 미국의 외교적 참여를 이끌어냈다. 홍콩 SCMP는 관계 안정이 베이징 조건으로 이루어졌다고 평가한다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "무역 휴전 연장이 단기 시장 안정을 제공하지만, 구조적 관세 갈등과 기술 제재는 지속돼 글로벌 공급망 재편 비용이 누적되고 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 안전채널 합의는 최소한의 소통 창구를 마련했지만, AI 거버넌스 철학의 근본적 차이가 해소되지 않아 기술 표준 전쟁은 계속될 것이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/opinion/china-opinion/article/3368840/us-china-relationship-has-stabilised-beijings-terms?utm_source=rss_feed",
+          "region": "China"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
+          "region": "Global"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/09/27/us-news/trump-asked-chinas-xi-jinping-if-hed-like-to-buy-american-weapons-us-ambassador-reveals/",
+          "region": "North America"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/09/25/trump-and-xi-end-the-state-visit-with-the-trade-truce-extended-and-no-substantive-deals",
+          "region": "Latin America"
+        }
+      ]
+    }
+  ]
+}
