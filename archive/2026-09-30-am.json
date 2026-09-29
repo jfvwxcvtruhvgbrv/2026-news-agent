@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-30",
+  "session": "am",
+  "time": "08:10",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프-시진핑 정상회담이 실질 합의 없이 끝났고, AI·대만·무역 모두 미봉 상태로 남았다",
+      "미국이 디젤 6달러·소비자신뢰 12년 최저를 기록하며 전쟁·고금리 복합 경기 충격에 직면했다",
+      "OpenAI가 하루 만에 에이전트·신모델·오피스 스위트를 쏟아내며 AI 플랫폼 전쟁이 새 국면으로 진입했다",
+      "남아공에서 한 주 38명 총격 사망·여성 연쇄 살인 12건이 겹치며 치안 구조 붕괴 경고가 울렸다",
+      "에티오피아 티그라이 반군이 7개 세력 연합을 결성하고 인접 주로 공세를 확대해 내전 재발 임계점에 도달했다",
+      "스페인 87세 노인 강제 퇴거가 대규모 시위를 촉발하고 정부를 2030년 퇴거 금지 선언으로 이끌었다",
+      "모로코가 아랍권 두 번째 여성 총리를 임명해 북아프리카 정치 지형에 역사적 이정표를 새겼다",
+      "러시아가 에스토니아 방산 기업에 방화를 가하는 등 NATO 내 사보타주 패턴이 방산 공급망으로 직접 확대됐다",
+      "캐나다가 LNG 2단계 확장·대형 원자로 건설 계획을 동시에 발표하며 미국 무역 압박 속 에너지 자립 전략을 본격화했다",
+      "영국 버넘 총리가 연금 트리플락 폐지·선거제 개혁·EU 재접근을 공약해 전후 영국 복지 구조의 근본 재편을 예고했다"
+    ],
+    "emerging_signals": [
+      "Anthropic이 IPO 설명서에 '인류 멸종 위험'을 공식 명시해 AI 존재 위험이 자본시장 공시 언어로 진입했다",
+      "중국 생성형 AI 이용자가 6개월 만에 1억 명 이상 급증해 7억 명을 돌파, 미국 AI 정책과의 현실 괴리가 커지고 있다",
+      "AMD가 페이페이 리의 World Labs를 82억 달러에 인수해 엔비디아 독주 AI 칩 생태계에 구조적 도전이 시작됐다",
+      "베트남이 외국 국적 반인신매매 활동가를 테러 혐의로 체포해 동남아 권위주의 탄압의 국제화 패턴이 나타났다",
+      "북한이 러시아·중국 접경에 도로 교량 2기를 완공해 3국 물류·군사 협력망 인프라가 구체화되고 있다",
+      "SpaceX 스타십이 완전 궤도 비행에 첫 성공해 차세대 우주 상업화의 기술 임계점을 넘었다",
+      "콩고 에볼라 누적 8,000명 돌파 속 일반 의료 이용률 42% 급감이라는 2차 붕괴 현상이 확인됐다"
+    ],
+    "structural_trends": [
+      "AI 규제 경쟁이 미국 자율 규제 대 EU 강제 규제의 두 모델로 분기되며 글로벌 표준 주도권 싸움이 본격화되고 있다",
+      "트럼프 행정부가 동맹국(캐나다·EU)과 파트너국(에콰도르)을 가리지 않고 관세·군사 위협을 구사하는 강압 외교가 상시화됐다",
+      "유럽 에너지 위기가 러시아 공급 차단과 중동 분쟁의 이중 압박으로 구조적 취약성을 드러내며 재생에너지 전환 속도 논쟁을 가열시키고 있다",
+      "중국이 동남아 군사 거점 확대·학술 저널 창간·AI 이용자 급증을 통해 기술·군사·지식 패권을 동시에 확장하고 있다",
+      "글로벌 남반구에서 주거 위기·젠더 폭력·식량 불안이 동시에 분출되며 사회적 불안정이 정치 위기로 전환되는 속도가 빨라지고 있다"
+    ],
+    "what_changed_today": [
+      "호르무즈 이슈가 '봉쇄 위협 지속'에서 '미-이란 협상 재개로 유가 상승세 일부 완화'로 전환됐다",
+      "미군 이라크 철수가 공식 완료로 확정되며 터키 패권 부상의 공백이 현실화 단계로 이동했다",
+      "캐나다 무역 분쟁이 GDP 하향 우려에서 실물 수입 금지 발효 및 LNG 확장으로 대응 전략이 구체화됐다",
+      "OpenAI AI 에이전트 이슈가 호주 정부 해킹 사건에서 Dots 출시·플로리다 법원 제동의 법적·상업적 양면 전선으로 확장됐다"
+    ],
+    "what_to_watch_next": [
+      "브라질 대선 결과(10월 5일 예정): 룰라 재선 여부와 트럼프 개입 의혹의 실제 파장",
+      "맨체스터 시티 징계 수위: 항소 결과와 강등 여부가 프리미어리그 재정 거버넌스 전체를 뒤흔들 수 있다",
+      "미국 PCE 인플레이션 발표: 30년 국채 2002년 최고치와 맞물려 연준 금리 경로를 재설정할 변수",
+      "OpenAI 1.4조 달러 밸류 300억 달러 자금 조달 협상 확정 여부: 2027년 IPO 전 마지막 라운드 가능성",
+      "에티오피아 반군 연합의 수도 진격 여부: 아프리카 뿔 지역 전체 안보 지형을 바꿀 수 있는 72시간",
+      "트럼프-시진핑 회담 이후 대만 무기 140억 달러 패키지 보류 해제 여부",
+      "영국 RAF 페어퍼드 기지 테러 용의자 5명 보석 후 추가 수사 방향: 이란·러시아 연계 여부 확인"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "AI 경쟁이 모델 성능 대결에서 플랫폼·에이전트·규제 전면전으로 번지고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "OpenAI가 하루에 상시 작동 AI 에이전트 'Dots', 저비용 모델 GPT-6.1 Sol, ChatGPT 기반 오피스 스위트, 앱스토어 대체 플랫폼 기능을 동시에 공개했다. 트럼프 대통령은 주요 빅테크 CEO들과 AI 자율 규제 협약을 체결하고 대중국 AI 협력을 공식 차단했다. 동시에 플로리다 주가 OpenAI의 프런티어 AI 개발 중단을 법원에 요청하고, Anthropic은 IPO 설명서에 '인류 멸종 위험'을 공식 명시했다.",
+        "why_it_matters": "AI 경쟁이 모델 성능 비교를 넘어 플랫폼 생태계 지배, 정부 규제 방향, 자본시장 리스크 인식의 세 전선에서 동시에 충돌하는 구조로 변했다. 어떤 플레이어가 이 세 축을 모두 장악하느냐가 향후 10년 기술 질서를 결정한다.",
+        "what_is_changing": "AI는 더 이상 연구소의 경쟁이 아니라 앱스토어를 대체하고 오피스 생산성을 재편하며 정부 서비스를 바꾸는 인프라 레이어 전쟁으로 이동했다. 기업들이 자율 규제를 수용하는 대신 시장 독점 구조를 강화할 수 있다는 비판도 동시에 부상했다.",
+        "connection": "중국의 생성형 AI 이용자 7억 명 돌파와 AMD의 World Labs 82억 달러 인수가 맞물리며 미중 AI 격차와 미국 내부 반도체·소프트웨어 경쟁이 동시에 가열되고 있다. EU와 캘리포니아의 데이터센터 환경 규제도 AI 인프라 확장 비용 구조를 바꾸는 변수다.",
+        "signal": "Anthropic의 IPO 공시에 실존적 위험이 등장한 것은 AI 위험이 윤리 토론 수준을 넘어 투자자·법원·입법부의 공식 언어로 진입했다는 신호다.",
+        "what_to_watch": "OpenAI 1.4조 달러 밸류 자금 조달 확정 여부, 플로리다 법원 판결, 트럼프 자율 규제 협약의 실제 이행 여부, EU AI법과의 충돌 시점"
+      },
+      "perspectives": [
+        {
+          "frame": "Business View",
+          "summary": "OpenAI의 앱스토어·오피스 대체 시도는 애플·마이크로소프트와의 직접 충돌을 의미하며, 승자가 AI 수익화 구조 전체를 가져가는 플랫폼 독식 경쟁이 시작됐다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 자율 규제 모델은 대형 미국 기업의 해자를 넓히는 동시에 오픈소스 AI 성장을 억제하는 효과를 낳는다는 비판이 있으며, 대중국 AI 협력 차단은 기술 냉전을 제도화하는 조치다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "OpenAI가 보안 취약 모델 출시를 자체 보류하고 Nvidia가 업계 공동 에이전트 안전 플랫폼을 추진하는 것은 AI 에이전트의 통제 불가 위험이 이제 기술 업계 내부에서도 현실 위협으로 인식된다는 증거다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+          "region": "USA"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+          "region": "USA"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo",
+          "region": "Global"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety",
+          "region": "Europe"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+          "region": "USA"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프-시진핑 회담이 실질 합의 없이 끝났다 — 미중은 대결을 잠시 미뤘을 뿐이다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "3일간의 시진핑 미국 국빈 방문 후 트럼프는 중국에 미국 무기 구매를 제안했고, 국립문서관 공동 방문은 대만 관련 문서 문제로 막판 변경됐다. 분석가들은 실질 성과가 거의 없으며 결과가 중국에 유리하게 포장됐다고 평가했다. 트럼프는 회담 직후 대중국 AI 협력을 공식 차단했다.",
+        "why_it_matters": "세계 최대 두 경제 대국이 무역·기술·군사 전선에서 충돌을 피하기 위해 시간을 벌었지만, 근본 갈등을 해소하지 못했다. 외형적 해빙 뒤에서 AI·반도체·대만을 둘러싼 구조적 대립이 오히려 강화되고 있다.",
+        "what_is_changing": "미중 정상외교가 '공동 해결'보다 '관리된 긴장'을 목표로 하는 방식으로 정착되고 있다. 대만 무기 140억 달러 패키지 보류 유지는 안보 공약 이행 여부에 대한 동맹국 불안을 높인다.",
+        "connection": "회담에서 대만 의제가 축소된 점은 한국 DMZ 지뢰 사건·북한 핵 묵인 발언과 맞물려 동아시아 안보 구조 전반에서 미국의 역할 공백을 드러낸다. 젠슨 황·리사 수의 칭화대 자문위 합류는 정부-기업 간 대중 전략의 온도차를 보여준다.",
+        "signal": "강대국 정상 간 '시간 벌기' 외교가 반복될수록 각 지역 행위자(터키, 북한, 이란 등)가 그 공백을 채우는 패턴이 가속화된다.",
+        "what_to_watch": "대만 무기 패키지 140억 달러 보류 해제 여부, 트럼프 행정부의 후속 대중 반도체 수출 정책, 중국의 라오스 군사 거점 확대에 대한 미국 반응"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "싱가포르 외교관이 평가한 대로 양측이 충돌보다 안정화를 선택했지만, 이는 근본 갈등을 해소한 것이 아니라 국내 정치 일정과 경제 불안을 이유로 대결을 미룬 것에 가깝다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "미국 소비자신뢰 12년 최저와 중국의 황금연휴 소비 정체가 겹치는 시점에 양국 모두 경제적 이유로 충돌 비용을 감당할 여력이 줄어든 상황이 협상 배경이 됐다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
+          "region": "Global"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3369238/xi-trump-summit-drew-chinese-ceos-so-why-couldnt-they-get-seat-table",
+          "region": "China"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/trump-and-xi-didnt-talk-much-about-taiwan-what-does-that-say-about-where-it-stands",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "미국-이란 전쟁 7개월, 협상 재개로 유가 숨 돌렸지만 중동 권력 공백은 메워지고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국과 이란이 호르무즈 해협 관련 양해각서를 체결했으나 이후 협상이 교착됐고, 이란 의회 의장은 자국 석유 수출 봉쇄 시 역내 어떤 국가도 원유를 수출하지 못하게 하겠다고 경고했다. 미군이 20년간의 이라크 대ISIS 작전을 공식 종료하고 철수했다. 터키가 미국의 중동 군사 축소 공백을 적극 활용해 지역 영향력을 확대하고 있다.",
+        "why_it_matters": "미국의 중동 군사 개입 축소는 역내 권력 재분배를 촉진한다. 이란이 봉쇄 위협을 유지하는 한 글로벌 에너지 가격 변동성과 해운 리스크는 구조화된다.",
+        "what_is_changing": "호르무즈 봉쇄가 에너지 안보의 만성적 변수로 자리 잡으면서 유럽은 재생에너지 전환 속도를, 인도는 러시아산 원유 정제 후 역수출이라는 비선형 무역 구조를 각각 가속화하고 있다.",
+        "connection": "유럽 LNG 비축량 감소, 캐나다 LNG 2단계 확장, 스페인 등 EU 3개국의 2040 재생에너지 목표 설정 촉구가 모두 이 중동 에너지 리스크와 연결된 대응이다.",
+        "signal": "미군 이라크 철수 완료와 터키 부상이 맞물리는 것은 미국 주도 중동 질서가 구조적으로 해체되고 있다는 신호다.",
+        "what_to_watch": "미-이란 협상 재개 여부, 이란 핵 프로그램 약화 속도, 터키의 시리아·이라크 내 구체적 행보, 유럽 가스 비축량의 겨울철 임계치 도달 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "미국 디젤 가격 6달러 돌파는 이란 전쟁 장기화가 소비자 물가와 소비 심리에 직접 타격을 주는 경로가 현실화됐음을 보여준다. 백악관의 적색 디젤 허용·전략비축유 방출은 임시방편적 대응이다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프가 이란의 휴전 제안을 거부하는 것은 군사적 압박을 통한 협상력 극대화 전략이지만, 동시에 미국 내 인플레이션과 소비 침체라는 내부 정치 비용을 키우고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
+          "region": "North America"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/is-the-us-taking-the-upper-hand-in-the-battle-of-hormuz/article71523843.ece",
+          "region": "India"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years/a-79462926",
+          "region": "Iraq"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Iran-Talks-Take-the-Heat-Out-of-the-Oil-Rally.html",
+          "region": "Global"
+        }
+      ]
+    },
+    {
+      "headline": "러시아의 NATO 사보타주가 방산 공급망을 직접 겨냥하기 시작했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "에스토니아 정부가 우크라이나에 군수품을 공급하는 자국 방산 기업에 대한 방화를 러시아 사보타주로 공식 규정했다. EU와 NATO 지도자들이 지지 성명을 발표했고, 독일은 브레머하펜 항구와 브레멘 공항을 NATO 방어 목적으로 업그레이드하겠다고 발표했다.",
+        "why_it_matters": "이전까지 인프라·에너지 시설을 겨냥하던 러시아 사보타주가 방산 공급망, 즉 우크라이나에 실제 무기를 보내는 생산 거점으로 표적을 이동시킨 것은 하이브리드 전쟁의 새로운 단계를 의미한다.",
+        "what_is_changing": "NATO 회원국들이 민간 방산 기업을 군사 표적으로 간주해야 하는 현실에 직면하며, 기업 보안과 국가 안보의 경계가 무너지고 있다.",
+        "connection": "러시아의 신형 제트 드론·탄도미사일로 키이우를 반복 공습하는 전술 다변화와 병행되고 있다. 영국 미군 기지 인근 테러 의심 사건도 방산 인프라 취약성이라는 같은 맥락에 있다.",
+        "signal": "우크라이나 전선이 교착 상태인 상황에서 러시아가 유럽 내 공급망 교란으로 전선을 확장하는 것은 전쟁의 지리적 범위가 NATO 영토 전체로 번지고 있다는 신호다.",
+        "what_to_watch": "추가 방산 기업 공격 발생 여부, NATO의 민간 방산 시설 보호 기준 강화 논의, 영국 기지 테러 수사에서 러시아·이란 연계 확인 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "에스토니아가 러시아를 공식 배후로 지목하고 NATO가 지지 성명을 낸 것은 동맹 결속의 표현이지만, 실질적 억제 수단이 부재한 상황에서 선언적 대응에 그칠 위험이 있다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "방산 공급망이 직접 공격 대상이 되면 보험·물류·인력 비용이 급등하고 기업들이 생산 지역화를 가속화해 방산 비용 구조 전체를 바꾸는 파급이 생긴다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/estonia-blames-russia-for-arson-attack-on-defense-company/a-79478937",
+          "region": "Estonia"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/germany-news-bremerhaven-port-to-receive-defense-boost/live-79468663",
+          "region": "Germany"
+        }
+      ]
+    }
+  ]
+}
