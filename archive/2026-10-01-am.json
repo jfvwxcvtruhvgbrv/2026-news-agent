@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-01",
+  "session": "am",
+  "time": "08:09",
+  "global_picture": {
+    "world_right_now": [
+      "미·영 연합군이 이라크에서 완전 철수하며 이란이 '저항의 축' 전략의 성과로 선언, 중동 세력 재편이 가속화되고 있다",
+      "호르무즈 해협 마비가 장기화되며 유가가 배럴당 89달러 이상으로 치솟고 글로벌 디젤 공급 위기가 복합적으로 전개되고 있다",
+      "영국 총리 번햄이 EU 재가입 가능성을 공식 거론하자 프랑스·스페인이 환영 입장을 표명하며 브렉시트 10년 만에 재통합 논의가 수면 위로 떠올랐다",
+      "러시아가 칼리닌그라드 차단 시 핵 대응 의사를 NATO에 공식 문서로 전달하며 유럽 핵 위협 수위가 한 단계 높아졌다",
+      "트럼프-시진핑 정상회담에서 관세 인하·무역위원회 설치 등 8개 의제가 합의됐지만 대만 문서 갈등으로 외교적 긴장 저류가 확인됐다",
+      "FTC가 OpenAI·Anthropic 등 주요 AI 기업 조사에 착수한 반면 트럼프는 자율 규제 협약으로 맞서며 AI 거버넌스 이중 구조가 형성됐다",
+      "MI5가 중국 연계 위장 기관이 영국 대학 100명 이상의 학자를 통해 AI·첨단기술 정보를 수집했다고 이례적 공개 경보를 발령했다",
+      "이란이 핵비확산조약(NPT) 탈퇴를 내부적으로 검토 중이며 핵 시설 활동이 위성 사진에서 증가한 것으로 포착됐다",
+      "에티오피아 티그라이에서 7개 반군 연합이 결성되고 민간인 52명이 사망하며 2022년 평화협정 이후 최대 군사 위기가 재점화됐다",
+      "한국이 LNG·원전 8기·발전소 포함 총 2,000억 달러 규모 대미 투자 계획을 발표하며 한미 경제 동맹이 에너지 인프라 중심으로 재편됐다"
+    ],
+    "emerging_signals": [
+      "일본이 독립 국가정보원을 창설하며 CIA형 정보 역량 구축에 나서는 등 아시아 국가들의 자체 안보 인프라 강화 흐름이 가시화되고 있다",
+      "브라질 국영 에너지기업과 4조 달러 펀드가 카르다노·XRP 블록체인을 실사용으로 도입하며 남미가 블록체인 공공 인프라 선도 시장으로 부상하고 있다",
+      "알샤바브가 예멘에서 드론 제작·운용 훈련을 받은 것으로 확인되며 테러 조직의 드론 역량 확산이 새로운 안보 위협으로 부상하고 있다",
+      "EU 5개국이 2027년까지 아프리카에 역외 추방 센터를 공동 설립하려 하며 영국 르완다 모델이 유럽 차원으로 제도화되고 있다",
+      "말레이시아가 UN 반대에도 미얀마 난민 1,500명을 강제 송환하며 동남아에서 인도주의 규범과 국가 이익 간 충돌이 노골화되고 있다"
+    ],
+    "structural_trends": [
+      "미군의 중동 군사 발자국 축소가 이란 영향력 확장과 ISIS 재건 우려를 동시에 촉발하며 지역 안보 공백이 구조화되고 있다",
+      "이란-미국 전쟁에 따른 호르무즈 마비가 글로벌 에너지 공급망에 지속적 충격을 주며 경유·항공유 부족과 인플레이션을 동시에 자극하고 있다",
+      "AI 기업들이 소비자 시장보다 기업용 시장에 역량을 집중하며 AI의 B2B 수익화 구조가 굳어지고 있다",
+      "중국이 AI·첨단기술 분야 해외 정보 수집을 학술 채널로 확대하며 서방 대학들이 재정과 안보 사이에서 이중 압박을 받는 구조가 심화되고 있다",
+      "러시아가 국방비를 전체 예산의 35%까지 끌어올리며 사회 인프라를 희생시키는 전시 경제 구조로 전환하고 있다",
+      "동남아 주요국과 아프리카에서 기록적 홍수·연무가 동시다발적으로 발생하며 기후 취약성이 지역 경제·외교 변수로 부상하고 있다"
+    ],
+    "what_changed_today": [
+      "어제까지 '진행 중'이던 미군 이라크 철수가 완전 완료로 공식 확정됐으며 이란이 이를 즉각 전략적 승리로 선언했다",
+      "플라이두바이 사건의 가해 조종사 국적이 오만 또는 파키스탄으로 구체화됐고 인도인 기장 영웅담이 이스라엘 총리의 공식 치하로 이어졌다",
+      "영국 총리의 EU 재가입 발언이 프랑스 마크롱과 스페인 산체스의 공개 환영 성명으로 이어지며 외교적 반향이 확인됐다",
+      "러시아의 우크라이나 공격 강도가 '봄 이후 최대'로 격상됐으며 전략이 주요 인프라 파괴에서 '거주 불능' 도시화로 전환됐다는 분석이 나왔다",
+      "트럼프 행정부의 AI 자율 규제 협약에 서명 문서 국가명 철자 오류가 발견되며 정책 신뢰성 논란이 추가됐다"
+    ],
+    "what_to_watch_next": [
+      "맨체스터 시티에 대한 프리미어리그 최종 제재 수위 — 감점·강등·재정 처분 중 어느 방향으로 결정되는가",
+      "이란-미국 간 카타르 중재 신뢰구축 7일 계획의 이행 여부와 NPT 탈퇴 논의의 공식화 가능성",
+      "러시아의 칼리닌그라드 핵 경고에 대한 NATO의 공식 대응과 발트해 군사 배치 변화",
+      "브라질 대선 1차 투표(10월 4일) 결과와 룰라-볼소나루 구도의 2차 투표 진출 여부",
+      "보스니아 총선(10월 4일)에서 민족 정치 대 실용주의 의제의 승패",
+      "영국-이란 RAF 페어퍼드 사건의 외교적 처리 방향 — 제재 확대, 외교관 추방, 혹은 협상 여부",
+      "FTC의 AI 기업 조사 결과 공개 시점과 자율 협약과의 충돌 가능성",
+      "에티오피아 7개 반군 연합의 실질적 전선 확대 여부와 국제 인도주의 접근 통로 차단 가능성"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미·영군 이라크 완전 철수, 이란은 승리 선언하며 중동 권력 지형을 재편하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국과 영국의 마지막 주둔 병력이 이라크에서 철수하며 2003년 침공 이후 23년간의 군사 주둔이 공식 종료됐다. 이란은 이를 자국 '저항의 축' 전략의 성과로 규정하며 미군의 중동 전체 철수를 최종 목표로 선언했다. 전직 장성 등 안보 전문가들은 ISIS 재건 가능성과 이란의 역내 영향력 확장을 동시에 경고하고 있다.",
+        "why_it_matters": "중동에서 서방의 군사적 존재가 사라지는 것은 단순한 병력 이동이 아니라 지역 안보 질서의 근본적 재편을 의미한다. 이란이 이라크·시리아·예멘을 연결하는 육상 회랑을 사실상 장악할 가능성이 높아졌다.",
+        "what_is_changing": "이전까지 미군은 이란의 팽창을 물리적으로 억지하는 기능을 했으나, 철수 이후 이 역할을 대체할 세력이 부재하다. 터키도 이 공백을 활용해 역내 영향력을 확장하려는 움직임이 포착되고 있다.",
+        "connection": "이라크 철수는 이란의 NPT 탈퇴 검토, 후티 세력의 사우디 위협, 영국 RAF 기지 테러 모의 등 이란 연계 활동의 급증과 시기적으로 겹치며 패턴을 형성하고 있다.",
+        "signal": "서방 군사력의 중동 축소가 이란 주도 세력 재편을 가속화하는 구조적 전환점의 시작일 수 있다.",
+        "what_to_watch": "이라크 내 친이란 무장 세력의 실질적 권력 장악 속도, ISIS의 세력 회복 징후, 그리고 사우디·이스라엘의 안보 전략 변화 방향."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "미국이 국내 여론과 재정 부담을 이유로 중동 개입을 줄이는 사이, 이란은 '저항의 축'이라는 지정학적 서사를 강화하며 역내 정통성을 높이고 있다. 철수는 외교적 패배가 아니라 이란 입장에서 20년 전략의 완성으로 읽힌다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "이라크 시민들 사이에서는 미군 철수에 대한 반응이 엇갈린다. 주권 회복을 환영하는 시각과, 자국 정부가 이란과 내부 무장 세력의 압력을 독자적으로 감당할 수 있을지 불안해하는 시각이 공존한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
+          "region": "Middle East"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/23-years-after-invasion-us-leaves-iraq-stays-in-iran/article71527593.ece",
+          "region": "India"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/30/world/us-forces-iraq-iran-islamic-state/",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "headline": "호르무즈 마비가 장기화되며 세계 에너지 공급망이 복합 위기 국면으로 진입하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란-미국 전쟁으로 호르무즈 해협 통항이 장기간 차단되며 원유·디젤·항공유 공급에 광범위한 차질이 발생하고 있다. 분석가들은 브렌트유 2026년 평균 전망치를 배럴당 89달러 이상으로 상향 조정했다. 러시아도 디젤 수출 금지를 10월 말까지 연장하며 공급 압박이 중첩되고 있고, 유럽 일부 국가의 인플레이션이 재점화되고 있다.",
+        "why_it_matters": "세계 원유 수송의 약 20%가 통과하는 호르무즈가 막히면 단순히 유가가 오르는 것을 넘어, 발전·물류·식품 생산 비용 전반이 연쇄 상승한다. 이미 디젤 재고가 5년 평균 대비 14% 낮은 수준이다.",
+        "what_is_changing": "에너지 가격 충격이 단기 이벤트가 아니라 지정학적 구조 변화에 연동된 중장기 문제로 인식되기 시작했다. 중국 전기트럭 판매가 상반기 80% 급증한 것처럼, 고유가가 에너지 전환을 예상보다 빠르게 강제하고 있다.",
+        "connection": "이란의 에너지 인프라 공격 위협, OPEC+의 쿼터 동결, 러시아 디젤 수출 금지, 독일의 가스 추가 비축 명령이 동시에 전개되며 에너지 위기가 지정학과 완전히 연동된 구조가 됐다.",
+        "signal": "에너지 공급망의 지정학적 취약성이 전 세계 인플레이션·통화정책·산업 전환의 핵심 변수로 자리 잡는 구조적 전환이 진행 중이다.",
+        "what_to_watch": "이란-미국 교섭 여부, OPEC+ 11월 쿼터 결정, 유럽 ECB의 통화정책 대응, 아시아 국가들의 에너지 수입선 다변화 속도."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "에너지 가격 급등은 이미 둔화 중인 세계 경제 성장에 추가 부담을 주며, 특히 에너지 수입 의존도가 높은 유럽과 남아시아가 가장 큰 타격을 받을 것으로 전망된다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "고유가 환경이 장기화되면 전기차·전기트럭 전환 수요가 예상보다 빠르게 늘어나며, 중국 등 선제 투자국이 글로벌 시장에서 구조적 우위를 확보할 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Energy-General/Iran-Warns-No-Energy-Infrastructure-Will-Be-Safe-If-It-Cant-Sell-Oil.html",
+          "region": "Middle East"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Price-Forecasts-Jump-as-Hormuz-Disruption-Drags-On.html",
+          "region": "Global"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Extends-Diesel-Export-Ban-Through-Oct-31.html",
+          "region": "Russia"
+        }
+      ]
+    },
+    {
+      "headline": "영국 총리의 EU 재가입 발언에 유럽이 화답하며, 브렉시트 10년 만에 재통합 의제가 정치 전면에 등장했다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "영국 총리 앤디 번햄이 노동당 당대회에서 EU 완전 재가입을 현실적 선택지로 공개 거론하며 브렉시트 이후 금기시되던 논의를 공식 의제화했다. 프랑스 마크롱 대통령은 브렉시트를 '30년간 최대의 거짓말'로 규정하고, 스페인 산체스 총리도 영국의 복귀를 환영했다.",
+        "why_it_matters": "EU 재가입 논의가 주요 정치인의 발언 수준을 넘어 프랑스·스페인 등 주요 회원국의 공식 환영 성명으로 이어졌다는 점이 과거와 다르다. 이는 단순 발언이 아닌 실질적 외교 신호로 해석된다.",
+        "what_is_changing": "브렉시트 찬반을 둘러싼 국론 분열이 재점화될 가능성이 커졌다. 반대로 보수당은 청년 취업 코칭 의무화 등 대안 의제로 맞불을 놓으며 재가입 논의 자체를 선거 전선으로 활용하려 하고 있다.",
+        "connection": "영국이 EU에 재가입할 경우 아일랜드 국경 문제, 스코틀랜드 독립 논의, 이민 정책 등 복수의 연쇄 정치 쟁점이 함께 재활성화된다.",
+        "signal": "서방 민주주의 국가들 사이에서 2010년대 포퓰리즘·반세계화 조류가 되돌아오는 '리버설 사이클'의 조짐이다.",
+        "what_to_watch": "영국 내 여론조사 추이, 다음 총선 시점과 공약 구체화 여부, EU 회원국들의 재가입 조건 논의 공식화 여부."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "번햄 총리의 발언은 국내 정치적 계산과 대외 전략이 교차하는 지점에 있다. 재가입 국민투표를 공약화하면 친EU 표층을 결집하지만, 브렉시트 지지층의 강한 반발을 감수해야 한다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "영국의 EU 재가입은 단일시장 접근 회복을 통해 무역 비용을 줄이고 금융 서비스 산업을 복원할 수 있지만, 재가입 협상 기간 동안의 불확실성이 투자에 부정적 영향을 줄 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/30/world/burnham-britain-eu-rejoin/",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "headline": "러시아가 칼리닌그라드 차단 시 핵 대응을 NATO에 공식 문서로 경고하며 유럽 핵 위협이 새로운 단계에 접어들었다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 NATO에 공식 외교 문서를 통해 발트해 역외 영토 칼리닌그라드 접근이 차단될 경우 핵무기 사용을 배제하지 않겠다고 명시적으로 경고했다. 동시에 우크라이나에 대한 에너지 인프라 공습을 봄 이후 최대 규모로 강화하며 전쟁 강도를 높이고 있다.",
+        "why_it_matters": "핵 위협을 비공식 수사가 아닌 공식 외교 문서로 전달한 것은 위협의 성격을 질적으로 다른 수준으로 끌어올린다. NATO는 이에 대한 공식 대응 전략을 수립해야 하는 압박에 놓였다.",
+        "what_is_changing": "러시아의 핵 억지력이 점점 공개적이고 명시적으로 활용되는 패턴이 고착화되고 있다. 러시아는 국방비를 전체 예산의 35%로 끌어올리며 전시 경제 체제를 구축하고 있다.",
+        "connection": "영국 RAF 기지 테러 모의에 이란 개입 정황, 이라크 미군 철수, 후티-사우디 긴장 등 서방 억지력이 동시에 시험받는 구조가 러시아에 전략적 기회를 제공하고 있다.",
+        "signal": "유럽 안보의 핵 억지 구조가 냉전 종식 이후 가장 불안정한 단계에 진입하고 있다는 신호다.",
+        "what_to_watch": "NATO의 공식 대응 성명 수위, 발트 3국과 폴란드의 군사 배치 변화, 러시아-NATO 직접 접촉 채널 가동 여부."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아의 핵 경고는 NATO 동진 확대를 저지하고 유럽 내 분열을 조장하려는 전략적 의사소통의 일환으로 해석된다. 동시에 서방 내부에서 우크라이나 지원 피로감을 높이는 심리전 효과도 노린다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "러시아가 국방비를 예산의 35%까지 올리며 복지·교육·의료를 삭감하는 구조는 장기적으로 내부 사회 불만을 축적시킨다. 전쟁 지속 비용이 러시아 국민 생활수준에 직접 전가되는 방식이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/russia-issues-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic/article71527829.ece",
+          "region": "India"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/europe/article/3369374/russia-sends-nuclear-warning-nato-over-its-kaliningrad-enclave?utm_source=rss_feed",
+          "region": "China"
+        },
+        {
+          "source": "Daily Mail (UK)",
+          "link": "https://www.dailymail.com/news/article-16172369/Are-you-watching-Streeting-Putins-war-chest-rise-record-35-state-budget-year-slashes-welfare-education-healthcare-fund-17-1trillion-ruble-154bn-military.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
