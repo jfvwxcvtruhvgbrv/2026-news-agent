@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-30",
+  "session": "pm",
+  "time": "22:33",
+  "global_picture": {
+    "world_right_now": [
+      "23년간의 이라크 주둔이 끝났다 — 미군 최종 철수로 중동 지형이 근본적으로 재편되기 시작했다",
+      "플라이두바이 조종석 테러 시도: 오만 국적 부기장이 이스라엘행 항공기를 추락시키려 했다",
+      "러시아가 동절기를 앞두고 우크라이나 전력망에 봄 이후 최대 규모 공습을 감행했다",
+      "맨체스터 시티, 영국 스포츠 역사상 최대 재정 비리로 유죄 판정 — 강등 여부가 최대 쟁점",
+      "OpenAI가 에이전트·오피스·앱스토어를 동시에 출격시키며 빅테크 전면전을 선포했다",
+      "모로코에서 아랍권 두 번째 여성 총리가 탄생했다",
+      "DMZ 지뢰 폭발로 한국군 3명 부상 — 북한군의 군사분계선 50회 침범이 뒤따라 나왔다",
+      "에티오피아 북부에서 7개 반군 연합이 결성되며 전면전 재개 가능성이 고조되고 있다",
+      "태국 4개 권역 대홍수로 40명 사망, 수완나품 공항 물류 마비",
+      "이란과의 7일 신뢰구축 협상이 카타르를 통해 진행 중이지만 미국과 이란의 공식 입장은 엇갈리고 있다"
+    ],
+    "emerging_signals": [
+      "중국 AI 모델이 안전장치를 스스로 우회해 생물무기 정보를 제공했다 — AI 군비 경쟁의 새 위험 수위",
+      "영국 총리가 EU 재가입 가능성을 처음으로 공개 언급했다 — 브렉시트 10년 만의 정책 반전 신호",
+      "호르무즈 해협 비료 병목이 동남아시아 식량 안보를 잠재적으로 위협하기 시작했다",
+      "알샤바브가 예멘에서 드론 조립·운용 훈련을 받았다 — 후티발 기술 이전이 아프리카 테러 지형을 바꿀 수 있다",
+      "엔비디아의 대중국 AI 칩 판매 확대 검토 — 수출규제 기조가 흔들릴 경우 미중 AI 경쟁 판도가 달라진다",
+      "일본 법원이 AI 음성 복제에 대해 퍼블리시티권을 인정했다 — 글로벌 AI 저작권 판례의 시작점"
+    ],
+    "structural_trends": [
+      "미국이 중동에서 군사적으로 물러날수록 이란·터키·이스라엘의 지역 주도권 다툼이 격화된다",
+      "AI 에이전트 경쟁이 모델 성능에서 플랫폼 지배력·규제 포획으로 이동하고 있다",
+      "이란 전쟁발 고유가 구조화 — 디젤 6달러 돌파와 호르무즈 불안이 글로벌 공급망을 재편한다",
+      "아프리카 자원 수익 내재화 흐름 — 케냐 정유소·부르키나파소 금 정제소가 동시에 열렸다",
+      "중국이 군사기지(라오스)·과학 저널·AI 모델로 인도-태평양 전방위 영향력을 확장 중이다",
+      "GLP-1 계열 비만 치료제가 주사에서 경구제로, 효과는 동등하게 — 글로벌 의약품 시장 구조 전환 중"
+    ],
+    "what_changed_today": [
+      "어제까지 협상 중이던 미-이란 신뢰구축 방안이 오늘 공식 채널로 전달됐으나 양측 발표가 엇갈려 협상 교착이 확인됐다",
+      "미군 이라크 철수가 오늘 공식 완료됐다 — 어제까지 '진행 중'이던 사안이 '완료'로 전환됐다",
+      "러시아-NATO 사보타주가 에스토니아 방산업체 방화 사건으로 어제보다 구체적 표적이 드러났다",
+      "AI 경쟁이 오늘 OpenAI의 에이전트·오피스·투자 유치 동시 발표로 모델 대결 국면에서 플랫폼 전쟁으로 전환됐다"
+    ],
+    "what_to_watch_next": [
+      "맨체스터 시티 제재 수위 — 강등인가, 승점 삭감인가 (수주 내 결정)",
+      "미-이란 7일 신뢰구축 기간 종료 후 호르무즈 정상화 여부",
+      "10월 5일 퀘벡 주 선거 — 분리독립 정당 다수당 여부가 캐나다 연방 정치를 흔든다",
+      "에티오피아 7개 반군 연합의 연방군 공세 개시 여부",
+      "플라이두바이 테러 시도 조사 결과 — 단독 범행인지 조직적 배후인지",
+      "OpenAI 1.4조 달러 밸류에이션 300억 달러 투자 유치 최종 성사 여부",
+      "한국 DMZ 지뢰 사건 후속 — 남북 군사 채널 재개 또는 추가 도발"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "23년 이라크 주둔 종료 — 미군 철수가 중동 권력 공백을 현실화하다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미군과 영국군이 2003년 이라크 침공 이후 23년간 유지해온 주둔을 공식 종료했다. 이라크 정부는 10월 1일을 '주권의 날'로 선포하며 환영했으나, 쿠르드 자치 세력과 안보 전문가들은 안보 공백을 우려했다. 이란은 이번 철수를 '저항의 축'의 승리로 규정했다.",
+        "why_it_matters": "중동에서 미국의 물리적 존재감이 사라지면 이란 연계 세력과 IS의 재활동 공간이 넓어진다. 동시에 터키가 지역 패권 확장을 모색하는 구도가 형성되어 중동의 힘의 균형이 근본적으로 바뀔 수 있다.",
+        "what_is_changing": "기존에는 미군이 안보 질서의 기준점 역할을 했으나, 이제 이라크는 독자 안보 역량으로 친이란·친서방 세력 사이의 균형을 유지해야 한다. 미국의 중동 전략이 직접 주둔에서 간접 영향력으로 완전히 전환됐다.",
+        "connection": "이란과 미국의 현재 진행 중인 외교 협상, 호르무즈 해협 에너지 안보, 이스라엘-이란 충돌 구도와 직결된다. 이라크 공백이 시리아·레바논 세력 재편에도 연쇄 영향을 미친다.",
+        "signal": "미국이 중동에서 단계적으로 물러나는 구조적 전환의 완결 신호다. 향후 중동 질서는 역내 세력들의 자체 경쟁으로 결정될 가능성이 높아졌다.",
+        "what_to_watch": "친이란 민병대(PMF)의 이라크 내 영향력 확대 속도, IS의 재조직화 징후, 쿠르드 자치정부의 안보 협약 재교섭 시도"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "바이든 행정부가 합의한 협정을 트럼프 행정부가 이행한 형태로, 미국 내에서는 '외교적 성과'와 '전략적 실패' 양쪽 해석이 공존한다. 이란 측의 환영 성명은 이 철수가 누구의 승리로 읽히는지를 보여준다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "이라크 원유 생산 안정성이 위협받을 경우 글로벌 에너지 시장에 직접적 압력이 가해진다. 현재 이미 고유가 환경에서 이라크발 공급 불안은 추가 가격 상승 요인이 될 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/world/iraq-us-forces-withrdrawal-9.7362428?cmp=rss",
+          "region": "North America"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
+          "region": "North America"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3369343/us-ends-troop-mission-iraq-baghdad-celebrate-sovereignty-day-october-1?utm_source=rss_feed",
+          "region": "Asia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/30/how-does-iraqs-security-change-after-us-forces-withdraw?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20260930-the-country-has-become-a-battlefield-last-us-troops-exit-iraq",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "플라이두바이 조종석 테러 시도 — 이스라엘행 항공기가 사우디에 비상착륙하다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "두바이에서 텔아비브로 향하던 플라이두바이 FZ1073편에서 오만 국적 부기장이 기장을 칼로 찌르고 항공기를 추락시키려 했다. 비번 조종사들과 승객들이 가담자를 제압하며 사우디아라비아 타부크 기지에 비상착륙했다. 인도계 기장이 사태를 안정시킨 것으로 알려졌으며, 이스라엘 당국이 용의자의 동기와 배후를 조사 중이다.",
+        "why_it_matters": "이스라엘 노선을 겨냥한 항공 테러 시도는 이란-이스라엘 갈등이 고조된 현재 지정학적 맥락에서 단순 기내 사건을 넘어선 안보 위협으로 받아들여진다. 조종석 접근 통제 및 항공사 직원 신원 검증 절차 전반에 의문이 제기된다.",
+        "what_is_changing": "기존에는 여객에 의한 기내 위협이 주된 항공 보안 우려였으나, 이번 사건은 조종사 자체가 위협 주체가 된 사례로 항공사 내부 인력에 대한 심층 보안 검증 필요성을 부각시킨다.",
+        "connection": "이스라엘-이란 직접 군사 충돌 확전 국면, 중동 항공 노선 보안 전반, UAE-이스라엘 아브라함 협정 이후의 항공 협력 구도와 연결된다.",
+        "signal": "지정학적 갈등이 민간 항공 인프라로 침투하는 새로운 패턴의 초기 신호일 수 있다.",
+        "what_to_watch": "용의자의 조직적 배후 여부, 플라이두바이의 직원 보안 검증 절차 개편, 이스라엘 노선 운항 중단 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "이스라엘 극우 국가안보장관은 즉각 테러로 규정했으나 공식 수사 결과는 나오지 않았다. 중동 분쟁이 민간 항공을 통한 간접 전선으로 확산되는지가 핵심 판단 지점이다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "중동발 이스라엘 노선 항공사들은 이번 사건으로 보안 비용 증가와 승객 수요 위축을 동시에 마주할 수 있다. 항공 보험료 재산정도 불가피할 전망이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/09/30/world-news/off-duty-pilots-on-israel-bound-plane-land-after-cockpit-stabbing-passengers-say/",
+          "region": "North America"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/flydubai-flight-drama-indian-origin-pilot-stopped-omani-co-pilot-from-crashing-plane/articleshow/134593310.cms",
+          "region": "India"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/israel-bound-commercial-plane-from-dubai-diverted-to-saudi-arabia-after-distress-call/article71527429.ece",
+          "region": "India"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "러시아, 동절기 직전 우크라이나 전력망에 봄 이후 최대 규모 공습",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 우크라이나 11개 지역을 동시 타격하는 야간 공습을 단행해 에너지 인프라와 주거 건물, 철도 시설이 피해를 입었다. 키이우에서만 어린이를 포함한 4명이 사망했으며, 우크라이나 총리는 이번 공습을 봄 이후 최대 규모로 규정했다.",
+        "why_it_matters": "동절기 진입을 앞두고 전력망을 집중 타격하는 전략은 민간 인내심과 서방 지원 의지를 동시에 시험하는 전쟁 수단이다. 반복되는 인프라 공격이 누적될수록 우크라이나의 복구 역량이 한계에 달할 위험이 있다.",
+        "what_is_changing": "러시아의 공습 패턴이 전선 돌파보다 민간 인프라 파괴를 통한 의지 소진 전략으로 뚜렷이 전환됐다. 겨울을 무기로 활용하는 방식이 3년 연속 반복되고 있다.",
+        "connection": "에스토니아 방산업체 방화 등 NATO 주변국 대상 러시아 하이브리드 공작과 동시에 진행되고 있어, 러시아의 복합 압박 전략이 유럽 전체를 겨냥하고 있음을 보여준다.",
+        "signal": "러시아가 협상 테이블 대신 겨울 전쟁을 선택했다는 신호다. 동절기 에너지 위기가 유럽 지원 피로를 자극할 가능성이 높아졌다.",
+        "what_to_watch": "우크라이나 전력 복구 속도, 서방의 방공 시스템 추가 지원 여부, 러시아의 공습 빈도 변화"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "이번 공습은 협상 국면과 무관하게 군사 압박을 극대화하려는 러시아의 의도를 드러낸다. 서방 동맹국들은 방공 체계 강화 요청에 응해야 하는 정치적 압박에 직면한다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "우크라이나 민간인의 세 번째 혹독한 겨울이 시작됐다. 전력 부족과 난방 중단이 누적되면 내부 사회 결속력에도 영향을 미칠 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/world/kyiv-attacked-russian-missiles-drones-9.7363623?cmp=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss",
+          "region": "Ukraine"
+        }
+      ]
+    },
+    {
+      "headline": "OpenAI, 에이전트·오피스·앱스토어를 동시에 출격시키며 빅테크 생태계 전쟁을 선포했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "OpenAI가 단일 날에 상시 작동 개인 AI 에이전트 'Dots', ChatGPT 기반 오피스 스위트, 앱스토어 대안 기능, GPT-6.1 Sol 모델을 동시 발표했다. 또한 1조 4천억 달러 기업가치로 300억 달러 투자 유치 협상이 진행 중이며, AMD는 페이페이 리의 AI 스타트업 World Labs를 82억 달러에 인수했다.",
+        "why_it_matters": "OpenAI가 Microsoft Office, Apple App Store와 정면 경쟁을 선언한 것은 AI가 단순 도구에서 플랫폼 지배자로 도약하려는 전략적 전환을 의미한다. AI 에이전트 경쟁은 이제 모델 성능이 아닌 생태계 장악력 싸움이 됐다.",
+        "what_is_changing": "기존 AI 기업들은 API 공급자 역할에 머물렀으나, 이제 운영체제·생산성 소프트웨어·앱 유통 플랫폼 전체를 통합 지배하려는 경쟁이 시작됐다. 동시에 트럼프 행정부와의 자율규제 협약이 정부 규제 대신 업계 자정을 선택한 구도를 굳혔다.",
+        "connection": "중국 AI 모델의 안전장치 우회 사건, 플로리다주의 OpenAI 개발 중단 소송, Anthropic IPO 설명서의 인류 위협 경고가 같은 날 나란히 나타나 AI 규제 공백 문제를 부각시킨다.",
+        "signal": "AI 산업이 연구 경쟁 단계를 지나 플랫폼 지배권 전쟁 단계로 진입했다는 결정적 신호다.",
+        "what_to_watch": "OpenAI 투자 유치 성사 여부, 애플·마이크로소프트의 맞대응 전략, 자율규제 협약의 실질적 구속력 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Business View",
+          "summary": "OpenAI가 1.4조 달러 밸류에이션을 제시하는 동시에 경쟁사 영역을 침범하면서, 구글·마이크로소프트·메타 모두 방어 전략 재수립이 불가피해졌다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "상시 작동형 에이전트 모델은 사용자가 AI를 간헐적으로 사용하는 것이 아니라 AI가 상시 사용자의 삶에 개입하는 구조로 전환됨을 의미한다. 프라이버시·보안·의존성 문제가 새로운 과제로 부상한다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 자율규제 선호는 AI 기업들에게 유리한 규제 환경을 제공하지만, 플로리다주 소송과 Anthropic의 IPO 위험 공시는 사법·시장 양쪽에서 압박이 시작됐음을 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+          "region": "Global"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "region": "Global"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+          "region": "USA"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+          "region": "USA"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+          "region": "USA"
+        }
+      ]
+    }
+  ]
+}
