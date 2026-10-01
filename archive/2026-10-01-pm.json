@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-01",
+  "session": "pm",
+  "time": "23:24",
+  "global_picture": {
+    "world_right_now": [
+      "두바이발 텔아비브행 항공기에서 부기장이 기장을 흉기로 공격하고 추락을 시도한 사건이 발생해 중동발 항공 보안 위협이 최고 수위에 달했다",
+      "호르무즈 해협 유조선 피격·이란 원유 급감·중국 연료 수출 중단이 동시에 발생하며 브렌트유가 배럴당 100달러를 돌파했다",
+      "러시아가 우크라이나를 향해 봄 이후 최대 규모 에너지 인프라 공습을 감행하며 핵시설까지 타격했고, NATO에 핵 대응 경고 문서도 발송했다",
+      "에티오피아 수도에 폭발음이 들리고 7개 반군이 연합을 결성하며 내전이 수도권까지 확산되고 있다",
+      "미국이 이라크에서 23년 만에 완전 철수를 마무리한 가운데 이란·ISIS의 전략적 공백 활용 우려가 현실화되고 있다",
+      "미국 10년물 국채 금리가 2002년 이후 최고치를 기록하며 글로벌 채권시장 전반에 매도 압력이 확산되고 있다",
+      "프랑스 전역 고등학생들이 열악한 교육 환경에 항의해 학교를 봉쇄했고 경찰과 충돌로 625명 이상이 연행됐다",
+      "AI 기업들이 칩 설계·음성합성·에이전트 API 등 핵심 인프라로 경쟁 전선을 확장하는 동시에 FTC 조사와 자율 안전 협약 압박도 동시에 받고 있다",
+      "파키스탄이 아프가니스탄 두 개 주를 공습해 탈레반과 피해 규모를 놓고 공개 충돌하며 남아시아 긴장이 고조됐다",
+      "영국 총리가 RAF 기지 사건에 이란 개입 정황을 공개 언급하며 영국-이란 갈등이 새로운 국면에 진입했다"
+    ],
+    "emerging_signals": [
+      "자율 AI 에이전트를 활용한 정부 인프라 해킹 시도가 캐나다·한국에서 동시에 보고되며 AI 기반 사이버 위협이 국가 단위로 확산되는 조짐을 보이고 있다",
+      "브라질·뉴질랜드·캐나다 앨버타에서 동시에 분리·반연방 정서가 가시화되며 서방 민주주의 내부 원심력이 구조적 흐름으로 굳어지고 있다",
+      "전기차 가격이 동일 플랫폼 내연기관차보다 낮아지는 첫 사례가 등장하며 EV 가격 패리티 시점이 당겨지고 있다",
+      "말레이시아의 미얀마 난민 1500명 강제 추방이 동남아시아 전역에서 난민 처우 후퇴 패턴이 가속화되고 있음을 보여준다",
+      "영국 MI5의 중국 연계 대학 연구 절취 공개 경고는 서방 학계와 중국 자금 의존의 구조적 딜레마가 임계점에 달했음을 시사한다"
+    ],
+    "structural_trends": [
+      "미국의 이민자 제3국 추방 네트워크가 아프리카로 확장되며 강제 이주 외주화가 글로벌 외교 구조로 자리잡고 있다",
+      "EU 5개국의 아프리카 내 추방 센터 설립 계획 등 유럽 전반에서 이민 억제 정책이 법제화·제도화 단계로 진입하고 있다",
+      "호르무즈 해협·우크라이나·미국 디젤 수출 위협이 동시에 작용하며 에너지 공급망 안보가 지정학적 핵심 변수로 굳어지고 있다",
+      "AI 규제가 법적 구속력 없는 자율 협약 위주로 형성되며 '규제 포획' 리스크가 구조적으로 누적되고 있다",
+      "스위스 빙하 5년간 20% 소실·서유럽 폭염 3만4600명 사망·해양 열파 과소평가 등 기후 지표가 동시에 임계치를 넘어서고 있다"
+    ],
+    "what_changed_today": [
+      "어제까지 이라크 완전 철수의 전략적 공백 우려로 보도됐던 사안이 오늘 쿠르드 페시메르가 통합 논의 가시화로 실질적 다음 단계가 열렸다",
+      "브렉시트 재논의가 어제 영국 총리 발언으로 의제화됐고 오늘 마크롱·산체스가 공식 환영 입장을 밝혀 정치적 현실성이 한 단계 높아졌다",
+      "어제 호르무즈 마비 우려 단계에서 오늘 유조선 3척 실제 피격·중국 연료 수출 전면 중단·브렌트유 100달러 돌파로 위기가 현실화됐다",
+      "러시아의 칼리닌그라드 핵 위협 문서 발송이 어제 보도됐고 오늘 우크라이나 에너지 인프라 대규모 공습이 실행되며 위협이 행동으로 전환됐다"
+    ],
+    "what_to_watch_next": [
+      "플라이두바이 부기장의 이란·이슬람 극단주의 연계 여부에 대한 UAE·사우디 공동 수사 결과",
+      "브렌트유 100달러 돌파 후 OPEC+ 긴급 증산 여부 및 호르무즈 해협 통행 안전 확보 방안",
+      "에티오피아 7개 반군 연합 결성 이후 아디스아바바 방어선 유지 여부와 유엔 인도주의 접근 협상",
+      "프랑스 학생 시위가 교원·노동계 총파업으로 확산될지 여부 및 정부 교육 예산 추가 협상 일정",
+      "10월 4일 브라질 대선 1차 투표 결과와 룰라·야권 후보 간 결선 진출 구도",
+      "미국 국채 금리 상승이 신흥시장 자본 이탈 및 달러 강세 추가 압력으로 이어질지 여부",
+      "영국 번햄 총리의 EU 재통합 발언을 둘러싼 의회 내 공식 논의 일정 및 EU 측 조건 제시 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "두바이발 이스라엘행 항공기 추락 시도, 중동발 항공 테러 위협이 조종석 내부로 침투했다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "두바이에서 텔아비브로 향하던 플라이두바이 항공기에서 오만 국적 부기장이 인도인 기장 스밋 마차르를 흉기로 공격하고 항공기를 급강하시켜 추락시키려 했다. 비번 조종사와 승객들이 부기장을 제압했고 부상한 기장이 30초 이내의 급박한 상황을 수습해 사우디아라비아에 비상착륙했다. UAE 검찰이 테러 활동 연계 가능성을 포함한 조사에 착수했으며 네타냐후 총리는 부기장이 이슬람 극단주의 세뇌를 받았다고 주장했다.",
+        "why_it_matters": "외부가 아닌 조종석 내부 인물이 공격 주체가 됐다는 점에서 기존 항공 보안 패러다임 전체를 흔드는 사건이다. 아브라함 협정 이후 아랍-이스라엘 직항 노선의 취약성을 정면으로 드러냈으며, 부기장 채용·자격 검증 체계의 허점 문제도 동시에 부각됐다.",
+        "what_is_changing": "기존 항공 보안은 외부 침입자 차단에 초점을 맞춰왔으나, 이번 사건은 승무원 심리 검사와 내부자 위협 탐지 체계를 새롭게 요구한다. 이란 연루 가능성 수사는 중동 갈등의 새로운 전선 가능성도 열어두고 있다.",
+        "connection": "영국 RAF 페어포드 기지 사건에 이란 개입 정황을 영국 총리가 공식 언급한 타이밍과 겹쳐, 이란 연계 비정규 위협 작전이 복수 지역에서 동시 전개될 수 있다는 분석이 제기된다. 아브라함 협정 체결국들의 직항 노선 전반에 보안 재검토 압력이 가해질 전망이다.",
+        "signal": "조종석 내 테러 시도가 성공에 근접했다는 사실은 아브라함 협정 이후 정상화된 아랍-이스라엘 교류를 공격 표적으로 삼는 세력이 조직적으로 활동하고 있음을 시사하는 초기 신호다.",
+        "what_to_watch": "UAE·사우디 공동 수사에서 이란 또는 이슬람 극단주의 네트워크 연계가 확인되는지 여부, 그리고 아브라함 협정 직항 노선의 보안 프로토콜이 어떻게 재설계될지가 핵심이다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "이스라엘은 이를 이란 연계 테러로 규정하며 아브라함 협정 반대 세력의 공작으로 해석하는 반면, 동기가 아직 불분명한 상황에서 조기 정치화는 수사를 왜곡할 위험이 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "이번 사건은 내부자 위협 탐지를 위한 생체심리 모니터링, AI 기반 행동 이상 감지 등 조종석 보안 기술의 필요성을 긴급 의제로 올려놓았다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/uae-launches-flydubai-hijacking-and-terrorism-investigation/a-79497746",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261001-israel-s-netanyahu-says-co-pilot-tried-to-crash-tel-aviv-bound-plane",
+          "region": "Europe"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/was-flydubai-cockpit-attack-planned-uae-probe-to-examine-possible-terror-link/articleshow/134615695.cms",
+          "region": "India"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/netanyahu-says-flydubai-flight-attacker-underwent-radical-indoctrination/article71533277.ece",
+          "region": "India"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "호르무즈 유조선 피격·중국 연료 수출 중단·이란 원유 급감이 동시에 터지며 글로벌 에너지 공급망이 복합 위기로 진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "호르무즈 해협에서 미상의 발사체에 유조선 3척이 피격됐고, 이란산 원유 공급이 급감하면서 중국 독립 정제사들이 대체 물량 확보에 나섰다. 중국 PetroChina 등이 10월 연료 수출을 전면 중단하면서 브렌트유는 배럴당 100달러를 돌파했다가 일부 회복 후 96달러대로 소폭 하락했다.",
+        "why_it_matters": "세계 원유 수송량의 약 20%가 통과하는 호르무즈 해협 차질, 중국의 연료 수출 중단, 이란 원유 급감이라는 세 가지 충격이 동시에 발생하며 단일 충격과는 질적으로 다른 복합 위기 구조가 형성됐다.",
+        "what_is_changing": "에너지 공급 위기가 지정학적 사건 하나에 반응하는 단선적 패턴에서, 복수의 공급망 취약점이 연쇄적으로 발화하는 구조로 전환되고 있다. 인도 정유사들이 자체 선박 용선을 채택하는 등 소비국들의 공급망 자급 전략이 가속화되고 있다.",
+        "connection": "미국이 유럽에 디젤 수출 금지를 압박 카드로 사용하는 동시에 영국이 비상 비축분 방출을 협의하고 있어, 에너지 안보가 서방 동맹 내부 균열 요인으로도 작용하고 있다. EU는 메탄 규제 시행 연기를 검토하고 대만은 130억 달러 에너지 보조금을 편성하는 등 지역별 방어 반응이 동시 진행 중이다.",
+        "signal": "단일 지역 갈등이 글로벌 에너지 공급망 전체를 동시에 교란할 수 있다는 취약성이 처음으로 복합적으로 확인된 사례로, 에너지 공급망 재구성 논의를 구조적 의제로 끌어올리는 전환점이 될 수 있다.",
+        "what_to_watch": "OPEC+의 긴급 증산 결정 여부, 호르무즈 해협 해상 안전 확보를 위한 다국적 해군 협력 가능성, 그리고 중국의 연료 수출 중단이 10월 이후에도 지속될지 여부가 핵심 변수다."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "유가 100달러 돌파는 이미 높은 수준의 인플레이션 압력에 놓인 주요국 중앙은행들의 통화 정책 딜레마를 심화시키며, 글로벌 경기침체 위험을 실질적으로 높이는 요인이 된다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "미국의 대유럽 디젤 수출 금지 위협은 에너지를 외교 압박 수단으로 활용하는 전략으로, 동맹 관리와 이익 극대화 사이에서 미국이 후자를 우선할 수 있다는 신호를 보내고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Three-Tankers-Struck-by-Unknown-Projectiles-in-Strait-of-Hormuz.html",
+          "region": "Global"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-Fuel-Exports-Until-Further-Notice.html",
+          "region": "China"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Irans-Disappearing-Oil-Is-Becoming-Everyones-Problem.html",
+          "region": "Global"
+        },
+        {
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
+          "region": "Business"
+        }
+      ]
+    },
+    {
+      "headline": "러시아가 우크라이나 에너지 인프라를 봄 이후 최대 규모로 공습하며 핵시설까지 타격했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 제트 추진 드론을 동원해 우크라이나 11개 이상 지역의 전력망·주거 건물·철도·학교를 공격했고 핵시설도 피격됐다. 우크라이나 총리는 봄 이후 최대 규모 공습이라고 확인했으며 최소 7명이 사망했다. 이와 동시에 러시아는 NATO에 칼리닌그라드 봉쇄 시 핵 대응 가능성을 담은 외교 문서를 발송했다.",
+        "why_it_matters": "핵시설 타격은 방사선 누출 위험이라는 새로운 차원의 위협을 의미하며, 겨울철 직전 에너지 인프라 마비는 민간인 생존 기반을 직접 겨냥하는 전략으로 해석된다. 핵 위협 외교 문서와 대규모 공습이 같은 날 이루어졌다는 점에서 군사·외교 양면의 압박이 동시 전개됐다.",
+        "what_is_changing": "드론 공격이 정밀 타격을 넘어 광역 인프라 마비를 목표로 진화했으며, 핵 위협 수위가 외교 문서 발송이라는 공식 채널을 통해 높아졌다. 우크라이나는 동시에 동부 휴전 준비 의사를 밝혀 전쟁과 협상이 병행되는 복잡한 국면이 형성되고 있다.",
+        "connection": "러시아의 핵 위협 외교 문서는 NATO 동유럽 증강 배치 논의를 직접 겨냥하며, 스웨덴·핀란드 NATO 가입 이후 발트해 지역 안보 구도 재편과도 맞닿아 있다.",
+        "signal": "에너지 인프라 광역 공격과 핵 위협의 동시 전개는 러시아가 겨울철을 앞두고 협상 조건을 유리하게 설정하려는 강경 전략으로의 전환을 시사한다.",
+        "what_to_watch": "우크라이나의 동부 휴전 제안이 실질 협상으로 이어질지 여부, 나토의 대응 수위와 핵시설 피격에 대한 IAEA의 공식 입장이 관건이다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "핵 위협 외교 문서와 대규모 공습의 동시 전개는 겨울을 앞두고 협상 우위를 점하려는 크렘린의 계산된 압박 전략으로 읽히며, NATO 내 결속 약화를 노리는 분열 전술이기도 하다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "학교와 핵시설 피격은 전쟁의 민간 공간 침투가 새로운 단계에 진입했음을 보여주며, 우크라이나 민간인들이 겨울철 에너지 공급 없이 생존해야 하는 현실에 직면하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault",
+          "region": "Ukraine"
+        },
+        {
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/10/01/russia-ukraine-war-energy-power-winter.html",
+          "region": "Business"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-02/school-and-nuclear-facility-hit-in-latest-russian-air-strikes/107218686",
+          "region": "Oceania"
+        }
+      ]
+    }
+  ]
+}
