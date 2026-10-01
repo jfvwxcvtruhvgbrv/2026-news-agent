@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-02",
+  "session": "am",
+  "time": "08:19",
+  "global_picture": {
+    "world_right_now": [
+      "플라이두바이 부조종사 기내 습격 사건이 이란 연루 의혹으로 확산되며 중동발 항공 안보 위협이 조종실 내부까지 침투했음을 재확인했다",
+      "푸틴이 칼리닌그라드 방어를 위해 핵무기 사용 가능성을 명시적으로 경고하며 러시아-서방 핵 긴장 수위가 공식·비공식 채널 모두에서 동시에 고조됐다",
+      "글로벌 디젤 공급 위기가 심화되며 미국이 유럽에 비축유 방출을 압박하고 중국은 10월 정제유 수출을 전면 중단했다",
+      "에티오피아에서 7개 반군 연합이 결성되고 수도 북부에서 교전이 발생하며 에리트레아와의 외교까지 단절돼 아프리카 뿔 지역 복합 위기가 심화됐다",
+      "빅테크의 핵에너지 수요가 우라늄 가격을 사상 최고치로 끌어올리고 AI 인프라가 전력망·메모리·디젤까지 광범위한 자원 압박을 유발하고 있다",
+      "프랑스 전역 고교생 시위가 방화·경찰 충돌로 격화되며 긴축 예산안과 맞물려 사회적 긴장이 고조됐다",
+      "파키스탄이 아프가니스탄을 공습해 양측이 민간인 피해를 놓고 정면 충돌하며 남아시아 국경 긴장이 고조됐다",
+      "미·중 정상회담 이후 무역위원회 이행 일정은 미정인 반면 군사 소통 채널은 재개 흐름을 보이며 실질적 성과 없는 관계 안정화 국면이 이어졌다",
+      "AI 에이전트가 앱을 대체하는 전환이 산업 전반에서 동시다발적으로 진행되며 빅테크·스타트업·플랫폼이 일제히 에이전트 생태계 선점에 나섰다",
+      "캐나다가 서부 해안 파이프라인을 국가 이익 사업으로 지정하고 호주가 미국과 관세 교환 협상을 벌이는 등 동맹국들의 대미 경제 다각화 행보가 가속됐다"
+    ],
+    "emerging_signals": [
+      "AI 에이전트가 트럼프의 베네수엘라 침공 결정 과정에 자문 역할을 했다는 보도가 AI 거버넌스의 새로운 위험 차원을 드러냈다",
+      "신한은행 해킹에서 AI 에이전트가 사이버 공격 수법으로 활용된 정황이 포착되며 AI 보조 금융 해킹의 패턴화 가능성이 제기됐다",
+      "방글라데시에서 뎅기열과 홍역이 동시 유행하며 의료 시스템 이중 위기가 발생해 감염병 복합 충격이 새로운 공중보건 위협 유형으로 부상했다",
+      "캘리포니아가 AI 단독 해고를 금지하는 미국 최초 입법을 시행하며 AI 노동권 규제의 지역별 분화가 시작됐다",
+      "일본 도쿄 법원이 AI 음성 복제에 퍼블리시티권 침해를 인정하는 첫 판례를 내리며 아시아 AI 규제의 사법적 선례를 만들었다"
+    ],
+    "structural_trends": [
+      "AI 인프라 수요가 전력·메모리·정제유·핵연료까지 실물 자원 공급망 전반을 압박하는 새로운 구조적 병목으로 자리잡았다",
+      "미국의 동맹국 대상 경제 압박이 캐나다·호주·한국의 독자 에너지·무역 다각화를 가속시키며 서방 동맹 내 경제 원심력이 구조화되고 있다",
+      "러시아·이란 연계 테러 위협이 영국 공군기지, 민간 항공기, 반체제 인사 암살 시도 등 다층 표적으로 동시 현실화되며 서방의 대이란·대러 복합 안보 부담이 증가하고 있다",
+      "AI 에이전트가 앱 생태계를 대체하는 전환이 빅테크·클라우드·스타트업 전반에서 동시에 진행되며 소프트웨어 산업 구조 자체가 재편되고 있다",
+      "에티오피아-에리트레아 외교 단절, 남북 접경 지뢰 폭발, 파키스탄-아프가니스탄 공습이 동시에 발생하며 기존 평화 프레임워크의 동시다발적 붕괴 패턴이 나타나고 있다"
+    ],
+    "what_changed_today": [
+      "플라이두바이 사건이 단순 기내 폭력에서 이란 배후 의혹·UAE 테러 수사·트럼프 군사 경고로 급격히 정치화됐다",
+      "러시아 핵 위협이 우크라이나 전장 논의에서 칼리닌그라드 방어라는 새로운 명시적 조건으로 확장됐다",
+      "글로벌 디젤 위기가 중국의 10월 수출 전면 중단으로 공급 측면에서 한 단계 더 악화됐다",
+      "에티오피아 위기가 수도권 폭발 사건과 에리트레아 외교 단절로 복합 위기 양상으로 전환됐다"
+    ],
+    "what_to_watch_next": [
+      "UAE 당국의 플라이두바이 테러 수사 결과 및 이란 연루 여부 공식 발표",
+      "푸틴의 핵 경고에 대한 나토 회원국 공식 반응 및 칼리닌그라드 인근 군사 움직임",
+      "미국 9월 고용보고서 발표 결과와 연준 금리 결정 영향",
+      "에티오피아 아디스아바바 인근 전선 변화 및 국제 중재 재개 가능성",
+      "프랑스 학생 시위 추가 확산 여부 및 정부의 교육 예산 대응",
+      "EU의 중국산 우회 수입 급증에 대한 공식 제재 여부",
+      "파키스탄-아프가니스탄 공습에 대한 탈레반의 보복 조치 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "플라이두바이 기장 피습 사건이 이란 연루 의혹으로 확산되며 중동발 항공 테러 위협이 조종실 내부로 재진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "두바이발 텔아비브행 플라이두바이 항공편에서 오만 국적 부조종사가 동료 기장을 흉기로 찌르며 조종을 방해해 항공기가 17,000피트 이상 급강하했다. 사우디아라비아에 비상착륙한 뒤 용의자는 UAE로 인도됐으며 UAE 검찰이 테러 혐의 수사를 공식 개시했다. 트럼프는 이란 연루 가능성을 시사했고 네타냐후는 이슬람 급진 세뇌에 의한 시도라고 규정했다.",
+        "why_it_matters": "이스라엘행 민간 항공편이 조종실 내부에서 공격받은 것은 보안 검색대 이후 단계에서도 위협이 실재함을 보여준다. 이란 연루 의혹이 사실로 확인될 경우 미국의 추가 군사·외교 압박이 가시화될 수 있고, 중동 항공 노선 전반의 보안 체계 재검토를 촉발할 수 있다.",
+        "what_is_changing": "기존 항공 테러 위협이 폭발물·객실 제압 중심이었다면 이번 사건은 조종사 자격을 이용한 '내부자 공격' 모델을 현실화했다. 조종사 심리 검증과 모니터링 강화 논의가 불가피해졌다.",
+        "connection": "영국 RAF 페어포드 공군기지 테러 모의 혐의 이란계 이중국적자 체포 사건과 시기가 겹치면서 이란 연계 서방 타격 시도가 동시다발적으로 진행되는 패턴이 주목된다. AI로 생성된 가짜 BBC 보도 영상이 확산되며 딥페이크 허위정보도 사건에 결합됐다.",
+        "signal": "이란-이스라엘 전쟁 국면에서 민간 인프라를 표적으로 삼는 비대칭 공격이 조종실·공군기지·유럽 주요 시설 등으로 동시에 확산되는 초기 신호일 수 있다",
+        "what_to_watch": "UAE 테러 수사의 이란 연루 공식 확인 여부, 트럼프의 대이란 군사·경제적 보복 조치 여부, 국제민간항공기구(ICAO)의 조종사 내부자 위협 대응 지침 강화 동향"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프와 네타냐후가 이란 연루를 즉각 주장한 것은 대이란 강경 노선 유지와 국내 정치적 결집을 위한 서사 구성 의도와도 맞닿아 있다. 아직 공식 확인 전 단계에서 나온 발언인 만큼 외교적 긴장 고조를 의도한 신호 발신으로 읽힐 수 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI가 생성한 가짜 BBC 보도 영상이 사건 직후 소셜미디어에서 빠르게 확산된 사례는 고강도 사건 발생 직후가 딥페이크 허위정보의 최대 취약 시점임을 보여준다. 정보 생태계 교란이 사건 그 자체만큼 중요한 전장이 됐다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3369486/trump-vows-hit-iran-very-hard-if-linked-flydubai-attack",
+          "region": "Hong Kong"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/fake-bbc-report-falsely-implicates-indian-passenger-and-pilot-in-flydubai-hijacking-attempt",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "푸틴이 칼리닌그라드 방어를 조건으로 핵 사용을 명시하며 러시아의 핵 위협이 전장 논리에서 영토 논리로 확장됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "푸틴은 외교정책 포럼 연설에서 러시아 영토가 공격받을 경우 모든 무기를 동원하겠다고 밝히며 발트해 월경지 칼리닌그라드를 명시적 사례로 들었다. 우크라이나와의 어떠한 휴전도 거부한다고 선언했으며, 안보 보좌관 카라가노프도 나토의 우크라이나 병력 파견 시 핵 사용을 별도로 경고했다. 독일 총리 메르츠는 이 시점에 나토에 베스트팔렌 평화상을 수여하며 러시아 봉쇄 실패가 유럽 전체 위협이 된다고 맞받았다.",
+        "why_it_matters": "핵 위협의 지리적 조건이 우크라이나 전장에서 나토 영토와 인접한 칼리닌그라드로 확장된 것은 나토-러시아 직접 충돌 시나리오를 처음으로 명시화한 것이다. 유럽의 대러 억제 전략 전체를 재계산해야 하는 압박을 가한다.",
+        "what_is_changing": "그동안 핵 위협은 우크라이나 지원 규모를 조율하는 수사적 수단으로 쓰였다면, 이번에는 나토 회원국과 인접한 러시아 영토를 방어 조건으로 명시함으로써 핵 사용 문턱의 지리적 경계가 실질적으로 확장됐다.",
+        "connection": "독일이 첫 드론 연대 창설을 추진하고 라트비아 총선에서 러시아 안보 위협이 최대 쟁점으로 부상하는 등 유럽 전반의 군사화 흐름과 맞물려 있다. 핀란드 의원 자택 침입 의심 사건의 외국 세력 연루 가능성도 러시아 추정 정보 활동과 연결된다.",
+        "signal": "러시아가 전장 교착과 서방 지원 지속에 대응해 '핵 위협의 지리 확장'을 새로운 협상 지렛대로 사용하기 시작했다는 신호다",
+        "what_to_watch": "나토 회원국의 공식 핵 억제 태세 변화, 칼리닌그라드 인근 나토 군사 활동 동향, 우크라이나 지원 국가들의 레드라인 재조정 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "휴전 거부와 핵 위협 동시 발신은 유럽 국가들의 우크라이나 지원 의지를 시험하는 강압 외교 전술로 읽힌다. 특히 독일 드론 연대 창설 등 유럽 재무장 흐름에 대한 선제적 억제 신호 발신이기도 하다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "전쟁 장기화와 핵 위협 고조가 유럽 방위 지출 급증, 에너지 비축 경쟁, 금융시장 불안을 동시에 심화시키고 있다. 독일·프랑스의 재정 긴축 기조와 방위 증가 필요성 사이의 모순이 커지고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180",
+          "region": "Germany"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-02/putin-kaliningrad-threat-nuclear-weapons/107219366",
+          "region": "Oceania/Global"
+        }
+      ]
+    },
+    {
+      "headline": "글로벌 디젤 공급 위기가 미국·중국·이란이 동시에 움직이며 에너지 외교의 새로운 전선으로 부상했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국이 이란전 여파로 인한 디젤 가격 급등에 대응해 유럽 동맹국들에 전략 비축유 즉각 방출을 압박하고 디젤 수출 금지 카드까지 꺼내들었다. 중국은 10월 정제유 수출을 전면 중단하며 글로벌 정제 병목을 심화시켰다. 미국의 세 번째 항공모함 중동 파견 보도에 브렌트유 가격이 4% 이상 급등했고, 영국은 미국과 긴급 에너지 협의를 진행했다.",
+        "why_it_matters": "에너지 가격 급등은 이미 긴축 기조를 택한 유럽 경제권에 추가 충격을 주며 생활비 위기와 사회 불안을 악화시킬 수 있다. 디젤은 물류·농업·제조업의 동력원이기 때문에 전방위 경제 파급이 불가피하다.",
+        "what_is_changing": "과거 에너지 위기가 공급 부족 또는 지정학적 제재에서 비롯됐다면, 이번은 전쟁(이란)·전략적 중단(중국)·비축 압박(미국)이 동시에 맞물리는 복합 위기 구조다. 에너지가 무역·동맹 협상의 즉각적 레버리지로 전환됐다.",
+        "connection": "캐나다의 서부 해안 파이프라인 가속화, BP의 25년 만에 최대 유전 발견, 아마존의 핵전력 20년 장기 계약 등이 모두 에너지 안보 다각화의 가속 신호다. 독일이 최대 불안 요인으로 '물가'를 꼽는 여론조사 결과와도 직결된다.",
+        "signal": "에너지 공급망이 군사 작전의 직접적 연장선에 놓이는 '에너지 무기화' 시대가 본격화되고 있다는 구조적 신호다",
+        "what_to_watch": "EU의 비축유 방출 규모와 속도, 중국의 수출 중단 기간, 미국의 이란 추가 제재 강도, 국제에너지기구(IEA)의 조율 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "디젤 급등은 유럽 물가 안정을 위협하며 중앙은행들의 금리 결정에 상방 압력을 가한다. 프랑스의 54억 유로 지방정부 삭감 긴축 예산과 충돌하며 공공서비스 위기를 심화시킬 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "미국이 동맹국에 비축유 방출을 강제하고 수출 금지를 위협하는 방식은 트럼프 행정부의 강압적 동맹 관리 패턴의 에너지 버전이다. 이는 캐나다·호주 등 동맹국의 에너지 자립 가속화를 역설적으로 촉진하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Energy-General/US-Threatens-Diesel-Export-Ban-Unless-Europe-Releases-Stockpiles.html",
+          "region": "미국/유럽"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
+          "region": "중국"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3369488/us-tells-european-allies-act-immediately-lower-diesel-prices",
+          "region": "Global"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
+          "region": "Global"
+        }
+      ]
+    },
+    {
+      "headline": "에티오피아에서 7개 반군 연합이 수도 인근까지 교전을 확대하고 에리트레아와 외교 단절이 겹치며 아프리카 뿔이 복합 위기로 진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "7개 반군 단체가 연합을 결성해 아디스아바바 북부에서 연방군과 교전을 벌이고 티그라이 지역에서만 민간인 52명이 사망했다. 수도에 드론 비행 금지령이 내려진 직후 폭발음이 보고됐다. 에티오피아와 에리트레아는 2018년 역사적 평화협정 이후 최악의 관계인 외교 단절에 이르렀다.",
+        "why_it_matters": "2022년 평화협정으로 마무리된 것으로 여겨졌던 에티오피아 내전이 더 광범위한 반군 연합과 함께 재점화됐다. 유엔 안보리 상임이사국들의 중재 의지가 약화된 상황에서 국제적 출구 전략이 부재하다.",
+        "what_is_changing": "단순 내전에서 에티오피아-에리트레아 간 외교 단절이 결합된 지역 분쟁으로 성격이 바뀌었다. 반군이 개별 행동에서 연합 전선으로 전환한 것은 전력 구조의 질적 변화를 의미한다.",
+        "connection": "아프리카 뿔의 불안정은 소말리아 해적 재증가 추세, 남수단 분쟁 여파, 홍해 후티 공격과 지역적으로 연결되며 동아프리카 전체 안보 환경을 악화시킨다. 에볼라 홍보 방송 직후 DRC 당 인사가 피살된 사건도 공중보건-분쟁 연계 취약성을 보여준다.",
+        "signal": "아프리카에서 다자 반군 연합이 수도권을 위협하는 복합 분쟁 패턴이 등장한 것은 향후 국제 인도주의 접근 차단과 대규모 난민 발생의 선행 지표일 수 있다",
+        "what_to_watch": "아디스아바바 직접 위협 여부, 국제사회의 인도주의 접근 경로 개방 시도, 아프리카연합(AU)의 긴급 중재 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "아비 아흐메드 총리의 6월 선거 승리 후 재집권 직후에 수도권이 위협받는 상황은 중앙 정부 정통성에 심각한 도전이다. 에리트레아 외교 단절은 과거 평화의 대가로 치러진 영토·자원 배분 문제가 해소되지 않았음을 시사한다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "통신이 두절된 아디그라트 같은 지역에서 민간인 피해가 국제사회에 알려지지 않은 채 축적되고 있다. 공중보건 위협(에볼라)과 무장 충돌이 동시에 진행되는 상황은 인도주의 대응 역량을 극도로 압박한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ethiopia-and-eritrea-sever-ties-amid-tigray-fighting/a-79507052?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
+          "region": "Africa"
+        },
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+          "region": "Ethiopia"
+        },
+        {
+          "source": "AllAfrica (Agenzia Fides)",
+          "link": "https://allafrica.com/stories/202610010354.html",
+          "region": "Ethiopia"
+        }
+      ]
+    }
+  ]
+}
