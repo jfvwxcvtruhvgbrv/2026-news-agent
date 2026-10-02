@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-02",
+  "session": "pm",
+  "time": "22:44",
+  "global_picture": {
+    "world_right_now": [
+      "미국·이란 군사 충돌이 항공모함 3척 추가 파견과 함께 전면전 일보 직전 수준으로 격화되고 있다",
+      "플라이두바이 조종석 피습 사건이 이란 배후 의혹으로 확산되며 이스라엘·UAE·미국의 공동 대응 태세가 구체화되고 있다",
+      "글로벌 디젤 위기가 미국 수출 금지 위협, 중국의 10월 전면 수출 중단, EU 비축유 방출 압력의 3중 충격으로 악화됐다",
+      "에티오피아·에리트레아 외교 단절과 아디스아바바 폭발로 아프리카 뿔 분쟁이 수도 근접 국면에 들어섰다",
+      "브라질 대선 1차 투표가 룰라·볼소나루 초접전으로 치러지는 가운데 미국의 선거 개입 자금 의혹이 폭로됐다",
+      "미국 9월 고용이 예상치의 3분의 1 수준인 2만 9천 명에 그쳐 Fed 금리 동결 전망이 강화되고 비트코인이 8만 6천 달러를 돌파했다",
+      "콩고 에볼라 사망자 4천 명 돌파와 치료 시설 방화가 겹치며 최대 보건 위기 중 하나가 통제력을 잃어가고 있다",
+      "프랑스 전국 560여 개 고교 폐쇄와 긴축 예산 발표가 겹치며 1968년 이후 최대 규모 학생 봉기 가능성이 거론된다",
+      "AI 에이전트가 모바일 앱을 대체하는 전환점이 에어비앤비·쇼피파이·신생 스타트업에서 동시에 선언됐다",
+      "구글이 TPU 탑재 위성을 궤도에 올리며 우주 기반 AI 컴퓨팅 시대의 첫 페이지를 열었다"
+    ],
+    "emerging_signals": [
+      "카타르 LNG 공급 차질과 중국 수출 중단이 맞물리며 글로벌 에너지 공급망 재편이 가속화될 조짐을 보이고 있다",
+      "AI 목소리 복제에 대한 일본 법원의 첫 퍼블리시티권 인정 판결이 전 세계 AI 저작권 소송의 기준점이 될 수 있다",
+      "중국이 2030년 고체 배터리 패권을 국가 전략으로 공식화하며 리튬이온 이후 배터리 전쟁의 새 전선이 열렸다",
+      "남중국해 앤털로프 암초 군사 시설 건설 가속화가 위성으로 포착되며 중국의 역내 군사 기정사실화 전략이 강화되고 있다",
+      "동남아시아 권위주의 정부들의 국경 초월 반체제 탄압이 패턴으로 구조화되며 민주화 운동의 물리적 공간이 좁아지고 있다",
+      "메모리 반도체 공급 부족이 2028년까지 지속될 것이라는 업계 전망이 AI 인프라 병목의 최대 변수로 떠오르고 있다"
+    ],
+    "structural_trends": [
+      "미국이 Fed 독립성·ICC 제재·이민 정책·인권 기금 전용을 동시에 추진하며 자유주의 국제질서의 핵심 기둥들을 안에서부터 해체하고 있다",
+      "AI 에이전트가 앱·검색·쇼핑·금융 분야에서 기존 인터페이스를 대체하며 인터넷 산업 구조 자체가 재편되는 중이다",
+      "유럽의 폭염·스위스 빙하 소실·스페인 홍수·지중해 극단 기상이 단일 시즌에 집중되며 기후 위기가 정책 의제를 넘어 인프라 위기로 전환되고 있다",
+      "미국·EU·중국이 동시에 에너지 수출을 무기화하며 에너지 시장이 경제 논리보다 지정학 논리로 움직이는 구조가 고착되고 있다",
+      "서구 빅파마의 중국 바이오테크 의존도 확대와 C919 부품 수출 통제가 보여주듯 미중 기술 디커플링이 민간 산업 영역으로 깊숙이 침투하고 있다",
+      "전 세계 이민 규제가 EU 귀환 허브, 일본 영주권 수수료 20배 인상, 미국 제3국 추방으로 동시에 강화되는 글로벌 이민 역풍이 확산되고 있다"
+    ],
+    "what_changed_today": [
+      "미국이 항공모함 3척 파견을 공식화하며 이란 갈등이 잠재적 충돌에서 실제 전쟁 확전 준비 국면으로 이동했다",
+      "중국이 10월 전체 연료 수출을 전면 중단해 글로벌 디젤 위기가 공급 충격과 외교 압박의 이중 위기로 격화됐다",
+      "브라질 대선 1차 투표가 실시되며 결과에 따라 라틴아메리카 정치 지형이 재편될 분기점에 들어섰다",
+      "미국 9월 고용이 시장 예상의 3분의 1 수준으로 발표되며 Fed 통화 경로와 글로벌 자산 가격이 동시에 흔들렸다",
+      "콩고 에볼라 사망자가 4천 명을 넘어서고 치료 시설 방화로 방역 인프라 자체가 위협받는 단계에 진입했다",
+      "구글이 TPU 탑재 위성을 궤도에 진입시켜 우주 AI 인프라 경쟁의 실증 단계가 개막됐다"
+    ],
+    "what_to_watch_next": [
+      "브라질 대선 1차 투표 결과: 과반 득표자 없을 경우 10월 26일 결선 투표 구도 확정",
+      "미국의 이란 군사 타격 결정: 중간선거(11월) 이후로 미뤄질지, 플라이두바이 사건 수사 결과가 촉매가 될지",
+      "글로벌 디젤 공급 위기: EU 비축유 방출 여부와 미국 수출 금지 실행 가능성 확인",
+      "에티오피아 수도 아디스아바바 군사 상황: 반군의 수도 근접 공세 여부가 외교 중재 가능성을 결정",
+      "미국 Fed 10월 금리 결정: 고용 부진 데이터를 반영한 동결 확률 변화 주시",
+      "콩고 에볼라 대응: UN 자금 지원 확보 및 신규 치료 시설 구축 여부",
+      "OpenAI 안전 연구원 해고 사태: AI 안전 커뮤니티 이탈 규모와 내부 문화 논쟁 전개 방향"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미국·이란 군사 충돌이 항공모함 3척 파견과 함께 전면전 직전 단계로 격화됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국이 중동에 항공모함 전단 3척과 지상군 1만 명을 추가 파견하는 방안을 추진 중이며, 트럼프 대통령은 중간선거 이후 이란에 대한 군사 타격을 검토하고 있다. 플라이두바이 조종석 피습 사건의 이란 배후 의혹이 네타냐후의 보복 경고와 맞물리며 긴장이 급격히 고조됐다. 호르무즈 해협 긴장으로 국제 유가는 배럴당 100달러에 근접했다.",
+        "why_it_matters": "미국이 실제로 이란을 타격할 경우 호르무즈 해협이 봉쇄되며 글로벌 에너지 공급의 20%가 차단될 수 있다. 이는 단순한 지역 분쟁이 아닌 전 세계 경제를 직격하는 에너지 전쟁이자 중동 질서 재편의 분기점이다.",
+        "what_is_changing": "기존 미국의 이란 억제 전략이 외교·제재 중심이었다면, 현재는 군사력 전진 배치를 통한 실제 타격 옵션이 공론화되는 단계로 이동하고 있다. 특히 민간 항공기 사건이 군사 대응의 명분으로 활용되는 패턴이 새롭게 등장했다.",
+        "connection": "플라이두바이 사건 수사, 영국의 RAF 페어퍼드 이란 연계 체포, 글로벌 디젤 위기가 모두 이란 변수와 연결되며 다중 전선이 동시에 활성화되고 있다. 중간선거가 미국의 군사 결정 시점을 압박하는 내부 정치 변수로 작동한다.",
+        "signal": "미국의 항공모함 3척 집결은 걸프 전쟁·이라크 침공 이전에도 반복된 패턴이다. 이는 억제력 시위에서 실제 타격 준비로의 전환을 의미하는 구조적 신호일 수 있다.",
+        "what_to_watch": "중간선거 이후 트럼프의 최종 결정, 이란의 핵 시설 방어 태세 변화, 이스라엘의 단독 선제 타격 가능성, 그리고 호르무즈 해협 통행 선박 동향"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프는 중간선거를 앞두고 강경한 대이란 자세를 국내 지지층에 어필하는 동시에, 실제 타격 결정은 선거 이후로 미뤄 정치적 리스크를 관리하려는 것으로 해석된다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "호르무즈 봉쇄 시나리오는 이미 브렌트유 100달러 돌파와 글로벌 디젤 위기를 복합적으로 악화시키며, 단기 유가 스파이크가 선진국 스태그플레이션 위험을 현실화할 수 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "중동 분쟁이 확대될수록 카타르 LNG 차질, 데이터센터 전력 수급 불안, 반도체 공급망 지정학 리스크가 동시에 증폭되는 AI 인프라 취약성이 부각된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate?traffic_source=rss",
+          "region": "Iran/Middle East"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/02/world/us-carrier-troops-mideast/",
+          "region": "Japan"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html",
+          "region": "USA/Middle East"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/commentary/2026/10/02/world/iran-war-100-crude-prices/",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "headline": "플라이두바이 조종석 피습이 이란 배후 의혹으로 확산되며 이스라엘·UAE·인도가 동시에 반응했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "두바이발 텔아비브행 플라이두바이 항공편에서 오만 국적 부조종사가 인도인 기장을 칼로 찌르고 항공기를 급강하시키려 했으나 승무원과 승객에게 제압됐다. 이스라엘은 이를 테러로 규정하고 이란 배후 의혹을 제기했으며, 트럼프도 이란 연루 시 강력 보복을 경고했다. 인도인 기장 스밋 마체하르는 영웅으로 칭송받으며 모디 총리와 직접 면담했고, 이스라엘은 뭄바이에 그의 사진을 담은 옥외광고를 설치했다.",
+        "why_it_matters": "이 사건은 단순 기내 폭력이 아니라 조종실 보안 체계와 항공기를 무기화하려는 시도로 해석된다. 이란 배후가 입증될 경우 미국·이스라엘의 군사 대응을 정당화하는 촉매가 될 수 있다.",
+        "what_is_changing": "9·11 이후 강화된 조종실 잠금 프로토콜이 이번 사건에서 오히려 구조를 어렵게 만든 역설적 상황이 드러났다. 부상을 입고도 문을 여는 영웅적 선택이 시스템의 한계를 메웠다는 점에서 항공 보안 규정 재검토 논의가 불가피해졌다.",
+        "connection": "같은 시기 영국에서 이란 연계 이중국적자가 RAF 페어퍼드 사건으로 체포된 것과 맞물려 이란발 다중 위협이 동시에 작동하는 패턴으로 해석된다. 인도의 공항 보안 강화 방침도 직접적 정책 반응으로 이어졌다.",
+        "signal": "단일 테러 시도가 세 국가(이스라엘·UAE·인도)의 즉각적 정치 반응을 끌어냈다는 점은 중동 갈등의 지리적 파급 범위가 인도아대륙까지 확장되고 있음을 보여준다.",
+        "what_to_watch": "UAE의 공식 수사 결과와 이란 연루 증거 공개 여부, 이스라엘의 군사적 대응 결정, 국제 항공기구(ICAO)의 조종실 보안 프로토콜 재검토 착수 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "이스라엘과 미국이 이란 배후론을 신속히 채택한 것은 군사 대응의 명분 쌓기로 읽힐 수 있으며, 수사 결과보다 정치적 필요가 선행되는 위험이 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "인도가 즉각적으로 공항 전 직원 안면 인식 스캔과 전신 스캐너 의무화를 추진한 것은 단일 사건이 대규모 감시 인프라 확장을 정당화하는 전형적인 보안 확장 패턴이다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "인도인 기장의 영웅 서사가 이스라엘의 옥외광고·모디와의 면담으로 빠르게 외교 소프트파워로 전환된 것은 위기가 국가 이미지 자원이 되는 방식을 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/very-heavy-price-netanyahu-warns-of-retaliation-if-flydubai-co-pilot-was-acting-on-orders/articleshow/134640796.cms",
+          "region": "India"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/trump-says-iran-will-be-hit-very-hard-if-it-is-behind-copilot-who-tried-to-crash-flight-to-israel/article71535847.ece",
+          "region": "India"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss",
+          "region": "UAE"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "글로벌 디젤 공급 위기가 미국 수출 금지·중국 전면 중단·EU 압박의 3중 충격으로 에너지 안보 전쟁이 됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국이 동맹국에 전략 디젤 비축분 방출을 압박하고 수출 금지를 위협하자 EU가 이를 공식 거부했다. 동시에 중국 주요 정유사들이 10월 한 달간 연료 수출을 전면 중단했다. 영국 디젤 가격은 리터당 2파운드를 넘어섰고, G7 긴급 협의가 소집됐으며 골드만삭스는 미국 수출 금지 시 유럽보다 라틴아메리카가 더 심각한 피해를 입을 것으로 분석했다.",
+        "why_it_matters": "디젤은 물류·농업·난방의 핵심 연료다. 공급 충격은 식량 가격 상승과 겨울철 에너지 위기로 직결되며, 특히 유럽과 라틴아메리카 신흥국의 취약 계층에 타격이 집중된다.",
+        "what_is_changing": "에너지 시장이 수요·공급 경제 논리가 아닌 지정학적 무기로 작동하는 국면이 공식화됐다. 미국이 동맹국에 에너지 정책을 강요하는 형태는 기존 NATO 틀과 상충하며, EU의 공식 거부는 동맹 내 균열을 가시화했다.",
+        "connection": "이란 전쟁 위기에 따른 호르무즈 해협 불안, 카타르 LNG 불가항력 선언, 흑해 선박 피격 증가가 겹치며 복수의 에너지 공급 경로가 동시에 흔들리고 있다.",
+        "signal": "에너지가 전통적 무역 상품에서 외교 강압의 수단으로 전환되는 속도가 빨라지고 있다. 이는 에너지 자립을 위한 재생에너지 투자와 LNG 장기 계약 확보 경쟁을 모두 가속화하는 구조적 유인이 된다.",
+        "what_to_watch": "EU 긴급 각료 회의의 비축유 방출 결정 여부, 중국의 10월 수출 중단이 11월까지 이어질지, 미국의 디젤 수출 금지 실행 가능성, 라틴아메리카 국가들의 대체 공급원 확보 움직임"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "브렌트유가 100달러 안팎에서 등락하는 가운데 글로벌 화석연료 보조금이 1조 달러를 초과할 수 있다는 UNDP 경고는 각국 재정 여력의 한계가 에너지 위기를 더 빠르게 사회 위기로 전환시킬 수 있음을 시사한다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프가 유럽에 디젤 방출을 압박한 배경에 중간선거를 앞둔 국내 에너지 가격 안정 필요성이 있다는 분석이 설득력을 얻고 있다. EU의 공식 거부는 미국의 동맹 관리 방식에 대한 구조적 불신을 반영한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Energy-General/UK-Holds-Emergency-Talks-With-US-as-Diesel-Crisis-Escalates.html",
+          "region": "Energy"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
+          "region": "Energy"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261002-eu-fully-rejects-us-threat-to-ban-diesel-exports-unless-bloc-releases-more-fuel-stocks",
+          "region": "Europe"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Export-Ban-Would-Hit-Latin-America-Hardest-Goldman.html",
+          "region": "Energy"
+        }
+      ]
+    }
+  ]
+}
