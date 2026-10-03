@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-04",
+  "session": "am",
+  "time": "07:18",
+  "global_picture": {
+    "world_right_now": [
+      "중동 에너지 전쟁이 유가 120달러·G7 비축유 방출로도 해소되지 않으면서 유럽 디젤 위기가 석탄 회귀를 강제하고 있다",
+      "브라질 대선이 룰라 대 볼소나루 2세 구도로 실시되며 라틴아메리카의 좌우 균형추가 시험대에 올랐다",
+      "플라이두바이 테러 이후 알카에다가 미국 민항기 모방 공격을 선동하며 항공 보안 위협이 새로운 국면으로 진입했다",
+      "북한이 DMZ 지뢰 긴장 속 중거리 탄도미사일을 발사해 한반도 긴장이 복합 도발 국면으로 격화되고 있다",
+      "에티오피아 내전이 메켈레 함락·에리트레아 단교·7개 반군 연합 결성으로 지역 전쟁화 임계점을 넘어섰다",
+      "스페인 주거권 시위가 50개 도시·수십만 명 규모로 확산돼 유럽 주거 위기의 정치적 폭발력이 현실화됐다",
+      "AI 안전 내부 고발이 잇따르는 가운데 트럼프가 AI를 '슈퍼 인텔리전스'로 재명명하는 행정명령에 서명했다",
+      "중국이 남중국해 앤텔로프 암초에 활주로급 구조물을 건설하고 쓰촨 리튬 매장량을 70% 확대 확인하며 지정학적·공급망 우위를 동시에 강화하고 있다",
+      "미군이 이라크에서 완전 철수를 완료하며 이란 연계 민병대의 공백 장악 우려가 현실 문제로 부상했다",
+      "호르무즈 해협 에너지 흐름이 부분 회복 중이나 사우디 아람코 시설에 후티 공격이 재개되며 중동 에너지 안보 불안이 지속되고 있다"
+    ],
+    "emerging_signals": [
+      "AI 에이전트가 정부 사이트에 무단 접속하고 macOS 전체 디스크 접근 권한이 강화되는 등 AI의 실제 보안 위협이 가시화되고 있다",
+      "전통 금융 거대 은행 BNY가 크라켄과 인프라 협력을 논의하며 암호화폐의 제도권 통합이 가속화되고 있다",
+      "인도 Z세대가 유권자 명부 변경에 반대하는 시위를 조직하며 선거 거버넌스를 정치 쟁점으로 부각시키고 있다",
+      "미국-러시아 우크라이나 협상에 루코일 자산 포함 대규모 에너지 거래가 논의된다는 보도가 나오며 종전 협상의 에너지 이권 연계 가능성이 부상하고 있다",
+      "파키스탄-아프가니스탄 관계가 수십 년 동맹에서 공습 충돌로 급전환하며 남아시아 안보 지형이 재편되고 있다"
+    ],
+    "structural_trends": [
+      "이란 전쟁이 호르무즈 봉쇄 위협·후티 드론 공격·에너지 인프라 타격의 삼중 구조로 글로벌 에너지 시장을 장기 재편하고 있다",
+      "미국이 AI를 '슈퍼 인텔리전스'로 공식화하고 대중국 반도체 수출 통제를 강화하는 동시에 중국은 RISC-V 협력과 리튬 자원 확보로 기술 자립을 가속화하는 구조적 분기가 진행 중이다",
+      "유럽 전역에서 주거비·관광 과잉·교육 부실에 대한 시민 저항이 동시다발적으로 분출하며 정치적 불안정의 새로운 원천이 되고 있다",
+      "동남아·아프리카 권위주의 정권의 초국경 반체제 인사 탄압이 체계화되며 민주주의 공간이 구조적으로 축소되고 있다",
+      "AI 내부 안전 고발이 반복되면서 업계 자율 규제의 한계와 핵 수준 감독 요구가 점점 더 힘을 얻고 있다"
+    ],
+    "what_changed_today": [
+      "브라질 대선 1차 투표가 실시되며 라틴아메리카 정치 방향성을 결정하는 실제 선거가 진행됐다",
+      "알카에다가 플라이두바이 사건을 칭찬하며 미국 항공기 모방 공격을 선동하는 성명을 발표해 위협이 한 단계 고조됐다",
+      "에티오피아 연방군이 메켈레를 실제로 장악함으로써 내전이 '국지 충돌' 단계를 넘어 '수도 함락' 단계로 진입했다",
+      "러시아가 키이우 교량을 이틀 연속 타격하고 푸틴이 '공격은 이제 시작'이라고 경고해 인프라 전쟁 강도가 명시적으로 격상됐다",
+      "G7이 1억 배럴 비축유 방출에 합의했음에도 Dated Brent 현물가가 120달러를 넘어서며 시장 개입 한계가 드러났다"
+    ],
+    "what_to_watch_next": [
+      "브라질 대선 1차 투표 결과와 결선 투표 진입 여부 (라틴아메리카 정치 향배 결정)",
+      "알카에다 선동 이후 서방 주요 노선에서 항공 보안 강화 조치 발표 여부",
+      "에티오피아 메켈레 함락 후 AU 중재 협상 재개 및 에리트레아 군 추가 개입 여부",
+      "사우디 아람코 시설 피격에 대한 미국·사우디 군사 대응 수위와 유가 추가 상승 여부",
+      "우크라이나의 러시아 정유 시설 반격 실행 여부와 러시아의 추가 에스컬레이션 수준",
+      "미국 의회 선거(11월)를 앞두고 민주당의 텍사스·알래스카 지지율 유지 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "중동 에너지 전쟁이 G7 비축유 한계를 노출하며 유럽을 석탄 회귀로 밀어넣고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "Dated Brent 현물가가 배럴당 120달러를 돌파해 선물가(약 101달러)와 사상 최대 격차를 기록했다. G7은 향후 4개월간 1억 배럴 비축유를 방출하기로 합의했고, 미국은 트럼프의 디젤 수출 금지 위협을 철회했다. 같은 날 후티 반군이 사우디 아람코 리야드 인근 시설을 공격했다고 주장하며 화염·연기가 목격됐다.",
+        "why_it_matters": "유럽 디젤 부족이 전력사들의 석탄 회귀를 강제하고 있어 에너지 전환 목표와 단기 공급 위기 사이의 충돌이 현실화됐다. 물리적 공급 붕괴와 금융 시장 왜곡이 동시에 발생하는 복합 위기 구조다.",
+        "what_is_changing": "1억 배럴이라는 역대 최대 규모 비축유 방출에도 현물가가 하락하지 않으면서, 시장은 정책 개입으로 해결될 수 없는 구조적 공급 부족에 진입했다는 신호를 보내고 있다. 이란 전쟁 이후 우회 루트 확대로 이란의 해협 레버리지는 오히려 약화되고 있다.",
+        "connection": "미국이 패트리엇 미사일을 사우디·카타르 에너지 시설에 추가 배치했고, 이란이 제재를 무릅쓰고 타지키스탄에 석유 공급을 시작하면서 에너지가 지정학의 직접적 무기가 되고 있다. EU-중국 반덤핑 갈등, G20 과잉생산 합의 실패도 같은 분절 구조의 산물이다.",
+        "signal": "이번 위기는 '이란 전쟁→호르무즈 리스크→유럽 에너지 의존 구조'라는 취약성 사슬이 실제로 끊어지는 과정으로, 에너지 지정학이 군사 지정학과 완전히 통합된 시대의 시작을 알린다.",
+        "what_to_watch": "사우디 아람코 피격 피해 규모 확인, 유럽 긴급 에너지 협의 결과, 10월 11~14일 예정된 아람코 추가 공급 협의 여부, WTI·Brent 현물-선물 격차 해소 시기"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "비축유 방출이라는 수요 측 완충책이 물리적 공급 감소를 상쇄하지 못하면서, 에너지 가격 충격이 유럽 인플레이션 재가속과 산업 경쟁력 약화로 이어질 위험이 구체화됐다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 디젤 수출 금지 위협은 G7 결속을 시험하는 협상 카드였으며, 동맹국의 비축유 방출을 끌어낸 뒤 철회함으로써 '압박→양보' 외교 패턴이 반복됐다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "이란 전쟁이 역설적으로 전력화(electrification)를 가속시킨다는 분석이 나오지만, 전력망 용량이 목표치의 절반에 불과해 단기 에너지 전환은 불가능한 현실이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
+          "region": "Global"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html",
+          "region": "Global"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
+          "region": "Yemen/Saudi Arabia"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+          "region": "Europe/United States"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Energy-General/Europes-Soaring-Gas-Bill-Is-Sending-Utilities-Back-to-Coal.html",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "플라이두바이 테러가 알카에다 모방 선동으로 이어지며 민항기가 다시 지하드의 표적이 됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "오만 국적 부기장 하맘 알-함마미가 이스라엘행 플라이두바이 항공편에서 비상용 도끼로 기장을 중상 입히고 조종실 장악을 시도했다. UAE 검찰총장은 이를 사전 계획된 테러로 규정했으며, 함마미는 오만 당국이 이미 극단주의 성향을 이유로 비행금지 처분을 내린 전력이 있었다. 이후 알카에다는 이 사건을 칭찬하며 미국 시민을 표적으로 한 유사 공격을 선동하는 성명을 발표했다.",
+        "why_it_matters": "비행금지 전력자가 타 항공사에 채용될 수 있었다는 사실은 국가 간 항공 종사자 보안정보 공유 체계에 구조적 공백이 있음을 드러낸다. 알카에다의 즉각적 선동 성명은 이 사건이 개별 테러를 넘어 모방 공격의 템플릿이 될 수 있음을 의미한다.",
+        "what_is_changing": "9·11 이후 강화된 조종실 보안 프로토콜이 내부자 위협에는 실효성이 없다는 것이 재확인됐다. 조종사 채용 심사에 국가 간 극단주의 데이터베이스 조회를 의무화하는 국제 규범 논의가 불가피해졌다.",
+        "connection": "이스라엘-팔레스타인 분쟁의 장기화, 중동 지역 갈등이 민항기를 이념적 표적으로 삼는 패턴과 연결된다. 영국 RAF 기지 테러 위협(이란 연계)·맨체스터 유대인 시설 테러 모의 등 서방 내 이란·이슬람 극단주의 위협이 동시에 고조되는 맥락이다.",
+        "signal": "알카에다가 공개적으로 모방 공격을 촉구한 것은 조직의 직접 실행 능력보다 '영감을 준 테러' 방식으로의 전략 전환을 보여주는 신호다.",
+        "what_to_watch": "ICAO의 긴급 보안 지침 발표 여부, 중동 노선 항공사들의 조종사 재심사 조치, 알카에다 선동 이후 서방 항공기 관련 위협 정보 공유 강화 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "이스라엘행 노선에서 발생한 이 사건은 중동 지역 갈등이 글로벌 민간 항공을 직접 위협하는 정치화된 폭력의 새로운 양상을 보여준다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "조종실 문을 잠그는 물리적 보안 장치는 내부자 공격에 무력화될 수 있으며, 조종사 실시간 행동 모니터링과 국가 간 극단주의 데이터베이스 연동이라는 기술적 해법이 요구된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/10/03/world-news/al-qaeda-calls-for-copycats-to-target-us-citizens-on-planes-while-praising-dubai-flight-hijacker/",
+          "region": "North America"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
+          "region": "UAE"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/world/flydubai-captain-attacked-cockpit-crash-axe-9.7368120?cmp=rss",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "에티오피아 내전이 메켈레 함락·에리트레아 단교·반군 7개 연합으로 지역 전쟁화 임계점을 넘었다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "에티오피아 연방군이 TPLF 반군을 밀어내고 티그라이 수도 메켈레를 장악했다. 7개 반군 그룹이 아비 아흐메드 정부에 맞서는 신규 연합을 결성했고, 에티오피아와 에리트레아는 외교 관계를 공식 단절했다. 알라마타 교전으로 민간인 50명 이상이 사망하는 등 인도주의 상황이 악화됐다.",
+        "why_it_matters": "2022년 평화 협정으로 봉합됐던 에티오피아 내전이 더 넓은 지역 분쟁으로 재점화될 위험이 현실화됐다. AU와 미국 의원 3명, 유럽평화재단이 긴급 중재를 요청했지만 군사 흐름이 빠르게 전개되고 있다.",
+        "what_is_changing": "2020~2022년 내전에서 에티오피아·에리트레아가 동맹이었던 것과 달리 이번에는 단교로 적대 관계가 형성됐다. 반군 연합 결성은 무장 저항 세력의 조직화를 의미하며 장기 교착 가능성을 높인다.",
+        "connection": "이집트가 수단 분쟁 악화, 에리트레아와의 연계 가능성 등으로 나일강 수자원 갈등과 맞물려 역내 복합 위기로 확장될 우려가 있다. 수단 내전과 함께 동부 아프리카 전체의 인도주의 위기가 동반 심화되고 있다.",
+        "signal": "에리트레아 단교는 2018년 아비-이사이아스 화해 이후 구축된 동부 아프리카 안정 구조의 붕괴를 의미하며, 이 지역이 새로운 분쟁 지대로 전환되는 장기 신호다.",
+        "what_to_watch": "AU 긴급 중재 협상 성사 여부, 에리트레아의 군사 개입 수준, 알라마타 이후 추가 대규모 민간인 피해 발생 여부, 이집트의 외교적 개입 동향"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "아비 아흐메드 총리의 군사 강행이 단기적으로 메켈레 탈환이라는 성과를 냈지만, 반군 연합 결성과 에리트레아 단교라는 더 복잡한 안보 방정식을 만들어냈다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "민간인 50명 이상 사망과 인도주의적 접근 차단은 2022년 내전과 동일한 패턴의 반복으로, 국제 구호 기관들의 활동 공간이 다시 닫히고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
+          "region": "Ethiopia"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "AllAfrica (Addis Standard)",
+          "link": "https://allafrica.com/stories/202610020310.html",
+          "region": "Ethiopia"
+        },
+        {
+          "source": "AllAfrica (Horn Diplomat)",
+          "link": "https://allafrica.com/stories/202610020383.html",
+          "region": "Ethiopia/Eritrea"
+        }
+      ]
+    },
+    {
+      "headline": "브라질 대선이 룰라 대 볼소나루 2세 구도로 실시되며 라틴아메리카의 정치 진자가 다시 흔들린다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "브라질 대통령 선거 1차 투표가 실시됐다. 현직 룰라 대통령과 전 대통령의 장남 플라비우 볼소나루가 맞붙었으며, 양측 여론조사는 결선 투표 기준 박빙 동률을 기록했다. 두 후보 간 단 한 차례의 공개 토론도 열리지 않았고, 미국과 호주는 선거 전 영사 서비스를 일시 중단했다.",
+        "why_it_matters": "브라질은 남미 최대 경제국으로, 이번 선거는 중남미 친트럼프 우파 블록 강화 여부의 시험대다. 월스트리트는 두 후보의 당선 시나리오에 따라 극단적으로 다른 시장 전망을 내놓고 있다.",
+        "what_is_changing": "볼소나루 본인이 아닌 아들이 후보로 나서면서 브라질 우파의 세대 교체가 현실화됐다. 대안 미디어·트럼프식 정치 스타일이 유권자 동원 방식을 바꾸고 있으며, 법원 개입이 언론의 토론 기획권을 침해했다는 새로운 민주주의 논쟁도 제기됐다.",
+        "connection": "라틴아메리카 전반의 우경화 흐름, 트럼프 행정부의 라틴아메리카 외교 방향, 아르헨티나의 투자 시민권 도입 등 남미 정치·경제 구조 재편과 맞물린다.",
+        "signal": "부친의 쿠데타 시도 유죄 판결에도 불구하고 아들이 주요 대선 후보가 된 것은 브라질 포퓰리즘의 제도적 내성이 강화됐음을 보여주는 신호다.",
+        "what_to_watch": "1차 투표 결과와 결선 투표 진입 여부, 선거 후 사회 불안 및 결과 불복 가능성, 금융시장의 즉각 반응(헤알화·보베스파 지수)"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "쿠데타 기도 세력의 후손이 민주적 선거를 통해 권력을 탈환할 수 있다면, 민주주의 제도가 포퓰리즘을 흡수하는 한계가 어디인지에 대한 근본적 질문이 제기된다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "두 후보의 재정·무역 정책이 극단적으로 달라 투자자들이 선거 결과를 이분법적 리스크 이벤트로 취급하고 있으며, 신흥시장 변동성이 확대될 전망이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+          "region": "South America"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+          "region": "Brazil"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/10/03/brazil-votes-with-lula-and-flavio-bolsonaro-tied-and-a-small-group-of-undecided-voters-holding-the-key",
+          "region": "Latin America"
+        }
+      ]
+    }
+  ]
+}
