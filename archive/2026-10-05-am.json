@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-05",
+  "session": "am",
+  "time": "07:31",
+  "global_picture": {
+    "world_right_now": [
+      "브라질 대선 1차 투표가 마무리됐으며 볼소나루 아들이 초반 개표에서 앞서고 있어 라틴아메리카 우파 블록의 부상이 가시화되고 있다",
+      "에티오피아 연방군이 티그라이 수도 메켈레를 재장악했고, 반군 7개 단체가 새 동맹을 구성하며 내전이 더 복잡한 국면으로 진입했다",
+      "이란은 호르무즈 봉쇄 카드를 유지하고 석유장관이 전격 사임했으며, G7은 1억 배럴 비축유 방출로 맞대응하고 있다",
+      "원유 현물가격 데이티드 브렌트가 배럴당 120달러를 돌파하며 중동 공급 충격이 에너지 시장 전반을 강타하고 있다",
+      "트럼프 행정부가 AI를 '슈퍼 인텔리전스'로 재명명하고 정보국장을 AI 총괄로 임명하며 AI 거버넌스를 안보 체계 안으로 통합시켰다",
+      "스페인 마드리드에 50만 명이 집결하는 등 50개 도시에서 주거위기 시위가 동시에 벌어지며 유럽 주거 문제가 정치 폭발 직전 상태다",
+      "프랑스 전역 고교생 시위로 최대 500개 학교가 폐쇄되고 5,000명이 연행되며 교육 예산 갈등이 사회 불안으로 전화됐다",
+      "오키나와 미 해병대원의 일본 여성 살해 사건으로 미일 지위협정 갈등이 재점화됐다",
+      "러시아가 우크라이나 드론 제트 기술을 북한에 공유했을 가능성이 제기되며 북-러 군사 기술 협력의 범위가 확대되는 신호가 감지됐다",
+      "인도 선거관리위원장 퇴진 시위가 3일째 이어지는 가운데 대법원이 유권자 명부 삭제를 위헌적이라고 공개 비판하며 인도 민주주의의 제도적 위기가 심화되고 있다"
+    ],
+    "emerging_signals": [
+      "러시아 이르쿠츠크 연구소 직원의 폐렴형 흑사병 사망과 수백 명 격리가 확인됐으며, 당국의 정보 은폐 의혹이 제기되고 있다",
+      "AI 생성 허위 제보 급증으로 구글이 오픈소스 버그 바운티 프로그램을 동결하며 AI가 사이버보안 생태계를 교란하는 새로운 패턴이 나타났다",
+      "캐나다 이민 대폭 축소 이후 경제가 조정 국면에 진입했고, 이민 감축을 검토 중인 호주에 구체적인 경고 선례로 작용하고 있다",
+      "일반 소비자용 GPU에서 1,250억 파라미터 LLM을 실용적 속도로 구동하는 오픈소스 프로젝트가 등장하며 AI 민주화의 속도가 예상보다 빠르게 진행되고 있다",
+      "수단에서 WFP 인도주의 차량이 공습을 받아 운전기사가 사망했으며, 민간 지역 드론 공격이 이어지며 인도주의 접근 자체가 위협받고 있다"
+    ],
+    "structural_trends": [
+      "중동 에너지 위기가 호르무즈 긴장, 러시아 디젤 수출 제한, 중국 정제품 금수가 겹치며 복합 공급 충격 구조로 고착화되고 있다",
+      "AI 거버넌스가 자율 규제 서약에서 국가 안보 기관 통합 관리로 전환되는 구조적 방향 변화가 진행되고 있다",
+      "유럽 전역에서 주거비 급등에 대한 시민 저항이 동시다발적으로 분출되며 주거 문제가 정치적 불안의 핵심 구조 변수로 자리 잡고 있다",
+      "러시아-우크라이나 전쟁이 지상 로봇과 드론 기술을 실전 배치하는 첨단 무인전쟁으로 진화하고 있다",
+      "미국의 이라크 완전 철수와 영국 기지 폭격기 철수가 겹치며 중동 내 서방 군사 전진 배치가 재편되고 있다"
+    ],
+    "what_changed_today": [
+      "브라질 대선 1차 투표가 실시됐고 결선투표 가능성이 유력해지며 라틴아메리카 좌우 대결 구도의 최종 결과가 10월 25일로 미뤄졌다",
+      "이란 석유장관이 공식 사유 없이 전격 사임하며 호르무즈 봉쇄 위협과 맞물려 이란 내부의 균열 신호가 감지됐다",
+      "에티오피아 연방군이 메켈레를 실질적으로 장악하며 내전의 세력 균형이 급격히 재편됐다",
+      "트럼프 행정부가 AI 태스크포스를 공식 출범시키고 정보국장을 총괄로 임명하며 AI 안보화 정책이 제도화됐다",
+      "이란 연루 테러 음모 발각 직후 미국이 영국 RAF 페어퍼드 기지에서 전략 폭격기를 전량 철수하며 이란-서방 군사 긴장이 새 국면으로 전환됐다"
+    ],
+    "what_to_watch_next": [
+      "브라질 대선 최종 1차 집계 결과와 결선투표 여부 확정",
+      "이란 석유장관 사임의 배경과 후임 인선, 그리고 호르무즈 협상 재개 가능성",
+      "에티오피아 메켈레 장악 이후 반군 동맹 7개 단체의 대응과 주변국 이집트·에리트레아의 움직임",
+      "러시아 흑사병 의심 사망자의 격리 해제 시점과 국제 보건당국의 공식 평가",
+      "우크라이나가 예고한 러시아 에너지 시설 타격 강화 실행 여부와 러시아의 보복 공세 규모"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "브라질 대선 1차 투표 완료, 라틴아메리카의 정치 방향판이 결선으로 넘어갔다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "브라질 대통령 선거 1차 투표가 실시됐다. 80세의 현직 좌파 대통령 룰라와 수감 중인 전직 대통령의 아들 플라비우 볼소나루 상원의원이 맞붙었으며, 초반 개표(약 17% 기준)에서 볼소나루가 51% 대 41%로 앞서고 있다. 룰라 지지 기반인 북동부 표가 아직 대거 미집계 상태여서 최종 결과는 불투명하다. 과반 득표자가 없을 경우 10월 25일 결선투표로 이어진다.",
+        "why_it_matters": "이 선거는 단순한 브라질 내정을 넘어 트럼프 행정부와 연계된 라틴아메리카 우파 블록의 결집력을 가늠하는 시험대다. 아마존 환경 정책, 미중 무역에서 브라질의 포지셔닝, 역내 좌우 진영 역학 모두 결과에 따라 재편된다.",
+        "what_is_changing": "2022년 룰라가 근소한 차이로 복귀했을 때와 달리 이번에는 볼소나루 가문 2세가 더 강한 조직력과 트럼프 친화 이미지를 동원해 유력 대안으로 부상했다. 좌파 노령 후보 대 우파 트럼프 연대 후보라는 구도가 라틴아메리카 전역에서 반복되는 패턴의 새 변형이다.",
+        "connection": "결과에 따라 미국의 대브라질 무역 협상 방향, 중국의 브라질 농산물 수입 체계, 아마존 보전 기금 지원 여부 등이 연쇄적으로 달라진다.",
+        "signal": "라틴아메리카에서 트럼프식 우파 포퓰리즘이 2세대로 계승되며 지역 정치의 세대 교체 신호를 보내고 있다.",
+        "what_to_watch": "10월 25일 결선투표 여부 확정, 최종 1차 집계에서 룰라의 추격 가능 여부, 그리고 볼소나루 진영의 트럼프 행정부와의 공조 방식."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "좌파 포퓰리즘(룰라) 대 우파 민족주의(볼소나루)의 대결은 2022년 재현처럼 보이지만, 이번에는 트럼프 행정부라는 외부 변수가 우파 진영의 정당성과 자금력을 강화하는 구조적 차이가 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "월스트리트는 두 후보의 당선 시나리오에서 시장 반응이 완전히 엇갈린다고 분석한다. 볼소나루 당선 시 친시장 정책 기대로 헤알화 강세와 금리 하락 기대가 커지고, 룰라 재선 시 재정 지출 확대 우려로 신흥시장 리스크가 부각될 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+          "region": "North America"
+        },
+        {
+          "source": "Rio Times",
+          "link": "https://www.riotimesonline.com/brazil-election-first-round-results-lula-flavio-2026/",
+          "region": "Brazil"
+        }
+      ]
+    },
+    {
+      "headline": "에티오피아 연방군이 티그라이 수도를 재장악했고, 반군 7개 단체는 새 동맹으로 맞섰다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "에티오피아 연방군이 티그라이 주도 메켈레를 재탈환했으며, 현지 주민들은 TPLF 반군의 퇴각을 확인했다. 동시에 TPLF를 포함한 반군 7개 단체가 아비 아흐메드 정부에 맞서는 새로운 연합 동맹을 결성했다. 이집트에서는 에리트레아·수단·소말리아 등 에티오피아와 갈등 관계에 있는 주변국 정상들이 별도로 회동하며 반에티오피아 연대를 가시화했다.",
+        "why_it_matters": "메켈레 함락은 일시적 군사 성과처럼 보이지만, 반군 동맹 결성과 주변국 집결이 겹치면서 양자 내전이 다국적 대리전으로 확장될 위험이 높아졌다. 인도주의적 피해 규모도 급격히 커질 수 있다.",
+        "what_is_changing": "2022년 휴전 이후 상대적 소강 상태에 있던 에티오피아 분쟁이 반군 재조직과 주변국 개입이라는 새로운 변수로 더 복잡한 다층 분쟁으로 진화하고 있다.",
+        "connection": "이집트는 나일강 수원 갈등으로 에티오피아와 오랫동안 대립해왔으며, 에리트레아는 과거 연방군과 협력했지만 현재는 입장을 바꿨다. 이 지역의 불안정은 수단 내전과 맞물려 동아프리카 전반의 안보를 위협한다.",
+        "signal": "아프리카의 뿔 지역이 구조적 다중 분쟁 지대로 굳어지고 있으며, 국제 중재 역량의 한계가 드러나는 신호다.",
+        "what_to_watch": "반군 동맹 7개 단체의 군사적 반격 시점, 아프리카연합의 실질적 중재 개입 여부, 에리트레아와 이집트의 물질적 지원 규모."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "아비 아흐메드 총리의 군사적 재통합 전략이 단기 성과를 냈지만, 반군의 연대 결집과 주변국의 이해관계 충돌이라는 더 복잡한 지정학적 방정식에 직면하게 됐다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "전투 재격화로 민간인 대피와 인도주의 접근이 다시 차단될 위험이 높아졌다. 미국 의원들과 유럽평화재단이 즉각적인 협상 복귀를 요구하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo",
+          "region": "Ethiopia"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/africa/20261004-ethiopian-federal-forces-control-tigray-capital-as-regional-rivals-meet-in-egypt",
+          "region": "Europe"
+        },
+        {
+          "source": "AllAfrica (RFI)",
+          "link": "https://allafrica.com/stories/202610040094.html",
+          "region": "Ethiopia"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/ethiopia-controls-tigray-capital-as-regional-rivals-meet-in-egypt/article71544478.ece",
+          "region": "India"
+        }
+      ]
+    },
+    {
+      "headline": "이란 에너지 충격이 원유 120달러를 뚫었고, G7은 1억 배럴로 맞불을 놓았다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "호르무즈 드론 공격, 러시아 디젤 수출 제한, 중국 정제품 수출 금지 재개가 동시에 발생해 원유 현물 지표인 데이티드 브렌트가 배럴당 120달러를 돌파했다. 선물 가격(101달러)과의 극단적 괴리가 실물 공급 부족의 심각성을 드러냈다. G7은 IEA를 통해 4개월간 최대 1억 배럴 비상 비축분을 방출하기로 합의했다. 이란은 석유장관이 공식 사유 없이 전격 사임했으며, 의회 의장은 조건 미충족 시 호르무즈를 재개방하지 않겠다고 밝혔다.",
+        "why_it_matters": "단일 공급 충격이 아닌 복합 충격이라는 점에서 1970년대 오일쇼크 이후 가장 구조적인 에너지 위기 신호다. 유럽 디젤 공급 불안과 아시아 LNG 수급이 동시에 흔들리고 있다.",
+        "what_is_changing": "호르무즈 봉쇄가 협박 수단에서 부분적 현실로 전환됐고, 주요국들이 새로운 대체 해상 경로를 개발하면서 이란의 봉쇄 레버리지가 구조적으로 약화되는 역설적 상황이 진행되고 있다.",
+        "connection": "중국의 수출 금지와 러시아의 디젤 제한은 이란 봉쇄와 독립적이지만 효과가 중첩됐다. 유럽은 중국·러시아·이란 삼중 공급 압박에 동시에 직면했다.",
+        "signal": "에너지 지정학이 군사 충돌과 경제 제재를 넘어 공급망 구조 재편으로 전선이 이동하고 있다는 신호다.",
+        "what_to_watch": "이란 석유장관 후임 인선과 협상 재개 가능성, G7 비축유 방출의 시장 진정 효과, 그리고 호르무즈 LNG 통과량 변화 추이."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "현물과 선물의 가격 괴리는 트레이더들이 공급 부족을 이미 가격에 반영하고 있지만 장기 전망에는 불확실성을 남기고 있음을 보여준다. 비축유 방출은 단기 충격 완충용이지 구조적 해결책이 아니다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란 석유장관 전격 사임은 내부 노선 갈등의 징후일 수 있다. 강경파가 봉쇄를 실제로 이행하는 쪽을 원하는 반면, 온건파는 협상 재개를 원하는 분열 구도가 드러날 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
+          "region": "Global"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html",
+          "region": "Global"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/irans-oil-minister-resigns-no-reason-given/article71544761.ece",
+          "region": "India"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+          "region": "Business"
+        }
+      ]
+    },
+    {
+      "headline": "우크라이나 전쟁이 드론·지상 로봇·북러 기술 이전으로 무인전쟁의 새 단계에 접어들었다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 독일 총리 메르츠 키이우 방문 당일 교량을 연속 타격했으며, 젤렌스키는 러시아 에너지 시설 공격 강화를 선언했다. 우크라이나는 지상 로봇 시스템을 투입한 전선 공세를 감행해 러시아 방어에 취약점을 드러냈다. 젤렌스키는 러시아가 제트 드론 기술을 북한에 이전했을 가능성을 공개적으로 제기했다. 독일은 드론 공동 생산과 15억 달러 규모 지원을 약속했으며, 우크라이나는 미국 중재 3자 회담 응할 의사를 밝혔다.",
+        "why_it_matters": "북러 기술 이전이 확인될 경우, 이는 단순한 포탄 공급을 넘어 첨단 비대칭 전력이 제3국으로 확산되는 구조적 위험으로 격상된다. 동시에 지상 로봇의 실전 배치는 다음 전쟁의 형태를 보여주는 전례가 된다.",
+        "what_is_changing": "전쟁이 인력 소모전에서 자율화된 무인 시스템 경쟁으로 전환되는 전환점에 와 있다. 드론이 정찰에서 타격으로 진화했고, 이제 지상 로봇이 실전 돌격에 투입되기 시작했다.",
+        "connection": "북한의 포탄 공급→드론 기술 이전이라는 협력 심화 경로는 한국·일본에 직접적 안보 위협이며, 서방 방산 업체들에게는 역설적으로 새로운 수요를 창출한다.",
+        "signal": "군사 기술의 확산 속도가 외교적 통제 속도를 앞지르기 시작했다는 신호다.",
+        "what_to_watch": "우크라이나의 러시아 정유시설 타격 실행 규모, 북러 드론 기술 이전에 대한 서방 정보기관의 공식 확인 여부, 미국 중재 회담 장소와 일정 구체화."
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "지상 로봇의 전선 투입은 드론이 그랬던 것처럼 초기 실험 단계를 거쳐 전쟁의 표준 도구가 될 수 있다는 것을 시사한다. 군사 자동화 기술 확산의 속도가 국제 규범 형성을 압도하고 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "메르츠의 키이우 방문과 독일의 지원 확대는 독일 외무장관의 러시아 측 긴장 완화 논의가 내부 비판을 받은 직후 나온 행보로, 독일의 우크라이나 정책이 내부적으로 조율 중임을 드러낸다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3369727/ukraine-believes-russia-shared-jet-drone-technology-north-korea-says-zelensky",
+          "region": "Ukraine/Russia/North Korea"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+          "region": "Ukraine/Russia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy",
+          "region": "Middle East"
+        }
+      ]
+    }
+  ]
+}
