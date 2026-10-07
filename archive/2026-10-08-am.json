@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-08",
+  "session": "am",
+  "time": "08:46",
+  "global_picture": {
+    "world_right_now": [
+      "이란 전쟁으로 호르무즈 해협 원유 수출이 막히면서 글로벌 연료 재고가 역대 최저로 떨어지고 수퍼탱커 용선료가 10배 폭등했다",
+      "러시아 페스트 연구소 사망 사건이 2차 의심 사례와 200명 격리 관찰로 확대되며 WHO가 투명성을 요구하고 있다",
+      "케냐에서 아프리카 최초 분디부교 에볼라 사망자가 확인됐고 에티오피아 티그라이에서는 에리트레아 군 재진입 의혹이 제기됐다",
+      "프랑스 학생 시위가 25만 명 규모로 커지며 섬광탄 사용이 중단됐지만 정부의 재정 긴축 기조는 유지 중이다",
+      "브라질 대선 1차 투표에서 플라비우 볼소나루가 선두를 차지하며 아마존과 민주주의를 둘러싼 긴장이 고조됐다",
+      "하마스 기습 공격 3주년을 맞아 이스라엘은 가자 공습을 재개했고 네타냐후 책임론이 다가올 선거의 핵심 쟁점으로 부상했다",
+      "에너지 위기가 25개국의 전력화 정책 전환을 가속화하고 구글은 미국·핀란드에서 총 1,400MW급 원전 장기 계약을 체결했다",
+      "Anthropic과 OpenAI가 같은 날 대형 모델을 출시하며 AI 경쟁이 새 국면에 진입했고 빅테크는 경쟁사 AI 도구 사용을 내부적으로 차단하기 시작했다",
+      "독일 전 정보부장이 반역 혐의로 구속됐고 CDU 의원의 AfD 지지 의혹이 제기되며 유럽 정치 지형이 흔들리고 있다",
+      "미국 중간선거를 앞두고 선거 불신이 역대 최저 수준을 기록하고 DNC가 납세자 자금 홍보 광고 위법성으로 정부에 소송을 제기했다"
+    ],
+    "emerging_signals": [
+      "중국이 라오스에 첫 역외 공군 거점을 구축하며 동남아시아 본토 군사 진출의 새 전선을 열었다",
+      "미국이 중국 AI·로보틱스 기업에 대한 미신고 투자에 첫 과징금을 부과하며 대외투자 규제의 집행 단계에 진입했다",
+      "SWIFT 블록체인 원장과 카자흐스탄 중앙은행-테더 협력이 동시에 진행되며 전통 금융 인프라의 토크나이제이션이 현실로 다가오고 있다",
+      "인도네시아 산불 연무가 싱가포르를 세계 최악 대기오염 도시로 만들며 초국경 환경 분쟁이 심화되고 있다",
+      "체내 CAR-T 면역세포 직접 생성 기술이 개발되며 암 면역치료의 비용·시간 장벽이 무너질 가능성이 열렸다",
+      "AI 챗봇을 이용한 학교 총격 모의 사건에서 미국인 공범이 체포되며 AI 범죄 모의의 국제 수사 시대가 시작됐다"
+    ],
+    "structural_trends": [
+      "이란 전쟁 여파로 에너지 민족주의가 강화되고 미국·러시아·중국이 자국 연료 수출 제한에 나서며 글로벌 에너지 공급망이 재편 중이다",
+      "빅테크의 AI 데이터센터 전력 수요가 원전 장기계약·지역사회 반발·환경영향평가 분쟁으로 복합 갈등을 낳고 있다",
+      "전통 금융이 암호화폐를 흡수하는 속도가 빨라지며 은행의 크립토 유동성 공급, 중앙은행의 스테이블코인 탐색이 동시에 진행 중이다",
+      "Anthropic·OpenAI·Mistral의 동시 대형 모델 출시로 AI 경쟁이 모델 성능에서 실행 인프라·에이전트 생태계 경쟁으로 이동하고 있다",
+      "유럽에서 극우 정당과 주류 보수 간 경계가 지방 정치에서부터 허물어지는 패턴이 독일·프랑스·영국에서 동시에 나타나고 있다",
+      "미국의 관세·이민·기술 규제가 캐나다·인도·동남아의 대미 의존도와 리쇼어링 압박을 동시에 심화시키고 있다"
+    ],
+    "what_changed_today": [
+      "케냐 에볼라 사망이 어제 '첫 확진'에서 오늘 '사망 확인·28명 접촉자 추적'으로 사태가 구체화됐다",
+      "러시아 페스트 사건이 어제 1차 사망에서 오늘 2차 의심 사례·200명 격리로 확산 국면에 진입했다",
+      "프랑스 학생 시위가 어제 섬광탄 사용 중단 선언에서 오늘 총참가자 6,100명 체포·25만 명 규모 시위·이란과의 외교 마찰로 확대됐다",
+      "브라질 대선 1차 투표 결과가 나오며 반볼소나루 시위가 리우에서 시작됐다",
+      "하마스 기습 3주년 당일 이스라엘이 가자 공습을 재개해 추모와 전쟁이 동시에 진행됐다"
+    ],
+    "what_to_watch_next": [
+      "러시아 페스트 격리 규모가 200명을 넘어 지역사회 전파로 이어지는지 WHO의 추가 대응 수위를 주시해야 한다",
+      "케냐 에볼라가 나이로비 도심 의료기관을 거친 만큼 도시 확산 가능성과 아프리카 CDC의 비상 선언 여부가 핵심 변수다",
+      "브라질 결선 투표(10월 25일)를 앞두고 룰라의 반격 전략과 아마존 기후 정책이 선거 변수로 작동할지 주목된다",
+      "이스라엘 선거가 가까워지면서 네타냐후 독립 조사위원회 설치 거부와 10.7 책임론이 지지율에 미치는 영향을 봐야 한다",
+      "허리케인 이사이어스가 멕시코만 에너지 허브를 강타할 경우 이미 고갈된 글로벌 연료 재고에 추가 충격을 줄 수 있다",
+      "미국 3분기 어닝 시즌 개막과 FOMC 추가 금리 인상 시점 신호가 시장 방향성을 결정할 변수로 부상한다",
+      "프랑스 정부가 약속한 10월 말 교육 대응안이 시위를 진정시킬지, 아니면 이란과의 외교 마찰로 번진 허위정보 논쟁이 국내 갈등을 더 키울지 관찰이 필요하다"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "이란 전쟁 8개월: 호르무즈 봉쇄가 글로벌 에너지 재고를 역대 최저로 끌어내리고 에너지 민족주의를 점화했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란과의 전쟁으로 호르무즈 해협 원유 수출이 막히면서 글로벌 원유·디젤 재고가 역대 최저로 떨어졌다. 미국 걸프 해안에서 중국까지의 수퍼탱커 용선료는 전쟁 전 대비 10배인 7,600만 달러까지 치솟았으며, 이라크는 석유 수입 급감으로 디나르화를 14.5% 평가절하했다. IEA는 G7 차원의 1억 배럴 비축유 방출을 협의 중이고, 미국·러시아·중국 모두 자국 연료 수출을 제한하는 에너지 민족주의 흐름이 강화되고 있다.",
+        "why_it_matters": "호르무즈는 전 세계 석유의 약 20%가 통과하는 핵심 통로다. 이 경로의 차단이 장기화되면 교역 비용 급등, 인플레이션 재발, 글로벌 산업 생산 차질로 이어질 수 있다.",
+        "what_is_changing": "에너지 공급망이 지정학에 의해 영구적으로 재편되는 국면에 접어들었다. 국가들이 단기 시장 조달보다 자국 공급 통제를 우선하는 에너지 민족주의가 새로운 기조로 자리잡고 있다.",
+        "connection": "이 위기는 25개국의 전력화·탈탄소 정책 전환을 가속화하고, 한국의 747조 원 'K-GX 전략' 발표와 같은 재생에너지 투자를 앞당기는 구조적 계기로 작용하고 있다. 동시에 비트코인 등 위험자산 가격에도 직접 충격을 주고 있다.",
+        "signal": "단기 에너지 쇼크가 아닌 공급망 구조 재편의 가속 신호다. 에너지 자립과 탈탄소가 동시에 국가 전략의 최상위로 올라오는 전환점이다.",
+        "what_to_watch": "허리케인 이사이어스의 멕시코만 에너지 허브 타격 여부, G7 비축유 방출 실행 규모, 이라크 추가 통화 절하 가능성을 주시해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "용선료 10배 폭등과 이라크 통화 절하는 지역 분쟁이 글로벌 물가에 구조적으로 전가되는 경로를 보여준다. 비축유 방출이 단기 처방이 될 수는 있지만 공급 기반 자체가 회복되지 않으면 인플레이션 재점화는 시간문제다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "에너지 민족주의 강화는 미국·러시아·중국 모두 '자국 우선' 논리를 에너지 정책에 적용한다는 의미로, 기존 다자 에너지 거버넌스 체계를 형해화시킬 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Depleted-Global-Stocks-Set-Higher-Floor-Under-Oil-Prices.html",
+          "region": "Global"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Fuels-New-Wave-of-Energy-Nationalism.html",
+          "region": "Global"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
+          "region": "Global"
+        },
+        {
+          "source": "Economic Times (India)",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/october-7-attack-three-years-gaza-war-israel-iran-red-sea-houthi-attacks-strait-of-hormuz-oil-prices-middle-east-war/articleshow/134742045.cms",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "러시아 페스트 연구소 사망이 2차 사례·200명 격리로 확대됐고 WHO는 아직 사인조차 파악하지 못했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아 시베리아 페스트 연구소에서 직원이 사망하고 두 번째 의심 사례가 보고되면서 약 200명이 의료 관찰 중이다. WHO는 러시아 당국에 추가 정보 공개를 촉구했지만 정확한 사인조차 확인하지 못했다고 밝혔다. 트럼프 대통령은 생물무기 연관성이 없다고 판단한다면서도 푸틴과의 직접 통화를 예고했으며, 전 CDC 수장은 병원체 조작 가능성을 배제할 수 없다고 경고했다.",
+        "why_it_matters": "폐페스트는 공기 전파가 가능하며 치사율이 극히 높다. 연구소에서 발생했다는 점은 생물안전 체계 전반에 의문을 제기하며, 러시아의 정보 비공개 관행은 국제 감시 체계의 한계를 드러낸다.",
+        "what_is_changing": "코로나19 이후 확립된 실험실 유출 논의 프레임이 이번 사건에도 즉각 적용되고 있다. 러시아의 투명성 부재가 미국과의 외교 긴장 소재가 되는 새로운 패턴이 나타나고 있다.",
+        "connection": "케냐 에볼라 확산과 맞물려 세계가 동시에 복수의 감염병 위협에 직면한 상황이다. 팬데믹 대비 국제 데이터 표준화 논의와 직결된다.",
+        "signal": "생물안보가 지정학 도구화되는 추세의 연장선에 있다. 정보 불투명 국가에서 발생하는 감염병이 국제 신뢰 위기로 이어지는 구조가 반복되고 있다.",
+        "what_to_watch": "격리 규모가 200명을 초과해 지역사회 전파로 이어지는지, WHO가 긴급위원회를 소집하는지, 트럼프-푸틴 직접 통화 결과를 주시해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아의 정보 통제가 미국의 외교적 관심을 자극하며 미러 관계의 새로운 긴장 소재로 부상했다. 생물안전 투명성이 외교 카드가 되는 구조다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "코로나19 이후 세계는 감염병 초기 정보 공개에 민감해졌다. 러시아의 비공개 관행은 글로벌 공중보건 신뢰 자본을 추가로 소진시키고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/russia-who-not-able-to-fully-assess-plague-situation/a-79584532?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/health/who-russia-plague-lab-worker-death-9.7372803?cmp=rss",
+          "region": "Global"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html",
+          "region": "Russia/USA"
+        }
+      ]
+    },
+    {
+      "headline": "케냐 에볼라 첫 사망과 에티오피아 티그라이 에리트레아 군 재진입으로 아프리카 복합 위기가 동시에 폭발했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "케냐 나이로비에서 콩고민주공화국과 우간다를 경유해 입국한 환자가 분디부교형 에볼라 바이러스로 사망했으며, 밀접 접촉자 28명이 추적 중이다. 같은 날 에티오피아 티그라이 지역에서는 목격자들이 에리트레아 병력의 재진입을 확인했고, 신규 무장 세력이 15세 이하 소년을 포함한 강제 징집을 벌이고 있다는 보고가 나왔다.",
+        "why_it_matters": "케냐의 에볼라 사망은 도시 의료기관을 경유한 만큼 나이로비 도심 확산 위험이 있다. 에리트레아 군 재진입은 2022년 평화협정 이후 최대 긴장 국면으로, 어린이 징집은 전쟁 범죄 가능성을 내포한다.",
+        "what_is_changing": "에볼라가 처음으로 케냐에 도달했다는 사실은 DRC발 감염병의 동아프리카 도시 확산 경로가 현실임을 확인시켜 준다. 티그라이 분쟁에서는 에리트레아의 공식 부인에도 증거가 누적되는 패턴이 반복되고 있다.",
+        "connection": "러시아 페스트, 케냐 에볼라가 동시에 전개되는 상황은 국제 감염병 감시 체계와 의료 자원 배분에 복합 압박을 가한다.",
+        "signal": "아프리카에서 동시에 안보 위기와 감염병 위기가 중첩되는 빈도가 높아지고 있으며, 국제사회의 대응 역량이 분산될 위험이 있다.",
+        "what_to_watch": "케냐 에볼라 접촉자 추적 범위 확대 여부, 아프리카 CDC의 비상 선언, 에리트레아 군 동향에 대한 UN 조사 착수 여부를 주시해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "에리트레아는 공식 부인하고 있지만 목격 증언과 위성 분석이 상충하는 상황에서 국제사회의 중재 여력이 시험대에 오른다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "에볼라가 도시 의료 네트워크를 통해 이동한 경로는 국경 검역 체계의 취약성을 드러내며, 현지 의료진의 감염 위험도 커졌다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "프랑스 학생 시위가 25만 명·6,100명 체포로 확대됐고 이란과의 허위정보 외교전으로 번졌다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "프랑스 전역에서 교육 예산·긴축 정책에 반발한 고등학생 시위가 2주 이상 지속되며 25만 6천 명이 참가하고 6,100명 이상이 체포됐다. 15세 소년의 손 절단 사고로 내무부가 섬광탄 사용을 전면 중단했으며, 총리는 재정 긴축 방침을 재확인하면서 10월 말까지 대응안을 내놓겠다고 약속했다. 한편 프랑스는 이란이 시위 관련 허위정보 캠페인을 벌이고 있다며 이란 대사를 초치했다.",
+        "why_it_matters": "섬광탄으로 미성년자 신체 절단이 발생한 사건은 경찰 과잉 진압 논란을 넘어 국가의 청소년 보호 의무에 대한 근본적 질문을 던진다. 이란의 개입 의혹은 국내 사회 갈등이 지정학적 공간으로 확장되는 패턴을 보여준다.",
+        "what_is_changing": "기존에 경찰 진압 도구로 사용되던 섬광탄이 미성년자 시위에서 금지되는 정책 전환이 이루어졌다. 외국의 소셜미디어 개입 의혹이 국내 정치 갈등과 결합하는 새로운 복합 위기 양상이 나타나고 있다.",
+        "connection": "스페인 주거권 시위와 함께 유럽 전역에서 긴축·불평등에 대한 청년 세대의 거리 저항이 동시에 분출되는 구조적 흐름과 연결된다.",
+        "signal": "재정 긴축이 청년 정치 동원의 불씨가 되는 패턴이 프랑스를 넘어 유럽 전반으로 확산될 수 있다는 초기 신호다.",
+        "what_to_watch": "10월 말 정부 대응안이 시위대의 핵심 요구를 담을지, 이란-프랑스 외교 갈등이 추가 대사 소환으로 이어질지가 핵심 분기점이다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "총리가 긴축 방침을 포기하지 않으면서 동시에 대화를 약속하는 구도는 단기 봉합 전략이다. 시위대가 이를 거부하면 갈등이 장기화될 수 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "미성년자가 다수인 시위대에 섬광탄이 사용됐다는 사실 자체가 국가-청소년 관계에 대한 사회적 토론을 불러일으키고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/france-suspends-stun-grenade-use-at-student-protests-after-pupil-loses-hand",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/france/20261007-france-summons-iranian-ambassador-over-disinformation-on-student-protests",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/07/world/france-student-protests/",
+          "region": "Japan"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
