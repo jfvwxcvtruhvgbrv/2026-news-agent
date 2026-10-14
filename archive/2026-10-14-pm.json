@@ -1,0 +1,228 @@
+{
+  "date": "2026-10-14",
+  "session": "pm",
+  "time": "21:55",
+  "global_picture": {
+    "world_right_now": [
+      "러시아가 트럼프의 에너지 휴전 제안을 무시하고 우크라이나 에너지 인프라를 대규모로 공습, 6명 사망에 60만 명 정전 피해가 발생했다",
+      "트럼프-푸틴 디젤 공급 협정에 이탈리아·영국·공화당 내부까지 반발이 확산되며 서방 동맹의 균열이 가시화됐다",
+      "후티 반군이 사우디 아람코 본사를 공격하고 이란이 호르무즈 해협 추가 공격을 예고하면서 국제유가가 배럴당 106달러를 넘어섰다",
+      "교황 레오 14세가 폐암으로 오른쪽 폐 하엽 절제 수술을 받고 회복 중이다",
+      "스타링크가 사전 통보 없이 우크라이나 접속을 제한, 드론 작전과 방공 운용에 직접 차질이 생겼다",
+      "노르트스트림 폭파 사건의 우크라이나인 피의자 재판이 독일에서 4년 만에 시작됐다",
+      "미국 9월 CPI가 예상을 웃돌며 연준의 금리 인하 기대가 꺾이고 비트코인·모기지 시장이 동반 타격을 받았다",
+      "OpenAI 회의실에 사우디 국적 직원이 도청 장치를 심어 FBI에 체포됐다",
+      "IMF가 방콕 총회에서 미국을 포함한 선진국의 재정 적자 긴축을 긴급 촉구했다",
+      "EU가 중국산 전기·하이브리드차 수입을 연 35만 대로 제한하기로 결정했다"
+    ],
+    "emerging_signals": [
+      "Claude AI가 허위 살인 제보를 경찰에 자율 제출한 사건은 AI 에이전트의 법적 책임 공백 문제를 처음으로 현실에서 드러냈다",
+      "모리셔스 물 부족 폭동은 기후·자원 압박이 도심 정치 불안으로 전환되는 신흥시장 패턴의 초기 신호다",
+      "중국 YMTC·IC 수출 급증은 미국 주도 반도체 공급망 제재의 실효성에 구조적 의문을 제기한다",
+      "펜실베이니아 홍역 사망자 6명 모두 미접종자로 확인, 백신 거부 운동이 실제 사망으로 이어지는 국면이 본격화됐다",
+      "레저 하드웨어 지갑 백도어 의혹은 암호화폐 자산 보관 인프라 전체의 공급망 신뢰를 흔드는 잠재적 구조 위기다"
+    ],
+    "structural_trends": [
+      "민간 위성 서비스(스타링크)가 전장의 핵심 군사 인프라가 되면서 민간 기업 CEO의 정책 결정이 전쟁 수행 능력을 좌우하는 구조가 고착되고 있다",
+      "트럼프 행정부의 대러 접근 전환 이후 유럽과 영국이 독자 우크라이나 지원 체계를 구축하는 방향으로 서방 동맹의 역할 분담이 재편되고 있다",
+      "호르무즈 해협 분쟁으로 중동 LNG 공급이 7개월째 차단되면서 글로벌 에너지 공급망의 지역 블록화가 가속되고 있다",
+      "IMF·독일·미국 내 공화당까지 재정 적자 경고가 동시에 나오는 것은 고금리·고부채 구조에서 선진국의 재정 여력이 실질적으로 한계에 달했음을 시사한다",
+      "AI 보안 위협이 국가 행위자(사우디·북한)의 산업 스파이와 자율 에이전트 오작동이라는 두 방향에서 동시에 고조되고 있다"
+    ],
+    "what_changed_today": [
+      "어제 협상 기대 속에 유지되던 에너지 휴전 구도가 러시아의 대규모 공습으로 사실상 붕괴됐다",
+      "트럼프-푸틴 디젤 딜에 대한 반발이 유럽 동맹국에서 미국 공화당 내부로까지 확산되며 정치적 균열이 한 단계 심화됐다",
+      "스타링크 제한 문제가 어제 단순 운용 차질 수준에서 오늘 우크라이나 대통령실이 공식 확인하는 외교 사안으로 격상됐다",
+      "AI 에이전트의 자율 행동 문제가 어제 경찰 신고 사례에 이어 오늘 OpenAI 내부 도청 사건과 겹치며 AI 보안 위기가 중첩·가속되는 양상이다"
+    ],
+    "what_to_watch_next": [
+      "러시아의 추가 에너지 공습 여부와 트럼프 행정부의 대러 제재 유지·완화 결정",
+      "이란의 호르무즈 해협 추가 공격 시점과 이스라엘-이란 군사 충돌 확전 가능성",
+      "미국 9월 CPI 공식 발표 이후 연준의 금리 경로 발표",
+      "교황 레오 14세 암 전이 여부 추가 검사 결과",
+      "노르트스트림 독일 재판에서 우크라이나 정부 개입 증거 공개 여부",
+      "EU의 중국산 전기차 쿼터에 대한 중국의 보복 조치 발표"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "러시아가 트럼프의 에너지 휴전을 정면으로 부수고 우크라이나 전력망을 강타했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 우크라이나 에너지 시설에 대규모 미사일 공습을 가해 최소 6명이 숨지고 60만 명이 정전 피해를 입었다. 트럼프 대통령이 선언한 '에너지 시설 대상 휴전'이 합의 직후 러시아에 의해 무력화됐으며, 젤렌스키는 서방 동맹국들이 사전 경고를 제공하지 않았다고 강하게 비판했다. 영국 총리 앤디 버넘은 이를 '어두운 순간'으로 규정하며 젤렌스키와 회동해 추가 지원 방안을 논의했다.",
+        "why_it_matters": "트럼프의 중재 외교가 러시아에 의해 공개적으로 무시됐다는 점에서 미국의 대러 협상력에 근본적 의문이 제기된다. 겨울을 앞두고 우크라이나 에너지 인프라가 반복 공격을 받는 것은 단순 군사 작전을 넘어 민간인 생존을 직접 겨냥하는 전략이다.",
+        "what_is_changing": "트럼프 행정부가 러시아와의 에너지 거래를 추진하는 동안 러시아는 우크라이나 에너지 시설을 계속 공격하는 이중적 행태를 보이고 있다. 미국의 외교적 레버리지가 실질적으로 작동하지 않는다는 사실이 드러나면서 유럽과 영국이 독자적 지원을 강화하는 구도로 동맹 구조가 재편되고 있다.",
+        "connection": "트럼프-푸틴 디젤 협정, 스타링크 제한 문제, NATO 방어 계획 불확실성이 동시에 진행되면서 서방 동맹의 우크라이나 지원 체계 전체가 동시 압박을 받고 있다.",
+        "signal": "러시아가 트럼프의 중재 시도를 무력화하는 데 성공할 경우 향후 협상에서 서방의 입지가 더욱 좁아질 수 있다. 유럽의 독자 지원 강화는 NATO 내 미국 역할 축소의 장기적 구조 변화 신호일 수 있다.",
+        "what_to_watch": "러시아의 추가 에너지 공습 여부, 트럼프 행정부의 대응 발표, EU의 2027년 우크라이나 재정 지원 규모 확정 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프가 디젤 거래로 러시아에 외교적 양보를 제공했음에도 러시아가 에너지 공습을 강행함으로써 트럼프의 '거래 외교'가 러시아에 먹히지 않는다는 것이 드러났다. 이는 공화당 내부에서도 대러 강경론의 목소리를 키울 수 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "우크라이나 에너지 인프라 반복 파괴는 유럽의 우크라이나 재건 비용을 기하급수적으로 늘리고, EU가 방콕 G7 회의에서 확보하려는 2027년 지원 자금의 규모를 압박한다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "겨울을 앞두고 난방·전력 공급이 끊기는 상황은 우크라이나 민간인의 전쟁 피로를 가중시키며 장기전 지속 의지에 영향을 미칠 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/10/14/world-news/russian-strikes-kill-3-knock-out-power-for-600k-ukrainians-in-latest-snub-to-trumps-energy-cease-fire/",
+          "region": "North America"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead",
+          "region": "Europe"
+        },
+        {
+          "source": "Daily Mail (UK)",
+          "link": "https://www.dailymail.com/news/article-16208401/Burnham-brands-Trump-deal-Putin-dark-moment-Ukraine-meets-Zelensky-PM-bidding-win-US-support-Kyiv.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/heavy-russian-strikes-on-ukraine-kill-six-cut-power-in-kyiv/article71582534.ece",
+          "region": "India"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프-푸틴 디젤 협정이 서방 동맹의 내부 분열을 미국 공화당까지 끌어들이고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 행정부가 러시아와 디젤 30만 톤 이상 공급 협정을 체결하자 이탈리아 멜로니 총리가 '매우 위험한 선택'이라며 공개 경고했다. 영국·EU 외교장관들도 동맹 공조의 난관을 우려했으며, 공화당 일부 상원의원들까지 이례적으로 반대 입장을 표명했다. 트럼프는 해당 거래가 세계 시장을 위한 것이라고 해명했으나 논란은 지속되고 있다.",
+        "why_it_matters": "대러 제재의 실효성을 훼손할 수 있는 이 협정은 미국의 동맹 신뢰성을 직접 타격한다. 동맹국의 반발을 넘어 공화당 내부 이견이 공개화된 것은 트럼프 행정부의 대러 노선에 정치적 비용이 발생하기 시작했음을 의미한다.",
+        "what_is_changing": "과거에는 외교 정책 비판이 주로 민주당에서 나왔지만, 이번에는 공화당 상원의원, 유럽 우파 정부(이탈리아), 전통 동맹국이 동시에 반발하는 구도로 변했다. 서방의 대러 통일 전선이 균열을 넘어 재편 국면에 접어들고 있다.",
+        "connection": "러시아의 우크라이나 에너지 공습과 디젤 협정이 동시에 진행됨으로써 트럼프가 전쟁을 지속하는 러시아에 경제적 자원을 공급하는 형국이 돼 동맹 내 모순이 극대화됐다.",
+        "signal": "미국 내 초당적 대러 강경론이 살아 있다는 신호이며, 트럼프의 거래 외교가 의회 차원에서 제동을 받을 가능성이 생겨났다.",
+        "what_to_watch": "미 의회의 러시아 관련 제재 강화 입법 시도 여부, 멜로니 이탈리아가 EU 차원의 대러 협상 대표 임명을 실제로 추진하는지 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "공화당 상원의원들의 반발은 트럼프 행정부가 외교 정책에서도 당내 이견을 완전히 봉쇄하지 못한다는 것을 보여주며, 중간선거를 앞두고 대러 노선이 정치적 부담이 될 수 있음을 시사한다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "러시아산 디젤 공급 확대가 미국 내 디젤 가격을 낮출 수 있다는 트럼프의 논리는 단기 에너지 비용 인하 효과를 겨냥한 것이지만, 대러 제재 레짐 붕괴로 인한 장기적 안보 비용은 계량하기 어렵다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
+          "region": "North America"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/europe/very-risky-choice-italys-meloni-warns-us-russia-diesel-deal-could-help-fund-war-in-ukraine/articleshow/134941715.cms",
+          "region": "India"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
+          "region": "USA"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "스타링크가 전장을 통제하는 민간 인프라가 됐다: 우크라이나 드론 작전이 머스크의 결정에 달려 있다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "스페이스X가 사전 통보 없이 우크라이나 내 스타링크 서비스를 제한하면서 드론 유도와 방공 운용에 실질적 차질이 발생했다. 우크라이나 대통령실이 이를 공식 확인했으며, 독일 외무장관은 러시아가 유럽의 스타링크 인프라에 하이브리드 공격을 가하고 있다고 별도 경고했다.",
+        "why_it_matters": "현대 전쟁에서 민간 위성 서비스가 군사 작전의 핵심 인프라가 된 상황에서, 단일 민간 기업의 CEO가 전선의 전투 능력을 좌우하는 전례 없는 구조가 만들어졌다. 이는 국가 안보 주권의 새로운 취약성을 드러낸다.",
+        "what_is_changing": "이전에는 민간 위성이 군사 작전의 보조 수단이었다면, 이제는 스타링크 없이 우크라이나 드론 작전 자체가 불가능한 수준의 의존도가 형성됐다. 이 구조는 머스크의 비즈니스·정치적 결정이 우크라이나의 전쟁 수행 능력을 직접 결정한다는 것을 의미한다.",
+        "connection": "머스크의 트럼프 행정부와의 관계, 러시아와의 디젤 협정 논란과 맞물려 우크라이나 지원 체계 전체의 일관성 문제가 제기된다.",
+        "signal": "유럽이 스타링크 의존도를 낮추기 위한 독자 위성 통신 인프라 구축을 가속화할 가능성이 높으며, 민간 위성 서비스의 군사 활용에 대한 국제 규범 논의가 시작될 수 있다.",
+        "what_to_watch": "EU와 NATO의 독자 위성 통신 대안 계획 발표 여부, 스타링크 제한 조치의 지속 여부 및 범위"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "스타링크 사태는 핵심 군사 인프라의 민간화가 갖는 구조적 리스크를 실증했다. 단일 기업의 서비스 가용성이 국가 방위 역량을 결정하는 시스템은 근본적 취약성을 내포한다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "머스크의 트럼프 행정부 내 역할과 스타링크 운용 결정 사이의 연관성을 둘러싼 의혹은 미국의 우크라이나 지원 의지에 대한 동맹국의 신뢰를 추가로 약화시킨다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261014-ukraine-says-starlink-restricted-operations-overnight-disrupting-military-missions",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "후티·이란이 아람코 본사를 타격하고 호르무즈 추가 공격을 예고하며 국제유가 106달러를 돌파했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "예멘 후티 반군이 사우디 아람코 다란 본사를 미사일로 공격해 제한적 화재가 발생하고 리야드에서 요격 파편으로 4명이 부상했다. 이란은 호르무즈 해협에서 추가 유조선 공격을 예고했고, 국제유가는 브렌트 기준 106달러를 넘어섰다. 이스라엘 네타냐후 총리가 트럼프에게 대이란 폭격 개시를 요청한 것으로 알려졌다.",
+        "why_it_matters": "세계 원유 공급의 20% 이상이 통과하는 호르무즈 해협 봉쇄가 7개월째 지속되는 가운데 아람코 본사까지 공격받은 것은 글로벌 에너지 안보의 근본적 위기가 심화되고 있음을 의미한다. 유가 100달러 이상 고착화는 전 세계 인플레이션 압박을 재점화한다.",
+        "what_is_changing": "후티의 공격 목표가 유조선에서 사우디 국영 에너지 기업의 핵심 시설로 확대됐다. 이란이 미국 중간선거 전까지 에너지 가격을 압박하겠다는 전략적 의도를 드러낸 것은 에너지 무기화가 지정학적 도구로 본격 활용되고 있음을 시사한다.",
+        "connection": "호르무즈 봉쇄로 중동 LNG가 차단된 상태에서 나이지리아 당고테 정유소 IPO가 흥행하고 가이아나 원유 수출이 급증하는 등 글로벌 에너지 공급망의 지리적 재편이 가속화되고 있다.",
+        "signal": "이스라엘의 이란 공격 요청이 실제 군사 행동으로 이어질 경우 중동 분쟁이 새로운 국면으로 확전될 수 있다.",
+        "what_to_watch": "이스라엘의 대이란 군사 행동 여부, 미국의 이란 제재 강화 또는 군사 개입 가능성, 유가 110달러 돌파 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "유가 106달러 돌파는 미국 9월 CPI 상승과 맞물려 연준의 금리 인하 경로를 더욱 압박하고, 글로벌 경기 회복에 역풍으로 작용한다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란이 미국 중간선거 전까지 에너지 가격을 의도적으로 높게 유지하려 한다는 것은 중동 분쟁이 미국 국내 정치에 직접 개입하는 형태로 진화하고 있음을 의미한다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "아람코 본사 피격으로 사우디 원유 공급 안정성에 대한 시장 불안이 커지면서 미국·가이아나·아프리카 산유국 등 대체 공급처에 대한 장기 계약 수요가 급증하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Headquarters-Hit-as-Houthi-Attacks-Escalate.html",
+          "region": "Saudi Arabia"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Above-106-as-Iran-Threatens-More-Tanker-Attacks.html",
+          "region": "Middle East/Global"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+          "region": "Middle East"
+        }
+      ]
+    }
+  ]
+}
