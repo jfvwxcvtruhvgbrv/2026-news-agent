@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-15",
+  "session": "am",
+  "time": "07:23",
+  "global_picture": {
+    "world_right_now": [
+      "미-러 디젤 협정 체결 나흘 뒤 러시아가 우크라이나 전력망을 대규모 타격하며 외교적 화해 제스처가 군사 압박과 병행됨을 재확인했다",
+      "호르무즈 해협에서 이란의 상선 공격이 격화돼 컨테이너선 1척이 침몰하고 글로벌 에너지 수송 위기가 고조되고 있다",
+      "후티가 아람코 본사를 타격하고 추가 공격을 예고하며 사우디 에너지 인프라에 대한 실질적 위협이 현실화됐다",
+      "우크라이나가 스타링크 속도 제한으로 드론·방공 작전에 차질을 겪으며 민간 위성 기술에 대한 군사 의존의 구조적 취약성이 다시 드러났다",
+      "노르트스트림 폭파 혐의 우크라이나 전직 군인의 독일 재판이 개시돼 4년 만에 법적 책임 규명 절차가 처음으로 공식화됐다",
+      "미국의 9월 CPI가 예상을 웃도는 3.7%를 기록하며 증시 급락과 AI 주식 폭락이 동시에 발생했다",
+      "북한이 잠수함 발사 전략 순항미사일 2종을 시험 발사하고 중국 항모 전단이 서태평양에 진입하며 동아시아 안보 긴장이 동시 고조됐다",
+      "케냐에서 에볼라 2차 확진이 확인되고 최초 환자가 3개국 국경을 무단 통과했다는 사실이 드러나 국제 방역 체계의 허점이 노출됐다",
+      "파키스탄이 임란 칸의 정치 기반인 주 정부에 비상통치를 선포하며 군부와 민간 정치의 갈등이 새로운 국면에 진입했다",
+      "인도 청년 주도 '바퀴벌레 운동'이 교육장관 사임을 이끌어내며 모디 정부에 대한 첫 번째 대중 압박 성공 사례로 기록됐다"
+    ],
+    "emerging_signals": [
+      "AI 인프라 투자에 대한 금융권의 신뢰가 흔들리며 데이터센터·클라우드 주식 급락과 함께 은행들이 관련 부채를 외부에 매각하려는 움직임이 포착되고 있다",
+      "Anthropic이 소형 AI 모델의 IoT 기기를 통한 자가 복제 가능성을 경고하며 AI 안전 위협이 실험실 바깥의 일상 인프라로 확장될 수 있다는 새로운 우려가 제기됐다",
+      "암호화폐 거래소 Kraken의 모회사가 EU 은행 인수를 추진하며 크립토 기업의 전통 금융 진입이 첫 사례로 가시화되고 있다",
+      "서구 전역에서 대면 사회 활동 감소와 중년 남성 자살률 최고치가 동시에 확인되며 사회적 고립이 구조적 위기 수준에 접어들고 있다는 신호가 포착됐다",
+      "칠레 에스콘디다 파업이 센티넬라에 이어 확산되며 글로벌 구리 공급의 약 25%에 동시 차질이 생기는 원자재 위기 시나리오가 현실화되고 있다"
+    ],
+    "structural_trends": [
+      "미국이 민간 상업 위성을 군사 작전의 핵심 인프라로 활용하면서 기업의 정책 결정이 전장 상황을 좌우하는 새로운 전쟁 구조가 형성되고 있다",
+      "트럼프 행정부가 러시아와 에너지 거래를 체결하고 대러 제재를 실질적으로 완화하며 기존 서방 동맹의 제재 연대 체계가 균열을 보이고 있다",
+      "중동의 이란·후티 공세로 인한 에너지 공급망 불안이 미국의 LNG 외교(대만 800억 달러 계약 등)와 맞물려 글로벌 에너지 지형을 근본적으로 재편하고 있다",
+      "AI 인프라 과잉투자 우려가 금융시장 조정으로 이어지는 한편 방산 AI는 고평가를 유지하며 AI 투자의 군-민 이중 분화가 가속되고 있다",
+      "유럽 전역에서 허위정보·사보타주·친러 정치 세력 확산이 동시에 진행되며 정보 환경과 민주주의 기반 자체가 구조적 압박을 받고 있다"
+    ],
+    "what_changed_today": [
+      "노르트스트림 재판이 공식 개시되며 4년간 추측에 머물던 폭파 책임 문제가 처음으로 법정 검증 단계에 진입했다",
+      "북한이 잠수함 발사 전략 순항미사일을 시험 발사하고 중국 항모 전단이 서태평양에 동시 진입하며 동아시아 다중 안보 충격이 하루 안에 집중됐다",
+      "케냐 에볼라 2차 확진이 공식 확인되고 최초 환자의 국경 무단 통과 경로가 드러나며 단순 유입에서 지역사회 전파 경계로 위기 단계가 상승했다",
+      "미국 9월 CPI가 시장 예상을 상회하고 증시가 7월 이후 최대 낙폭을 기록하며 인플레이션 재가속 우려가 실제 시장 충격으로 현실화됐다",
+      "인도 청년 시위가 교육장관 사임이라는 첫 정치적 성과를 거두며 모디 정부에 대한 사회 운동의 실효성이 처음으로 입증됐다"
+    ],
+    "what_to_watch_next": [
+      "독일 노르트스트림 재판에서 변호인의 '합법적 군사 표적' 항변이 법원에 받아들여질 경우 우크라이나 지원국들의 법적·외교적 입지에 미칠 파장",
+      "케냐 에볼라 2차 확진 이후 추가 지역사회 전파 여부와 WHO의 국제 공중보건 비상사태 선포 가능성",
+      "미국 CPI 충격 이후 연준의 금리 동결 또는 인상 신호가 나오는 시점과 AI 주식 추가 조정 여부",
+      "북한 잠수함 발사 미사일 도발에 대한 한미 연합 대응 조치와 전작권 전환 협의 일정 조율 결과",
+      "호르무즈 해협 이란 공격이 지속될 경우 글로벌 유가 및 LNG 현물 가격이 추가로 얼마나 상승할지"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "러시아가 미-러 에너지 협정 직후 우크라이나를 대규모 타격하며 '협상과 전쟁의 동시 진행' 구조를 재확인했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 키이우와 하르키우 등 우크라이나 전역에 탄도미사일 39발과 드론 120여 대를 발사해 60만 명 이상의 전력 공급을 차단했다. 이 공격은 미국이 러시아산 디젤 수입을 허가하고 우크라이나에 러시아 정유시설 공격 중단을 요구한 지 나흘 만에 발생했다. 젤렌스키는 트럼프가 러시아 편을 드는 것이 고통스럽다고 공개 비판했다.",
+        "why_it_matters": "트럼프 행정부의 대러 유화 조치가 러시아의 군사 행동을 억제하기는커녕 오히려 공격적 행동에 대한 묵인 신호로 해석될 수 있음을 보여준다. 에너지 협정과 군사 공격이 병행되는 러시아의 전략이 서방 동맹의 대러 제재 연대 체계 전체를 흔들고 있다.",
+        "what_is_changing": "기존에는 에너지 협상과 군사 충돌이 분리된 트랙으로 진행됐으나, 이제 러시아는 경제적 협력과 군사적 압박을 동시에 구사하는 복합 전략을 노골적으로 사용하고 있다. 미국 내에서도 공화당 일부가 이 거래에 우려를 표명하며 대러 정책 균열이 초당적 수준으로 확산되고 있다.",
+        "connection": "이탈리아 멜로니 총리, EU 회원국, 독일 AfD·BSW 등 유럽 전반에서 미-러 협정에 대한 반응이 극명하게 엇갈리며 서방 내부의 지정학적 분열이 심화되고 있다.",
+        "signal": "트럼프 행정부가 에너지 실리를 위해 제재 체계를 우회할 경우 나토 동맹의 집단 대응 능력 자체가 약화될 수 있다는 더 큰 구조 변화의 초기 신호다.",
+        "what_to_watch": "미국 의회의 대러 제재 관련 추가 입법 움직임, EU의 독자 제재 강화 여부, 우크라이나에 대한 미국의 정보 지원 실제 중단 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프 행정부가 에너지 가격 안정이라는 국내 정치 목표를 위해 우크라이나 지원이라는 동맹 원칙을 희생시키고 있다는 비판과, 실용적 외교를 통해 전쟁 종식 조건을 만들고 있다는 옹호론이 충돌하고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "분석가들은 미국이 세계 최대 디젤 수출국임에도 이 거래가 국내 연료 가격을 실질적으로 낮추기 어렵다고 평가했으며, 러시아는 이를 자국 경제 정상화의 신호탄으로 활용하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
+          "region": "North America"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Strikes-Cut-Power-to-600000-Ukrainians-Days-After-US-Diesel-Deal.html",
+          "region": "Ukraine"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/heavy-russian-strikes-on-ukraine-kill-six-cut-power-in-kyiv/article71582534.ece",
+          "region": "India"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "스타링크가 전장 생사를 결정하는 민간 인프라가 됐다—우크라이나 드론 작전이 머스크의 결정에 달린 구조의 취약성이 폭로됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우크라이나 국방부가 스타링크 속도 제한으로 드론 타격 임무와 방공 작전에 심각한 차질이 생겼다고 공식 발표했다. 머스크는 해당 조치가 미국 정부의 결정에 따른 것이라 주장했으며, 이는 그가 우크라이나의 러시아 데이터센터 공격을 공개 비판한 직후 발생했다.",
+        "why_it_matters": "단일 민간 기업의 CEO가 국가 군사 작전의 핵심 인프라를 통제하는 구조가 전시 상황에서 어떤 위험을 만들어내는지를 실시간으로 보여주는 사례다. 책임 소재가 머스크-미 정부-나토 사이에서 불분명한 채로 남아 있어 동맹 신뢰도에도 타격을 준다.",
+        "what_is_changing": "위성 통신이 군사 C4I(지휘·통제·통신·컴퓨터·정보) 체계의 핵심으로 자리 잡으면서, 동맹국 군사력이 민간 기업의 정책 결정에 종속되는 새로운 안보 취약 구조가 제도화되고 있다.",
+        "connection": "불가리아 스타링크 시설 화재 및 유럽 통신 인프라 사보타주 패턴과 결합하면, 서방의 위성 통신 인프라 전체가 복합 위협에 노출된 구조임을 드러낸다.",
+        "signal": "미래 전쟁에서 위성 통신·AI·민간 플랫폼을 누가 통제하느냐가 전장 우위를 결정하는 핵심 변수가 될 것임을 보여주는 초기 신호다.",
+        "what_to_watch": "미국 정부와 스페이스X 간 계약 내용의 공개 여부, NATO 차원의 위성 통신 이중화 대책 논의, 우크라이나의 대안 위성 인프라 확보 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "머스크의 결정이 미 정부 방침을 따른 것이라면 트럼프 행정부가 동맹국에 대한 군사 지원 수단을 기업 채널을 통해 간접적으로 조절하고 있다는 의혹이 제기된다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "군사 작전이 특정 민간 위성 서비스에 단일 의존하는 구조는 서비스 약관 변경, 기업 정책, 혹은 기술 장애 하나로도 전선이 붕괴할 수 있는 심각한 단일 실패점을 형성한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
+          "region": "Europe"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+          "region": "Ukraine/USA"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3370923/musk-suggests-us-government-behind-any-slowdown-ukraines-starshield",
+          "region": "China"
+        }
+      ]
+    },
+    {
+      "headline": "이란·후티의 호르무즈·아람코 동시 공세로 글로벌 에너지 공급망 위기가 현실이 됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란이 호르무즈 해협에서 상업 선박 12척 이상을 공격하고 컨테이너선 1척을 침몰시켰다. 동시에 후티 반군이 사우디 아람코 다란 본사에 미사일을 발사해 화재가 발생했으며 추가 공격을 예고했다. 우므라 성지순례자 이동 계획도 차질을 빚었다.",
+        "why_it_matters": "세계 원유 수송의 20~30%가 통과하는 호르무즈 해협에서 민간 선박이 실제로 침몰한 것은 이번 분쟁에서 처음이다. 아람코 본사 타격과 호르무즈 차단이 동시에 진행될 경우 글로벌 에너지 가격 충격은 기존 예측을 훌쩍 넘어설 수 있다.",
+        "what_is_changing": "후티가 단순 위협에서 실질적 인프라 타격으로 전술을 전환했으며, 이란은 미국 중간선거를 앞두고 트럼프 행정부에 경제적 압박을 가하는 전략적 타이밍을 구사하고 있다.",
+        "connection": "이란발 LNG 공급 불안은 대만의 미국산 LNG 800억 달러 장기 계약, 인도의 가스 수입 감소 등 아시아 에너지 시장의 구조적 재편을 가속화하고 있다.",
+        "signal": "중동 에너지 인프라 분쟁이 단순 지역 갈등을 넘어 글로벌 공급망 안보의 핵심 취약점으로 부상하고 있다는 신호다.",
+        "what_to_watch": "사우디 방어망의 추가 취약점 노출 여부, 미 해군의 호르무즈 보호 작전 규모 확대 가능성, 국제유가 추가 급등 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "호르무즈 봉쇄가 장기화될 경우 아시아 주요 수입국들의 에너지 비용이 급등하고 인플레이션 재가속 위험이 복합적으로 작용할 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "후티의 전략적 목표는 에너지 혼란을 통한 미국 중간선거 개입과, 예멘의 합법적 정부로서의 국제 인정 확보라는 이중 목표로 분석된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Geopolitics/Middle-East/Ship-Sinks-in-Strait-of-Hormuz-as-Iran-Escalates-Maritime-Attacks.html",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/iran-backed-houthis-strike-saudi-oil-company-aramcos-headquarters/article71585469.ece",
+          "region": "India"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+          "region": "Global"
+        }
+      ]
+    },
+    {
+      "headline": "노르트스트림 폭파 재판이 독일에서 개시됐다—4년간의 추측이 처음으로 법정 검증대에 오른다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "2022년 노르트스트림 파이프라인 폭파 혐의를 받는 우크라이나 전직 군 장교 세르히 쿠즈네초프의 재판이 독일 함부르크 법원에서 시작됐다. 변호인은 러시아의 에너지 인프라가 군사적 표적에 해당한다며 재판 기각을 요청했다.",
+        "why_it_matters": "폭파 사건은 냉전 종식 이후 유럽 최대 규모의 에너지 인프라 테러 사건이다. 법원 판결의 방향에 따라 우크라이나 지원국들의 공범 책임 문제와 독일의 대우크라이나 외교적 입지 전체가 흔들릴 수 있다.",
+        "what_is_changing": "4년간 언론 보도와 각국 수사에만 머물던 사건이 법적 책임 규명의 공식 절차로 진입했다. '합법적 군사 표적' 항변이 법적으로 받아들여질 경우 향후 에너지 인프라 공격의 국제법적 해석 자체가 바뀔 수 있다.",
+        "connection": "미-러 에너지 협정과 우크라이나 전쟁의 외교적 복잡성이 겹치는 상황에서 재판은 독일 국내 정치적으로도 뜨거운 쟁점이 될 것이다.",
+        "signal": "에너지 인프라가 현대 분쟁에서 합법적 군사 표적으로 재정의될 가능성을 보여주는 선례가 될 수 있다.",
+        "what_to_watch": "변호인의 기각 신청에 대한 법원 결정, 독일 정보기관과 우크라이나 정부의 재판 대응 방식, 다른 용의자들에 대한 추가 기소 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "독일 입장에서는 우크라이나를 지원하면서도 자국 핵심 에너지 인프라 파괴의 책임을 법적으로 묻는 불편한 이중 역할을 수행해야 하는 딜레마에 직면해 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "수중 인프라의 물리적 취약성과 귀속 증명의 어려움이 이 재판에서 핵심 쟁점으로 부상하며 향후 해저 케이블·파이프라인 보호를 위한 국제 규범 논의를 촉진할 것이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Geopolitics/Europe/Nord-Stream-Sabotage-Trial-Begins-With-Explosive-Allegations-Against-Ukraine.html",
+          "region": "Germany"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3370911/ukrainian-accused-nord-stream-pipeline-sabotage-goes-trial-germany?utm_source=rss_feed",
+          "region": "China"
+        }
+      ]
+    }
+  ]
+}
