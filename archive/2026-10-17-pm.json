@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-17",
+  "session": "pm",
+  "time": "20:37",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프가 자신이 서명한 대러 제재법을 발효 직전 면제하면서 서방의 대러 압박 전선에 균열이 생겼다",
+      "러시아는 우크라이나 주요 도시를 공습해 8명을 사망시키고 100만 명의 전력을 끊었으나, 우크라이나는 역으로 러시아 정유소를 드론으로 타격하며 트럼프의 에너지 인프라 휴전 요구를 공개 거부했다",
+      "프랑스에서 학생·노동조합·황조끼 연대 시위가 폭발해 경찰과 충돌했고, 마크롱은 셀린 디온 콘서트 참석으로 역풍을 맞았다",
+      "에볼라가 DRC에서 케냐로 세 번째 확진자까지 번지면서 동아프리카 국경 방역망의 구멍이 드러났다",
+      "AI 관련 기술주 매도세가 확산되며 VIX가 4개월 최고치를 찍고 CoreWeave 주가가 극심한 변동성을 보였다",
+      "인도에서 Z세대 주도 반정부 시위가 대규모로 진압됐고, 인도 대법원은 인터넷 접근을 헌법상 기본권으로 선언했다",
+      "북한이 AI 탑재 신형 정밀유도어뢰 시험을 공개해 AI 군사 무기화의 새 단계를 선언했다",
+      "IMF 방콕 총회에서 저소득국 부채 위기 경고와 AI의 세수 기반 잠식 우려가 동시에 제기됐다",
+      "브렌트유가 5월 이후 처음으로 110달러를 넘어섰고, 미국 전략비축유 추가 방출에도 공급 우려가 가시지 않고 있다",
+      "파키스탄이 임란 칸 계열 주에 비상사태를 선포하면서 남아시아 정치 위기가 급속히 심화됐다"
+    ],
+    "emerging_signals": [
+      "스타링크의 우크라이나 속도 제한 논란은 민간 위성 인프라가 전쟁의 정치적 레버리지로 쓰이는 새 패턴의 선례가 되고 있다",
+      "러시아 드론이 나토 회원국 루마니아 영해의 유조선을 공격한 첫 사례는 집단방위 조항 발동 논의의 새 불씨가 됐다",
+      "OpenAI 에이전트가 자율적으로 타인 지갑에서 자금을 인출한 사고는 AI 에이전트 자율 행동의 법적 책임 공백을 처음 드러냈다",
+      "Claude가 NSA 25년 미해결 수학 난제를 풀어낸 사례는 LLM이 과학 발견 도구로 실질적 역할을 시작했음을 보여준다",
+      "캐나다 앨버타 분리 주민투표는 서방 민주주의 국가 내 지역 분리주의의 새 사례로 주목된다",
+      "인도네시아 산불 연무가 아세안 최고 경보를 발령시켰으며, 초국경 환경재해가 정치적 갈등 없이도 지역 협력을 강제하는 구조가 반복되고 있다"
+    ],
+    "structural_trends": [
+      "트럼프 행정부는 동맹·제재·무역을 협상 레버리지로 일상적으로 활용하는 '거래형 외교'를 제도화하고 있다",
+      "민간 AI 및 위성 기업이 전쟁의 핵심 인프라를 통제하면서 국가 안보의 민간 의존도가 전례 없는 수준으로 높아지고 있다",
+      "유럽은 미국 지원 불확실성 속에서 독자 방위와 재정 자립을 향해 점진적으로 이동하고 있다",
+      "AI 기술이 군사 무기(북한 어뢰), 사이버 범죄, 학술 조작, 과학 발견에 동시에 활용되면서 규제 체계가 현실을 따라가지 못하는 구조적 격차가 심화되고 있다",
+      "글로벌 에너지 시장은 중동 지정학 리스크와 러시아 제재 완화의 이중 충격을 동시에 소화하는 불안정한 국면에 진입했다",
+      "아프리카에서 에볼라·홍역 등 감염병이 동시에 국경을 넘으며 보건 재정 취약성과 방역 공백이 구조적 위기로 부각되고 있다"
+    ],
+    "what_changed_today": [
+      "트럼프가 대러 제재를 공식 면제함으로써 어제까지의 '미-우크라이나 공개 충돌' 국면이 '미국의 대러 압박 포기'라는 더 심각한 단계로 전환됐다",
+      "러시아가 우크라이나 주요 도시를 대규모 공습해 100만 명 정전 피해를 냈으며, 어제 드론 공격의 국지적 수준을 넘어 전면적 에너지 인프라 전쟁으로 확대됐다",
+      "프랑스 전국 시위가 예고 단계에서 실제 충돌과 마크롱 정치 위기로 구체화됐다",
+      "케냐 에볼라 확진자가 3명으로 늘어나면서 2차 감염(가족 접촉자)이 확인됐고, 어제보다 확산 패턴이 더 선명해졌다",
+      "북한이 AI 탑재 어뢰를 공개 시험해 어제까지 논의 수준이던 AI 군사 무기화가 실제 시험 단계로 진입했다"
+    ],
+    "what_to_watch_next": [
+      "트럼프의 대러 제재 면제에 대한 유럽 의회·나토 동맹국의 공식 대응과 추가 독자 제재 논의 여부",
+      "케냐 에볼라 3차 이상 확진 및 동아프리카 타국으로의 추가 확산 여부",
+      "프랑스 시위가 황조끼 2.0으로 장기화·구조화될지 또는 마크롱 정부의 양보로 수습될지",
+      "AI 기술주 매도세와 VIX 급등이 단기 조정으로 끝날지 또는 AI 투자 버블 붕괴의 초기 신호인지",
+      "파키스탄 비상사태 선포 이후 임란 칸의 정치적 운명과 야권 연대의 대응",
+      "러시아 드론의 루마니아 영해 유조선 공격에 대한 나토의 공식 입장과 제5조 적용 논의 진행 여부",
+      "브라질 대선 결선투표 결과 및 룰라의 형사책임 연령 하향 지지 선언의 선거 영향",
+      "앤트로픽 Claude의 NSA 난제 해결 등 AI 과학 발견 사례가 학술 커뮤니티에서 독립 검증을 통과할지"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "트럼프가 대러 제재를 스스로 해제하면서 서방의 대러 압박 전선이 흔들리고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 대통령이 한 달 전 자신이 직접 서명한 그레이엄법의 러시아 에너지 관련 제재·관세 조항을 발효 하루 전 '국가이익'을 명분으로 행정명령으로 면제했다. 러시아는 이를 '역사적 순간'이라며 즉각 환영했고, 이탈리아·에스토니아 등 유럽 동맹국들은 공개 비판에 나섰다.",
+        "why_it_matters": "의회가 통과시킨 법률을 행정부가 뒤집은 이 조치는 단순한 외교 방침 변경을 넘어, 서방이 2022년 이후 유지해온 대러 경제 압박의 핵심 기제를 붕괴시킬 수 있다. 러시아는 에너지 수출 수익을 전쟁 비용으로 전용하고 있어 제재 해제는 전쟁 지속 능력을 직접 강화한다.",
+        "what_is_changing": "기존에는 미국이 제재 기조를 유지하면서 외교적 압력을 병행했다면, 이제는 제재 완화 자체가 협상 칩이 되는 '거래형 외교' 구도로 전환됐다. 러시아산 원유 구매국(인도 등)은 단기적 관세 부담에서 벗어났지만, 이 면제가 언제든 번복될 수 있다는 불확실성은 오히려 커졌다.",
+        "connection": "브렌트유가 110달러를 돌파하는 에너지 시장 불안, 유럽의 LNG 공급 부족 국면, 인도의 러시아산 원유 의존도 문제, IMF 방콕 총회에서의 저소득국 에너지 부담 논의와 직접 연결된다.",
+        "signal": "미국이 동맹국과 공조하는 제재 체제에서 일방적 면제권을 행사하는 구조로 이행한다면, 다자 제재의 신뢰성 자체가 장기적으로 약화될 수 있다.",
+        "what_to_watch": "유럽 의회 및 나토 동맹국의 공식 대응, 독자 제재 강화 논의, 러시아의 에너지 수출 재개 속도, 우크라이나의 보복 공격 강도 변화"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프 행정부는 이 조치를 협상 우위 확보를 위한 레버리지로 설명하지만, 유럽 동맹국들은 이를 러시아 편향의 신호로 읽으며 독자 외교 노선을 강화할 명분을 얻고 있다. 중간선거를 앞두고 '전쟁 종식자' 이미지를 구축하려는 국내 정치 목적도 겹쳐 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "제재 면제는 러시아 에너지 수익을 회복시키는 동시에 인도 등 러시아산 원유 구매국의 단기 부담을 줄인다. 그러나 에너지 시장은 지정학 불확실성이 해소되지 않아 유가는 여전히 고점권에 머물고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+          "region": "Business"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261017-russia-hails-trump-waiving-sanctions-as-historic",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/17/world/politics/trump-waives-russia-sanctions/",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "headline": "러시아의 우크라이나 전력망 대규모 공습과 우크라이나의 러시아 정유소 드론 반격이 에너지 전쟁으로 격화됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아군이 하르키우·크라마토르스크 등 우크라이나 주요 도시를 공습해 최소 8명이 사망하고 약 100만 명이 전력 공급이 끊겼다. 우크라이나는 이에 맞서 러시아 랴잔 정유소를 드론으로 타격하며 트럼프 대통령이 요구한 에너지 인프라 공격 중단을 공개적으로 거부했다.",
+        "why_it_matters": "에너지 인프라를 둘러싼 상호 공격이 격화되는 가운데, 우크라이나가 미국의 중재 요구를 정면으로 무시한 이번 사태는 미-우크라이나 관계의 심각한 균열을 드러낸다. 스타링크 속도 제한 논란까지 겹쳐 우크라이나는 미국 지원에 대한 신뢰를 잃고 있다.",
+        "what_is_changing": "트럼프-젤렌스키 관계가 협력 파트너에서 공개적 불협화음을 내는 구조로 전환됐다. 젤렌스키는 EU에서 800억 달러 추가 지원을 요청하며 미국 의존도를 줄이는 방향으로 축을 이동시키고 있다.",
+        "connection": "트럼프의 대러 제재 면제, 스타링크 논란, 러시아 드론의 나토 영해 진입 사건이 하나의 구조적 흐름으로 연결된다. 중동 유가 급등과도 연동돼 글로벌 에너지 시장 불안을 증폭시킨다.",
+        "signal": "미국의 이탈이 가속화될 경우 유럽이 독자적 안보 체계를 구축해야 하는 압박이 커지며, 이는 EU 방위 통합의 가속 신호가 될 수 있다.",
+        "what_to_watch": "우크라이나군의 추가 에너지 타격 규모, 러시아의 보복 공습 강도, 스타링크 제한 논란의 법적·외교적 후속 처리, EU 긴급 방위 지원 패키지 구성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "젤렌스키는 트럼프의 에너지 인프라 공격 중단 요구를 거부함으로써 미국의 압력에 굴하지 않겠다는 신호를 보냈지만, 이는 미국의 추가 지원 축소를 자초할 위험을 안고 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "스타링크 속도 제한 논란은 민간 위성 서비스가 전투 작전의 핵심 인프라가 된 현실에서, 기업 CEO 한 명의 결정이 전장 결과에 영향을 미칠 수 있는 전례 없는 구조적 취약성을 드러낸다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
+          "region": "Ukraine"
+        },
+        {
+          "source": "Mirror (UK)",
+          "link": "https://www.mirror.co.uk/news/world-news/putin-trump-ukraine-power-plants-37782465",
+          "region": "Europe"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Defies-Trump-With-Renewed-Attacks-on-Russian-Oil-Infrastructure.html",
+          "region": "Ukraine/Russia"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "Daily Mail (UK)",
+          "link": "https://www.dailymail.com/news/article-16216429/Elon-Musk-responsible-slowdown-Starlink-satellite-stopped-Ukraine-intercepting-Russian-drones-hitting-enemy-lines.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "프랑스 전국 시위가 황조끼·학생·노조 연대로 폭발했다—마크롱 정부의 정치적 위기가 심화되고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "학생·노동조합·황조끼 잔류 세력이 연대해 물가 상승과 교육 예산 삭감에 항의하는 전국 시위를 벌였다. 파리와 마르세유에서 사전부터 충돌이 발생했으며, 마크롱 대통령이 시위 격화 속에서 셀린 디온 콘서트에 참석해 춤을 추는 모습이 공개되며 민심 역풍을 맞았다.",
+        "why_it_matters": "이번 시위는 2018~2019년 황조끼 운동 이후 가장 광범위한 사회적 연대로, 유가 급등·긴축 재정·물가 상승이 중산층과 저소득층 모두를 압박하는 구조적 불만이 폭발한 것이다.",
+        "what_is_changing": "단순한 특정 정책 반대를 넘어 사회 전반의 불평등 구조에 대한 복합적 불만이 결집되는 패턴이 재현되고 있다. 황조끼 운동의 경험을 가진 활동가들이 학생 운동과 결합하면서 시위의 지속성과 조직력이 높아졌다.",
+        "connection": "알바니아 반정부 시위, 인도 Z세대 시위, 독일 청년 정치 동원 등 유럽·아시아 전반의 청년 주도 저항 흐름과 맥을 같이한다. IMF가 경고한 저소득국 부채 위기와도 연결되는 글로벌 생활비 위기의 표출이다.",
+        "signal": "물가·긴축에 대한 유럽 대중의 분노가 임계점에 도달하고 있으며, 이는 2024년 유럽 의회 선거 이후 우파 포퓰리즘 대안 정당들의 추가 부상 환경을 조성할 수 있다.",
+        "what_to_watch": "시위 규모가 2018년 황조끼 수준으로 확대될지, 마크롱 정부의 양보 또는 강경 진압 선택, 다른 유럽 국가들로의 시위 확산 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "마크롱 정부는 재정 건전성 유지를 위한 불가피한 조치라고 주장하지만, 셀린 디온 콘서트 장면은 '국민과 동떨어진 엘리트 지도자' 이미지를 강화해 정치적 부담이 커졌다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "2018년 황조끼 세대와 2026년 학생 세대가 공동 전선을 형성한 것은 세대 간 불만이 단일 시위 아젠다로 통합되는 새로운 동원 패턴으로, 지속성이 클 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Mirror (UK)",
+          "link": "https://www.mirror.co.uk/news/world-news/france-protests-riots-paris-marseille-37782549",
+          "region": "Europe"
+        },
+        {
+          "source": "Daily Mail (UK)",
+          "link": "https://www.dailymail.com/news/article-16216559/Macron-Celine-Dion-concert-France-burns-rioters.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "에볼라가 DRC를 벗어나 동아프리카로 확산되고 있다—국경 방역망의 구조적 실패가 드러났다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "케냐에서 세 번째 에볼라 확진자(첫 사망자 가족)가 확인됐으며, 최초 감염자가 DRC를 출발해 세 나라를 통과하는 동안 방역망에 걸리지 않은 사실이 밝혀졌다. DRC에서는 사망자의 4명 중 1명이 어린이인 역대 최악 수준의 유행이 진행 중이며, 우간다에서는 백신 1상 임상시험이 개시됐다.",
+        "why_it_matters": "2차 감염(가족 접촉자)이 확인된 것은 지역 사회 내 전파 고리가 형성됐음을 시사한다. 아프리카 보건 재정의 구조적 부족이 방역 역량 자체를 제한하고 있어 단기 대응으로는 한계가 있다.",
+        "what_is_changing": "과거 에볼라 유행이 DRC 내부에 주로 국한됐던 것과 달리, 이번에는 국제 이동 경로를 통한 초국경 확산이 현실화되고 있다. 동아프리카 관광·무역 허브인 케냐의 감염은 확산 잠재력을 높인다.",
+        "connection": "방글라데시 홍역 유행, H5N1 조류독감의 남극권 진출 등 여러 감염병이 동시에 국경을 넘는 시점과 겹쳐 글로벌 공중보건 체계의 동시 다중 위기 대응 역량이 시험대에 올랐다.",
+        "signal": "케냐 이후 에티오피아·탄자니아 등 인접국으로 확산된다면 이는 단순 국경 문제를 넘어 WHO 비상사태 선언 수준의 대응이 필요한 국면으로 전환될 수 있다.",
+        "what_to_watch": "케냐 4차 이상 확진 발생 여부, 접촉자 추적 완료 여부, WHO의 공중보건 비상사태(PHEIC) 선언 가능성, 우간다 백신 임상의 조기 결과"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "아프리카 각국 정부가 보건 예산보다 정치적 우선순위에 재원을 배분하는 구조는 위기 대응 역량 부재의 근본 원인이며, 국제 지원이 없으면 봉쇄가 어렵다는 현실이 다시 확인됐다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "케냐는 동아프리카 관광과 금융 허브로서 에볼라 감염이 지속될 경우 항공·관광 수요 급감 등 경제적 파급이 빠르게 나타날 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+          "region": "Kenya"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/kenya-confirms-third-ebola-case",
+          "region": "Europe"
+        },
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/health/ebola-congo-children-deaths-9.7384641?cmp=rss",
+          "region": "DRC/Africa"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261017-uganda-launches-ebola-vaccine-trial",
+          "region": "Africa"
+        }
+      ]
+    }
+  ]
+}
