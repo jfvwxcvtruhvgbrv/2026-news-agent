@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-19",
+  "session": "am",
+  "time": "06:34",
+  "global_picture": {
+    "world_right_now": [
+      "프랑스·이탈리아·알바니아에서 동시다발적 반정부 시위가 폭력 사태로 번지며 유럽 전역이 생활비 위기의 폭발 국면에 진입했다",
+      "트럼프 행정부가 대러 제재 해제와 스타링크 접근 차단을 단행하며 미국의 우크라이나 지원이 실질적으로 축소됐다",
+      "우크라이나 드론이 NATO 회원국 리투아니아 영토에 추락하고 루마니아 F-16이 흑해에서 드론 2기를 격추하며 전쟁의 물리적 범위가 NATO 영토로 확장됐다",
+      "이란이 호르무즈 해협 재개방 조건으로 미국에 7일 시한을 제시하며 브렌트유가 배럴당 110달러를 돌파했다",
+      "이스라엘 정착민이 서안지구에서 EU 외교관을 폭행하고 트럼프가 이스라엘 총선에서 네타냐후 지지를 공개 선언하며 중동 외교 구도가 흔들렸다",
+      "가자지구 140만 명이 극심한 기아 상태에 놓인 가운데 WFP 자금 부족으로 인도적 지원이 오히려 줄었다",
+      "케냐에서 에볼라 두 번째 확진자가 나오고 콩고민주공화국 감염이 8개 주로 확산하며 동아프리카 방역 경보가 격상됐다",
+      "AI 에이전트의 무단 활동 피해국이 늘어나고 OpenAI 모델이 암호화폐 해킹에 활용된 사례가 보고되며 AI 보안 위협이 현실화됐다",
+      "브라질 대선 결선이 오차 범위 내 접전으로 막판까지 이어지며 메타 플랫폼 편향 의혹과 투표소 대규모 변경 등 선거 혼란이 고조됐다",
+      "교황 레오 14세가 폐암 수술 5일 만에 성 베드로 광장에 공개 복귀해 업무 재개를 선언했다"
+    ],
+    "emerging_signals": [
+      "러시아 군사위성이 우크라이나 지원 민간 레이더 위성을 궤도에서 추격하며 우주 공간이 새로운 전장으로 부상하고 있다",
+      "타깃 광고 시스템을 매개로 한 제로클릭 스파이웨어 배포가 최초 확인되며 광고 네트워크가 사이버 무기 경로로 활용되는 선례가 생겼다",
+      "월가 대형 은행들이 자산 토큰화를 위협이 아닌 성장 전략으로 수용하며 전통 금융과 블록체인의 경계가 빠르게 허물어지고 있다",
+      "DeepSeek의 저가 API 공개와 Anthropic의 외부 감시기관 접근 허용이 맞물리며 AI 시장의 가격·신뢰 경쟁이 동시에 가속되고 있다",
+      "앨버타 분리독립 주민투표가 진행 중인 가운데 캐나다 내부 지역 갈등이 구체적 정치 행동으로 전환되고 있다"
+    ],
+    "structural_trends": [
+      "생활비 위기가 서유럽에서 단발성 시위를 넘어 제도 자체에 대한 폭력적 저항으로 구조화되고 있다",
+      "미국이 동맹국 지원 수단(스타링크·제재)을 외교 협상 레버리지로 활용하는 방식이 트럼프 2기 외교의 새로운 패턴으로 자리잡고 있다",
+      "호르무즈 위기와 중동 전쟁 장기화로 고유가 기조가 2027년까지 구조적으로 고착될 가능성이 높아졌다",
+      "전기차·태양광 공급망이 친환경 명분에도 불구하고 원주민 토지 파괴와 연결되는 이중성이 반복적으로 드러나고 있다",
+      "AI 도구 확산으로 학술 논문·창작물·선거 정보 등 지식 생산 전 영역에서 진위 검증 부담이 급격히 증가하고 있다",
+      "중국이 해군 병원선·일대일로·원조를 통해 아프리카에서의 전략적 존재감을 체계적으로 확장하고 있다"
+    ],
+    "what_changed_today": [
+      "트럼프의 대러 제재 해제가 '검토 중'에서 '실행'으로 전환되며 60일 정책 불확실성이 시작됐다",
+      "우크라이나 드론이 실제로 리투아니아 차량을 파손하며 NATO 영토 위협이 추상적 우려에서 물리적 사건으로 현실화됐다",
+      "이란이 호르무즈 해협 재개방에 구체적 시한(7일)을 제시하며 에너지 위기의 압박 수위가 한 단계 높아졌다"
+    ],
+    "what_to_watch_next": [
+      "이란의 7일 시한 내 미국-이란 협상 진전 여부와 호르무즈 해협 실질 봉쇄 가능성",
+      "프랑스·이탈리아 시위가 11월 총파업으로 이어질지, 마크롱 정부의 정치적 생존 여부",
+      "브라질 대선 결선(10월 26일 예정) 투표 결과와 선거 후 갈등 가능성",
+      "이스라엘 총선(10월 27일)에서 트럼프의 지지 선언이 여론에 미치는 실질적 영향",
+      "케냐·콩고 에볼라 확산이 WHO의 국제 비상사태 선언 임계점에 도달하는지 여부",
+      "리투아니아 드론 추락 사건에 대한 NATO의 공식 대응과 책임 규명 결과",
+      "트럼프 행정부의 60일 러시아 제재 재검토 기간 중 미-러 협상 내용 공개 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "유럽 생활비 위기가 프랑스·이탈리아·알바니아에서 동시에 폭력 사태로 폭발했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "10월 17~18일 프랑스 전역에서 생활비 급등과 교육 환경 악화에 항의하는 시위가 최대 80만 명 규모로 번지며 시청 방화·상점 약탈이 이어졌고 약 2,400명이 체포됐다. 이탈리아에서도 동시에 유사한 민생 시위가 폭력화하며 멜로니 총리가 경찰 지지를 표명했고 주요 노동조합은 11월 20일 총파업을 예고했다. 알바니아에서는 학생 주도 반정부 시위가 6일 연속 이어지며 대법원 건물에 방화하는 사태로 번졌다.",
+        "why_it_matters": "세 국가가 동일한 시기에 폭력 사태를 맞은 것은 유럽 전역에 구조적으로 쌓인 생활비 압박이 동시에 임계점을 넘었음을 보여준다. 마크롱 정부는 연설로 공분을 표명했지만 비상사태 선포를 거부해 정치적 딜레마에 빠졌고, 극우 정치 세력의 반사이익 가능성이 제기된다.",
+        "what_is_changing": "단발성 시위에서 방화·약탈을 수반하는 광범위한 폭력 저항으로 형태가 바뀌었다. 과거 황조끼 운동이 단일 의제(유류세)에 집중됐다면, 이번 연대는 학생·노동자·이전 시위 세력이 복합 의제로 결집한 구조다.",
+        "connection": "미국-이란 전쟁으로 인한 에너지 가격 상승이 프랑스 내 인플레이션의 주요 원인으로 지목되고 있어, 중동 지정학이 유럽 내부 정치 불안을 직접 촉발하는 연결 고리가 뚜렷해지고 있다. 트럼프와 밴스는 이를 이민 정책 실패로 규정하며 유럽 내정에 개입하는 논평을 냈다.",
+        "signal": "11월 총파업이 예정된 이탈리아와 프랑스의 정치적 압박이 겹치면서 유럽 좌파·우파 포퓰리즘 양극화가 빠르게 심화될 가능성이 있다.",
+        "what_to_watch": "프랑스 11월 총파업 현실화 여부, 마크롱 정부 지지율 추이, 르펜 등 극우 세력의 정치적 반사이익 규모, 알바니아 라마 총리의 사임 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "마크롱 정부가 연설로 공분을 표명하면서도 비상사태를 선포하지 않은 것은 강경 대응이 극우에 명분을 줄 수 있다는 정치적 계산을 반영한다. 트럼프·밴스의 이민 원인론 개입은 유럽 민족주의 담론을 외부에서 강화하는 효과를 낳는다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "생활비 위기의 근본 원인인 에너지 가격 상승은 미-이란 전쟁 지속과 호르무즈 위기로 단기 해소가 어렵다. 11월 총파업이 현실화되면 기업 투자 심리와 소비 회복에 추가 타격이 불가피하다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "학생·황조끼 세대·노동자의 연대는 세대를 가로지르는 불만 공유를 보여준다. 140년 된 시청 건물 방화는 제도 자체에 대한 신뢰 붕괴를 상징하는 사건으로 해석된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/france/20261018-paris-police-in-new-battles-with-protesters-and-looters",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/france-reports-almost-2-400-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting",
+          "region": "France"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire",
+          "region": "Albania"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프가 스타링크를 차단하고 대러 제재를 해제하며 미국의 우크라이나 지원이 실질적으로 축소됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 행정부가 우크라이나군의 군사용 스타링크(스타쉴드) 위성통신 접근을 차단하고 의회가 통과시킨 대러 제재 다수를 '국가 안보' 명분으로 일시 해제했다. 루비오 국무장관은 제재 재검토에 최대 60일이 소요될 수 있다고 밝혔다. 젤렌스키는 미국 특사들과 별도 통화를 가졌으며, 재무장관 베선트는 젤렌스키의 스타링크 비판을 '무모하다'고 반박했다.",
+        "why_it_matters": "스타링크는 우크라이나 전선의 핵심 통신 인프라로, 접근 차단은 즉각적인 전투력 저하로 이어진다. 제재 해제와 통신 차단이 동시에 단행된 것은 미국이 단순한 지원 재조정이 아니라 러시아와의 협상을 위해 우크라이나를 압박하는 전략적 선택을 했음을 시사한다.",
+        "what_is_changing": "기존에는 지원 규모나 속도 조정이 논쟁의 중심이었다면, 이제는 전장 필수 인프라를 협상 레버리지로 직접 활용하는 단계로 전환됐다. 동맹국에 대한 기술 접근을 외교 도구로 사용하는 새로운 선례가 생겼다.",
+        "connection": "유럽 동절기 가스 비축 부족과 에너지 위기가 겹친 상황에서 미국의 우크라이나 지원 축소는 유럽의 독자 안보 역량 강화 필요성을 더욱 부각시키고 있다. 러시아산 원유 제재 공조에서 유럽이 미국 제안을 거부한 것도 같은 맥락에서 해석된다.",
+        "signal": "60일 재검토 기간이 미-러 협상의 실질적 타임라인으로 기능할 가능성이 있으며, 협상 결과에 따라 우크라이나의 협상 조건이 크게 달라질 수 있다.",
+        "what_to_watch": "60일 제재 재검토 종료 후 정책 방향, 스타링크 차단이 전선 상황에 미치는 실질적 영향, 젤렌스키의 유럽 지원 확대 요청 성과, 미-러 협상 개시 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프 행정부는 우크라이나를 전쟁 종식 협상의 장으로 끌어들이기 위해 지원 축소를 압박 카드로 활용하고 있다. 이는 '거래적 외교' 방식의 전형으로, 젤렌스키는 공개 비판과 동시에 소통 유지를 강조하는 이중 전략을 취하고 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "스타링크라는 민간 상업 위성 서비스가 전쟁의 핵심 군사 인프라로 기능하는 현실이 이번 사태로 다시 부각됐다. 단일 기업이 제공하는 통신 서비스에 대한 군사적 의존이 갖는 구조적 취약성이 드러났다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+          "region": "USA"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/tv-shows/tech-24/20261018-who-capped-starlink-in-ukraine-musk-trump-and-rubio-give-three-different-answers",
+          "region": "Europe"
+        },
+        {
+          "source": "Straits Times",
+          "link": "https://www.straitstimes.com/asia/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions",
+          "region": "USA/Russia"
+        }
+      ]
+    },
+    {
+      "headline": "우크라이나 드론이 리투아니아 차량을 파손하고 루마니아가 흑해에서 드론을 격추하며 전쟁이 NATO 영토를 실물로 건드렸다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우크라이나 드론으로 추정되는 물체가 리투아니아 영토에 추락해 주행 중인 차량을 파손했으며, NATO는 전투기를 긴급 출격시켰다. 우크라이나는 러시아의 전자전으로 항로가 이탈했을 가능성을 거론하며 사과했다. 같은 시기 루마니아 F-16이 흑해 루마니아 영해 상공에서 드론 2기를 격추했고, 인근 화학물질 운반선도 드론 공격을 받았다.",
+        "why_it_matters": "아군 드론이 NATO 동맹국 영토를 실제로 손상시킨 것은 드론 전쟁의 통제 불능 위험성을 보여주는 구체적 사례다. 러시아의 전자전이 우크라이나 드론을 NATO 영토로 유도할 수 있다면, 이는 러시아가 NATO를 분쟁에 끌어들이는 수단으로 활용할 수 있다는 의미다.",
+        "what_is_changing": "이전까지 전쟁의 '월경' 사태는 주로 미사일·포탄 파편에 한정됐으나, 이제 대규모로 운용되는 드론이 항로 오류로 동맹국 영토에 직접 피해를 주는 새로운 유형의 위협이 현실화됐다.",
+        "connection": "우크라이나가 상트페테르부르크를 향해 1,000기 이상의 드론을 동시 발사한 대규모 공격 패턴과 연결된다. 드론 수량과 운용 범위가 커질수록 통제 실패의 가능성도 비례해 증가한다.",
+        "signal": "드론 전쟁이 체계적 통제를 벗어나 NATO 집단방위 조약 제5조 발동 논의를 촉발할 수 있는 사고로 이어질 위험성이 커지고 있다.",
+        "what_to_watch": "NATO의 리투아니아 드론 추락에 대한 공식 조사 결과, 러시아 전자전 개입 여부 확인, 흑해 드론 격추의 책임 귀속 논의"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아가 전자전으로 우크라이나 드론을 NATO 영토로 유도하는 전술을 의도적으로 사용하고 있다면, 이는 NATO 내부 분열을 노린 회색지대 작전의 일환으로 볼 수 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "GPS 교란에 취약한 드론의 항법 체계 문제가 다시 부각됐다. 1,000기 이상의 드론을 동시에 운용할 때 일부 이탈은 통계적으로 불가피하며, 이에 대한 기술적 대응이 시급하다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/europe/article/3371323/lithuanians-take-shelter-nato-jets-scramble-suspected-drone-explodes",
+          "region": "Lithuania"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156",
+          "region": "Romania"
+        }
+      ]
+    },
+    {
+      "headline": "이란이 호르무즈 해협 재개방에 7일 시한을 제시하며 유가가 110달러를 돌파했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란 신임 국방장관이 미국이 이란을 공격할 경우 막대한 피해를 입힐 것이라고 경고했으며, 이란은 호르무즈 해협 재개방 조건으로 미국에 7일 기한을 제시했다. 호르무즈 해협에서 유조선이 기뢰에 충돌해 화재가 발생했다. 브렌트유는 5월 이후 처음으로 배럴당 110달러에 도달했다.",
+        "why_it_matters": "전 세계 석유 소비량의 약 5분의 1이 통과하는 호르무즈 해협의 실질적 봉쇄는 글로벌 에너지 공급망 전체를 위협한다. 유가 고공행진은 유럽 생활비 위기를 심화시키고, 이미 높은 인플레이션에 시달리는 국가들의 경제를 추가로 압박한다.",
+        "what_is_changing": "미-이란 전쟁이 6월 일시 휴전 이후에도 해결되지 않으며 호르무즈 위기가 만성화되고 있다. 유가 전망 기관들은 고유가 기조가 2027년까지 이어질 것으로 전망하며 일시적 충격이 아닌 구조적 변화로 평가하기 시작했다.",
+        "connection": "유럽이 동절기 가스 비축 부족 상태로 겨울을 맞이하는 상황과 맞물려 에너지 안보 위기가 복합적으로 심화되고 있다. 인도는 러시아산 원유 수입을 46% 늘리며 대안 공급선을 확보했지만, 서방의 제재 연대를 약화시키는 효과를 낳고 있다.",
+        "signal": "이란의 7일 시한은 협상 압박 전술일 가능성이 높지만, 실제 봉쇄로 이어질 경우 금융시장 충격이 즉각적으로 발생할 수 있다. 미국의 전략비축유 추가 방출과 IEA의 긴급 방출 가속화는 시장 안정 의지를 보여주지만 근본 해결책은 아니다.",
+        "what_to_watch": "7일 시한 내 미-이란 외교 접촉 여부, 호르무즈 해협 통행 상황, 미국 전략비축유 방출 규모와 시장 반응, 사우디아라비아의 증산 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "배럴당 110달러 유가는 글로벌 인플레이션을 재점화하고 특히 에너지 수입 의존도가 높은 유럽과 아시아 신흥국의 경상수지를 악화시킨다. 유가 고공행진이 2027년까지 지속되면 세계 경제 성장 전망 하향 압력이 강해질 것이다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란의 7일 시한은 미국 트럼프 행정부가 러시아 제재를 재검토하는 60일 기간과 맞물려 있어, 중동과 동유럽 두 전선에서 미국의 외교적 대응 역량이 동시에 시험받는 국면이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Economic Times India",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/iran-keeps-strait-of-hormuz-reopening-offer-on-table-says-path-depends-on-us/articleshow/135027230.cms",
+          "region": "Iran/USA"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/oil-tanker-on-fire-after-hitting-mine-in-hormuz-irans-guards/article71596177.ece",
+          "region": "India"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/10/17/brent-touches-us-110-for-the-first-time-since-may-on-middle-east-tensions",
+          "region": "Latin America"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
+          "region": "Energy"
+        }
+      ]
+    }
+  ]
+}
