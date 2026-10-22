@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-22",
+  "session": "pm",
+  "time": "22:01",
+  "global_picture": {
+    "world_right_now": [
+      "러시아는 평화협상 의사를 표명하는 동시에 키이우 미사일 공격을 멈추지 않고 있다—트럼프의 중재 외교가 실질적 효과를 내지 못하는 사이 전선은 고착되고 있다",
+      "이란이 호르무즈 해협에서 유조선 7척을 타격하고 후티가 사우디 공항·석유시설을 동시 공격하면서 브렌트유가 배럴당 111달러를 넘어섰다",
+      "에볼라가 나이지리아·케냐로 번지고 프랑스에서 샤몬다 바이러스 첫 인체 감염이 확인되는 등 여러 신종·재출현 감염병이 동시에 전개되고 있다",
+      "PHP 보안 취약점이 전 세계 공공 인프라를 강타해 수백만 건의 해킹 시도와 정부 사이트 오프라인 전환이 이어졌다—AI가 발견하고 AI가 공격하는 이중 구도",
+      "프랑스 생활비 위기 시위가 리옹 대규모 약탈로 격화됐고 마크롱은 비허가 시위 전면 금지와 군 배치를 선언했다",
+      "캐나다 앨버타주 독립 주민투표가 76% 잔류로 마무리됐고, 미국과 캐나다 간 선거 개입 설전이 공개화됐다",
+      "메타가 케임브리지 애널리티카 연루 소송에서 250억 달러 배상 판결을 받으며 역대 최대 빅테크 프라이버시 제재 기록이 세워졌다",
+      "중간선거를 앞두고 미국·이스라엘이 이란 군사 행동 검토 중이라는 보도가 나오고 사우디 주재 미국 외교관 철수 명령이 내려졌다",
+      "테슬라 순이익이 43% 급감한 가운데 머스크는 SpaceX-테슬라 합병 가능성을 공개 언급했고, 바클레이스는 AI를 이유로 5,000명 감원을 공식화했다",
+      "UN이 2°C 목표 달성 불가를 공식 인정했고, WMO는 현 엘니뇨가 사상 최강 수준에 달할 수 있다고 경고했다"
+    ],
+    "emerging_signals": [
+      "파키스탄·튀르키예·카타르·인도네시아가 이슬람권 독자 국방협력 협정을 체결하면서 비서방 안보 블록 형성 흐름이 가속화되고 있다",
+      "화웨이-딥시크 협력으로 중국 AI 칩 생태계가 엔비디아에 실질적으로 근접했다는 평가가 나왔다",
+      "영국에서 AI 가상 유권자로 정치 메시지를 수분 내 테스트하는 기업들이 등장해 선거 캠페인의 AI화가 구조적으로 시작됐다",
+      "Anthropic의 Claude Duet이 수면 중에도 자율 작업하는 AI 에이전트 시대를 공개적으로 알렸다",
+      "고유가가 유럽 전기차 판매를 빠르게 끌어올리는 동시에 Big Oil은 생산 투자 대신 주주 환원에 집중하는 에너지 전환의 역설이 진행 중이다"
+    ],
+    "structural_trends": [
+      "민간 기업(스타링크·데이터센터·AI 칩)이 전쟁·안보·선거 결과를 좌우하는 구조가 굳어지면서 기술 주권 논쟁이 모든 지역으로 확산되고 있다",
+      "AI 자동화를 명분으로 한 금융·기술 업계의 구조적 감원이 공개 선언 단계로 접어들었다",
+      "호르무즈·홍해·대서양을 동시에 위협하는 에너지 지정학이 유가·식량·물가를 연동 압박하는 복합 공급망 위기가 형성되고 있다",
+      "에볼라의 국경 검역 돌파, 신종 바이러스 인체 첫 감염, 감염병 지역 동시 다발화가 포스트 코로나 공중보건 체계의 구조적 취약성을 재드러내고 있다",
+      "젊은 세대 남녀 간 정치 성향 격차가 한국·캐나다·영국·미국을 막론하고 심화되며 선거 판도를 바꾸는 글로벌 변수로 작용하고 있다"
+    ],
+    "what_changed_today": [
+      "러시아의 협상 의지 표명과 동시 키이우 공격이 어제에 이어 지속됐고, 트럼프 행정부의 친러 기울기가 공화당 내 반발로 이어지는 균열이 처음 수면 위로 드러났다",
+      "머스크의 스타링크 우크라이나 제한이 트럼프가 아닌 머스크 본인의 지시였다는 WSJ 보도로 민간 기업 전장 통제 논란이 책임 소재 문제로 격화됐다",
+      "에볼라가 어제 나이지리아 첫 확인에서 오늘 케냐 9명·라이베리아 국경 비상으로 빠르게 확산하며 아프리카 전역 위기로 격상됐다",
+      "프랑스 시위가 어제 폭력 확산 단계를 넘어 오늘 리옹 대규모 약탈과 마크롱의 군 배치·시위 금지 선언으로 정부 대응 국면으로 전환됐다"
+    ],
+    "what_to_watch_next": [
+      "미국 중간선거(수일 내) 이후 이스라엘-미국의 이란 군사 행동 개시 여부—호르무즈 봉쇄 심화 및 유가 200달러 시나리오 현실화 가능성",
+      "에볼라의 서아프리카 추가 국가 전파 여부 및 WHO 공중보건 비상사태 선포 결정",
+      "PHP2Shell 긴급 패치 배포 후 각국 정부·금융 인프라 피해 규모 최종 집계",
+      "프랑스 시위 금지 조치의 법적 효력 및 군 배치 이후 사회적 폭발 추가 확산 여부",
+      "러시아의 G20 트럼프 초청 수락 여부 및 3자(미·우·러) 협상 재개 시점",
+      "테슬라 사이버캡 연내 판매 및 SpaceX-테슬라 합병 공식 절차 착수 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "러시아는 평화 협상에 원칙 동의하면서 키이우를 폭격했다—트럼프 중재 외교의 역설",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국 특사 위트코프가 푸틴과 상트페테르부르크 회동을 마친 직후 러시아는 키이우에 미사일·드론 공격을 가해 최소 1명 사망, 22명 부상을 냈다. 러시아는 협상 재개 의사를 표명했으나 우크라이나·유럽 측 제안은 실질이 없다고 평가절하했으며, 크렘린은 트럼프의 G20 정상회의 초청장을 검토 중이라고 밝혔다.",
+        "why_it_matters": "협상 의사 표명과 군사 행동의 동시 진행은 러시아가 협상을 시간 벌기 수단으로 활용하거나, 협상 자체를 전쟁 레버리지로 삼고 있음을 시사한다. 트럼프의 낙관적 종전 발언은 현장 현실과 괴리되면서 미국 중재의 신뢰성에 의문을 던진다.",
+        "what_is_changing": "기존에는 러시아가 협상 자체를 거부하는 구도였다면, 이제는 협상 참여 의사를 표명하면서도 군사적 압박을 유지하는 '협상 전쟁 병행' 전략이 공개화됐다. 트럼프 행정부 내에서도 친러 기울기에 공화당 내부 반발이 수면 위로 떠올랐다.",
+        "connection": "머스크의 스타링크 우크라이나 속도 제한이 트럼프가 아닌 머스크 본인 지시였다는 보도와 맞물려, 민간 기업과 미 행정부 간 우크라이나 정책 조율의 실제 주체가 누구인지에 대한 논쟁이 격화되고 있다.",
+        "signal": "러시아가 G20 트럼프 초청을 '검토'한다고 밝힌 것은 정상 외교 채널 복원을 통해 서방 제재 완화를 시도하는 더 큰 전략 전환의 초기 신호일 수 있다.",
+        "what_to_watch": "G20에서 트럼프-푸틴 정상 회담 성사 여부, 미·우·러 3자 협상 테이블 구성 가능성, 그리고 미국 중간선거 이후 트럼프의 대러 정책 공개 전환 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아의 '협상 + 공격' 이중 전략은 서방 내부의 지원 피로감을 가속화하고 협상 조건을 유리하게 설정하려는 전술적 포석이다. 트럼프는 종전 성과를 중간선거용으로 활용하려 하지만, 실질적 양보 없이는 우크라이나가 서명할 협정이 나오기 어렵다."
+        },
+        {
+          "frame": "Strategic View",
+          "summary": "러시아가 협상 의사를 외부에 과시하면서 전장 우위를 유지하는 전략은 외교 레버리지를 극대화한다. 반면 우크라이나는 군사적 실익 없이 협상 테이블에 나서는 것이 사실상 패배를 인정하는 것과 같아 딜레마에 처해 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Mirror (UK)",
+          "link": "https://www.mirror.co.uk/news/world-news/ukraine-russia-war-putin-trump-37798642",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
+          "region": "Ukraine/Russia"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/missiles-strike-ukraines-capital-after-us-envoy-visits-russia/article71609868.ece",
+          "region": "India"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+          "region": "USA"
+        }
+      ]
+    },
+    {
+      "headline": "호르무즈 해협에서 유조선 7척 타격·후티의 사우디 공습—브렌트유 111달러 돌파, 중동 전쟁이 글로벌 에너지 위기로 번지고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란 IRGC 해군이 호르무즈 해협에서 유조선 7척을 공격·기뢰로 타격해 4척에서 화재가 발생했다. 같은 날 후티 반군이 사우디 담맘 킹파드 국제공항을 드론으로 공격해 1명이 숨지고, 석유시설 드론 공격으로 네팔·필리핀 국적 노동자 2명이 추가 사망했다. 미국은 사우디 주재 비필수 외교관 철수를 명령했고, 브렌트유는 배럴당 111달러를 넘어섰다. 미국 해군의 이란 항구 봉쇄로 중국으로의 이란산 원유 공급이 사실상 차단됐다.",
+        "why_it_matters": "호르무즈 해협은 전 세계 원유 교역량의 약 20%가 통과하는 핵심 항로다. 완전 봉쇄 시나리오는 S&P Global 경고대로 에너지 충격이 식량 위기로 전이될 수 있으며, 디젤 200달러 경고가 에너지 수입국 전반의 물가 압박을 예고한다.",
+        "what_is_changing": "후티의 사우디 타격이 공항·석유시설·군사기지 동시 다발 수준으로 격상됐고, 이란이 공세적 군사 독트린을 공표하면서 지역 내 억지 균형이 무너지는 신호가 나타나고 있다. 러시아는 이란·미국 간 핵협상 중재자 역할 가능성을 타진하는 움직임도 포착됐다.",
+        "connection": "인도가 중동산 원유 수입을 32% 늘리고, 러시아가 북방항로로 아시아 공급 우회로를 개척하는 등 글로벌 원유 공급망 재편이 실시간으로 진행되고 있다. 중국-지부티 홍해 항로 공동성명도 이 맥락에서 해석된다.",
+        "signal": "미국 중간선거 직후를 겨냥한 이란 군사 행동 보도는 선거 결과가 중동 전쟁 확대 여부를 결정하는 핵심 분기점이 될 수 있음을 시사한다.",
+        "what_to_watch": "이란의 호르무즈 추가 봉쇄 행동 여부, 미국 중간선거 이후 대이란 군사 행동 착수 시점, 유가 150달러 임계선 돌파 여부와 글로벌 인플레이션 재점화"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "브렌트유 111달러는 이미 유럽 전기차 판매 가속화라는 구조적 전환을 앞당기고 있으나, 단기적으로는 항공업계 실적 악화, 유럽 생계비 위기 심화, 개도국 식량 위기 등 광범위한 피해를 수반한다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란은 미국 중간선거 직전 최대 압박으로 협상 레버리지를 높이는 전략을 구사하고 있으나, 과도한 강경 노선이 선거 후 미국의 군사 대응을 정당화하는 역효과를 낳을 수 있다는 분석도 제기된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-7-oil-tankers-catch-fire-or-damaged-overnight-in-strait-of-hormuz/article71610464.ece",
+          "region": "India"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/attack-on-king-fahd-international-airport-in-dammam-saudi-arabia/article71609156.ece",
+          "region": "India"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Above-111-as-Houthis-Strike-Saudi-Targets.html",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "에볼라가 국경 검역망을 무너뜨리며 나이지리아·케냐·라이베리아로 확산—아프리카 전역 복합 보건 비상사태",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우간다에서 시작된 에볼라 분디부교 변종이 케냐에서 9명, 나이지리아 아부자에서 외교관 배우자 1명 확진이 확인됐다. 에볼라 증상이 있던 40대 남성이 3개국 국경을 항공·육로로 통과한 사실이 드러났으며, 라이베리아는 국경 검역을 강화하고, 미국은 케냐 여행 재고 권고를 발령했다. 나이지리아 의회는 100년 된 검역법 긴급 개정을 결의했다.",
+        "why_it_matters": "나이지리아는 아프리카 최다 인구국(2.2억 명)이며, 아부자 확진은 수도권 대도시 전파 시나리오를 현실화한다. 분디부교 변종은 치명률이 높고 기존 백신 효과가 제한적이다.",
+        "what_is_changing": "에볼라가 어제 나이지리아 첫 보고에서 하루 만에 케냐·라이베리아·수단 복합 위기와 맞물리면서 서아프리카를 넘어 동아프리카까지 확산 경로가 열렸다. 국경 검역 실패 패턴이 반복적으로 확인되고 있다.",
+        "connection": "수단 아비에이 드론 공격(사망자 153명+), 부르키나파소 사형제 부활 등 아프리카 전역의 안보·보건·거버넌스 복합 위기가 동시에 진행되고 있어 국제 인도주의 대응 역량이 한계에 달할 위험이 있다.",
+        "signal": "에볼라 확진자가 증상 상태에서 3개국을 이동한 사건은 현재 아프리카의 공중보건 감시 체계에 구조적 공백이 있음을 보여주는 초기 경고 신호다.",
+        "what_to_watch": "WHO 국제 공중보건 비상사태(PHEIC) 선포 여부, 나이지리아·케냐의 추가 접촉자 확인 규모, 서방 국가들의 여행 경보 격상 및 국경 통제 조치"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "아프리카 각국 정부는 경제적 타격과 낙인 효과를 우려해 신속한 공개 신고를 꺼리는 구조적 유인이 있다. 나이지리아의 100년 된 검역법 개정 시도는 늦었지만 올바른 방향이다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "국제 인도주의 기구의 수단·예멘·가자 집중으로 아프리카 감염병 대응 재원이 분산되고 있으며, 에볼라 대응 재원 조기 확보가 시급하다는 목소리가 커지고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo",
+          "region": "Nigeria/Uganda"
+        },
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo",
+          "region": "Kenya"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo",
+          "region": "Africa"
+        }
+      ]
+    },
+    {
+      "headline": "PHP 취약점이 전 세계 공공 인프라를 강타했다—AI가 발견하고 AI가 공격하는 사이버보안의 새 시대",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "OpenAI·구글 Wiz가 AI를 활용해 PHP에서 심각도 9.2점 수준의 취약점 두 건(PHP2Shell 포함)을 발견했다. 전 세계 웹사이트 약 70%가 PHP를 사용하는 상황에서 유럽 정부·병원·학교 사이트가 예방 차원으로 오프라인 전환됐고, 일본 주요 은행·항공사도 서비스를 중단했다. 영국은 AI로 탐지한 뒤 32개 공공 서비스를 즉시 오프라인으로 전환했다. 수백만 건의 해킹 시도가 같은 기간 보고됐으며, Node.js·LiteLLM·GitLab에서도 별도 취약점이 동시 확인됐다.",
+        "why_it_matters": "단일 플랫폼 취약점이 전 세계 인터넷 인프라의 70%를 동시 위협하는 사례는 전례가 드물다. 특히 AI가 방어(취약점 발견)와 공격(악용 자동화) 모두에 활용된다는 점에서 사이버 공방의 성격 자체가 바뀌고 있다.",
+        "what_is_changing": "수십 년간 쌓인 레거시 코드에 숨어 있던 취약점을 AI가 기존보다 훨씬 빠르게 발굴하는 시대가 열렸다. 방어 측이 AI로 먼저 발견하더라도, 패치 배포 전 공개된 취약점 정보가 공격자에게도 활용되는 경쟁적 구도가 상시화되고 있다.",
+        "connection": "한국 과기부, 태국 NCSA 등 아시아 각국 사이버 당국이 경보를 격상했고, 중간 인증기관(Intermediate CA) 취약점(CVE-2026-111943)이 같은 날 공개되며 PKI 신뢰 체계 전반에도 경고가 켜졌다.",
+        "signal": "AI 기반 취약점 발견 속도가 인간 중심 패치 대응 속도를 압도하기 시작한 첫 대규모 사례로, 보안 거버넌스 체계 전면 재설계가 불가피하다는 신호다.",
+        "what_to_watch": "PHP 긴급 패치 배포 이후 실제 피해 규모 집계, LiteLLM 공급망 공격의 파급 범위, 각국 정부의 레거시 인프라 현대화 예산 편성 움직임"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "AI가 보안 방어에 투입된 최초의 전 지구적 사례이지만, 동시에 AI가 공격 자동화를 가속화하는 양면성이 처음으로 동시에 실증됐다. 보안 업계는 AI 기반 취약점 스캐닝을 방어용으로 선점하기 위한 경쟁에 진입했다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "공공 인프라가 민간 플랫폼(PHP)의 취약점에 연동되는 구조는 국가 사이버 주권의 근본적 한계를 드러낸다. 정부가 자국 디지털 인프라의 외부 의존도를 얼마나 줄일 수 있는지가 장기 안보 과제로 부상했다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+          "region": "Technology"
+        },
+        {
+          "source": "Straits Times",
+          "link": "https://www.straitstimes.com/asia/governments-companies-take-websites-offline-over-php-flaws",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet",
+          "region": "Middle East"
+        },
+        {
+          "source": "Hacker News Top / LiteLLM",
+          "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+          "region": "Global"
+        }
+      ]
+    }
+  ]
+}
