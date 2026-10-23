@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-23",
+  "session": "pm",
+  "time": "21:39",
+  "global_picture": {
+    "world_right_now": [
+      "미국-이란 전쟁 8개월째, 브렌트유 114달러까지 치솟으며 글로벌 에너지 위기 심화",
+      "에볼라가 동·서·남아프리카 3개 권역으로 동시 확산—WHO '복잡한 유행' 경고",
+      "러시아, 협상 재개 신호 직후 우크라이나 미사일 공습 감행—11월 아부다비 회담 예정",
+      "프랑스 전국 폭동에 7만 보안 병력 투입, 마크롱 불법 시위 금지 선언",
+      "이스라엘 총선 전날 서안 무장 공격 발생, 네타냐후 전면 봉쇄령",
+      "세르비아 조기 총선, 학생 주도 시민 저항이 부치치 장기 집권에 도전",
+      "브라질 대선 결선 임박—룰라 대 볼소나루 계열 초박빙 접전",
+      "Z세대 저항 운동이 프랑스·알바니아·세르비아·인도에서 동시다발로 분출",
+      "PHP 제로데이 취약점, 공개 4일 전부터 선행 악용—정부 웹사이트 긴급 오프라인",
+      "중국 군함 건조량 미국의 2배 초과, 대만 분쟁 시 장기전 불리 우려"
+    ],
+    "emerging_signals": [
+      "HSBC가 소비자용 스테이블코인을 300만 앱 사용자에게 출시—주류 금융과 디지털 화폐의 경계가 허물어지고 있다",
+      "일본 대학 방위성 연구비 신청이 2배 급증—수십 년간 이어온 전후 평화주의 학술 금기가 빠르게 약화되고 있다",
+      "중국 휴머노이드 로봇이 한국 공장 시범 배치 단계로 진입—물리적 AI의 지정학적 경쟁이 제조 현장으로 확산",
+      "GLP-1 비만치료제가 뷰티·맥주·항공 등 소비 산업 구조를 바꾸기 시작했다",
+      "개인 맞춤형 mRNA 암 백신이 흑색종 사망·재발 42% 감소—치료 패러다임 전환 임박",
+      "스웨덴 정부, 상용 AI 챗봇 전면 금지—유럽 공공 부문의 AI 불신이 정책으로 제도화되고 있다"
+    ],
+    "structural_trends": [
+      "중동 전쟁 장기화가 글로벌 에너지 공급망을 재편—카나다 LNG 확장, 유럽 탈중동 다변화 가속",
+      "AI가 사이버 공격의 규모·속도를 비약적으로 높이며 기존 보안 패러다임을 무너뜨리고 있다",
+      "유럽이 미국 안보 의존에서 벗어나 독자 방위 체계 구축으로 전환—영불 핵 훈련, 에스토니아 국방비 GDP 5.4% 확대",
+      "Z세대의 물질적 불안이 반정부 시위의 글로벌 공통 동인으로 부상—특정 이념이 아닌 공정성·생존의 문제",
+      "AI가 의료·기상·과학 탐구 전 영역에서 인간 전문가를 보조하거나 대체하기 시작했다",
+      "민간 기업(SpaceX·테슬라·머스크 계열사)이 전쟁·외교·정치의 실질적 행위자로 부상하며 민주적 통제의 공백 노출"
+    ],
+    "what_changed_today": [
+      "유가가 어제 112달러에서 브렌트유 114달러까지 상승—이란 전쟁 리스크가 한 단계 더 고조",
+      "에볼라 확진국이 어제보다 늘어 4개국으로 확산 공식화—WHO가 '복잡한 유행' 수준으로 격상",
+      "PHP 취약점이 단순 인프라 마비를 넘어 제로데이 선행 악용으로 확인—공시 프로세스 자체의 결함 노출",
+      "러시아가 협상 의지를 표명하면서도 공습을 멈추지 않아 진정성 논란이 새로운 단계로 진입",
+      "프랑스 폭동이 할리우드 촬영 중단과 국채 금리 급등으로 이어지며 경제적 파장 현실화"
+    ],
+    "what_to_watch_next": [
+      "이스라엘 총선(10월 28일)—서안 봉쇄와 안보 긴장이 선거 결과와 연립 구성에 어떤 영향을 미칠지",
+      "세르비아 총선(10월 25일)—학생 세력이 부치치 연합의 과반을 저지할 수 있는지",
+      "브라질 대선 결선(10월 26일)—메타 편향 의혹과 초박빙 구도의 최종 결과",
+      "에볼라 추가 확산국 여부—감염자가 3개국 이동 사례처럼 국경 통제 밖으로 추가 이탈하는지",
+      "중국 공산당 5중전회(10월 26~29일)—인사 개편 규모와 반부패 강화 방향",
+      "러시아-우크라이나-미국 아부다비 협상(11월)—스타쉴드 논란과 공습 병행이 협상 신뢰성에 미칠 영향",
+      "미국 중간선거(11월 3일)—민주당 하원 탈환 92% 확률 예측이 실현될지, 트럼프 이후 대이란 행동 타이밍"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "중동 전쟁이 글로벌 에너지 체계를 흔들고 있다—유가 100달러, 가스 가격 2022년 이후 최고치",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국-이란 전쟁이 8개월째 지속되며 브렌트유가 114달러까지 치솟고 WTI는 100달러 근방에서 변동성 장세를 이어가고 있다. 후티 반군이 사우디 에너지 인프라를 추가 공격 목표로 지목했고 이집트가 사우디 방어 지원 의사를 밝히며 걸프 전역으로 확전 우려가 고조됐다. 유럽 TTF 천연가스 가격도 카타르 LNG 공급 차질로 2022년 이후 최고 수준에 달했다.",
+        "why_it_matters": "에너지 가격 급등은 인플레이션, 항공요금 상승, 산업 생산 차질을 통해 전 세계 경제에 직접적 타격을 준다. 호르무즈 해협 봉쇄 시 글로벌 석유 공급이 수주 내 고갈될 수 있다는 경고가 현실성을 갖게 됐다.",
+        "what_is_changing": "단순한 지역 분쟁이 글로벌 에너지 공급망의 구조적 재편을 강제하고 있다. 캐나다 LNG 2단계 확장이 최종 투자 결정되고, 아시아·유럽이 중동 의존 탈피를 위한 공급 다변화를 서두르고 있다. 일본은 연료 보조금 축소를, 중국은 비축유 방출 완화를 검토하는 등 주요국의 에너지 정책이 전시 대응 모드로 전환됐다.",
+        "connection": "미·이스라엘의 중간선거 이후 이란 추가 타격 계획 보도와 맞물려 전쟁 장기화 우려가 커지고 있다. 사우디의 탄도미사일 시설 확장도 이 맥락에서 읽힌다. EU의 북극 화석연료 개발 배제 원칙 재확인은 에너지 현실과의 괴리 논란을 낳고 있다.",
+        "signal": "에너지 공급망의 지정학적 무기화가 일시적 충격이 아니라 구조적 전환점이 되고 있다. 세계 전략 비축유가 수십 년 만의 최저 수준으로 떨어진 것은 다음 충격에 대한 완충력이 크게 약화됐음을 의미한다.",
+        "what_to_watch": "호르무즈 해협의 실제 봉쇄 여부, 미국 중간선거 이후 대이란 군사 행동 타이밍, OPEC+의 긴급 생산 대응 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "유가 100달러 이상이 지속되면 전 세계 GDP 성장률이 0.5~1%포인트 하락할 수 있다. 항공·물류·화학 등 에너지 집약 산업이 직격탄을 맞으며, 이미 긴축 압박을 받고 있는 영국·호주 같은 나라의 소비자 부담이 가중된다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "미국 중간선거를 앞둔 시점에 에너지 가격 급등은 여당에게 불리한 변수다. 동시에 '선거 이후 이란 타격' 계획 보도는 군사 행동과 선거 일정의 연동 가능성이라는 민주주의적 우려를 낳는다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 데이터센터 전력 수요 급증이 고유가와 겹치며 에너지 전환의 속도를 둘러싼 압력이 한층 커지고 있다. 재생에너지 확대 속도가 이 이중 수요를 따라가지 못하는 구조적 격차가 심화되고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Hold-Near-100-as-Middle-East-Risks-Offset-Peace-Hopes.html",
+          "region": "Global"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-114-as-Houthi-Attacks-Threaten-Saudi-Energy-Infrastructure.html",
+          "region": "Middle East"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-to-Highest-Level-Since-2022.html",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/commentary/2026/10/23/world/iran-war-world-hunger/",
+          "region": "Global"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "에볼라가 아프리카 3개 권역에 동시 상륙했다—국경 보건 통제망의 근본적 실패가 드러나고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "에볼라 바이러스가 우간다 발원에서 동·서·남아프리카로 확산되며 사망자가 약 4,700명에 달하고 있다. 나이지리아에서 10년 만에 첫 확진자(스위스 외교관 배우자)가 보고됐고, 케냐 확진 클러스터가 9명으로 늘어 미국이 여행 재고를 권고했다. 40대 남성이 감염 상태로 세 개국을 이동하고도 감지되지 않은 사례가 드러났으며, 아프리카 CDC는 긴급 장관급 회의를 소집했다.",
+        "why_it_matters": "나이지리아는 아프리카 최대 인구 국가로, 이 나라에서 확산이 통제되지 않으면 서아프리카 전역으로의 대규모 확산이 현실화될 수 있다. 감염자가 3개국을 무감지로 이동한 사례는 국제 공항 검역 시스템의 구조적 허점을 폭로한다.",
+        "what_is_changing": "2014~2016년 서아프리카 에볼라 유행 이후 강화됐다고 평가받던 국경 보건 통제 체계가 다시 한번 한계를 드러냈다. 단일 발원지 봉쇄 전략에서 다국 동시 대응 체계로의 전환이 불가피해졌다.",
+        "connection": "기니비사우에서 RFK Jr. 지지 연구자들이 주도한 아기 대상 백신 임상시험이 윤리 논란으로 중단된 시점과 맞물려, 아프리카 보건 체계를 둘러싼 국제 협력의 신뢰 문제가 복합적으로 제기되고 있다.",
+        "signal": "에볼라의 다국 동시 확산은 글로벌 팬데믹 대비 체계가 여전히 취약하다는 강력한 경고 신호다. 특히 기후변화로 인한 생태계 교란이 인수공통 감염병의 지리적 확산을 가속화하는 패턴과 연결된다.",
+        "what_to_watch": "나이지리아 내 2차 전파 여부, 케냐·에티오피아 연결 항공 허브를 통한 추가 국가 유입, WHO의 국제공중보건비상사태(PHEIC) 선언 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "아프리카 CDC의 긴급 회의 소집은 아프리카 보건 거버넌스가 외부 의존에서 자립으로 전환하려는 시도를 보여준다. 그러나 자금·인력·기술의 격차가 여전히 크다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "40대 감염자가 3개국을 이동한 사례는 개인의 정보 접근성과 공중보건 의식 문제이기도 하지만, 근본적으로는 감염 사실을 공개했을 때 낙인찍힐 것을 두려워하는 사회적 맥락의 결과물이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "AllAfrica (Africa CDC)",
+          "link": "https://allafrica.com/stories/202610210285.html",
+          "region": "Africa"
+        },
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo",
+          "region": "Nigeria"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/23/world/science-health/africa-complex-ebola-outbreak/",
+          "region": "Japan"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+          "region": "Africa"
+        }
+      ]
+    },
+    {
+      "headline": "러시아는 협상 테이블에 앉으면서 미사일을 쏘고 있다—우크라이나 전쟁의 외교와 전쟁이 동시에 진행 중이다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "러시아가 미국·우크라이나와의 협상 재개에 원칙적으로 동의한다고 밝힌 직후 우크라이나를 향해 세 차례 미사일 공격을 감행했다. 러시아와 우크라이나, 미국은 11월 아랍에미리트 아부다비에서 3자 협상을 재개할 예정이다. 동시에 트럼프는 스타쉴드 복구를 선언했으나 우크라이나는 현장에서 달라진 것이 없다고 반박했으며, 우크라이나는 스타링크 의존을 줄이기 위한 독립적 드론 기술 전환을 서두르고 있다.",
+        "why_it_matters": "협상 신호와 군사 행동의 동시 진행은 러시아의 협상 진정성에 근본적 의구심을 던지며, 우크라이나와 서방의 전략적 판단을 복잡하게 만든다. 스타쉴드 논란은 민간 기업이 현대 전쟁의 통신 인프라를 좌우하는 새로운 위험 구조를 드러냈다.",
+        "what_is_changing": "러시아 점령지 내 아동 세뇌와 주민 학대 증언이 잇따르며, 군사적 점령이 문화·교육 영역의 강제 동화로 심화되고 있다. 우크라이나가 머스크의 위성에 의존하지 않는 독자 전장 기술을 개발하는 것은 전쟁의 기술·지정학 구조가 바뀌고 있다는 신호다.",
+        "connection": "사브의 그리펜 전투기 계약 이후 수주잔고 3배 급증, 에스토니아의 국방비 GDP 5.4%로 확대 등 유럽 재무장이 실제 발주와 예산으로 가시화되고 있다. 영불 최초 공동 핵 훈련도 이 맥락에서 읽힌다.",
+        "signal": "아부다비 협상이 성사되더라도 현장 공습이 멈추지 않는다면 이는 '협상을 이용한 시간 벌기' 전술로 굳어질 수 있다. 민간 위성통신이 전쟁의 취약한 연결 고리가 된 구조적 문제는 이번 전쟁 이후에도 지속될 과제다.",
+        "what_to_watch": "11월 아부다비 협상의 실질 의제와 양보 여부, 스타쉴드 접근 제한의 공식 해명, 우크라이나의 독립 드론 기술 전환 속도"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아의 이중 전술—협상 제스처와 군사 공세의 병행—은 트럼프 행정부의 조기 종전 압박을 무력화하면서 시간을 확보하려는 계산된 전략으로 보인다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "SpaceX가 군사 발사를 거절하고 스타링크 드론 접속에 속도 제한을 적용한 사례는 민간 기업이 전쟁의 게이트키퍼가 된 현실의 위험성을 보여준다. 이는 국제법과 군사 지휘 체계가 아직 대응 틀을 갖추지 못한 새로운 영역이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe/Ukraine"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/talks-between-russia-ukraine-and-us-planned-to-resume-in-november-in-abu-dhabi/article71615588.ece",
+          "region": "India"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+          "region": "Technology"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "프랑스 전역에서 Z세대 폭동이 번지고 있다—생활비 위기가 유럽 정치 질서를 흔드는 촉매가 됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "프랑스에서 대규모 시위와 약탈이 이어지며 마크롱이 불법 시위 금지를 선언하고 7만 명의 보안 병력을 투입했다. 파리 근교에서는 총격으로 1명이 사망하고 4명이 부상해 검찰이 테러 연계 가능성을 수사 중이다. 프랑스 국채 금리가 급등하며 유로존 전반으로의 재정 위기 전이 우려도 커졌다.",
+        "why_it_matters": "프랑스는 EU 두 번째 경제 대국이다. 사회 불안과 국채 금리 상승의 동시 발생은 정치·경제 복합 위기의 신호다. 프랑스 폭동이 EU-중국 무역 긴장에 미칠 파급 가능성도 제기됐다.",
+        "what_is_changing": "단순한 분노 표출이 아니라, 사회학자들이 '물질적 불안에서 비롯된 세대적 정치 의식의 발현'으로 분석하는 구조적 저항이 전 세계적으로 동시에 나타나고 있다. 알바니아·세르비아·인도에서도 동일한 세대적 패턴이 관찰된다.",
+        "connection": "폴란드 낙태권 시위, 세르비아 선거 전야 대규모 집회, 인도 유권자 등록 반대 시위까지 합치면 서방 민주주의 전반에서 청년층의 제도 불신이 동시 분출하는 글로벌 현상이 뚜렷해진다. 영국 예산안 발표를 앞두고 87%가 생활비 절감 조치를 취했다는 조사도 같은 맥락이다.",
+        "signal": "이 운동이 지역별 정치 요구를 흡수하면서 일관된 이념보다는 공정성·생존이라는 물질적 의제를 중심으로 결집하는 패턴은 기존 좌-우 대립 구도로는 포착되지 않는 새로운 정치 균열을 예고한다.",
+        "what_to_watch": "프랑스 주말 시위의 규모와 극우 국민연합(RN) 대회와의 충돌 여부, 마크롱 정부의 실질 정책 응답 내용, 유럽 채권 시장의 반응"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "생활비 위기는 에너지 가격 급등, 고금리, 실질임금 정체가 복합 작용한 결과다. 프랑스 국채 금리 상승은 시위가 단순 치안 문제를 넘어 재정 신뢰도 문제로 번졌음을 보여준다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "마크롱의 통행금지와 강경 대응은 단기 진압에 집중하지만, 구조적 불만의 해소 없이는 반복될 가능성이 높다. 극우 국민연합이 이 균열을 정치적으로 활용할 공간이 커지고 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "Z세대는 디지털 네트워크를 통해 국경을 넘어 연대하고 있다. 프랑스·알바니아·인도의 시위가 거의 동시에 일어나며 공명하는 것은 소셜미디어가 새로운 정치 동원 인프라임을 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261023-french-mayors-analyze-the-political-crisis-as-new-protests-are-expected",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/french-authorities-ban-some-student-protests-after-weekend-looting-and-clashes",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/politics-in-materialist-terms-gen-z-in-albania-italy-france-and-india-protesting-for-fairness",
+          "region": "Europe"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
