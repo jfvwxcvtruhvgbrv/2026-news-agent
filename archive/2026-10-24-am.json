@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-24",
+  "session": "am",
+  "time": "07:11",
+  "global_picture": {
+    "world_right_now": [
+      "에볼라가 콩고→케냐→나이지리아로 번지며 다국가 공중보건 비상사태로 격상되고 있다",
+      "이스라엘이 서안지구를 전면 봉쇄하고 대규모 군사작전을 예고하며 중동 긴장이 임계점에 달했다",
+      "멜라니아 트럼프가 우크라이나 올레시키 국지 휴전을 중재했지만 러시아의 키이우 공습은 멈추지 않았다",
+      "브렌트유가 배럴당 120달러에 근접하며 이란 전쟁 여파가 글로벌 에너지 가격을 끌어올리고 있다",
+      "미국 중간선거를 앞두고 트럼프 행정부의 사법·선거 개입 논란과 관세 정책 혼선이 동시에 터져 나오고 있다",
+      "PHP 보안 취약점 공개로 전 세계 정부 웹사이트들이 오프라인으로 전환되는 사이버 비상사태가 발생했다",
+      "프랑스에서 폭동 이후 경찰 7만 명이 배치됐고 파리 교외 인종주의 총격 테러가 겹치며 마크롱 정부가 이중 위기에 직면했다",
+      "요르단 교회 장례식 총격으로 7명이 사망하며 중동 내 종교 소수집단 안전 문제가 다시 불거졌다",
+      "mRNA 개인 맞춤형 암 백신이 흑색종 사망·재발을 42% 줄이는 3상 결과를 발표해 암 치료 패러다임 전환이 가시화되고 있다",
+      "브라질 대선 결선투표가 초접전 국면에 진입하며 아마존 미래와 남미 정치 방향이 걸린 분수령이 임박했다"
+    ],
+    "emerging_signals": [
+      "SpaceX 스타링크가 군사 인프라의 민간 통제 취약점으로 부각되며 우크라이나가 대체 위성체계 구축을 서두르고 있다",
+      "AI 취약점 탐지 능력이 오픈소스 보안 관리 방식 자체를 바꾸고 있다—Bitcoin Core의 버그 비공개 정책 폐기가 선례",
+      "CRISPR 프라임 편집이 살아있는 인체 내에서 처음 적용되며 유전자치료 임상의 새 장이 열렸다",
+      "이란의 걸프 해저 통신케이블 공격 계획이 구체화되며 글로벌 디지털 인프라가 지정학 무기의 표적으로 부상하고 있다",
+      "OpenAI의 1.25조 달러 밸류에이션 추가 조달과 Anthropic IPO 준비가 겹치며 AI 자본 집중이 정점을 향하고 있다",
+      "미국과 브라질에서 억만장자들의 선거 자금 투입 규모가 기록을 갱신하며 부호의 민주주의 개입이 글로벌 패턴으로 굳어지고 있다"
+    ],
+    "structural_trends": [
+      "민간 위성·통신 인프라가 전쟁의 핵심 변수로 등장하며 기업의 지정학적 책임 논쟁이 새로운 국제 규범 요구로 이어지고 있다",
+      "에볼라의 다국가 동시 확산은 아프리카 국경 검역 체계의 구조적 한계와 글로벌 보건 거버넌스 재편 필요성을 재확인하고 있다",
+      "AI 도입이 금융·통신·미디어 등 서비스업 전반에서 대규모 감원을 유발하며 국가별 충격 속도가 크게 차별화되고 있다",
+      "그리스·호주·영국 등 선진국들이 잇따라 아동 소셜미디어 연령 제한 입법에 나서며 디지털 플랫폼 규제의 글로벌 표준화가 진행 중이다",
+      "중동 전쟁 장기화가 식량·에너지 공급망을 동시에 교란하며 20년간의 기아 감소 추세를 역전시키는 구조적 충격을 낳고 있다",
+      "mRNA 기술이 코로나19를 넘어 개인 맞춤형 암 치료로 확장되며 의약품 개발 패러다임이 근본적으로 변화하고 있다"
+    ],
+    "what_changed_today": [
+      "에볼라가 어제의 '3개 권역 동시 확산' 단계를 넘어 나이지리아 수도에 첫 확진자가 발생하며 서아프리카 도시 확산 우려가 현실화됐다",
+      "멜라니아 트럼프의 올레시키 휴전 중재라는 이례적 외교 사례가 공식 확인됐고, 러시아-우크라이나 국지 휴전이 공식 성립됐다",
+      "PHP 보안 취약점이 실제 정부 웹사이트 오프라인 전환으로 이어지며 사이버 위협이 이론에서 현실 피해로 전환됐다",
+      "브렌트유가 배럴당 120달러 임박이라는 새 임계치에 도달했고 CFTC가 이란 위협 철회 직전 대규모 선물 이상 매도를 공식 조사하기 시작했다",
+      "요르단 교회 총격 사망자가 7명으로 확정되며 어제 단순 사건으로 보도됐던 것이 중동 안보 이슈로 격상됐다",
+      "프랑스 폭동 후속으로 경찰 7만 명 배치와 루브르 폐쇄가 현실화됐고, 파리 교외 인종주의 테러가 추가로 발생했다"
+    ],
+    "what_to_watch_next": [
+      "에볼라가 나이지리아 아부자에서 2차 감염자를 낳을 경우 WHO 국제공중보건비상사태(PHEIC) 선언 여부",
+      "브라질 대선 결선투표 결과와 아마존 환경 정책 방향 변화",
+      "미국 중간선거 결과 및 트럼프 행정부의 이란 군사 공격 실행 여부",
+      "스타링크 제한 문제가 미국-영국-캐나다 동맹 공개 압박으로 확산될지, 머스크와 트럼프의 관계에 균열이 생길지",
+      "프랑스 추가 시위와 마크롱 정부의 정치적 생존 가능성, EU 내 극우 동조 확산 여부",
+      "중동 유가가 배럴당 120달러를 돌파할 경우 글로벌 인플레이션 재점화 및 각국 중앙은행 대응 여부",
+      "중국 공산당 전체회의(10월 26~29일) 결과와 2027년 전당대회 앞 인사 변동 신호",
+      "PHP 취약점 패치 보급 속도와 실제 대규모 해킹 피해 발생 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "에볼라가 콩고를 벗어나 케냐·나이지리아까지 상륙했다—국경 검역의 구조적 실패가 다국가 확산을 불렀다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "콩고민주공화국에서 시작된 에볼라가 케냐(확진 9명, 사망 2명)와 나이지리아 수도 아부자(스위스 외교관 배우자 첫 확진)로 번졌다. 증상이 심각한 상태에서 확진자가 항공편과 육로를 이용해 세 국가를 이동한 사실이 확인되며 국경 검역 체계의 허점이 드러났다. WHO는 복합적 발생 상황이라고 경고했으며 미국은 케냐 여행 재고를 권고했다.",
+        "why_it_matters": "에볼라가 아프리카 최다 인구 국가 나이지리아의 수도에 상륙했다는 것은 도시 내 전파 가능성과 항공망을 통한 글로벌 확산 위험이 현실화됐음을 의미한다. 케냐·나이지리아·라이베리아가 모두 감시 태세에 들어간 것은 서아프리카와 동아프리카를 잇는 확산 경로가 동시에 열렸다는 신호다.",
+        "what_is_changing": "2014년 서아프리카 에볼라 위기와 달리 이번에는 확진자가 항공 이동으로 지역 간 경계를 넘었다. 국제 연결성이 높은 동아프리카와 서아프리카가 동시에 영향을 받는 패턴은 기존 봉쇄 방어선이 더 이상 작동하지 않음을 보여준다.",
+        "connection": "만성적 식량 불안이 방역 대응을 저해한다는 유엔 경고는 중동 전쟁 여파로 악화된 글로벌 식량위기와 연결된다. 또한 미국 CDC의 아프리카 백신 임상 지원 중단 결정이 이 시점에 겹치며 글로벌 보건 거버넌스 공백 문제가 부각된다.",
+        "signal": "이번 확산은 팬데믹급 위협이 단일 지역 봉쇄로는 통제되지 않는 시대로 접어들었음을 알리는 초기 신호다. WHO PHEIC 선언 여부가 다음 임계점이 될 것이다.",
+        "what_to_watch": "나이지리아 아부자 내 2차 감염 발생 여부, WHO의 국제공중보건비상사태 선언 검토, 콩고에서 추진 중인 에볼라 백신 임상 착수 일정"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "미국 CDC 지원 축소와 글로벌 보건 거버넌스 공백이 맞물리면서 서방의 아프리카 보건 투자 철회가 방역 역량 약화로 직결되는지에 대한 논쟁이 격화될 것이다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "확진자가 증상 중에도 세 국가를 이동했다는 사실은 경제적 이유나 의료 접근성 부재 때문에 검역을 회피하는 구조적 문제를 드러낸다. 공포 기반 격리 정책만으로는 확산을 막기 어렵다는 교훈이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+          "region": "North America"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/23/world/science-health/africa-complex-ebola-outbreak/",
+          "region": "Japan"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+          "region": "Africa"
+        }
+      ]
+    },
+    {
+      "headline": "이스라엘, 서안지구 전면 봉쇄와 대규모 군사작전을 동시 선언했다—선거 정치와 안보가 뒤엉킨 위험한 조합",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "헤브론 인근 검문소에서 팔레스타인 무장세력이 이스라엘 군인 2명을 사살했다. 네타냐후 총리는 즉각 서안지구 전면 봉쇄를 명령하고 대규모 군사작전을 예고했으며 주택 철거도 시작됐다. 하마스는 해당 공격을 '영웅적 작전'으로 칭하며 추가 공격을 촉구했다.",
+        "why_it_matters": "가자 전쟁이 3년 이상 이어진 상황에서 서안지구가 새로운 주요 전선으로 부상하고 있다. 이스라엘 총선을 불과 몇 주 앞두고 이뤄진 강경 대응은 군사 결정과 선거 계산이 뒤섞이는 위험한 역학을 만들어낸다.",
+        "what_is_changing": "이스라엘 군의 서안 작전 강도와 범위가 가자 전쟁 이후 꾸준히 확대되어 왔다. 이번 전면 봉쇄는 이동 제한에 그치지 않고 물자 차단까지 포함해 팔레스타인 민간인 생활에 직접적 타격을 줄 수 있다.",
+        "connection": "미국과 이스라엘이 중간선거 이후 이란에 대한 군사 공격을 검토 중이라는 보도와 맞물려, 중동 전역에서 이스라엘이 동시 다면전선을 관리해야 하는 상황이 가중되고 있다. 이스라엘 정착민의 팔레스타인 올리브 농장 공격도 같은 시기 보고됐다.",
+        "signal": "가자 전쟁이 서안지구 전면 군사화로 확장될 수 있다는 신호다. 이스라엘 최초 투표 청년층의 4분의 3이 우파를 지지한다는 조사 결과와 결합하면, 이스라엘 사회의 구조적 우경화가 정책에 직접 반영되는 장기 국면이 될 수 있다.",
+        "what_to_watch": "이스라엘 군사작전의 실제 규모와 기간, 이스라엘 선거 결과가 서안 정책에 미치는 영향, 미국·이란 군사 충돌 가능성과의 연동 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "네타냐후 총리는 총선을 앞두고 강경 대응으로 우파 연대를 결집하려 하지만, 분석가들은 이것이 선거에 반드시 유리하지만은 않다고 본다. 아랍 정당들이 차기 크네세트에서 캐스팅보트를 쥘 수 있다는 전망도 나온다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "올리브 수확 시즌 정착민 공격과 전면 봉쇄가 겹치면서 팔레스타인 농촌 경제가 직접적 타격을 받고 있으며, 이는 서안지구 내 무장 저항 세력의 모병 기반을 강화할 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+          "region": "North America"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election/article71615850.ece",
+          "region": "India"
+        }
+      ]
+    },
+    {
+      "headline": "중동 전쟁이 브렌트유를 120달러 임박까지 밀어올렸다—이란 원유 선물 이상거래 CFTC 조사로 시장 신뢰까지 흔들려",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "사우디-후티 충돌 격화와 미-이란 갈등 확전 우려로 브렌트유가 6개월 만에 최고치를 기록하며 배럴당 120달러에 근접했다. 동시에 트럼프의 대이란 위협 철회 발표 직전 2분 만에 원유 선물 600만 배럴 이상이 매도된 이상 거래를 CFTC가 공식 조사 중이다. 첫 러시아산 디젤 유조선이 미국을 향해 출항하며 제재 체제에 새로운 균열이 생겼다.",
+        "why_it_matters": "유가 급등은 항공요금 인상, 글로벌 인플레이션 재점화, 중간선거를 앞둔 미국 소비자 심리 악화로 이어지는 연쇄 충격을 낳는다. 트럼프 행정부가 마땅한 가격 억제 수단을 갖추지 못한 상황에서 정치적 결정과 연동된 내부자거래 의혹은 시장 신뢰를 추가로 훼손할 수 있다.",
+        "what_is_changing": "미국이 러시아산 에너지를 공식적으로 수입하기 시작한 것은 2022년 이후 서방 제재 체제의 가장 가시적인 균열이다. 동시에 카타르가 미국산 LNG 장기 계약을 체결하며 글로벌 에너지 공급망의 지정학적 재편이 가속화되고 있다.",
+        "connection": "호르무즈 해협 인근 유조선 피격과 UAE 해안 기름 유출, 이란의 걸프 해저 통신케이블 공격 계획이 맞물리며 중동 분쟁이 에너지·디지털 인프라를 동시에 위협하는 복합 위기로 진화하고 있다.",
+        "signal": "에너지와 지정학의 결합이 단순한 가격 충격을 넘어 글로벌 공급망 재편과 동맹 재조정의 촉매로 작동하기 시작했다는 신호다.",
+        "what_to_watch": "브렌트유의 배럴당 120달러 돌파 여부와 각국 중앙은행 대응, CFTC 내부자거래 조사 결과, 이란의 걸프 해저케이블 실제 공격 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "유가 급등은 중간선거를 앞둔 미국 소비자 심리를 추가로 위축시키며 공화당에 불리하게 작용할 수 있다. 반면 미국 LNG 수출 기업들은 카타르·유럽의 대체 수입 수요로 반사 이익을 누리고 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "러시아산 디젤 수입과 CFTC의 트럼프 정책 연동 이상거래 조사가 겹치면서 에너지 정책의 정치적 투명성 문제가 중간선거 국면의 새로운 공격 지점이 되고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html",
+          "region": "Energy"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/6-Million-Barrels-in-Two-Minutes-Draws-CFTC-Scrutiny.html",
+          "region": "Energy"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html",
+          "region": "Energy"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+          "region": "Business"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+          "region": "Business"
+        }
+      ]
+    }
+  ]
+}
