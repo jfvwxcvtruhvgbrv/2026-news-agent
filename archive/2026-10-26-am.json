@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-26",
+  "session": "am",
+  "time": "06:45",
+  "global_picture": {
+    "world_right_now": [
+      "브라질 대선 결선투표가 역대 최박빙으로 진행되며 중남미 정치 방향의 분수령이 되고 있다",
+      "이스라엘이 10월 7일 이후 첫 총선을 실시하며 네타냐후의 정치적 생존과 중동 안보의 향방이 동시에 결정되고 있다",
+      "에볼라가 DRC에서 케냐·나이지리아로 확산되며 국제 검역 시스템의 허점이 드러났다",
+      "프랑스 시위가 2주 연속 확대되며 국채 금리 24년 최고치를 기록하고 르펜 대선 캠페인의 발판이 되고 있다",
+      "세르비아에서 2년간의 학생 시위가 70% 투표율이라는 선거 결과로 부치치 장기 집권을 끝냈다",
+      "머스크의 스타링크 접속 제한·복구 사태로 민간 위성 서비스가 전쟁의 지정학적 무기가 된 현실이 다시 확인됐다",
+      "후티 반군의 사우디 리야드 미사일 공격으로 중동 에너지 리스크가 재고조되고 유가가 배럴당 120달러에 육박하고 있다",
+      "김정은이 신압록강대교를 통해 중국을 전격 방문하며 북중 경제협력 강화 의지를 공개적으로 재확인했다",
+      "일본이 핵추진 잠수함 보유 검토를 공식화하며 중국 해군 팽창에 대한 인도태평양 방위 패러다임이 전환점에 서 있다",
+      "AI 수익성 논란이 심화되며 대부분 기업에서 실질 재무 성과가 미미하다는 평가가 나오는 동시에 mRNA 맞춤형 암 백신이 흑색종 재발 위험을 절반으로 줄이는 3상 결과를 냈다"
+    ],
+    "emerging_signals": [
+      "베네수엘라 야권 지도자 마차도 귀국으로 마두로 정권 붕괴 이후 민주화 전환의 실질적 경로가 열리고 있다",
+      "홍콩이 APEC 계기로 위안화 역내 결제 허브 역할 확대를 공식화하며 달러 중심 무역 질서에 균열 신호를 보내고 있다",
+      "OpenAI가 프론티어 모델의 실시간 인터넷 학습을 전면 중단하며 AI 안전 논쟁이 기업 전략 결정으로 내면화되는 단계에 접어들었다",
+      "체내 직접 투여 프라임 편집 임상시험 시작으로 유전자 치료가 '체내 직접 편집' 시대의 문을 열었다",
+      "가축 바이러스 샤몬다의 첫 인간 감염 보고로 새로운 인수공통감염병 경계선이 등장했다"
+    ],
+    "structural_trends": [
+      "유럽 전역에서 생활비 불만이 반권위주의 시민운동과 결합해 선거 결과를 바꾸는 패턴이 반복되고 있다",
+      "민간 위성·AI·드론 등 비국가 기술 플랫폼이 전쟁의 핵심 변수로 부상하며 국가 안보 주권 개념이 재정의되고 있다",
+      "유가 급등·해운 비용 폭증·에너지 공급망 교란이 중동 지정학 리스크와 맞물려 글로벌 인플레이션 압력을 재가열하고 있다",
+      "AI 투자 거품 우려와 실제 의료·과학 분야 AI 성과의 격차가 뚜렷해지며 분야별 차별화 국면이 시작되고 있다",
+      "미국·영국·유럽 등에서 민방위 강화·재난 대비 캠페인이 동시에 등장하며 국가가 국민에게 위기를 공식 경고하는 시대로 전환하고 있다"
+    ],
+    "what_changed_today": [
+      "이스라엘이 실제로 총선 투표를 실시했고, 브라질 대선 결선투표도 당일 진행되며 두 나라 동시에 정치적 전환점을 통과했다",
+      "세르비아 부치치가 패배를 공식 인정하며 어제까지 선거 변화 가능성이었던 것이 확정된 현실이 됐다",
+      "에볼라 확진자가 세 나라 국경 검역망을 뚫고 비행기에 탑승한 사실이 확인되며 감염병 확산이 새로운 위험 단계에 진입했다",
+      "머스크의 스타링크 접속 제한이 복구됐으나 우크라이나가 공식적으로 반박하며 민간 위성통신 통제권 논란이 외교 문제로 격화됐다",
+      "후티의 사우디 수도 미사일 공격으로 중동 에너지 리스크가 유가 120달러 임박 상황과 맞물려 하루 만에 한 단계 더 고조됐다"
+    ],
+    "what_to_watch_next": [
+      "브라질 대선 결선투표 최종 개표 결과: 룰라 재집권 또는 볼소나루 2세 당선이 중남미 전체 정치 지형을 결정한다",
+      "이스라엘 총선 개표 결과와 네타냐후 연정 구성 가능성: 극우 내각 포함 여부가 중동 정책 방향을 좌우한다",
+      "에볼라의 추가 제3국 확산 여부와 WHO 국제공중보건비상사태 선포 가능성",
+      "프랑스 10월 31일 추가 시위 규모와 국채 금리 추이: 사회 불안이 재정 위기로 연결되는지 확인이 필요하다",
+      "영국 버넘 정부 10월 28일 첫 예산안 내용: 부유층 증세 범위와 복지 지출 방향이 향후 경제 노선의 시험대다"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "학생 시위가 선거 세력으로 변신했다—세르비아에서 장기 집권이 끝났다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "세르비아에서 10월 25일 조기 총선이 실시됐고, 2년간의 반부패 학생 시위에서 출발한 야권 연합이 약 37%를 얻어 부치치를 압박했다. 투표율은 약 60~70%로 유고슬라비아 해체 이후 최고치를 기록했으며, 부치치는 패배를 공식 인정했다.",
+        "why_it_matters": "12년 집권 세력의 교체가 확인됐다는 점도 중요하지만, 더 주목할 것은 교실과 광장에서 시작된 시민운동이 제도권 선거 참여를 통해 실질적 권력 변화를 이끌어냈다는 구조적 사례가 등장했다는 점이다.",
+        "what_is_changing": "기존에는 시위가 권위주의 체제를 흔들지만 선거에서 패배하는 패턴이 반복됐다. 세르비아에서는 2년간의 지속적 조직화가 선거 세력 전환으로 이어지며 그 공식이 깨졌다.",
+        "connection": "같은 시기 유럽 전역에서 시위가 동시에 진행됐으며, 프랑스 불만이 르펜 캠페인 발판이 되는 것과 대조적으로 세르비아는 시위 에너지가 진보적 반부패 세력으로 수렴됐다. EU는 선거 과정의 폭력과 부정 의혹에 우려를 표명했다.",
+        "signal": "시민 저항이 조직화와 인내를 통해 선거 결과를 바꿀 수 있다는 증거가 유럽에서 새롭게 만들어졌다. 권위주의 성향 지도자들에게는 장기적으로 더 강한 경계 신호다.",
+        "what_to_watch": "세르비아 신정부 구성 과정에서 EU 통합 노선 복귀 여부, 그리고 폭력·부정 의혹 수사가 어떻게 마무리되는지가 민주주의 전환의 실질 척도가 될 것이다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "2년간의 반부패 시위가 선거 연합으로 제도화된 것은 유럽 민주주의의 복원력을 보여주는 사례다. 그러나 선거 당일 폭력 사태와 요양원 압력 의혹은 구 집권 세력의 저항이 아직 끝나지 않았음을 시사한다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "청년 학생 세대가 정치 변화의 직접 행위자로 등장했다는 점에서 유럽 내 세대 교체와 정치 참여 방식의 구조적 변화가 반영된 결과로 읽힌다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "프랑스 시위가 재정 위기로 번지고 있다—르펜은 38% 지지율로 대선 레이스를 시작했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "생활비 위기에 항의하는 시위가 프랑스에서 2주 연속 이어지며 파리에서만 11만 명, 전국 41만 명 이상이 참가하고 1,300명 이상이 체포됐다. 사회 불안이 고조되자 프랑스 국채 금리가 24년 만에 최고치를 기록했고, 마린 르펜은 38% 지지율을 앞세워 대선 캠페인을 공식 출범했다.",
+        "why_it_matters": "거리의 분노가 금융시장의 경보로 전환되는 단계에 진입했다는 것이 핵심이다. 시위가 재정 리스크와 극우 정치 동력을 동시에 강화하는 복합 위기 구조를 형성하고 있다.",
+        "what_is_changing": "과거 프랑스 시위는 일시적 정책 조정으로 수습됐으나, 이번에는 국채 시장 반응이 동반되면서 정부가 재정 여력과 사회 안정 사이에서 선택을 강요받는 새로운 국면이 열렸다.",
+        "connection": "같은 시기 유럽 여러 도시에서 연대 시위가 열렸고, 세르비아 선거에도 영향을 미쳤다. 프랑스 불안은 이탈리아·스페인 등 유사한 재정 구조를 가진 국가들의 국채 스프레드에도 전파 압력을 가하고 있다.",
+        "signal": "사회적 불만이 금융시장 불안으로 이어지는 경로가 실시간으로 확인되고 있으며, 이는 포퓰리즘 정치가 경제 변수와 맞물려 증폭되는 패턴의 교과서적 사례가 될 수 있다.",
+        "what_to_watch": "10월 31일 예정된 추가 시위 규모와 프랑스 국채 스프레드 변화, 그리고 마크롱 정부가 예산 노선을 수정할지 여부가 단기 분기점이다."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "국채 금리 24년 최고치는 시장이 프랑스의 재정 적자 확대와 성장 둔화를 실질적 위험으로 인식하기 시작했다는 신호다. 사회 불안이 구조적 재정 리스크로 전환되는 속도가 빨라지고 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "르펜에게 이번 시위는 최적의 정치 환경이다. 사회 불만을 자신의 서사로 흡수하면서 '법치 회복'과 '르네상스'를 내세우는 전략이 38% 지지율로 가시화됐다. 마크롱 정부가 강경 진압과 유화책 사이에서 균형을 잡지 못하면 극우 집권 경로가 열릴 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+          "region": "Business"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "에볼라 확진자가 3국 검역망을 뚫었다—국제 방역 체계의 구조적 허점이 드러났다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "DRC에서 시작된 에볼라가 케냐(최소 2명 사망, 9명 확진)·나이지리아(스위스 외교관 배우자 포함 확진)로 확산됐다. 심각한 증상을 보이던 40대 확진자가 세 나라 국경과 공항 검역을 통과해 비행기에 탑승한 사실이 확인됐으며, 미국은 케냐 여행 재고를 권고했다. DRC에서는 현재 유행 변종에 허가되지 않은 백신으로 임상시험이 시작됐다.",
+        "why_it_matters": "에볼라의 치사율과 전파력을 고려할 때, 공항 검역 시스템이 증상이 있는 감염자를 막지 못했다는 것은 현재 글로벌 감염병 방어 체계에 실질적 구멍이 존재함을 의미한다.",
+        "what_is_changing": "과거 에볼라는 주로 아프리카 지역 내 유행에 그쳤으나, 이번에는 동아프리카 주요 허브 공항을 경유한 국가 간 확산이 현실화됐다. 변종 불일치 백신 투여라는 이례적 상황도 동시에 진행되고 있다.",
+        "connection": "우간다는 자국 내 환자가 없다고 주장하지만 스위스 당국은 나이지리아 환자가 우간다에서 감염된 것으로 추정해 각국 공식 입장이 충돌하고 있다. 유엔은 기아 문제가 DRC의 방역 역량을 더욱 약화시키고 있다고 경고했다.",
+        "signal": "국제 항공망을 통한 에볼라 확산이 현실화된 사례가 등장했다는 것은 WHO가 국제공중보건비상사태(PHEIC) 선포를 검토해야 하는 임계점에 가까워지고 있다는 신호다.",
+        "what_to_watch": "WHO의 PHEIC 선포 여부, 나이지리아·케냐의 추가 접촉자 확진 규모, 그리고 현재 진행 중인 DRC 백신 임상시험의 초기 효과 데이터가 향후 수주의 핵심 지표다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "공식 입장이 엇갈리는 우간다·스위스·나이지리아 당국 간 정보 불일치는 국가 간 신뢰 기반 협력이 감염병 대응의 가장 취약한 고리임을 보여준다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "기아와 의료 인프라 붕괴가 방역의 선행 조건임을 이번 사태가 다시 확인시켜준다. 감염병 위기는 인도주의 위기와 분리될 수 없다는 구조적 교훈이 반복되고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+          "region": "Africa"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
+          "region": "Africa"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+          "region": "Nigeria/Switzerland"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "브라질 대선과 이스라엘 총선이 동시에 치러졌다—중남미와 중동의 정치 시계가 함께 돌아가고 있다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "10월 25일 브라질에서 룰라와 플라비우 볼소나루 간 대선 결선투표가 역대 최박빙으로 진행됐으며, 투표 시간 연장과 투표기 교체 혼선이 발생했다. 같은 날 이스라엘도 총선을 실시했으며, 네타냐후는 이란의 선거 개입 시도를 경고하고 극우 각료에게 고위직을 약속하며 연정 전략을 구사했다.",
+        "why_it_matters": "두 선거 모두 지정학적 파급력이 크다. 브라질 결과는 중남미 전역의 좌우 세력 균형과 미국의 지역 영향력에 영향을 주고, 이스라엘 결과는 가자 전쟁 종식 협상과 이란 정책의 방향을 결정한다.",
+        "what_is_changing": "브라질에서는 1차 투표에서 볼소나루가 220만 표 앞선 상태로 결선에 돌입해 좌파 집권 연속이 불확실해진 반면, 이스라엘에서는 극우와의 연대를 강화한 네타냐후가 재집권 시 중동 안보 강경 노선 심화가 예상된다.",
+        "connection": "브라질 결과는 트럼프 행정부가 지지하는 중남미 우파 연대의 강화 여부를 가르는 척도가 된다. 이스라엘 선거 결과는 미국의 중동 정책과 이란 핵 협상 구도에 직결된다.",
+        "signal": "글로벌 선거 지형에서 포퓰리즘 우파와 기성 좌파 간 초박빙 대결 패턴이 반복되고 있으며, 어느 쪽도 압도적 지지를 얻지 못하는 '정치적 교착' 시대가 심화되고 있다.",
+        "what_to_watch": "브라질 최종 개표 결과와 승복 여부(과거 볼소나루의 결과 불복 전례 존재), 이스라엘 연정 구성 협상에서 극우 각료 포함 범위가 향후 수주의 핵심 변수다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "두 선거 모두 '안보와 질서' 대 '민주적 다원주의'의 대결 구도를 띠고 있다. 유권자들이 경제 불안을 강경 지도자에 대한 지지로 전환하는 현상이 상이한 맥락에서 동시에 관찰된다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "브라질의 룰라 재집권 시 자원 국가주의와 아마존 보호 정책 강화가 예상되고, 볼소나루 당선 시 규제 완화와 미국 자본 친화적 노선이 예상된다. 두 시나리오 모두 글로벌 원자재 시장에 즉각적 영향을 미친다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+          "region": "North America"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off",
+          "region": "Brazil"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
+          "region": "Israel"
+        }
+      ]
+    }
+  ]
+}
