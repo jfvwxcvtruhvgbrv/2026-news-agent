@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-27",
+  "session": "am",
+  "time": "08:21",
+  "global_picture": {
+    "world_right_now": [
+      "브라질 룰라 4선 확정, 볼소나루 불복·헤알화 폭락으로 민주주의와 경제 불안이 동시에 가시화됐다",
+      "이스라엘 총선이 실시됐다—전쟁 책임론·이란 위협·민주주의 훼손을 둘러싼 네타냐후 대 에이젠코트 구도가 전후 중동 방향을 결정할 분수령이 됐다",
+      "세르비아 학생 운동이 부치치 12년 집권을 끝냈고, 베네수엘라 마차도가 귀국했다—권위주의 퇴조의 동시다발적 신호",
+      "에볼라가 나이지리아에서 시작해 케냐·스위스까지 항공으로 이동했고, 의료진이 현장에서 살해됐다—전 지구적 방역 체계의 허점이 다시 드러났다",
+      "앤트로픽이 IPO를 공식화하면서 AI가 인간 통제를 벗어날 수 있다는 위험을 공시 문서에 명시했다",
+      "마이크로소프트가 전 직원 4분의 1에 희망퇴직을 제안했다—AI 전환이 빅테크 인력 구조를 실시간으로 재편하고 있다",
+      "이란 전쟁 여파로 호르무즈 봉쇄가 지속되며 아시아 LNG 비용이 390억 달러 급증하고, 영국 가스값은 4년 최고를 기록했다",
+      "요르단이 교회 테러 직후 시리아 무장 거점을 공습했고, 후티 반군은 리야드 공항을 재공격했다—중동 분쟁이 복수의 전선에서 동시에 확전되고 있다",
+      "수단 RSF가 병원을 의도적으로 공격했다는 BBC 조사 결과가 나왔고, 에티오피아 모얄레에서 기독교인 60명 이상이 학살됐다—아프리카 복수 지역 동시 인도주의 위기",
+      "알제리가 1973년 이후 처음으로 해외에 병력을 파견했다—사헬에서 서방 철수 이후 역내 국가가 안보 공백을 직접 메우기 시작했다"
+    ],
+    "emerging_signals": [
+      "AI 기업 최초 IPO인 앤트로픽 상장이 AI 투자 거품과 AI 안전 문제를 동시에 가시화하는 리트머스가 될 것이다",
+      "OpenAI가 컴퓨터 과학의 핵심 미해결 가설(지수 시간 가설)을 반증하는 논문을 공개했다—AI 기업이 순수 수학 연구 성과를 직접 생산하는 새로운 패턴",
+      "멕시코 트럭 운전사 전국 파업이 시작됐다—미국과 맞닿은 국경 무역에 하루 18억 달러 차질 가능성",
+      "프랑스에서 르펜이 대선 출마를 선언했다—생활비 시위가 우파 정치의 연료가 되는 구조적 전환",
+      "스위스 외무장관이 평양을 방문해 서방-북한 외교 채널 재가동을 시도한다—북한 고립 해제의 첫 신호",
+      "AI가 기존 CT에서 췌장암을 평균 475일 앞서 탐지했다—의료 AI가 실제 임상 전환점에 근접하고 있다",
+      "미국 LNG 스타트업에 러시아 자본이 개입한 사실이 드러나면서 경영진이 집단 사임했다—에너지 공급망 내 지정학 침투가 민간 기업 수준에서 가시화됐다"
+    ],
+    "structural_trends": [
+      "이란 전쟁 이후 호르무즈 봉쇄가 글로벌 에너지 가격 구조를 장기적으로 재편하고 있다—IEA는 2027년까지 전전 수준 회복 불가를 공식화했다",
+      "AI 투자 열풍과 동시에 실질 기업 수익화 부재라는 모순이 S&P 500 섹터 로테이션과 기관 매도세로 이어지고 있다",
+      "유럽 전역에서 생활비 시위→극우 정치 부상→이민 강경화 사이클이 프랑스·세르비아·영국에서 동시에 전개되고 있다",
+      "중국 브랜드가 유럽 자동차 시장의 12.7%를 점유해 일본을 처음으로 추월했다—소비재·제조업을 아우른 중국의 글로벌 시장 침투가 임계점을 넘었다",
+      "에볼라가 항공 네트워크를 타고 다대륙으로 확산되는 패턴이 반복되면서 WHO 감시 체계의 구조적 개혁 압력이 높아지고 있다",
+      "마이크로소프트·아우디 등 글로벌 대기업이 AI 도입과 지정학적 관세 압박에 동시 대응하며 인력·생산 구조를 재편하고 있다",
+      "미·러 에너지 합의가 실행 단계에 들어가면서 기존 대러 제재 체제의 실효성이 구조적으로 약화되고 있다"
+    ],
+    "what_changed_today": [
+      "이스라엘 총선이 실제로 실시됐다—어제 D-1 긴장 국면에서 투표 당일로 전환됐다",
+      "브라질 헤알화가 8% 폭락하고 상파울루 증시가 서킷브레이커를 발동했다—어제 룰라 당선 확정이 오늘 금융시장 충격으로 현실화됐다",
+      "앤트로픽이 SEC에 S-1을 공식 제출했다—AI 기업 최초 IPO가 예고에서 공식 절차로 이행됐다",
+      "요르단이 시리아 내 무장 거점을 직접 공습했다—교회 테러에 대한 즉각적 군사 대응이 국경을 넘어 실행됐다",
+      "알제리 대통령이 니제르 파병 명령을 내렸다—50년 만의 첫 해외 파병이 공식 결정됐다",
+      "마이크로소프트 희망퇴직 규모가 6만 명으로 구체화됐다—어제까지 불분명하던 구조조정 윤곽이 확정됐다"
+    ],
+    "what_to_watch_next": [
+      "이스라엘 총선 개표 결과—네타냐후가 재집권하면 이란 군사 행동 재개 시사 발언의 실행 여부",
+      "브라질 헤알화·증시 추가 움직임과 볼소나루 불복 소송의 법원 최종 판단",
+      "앤트로픽 IPO 공모가 범위 공개와 시장 수요 확인—AI 기업 가치 거품 논쟁의 실제 시험대",
+      "에볼라 케냐 확진 9명 접촉자 추적 결과와 WHO의 국제 공중보건 비상사태 선포 여부",
+      "프랑스 10월 31일 대규모 재시위 규모와 정부의 '구체적 조치' 발표 내용",
+      "세르비아 신정부 구성 협상과 EU 가입 협상 재개 신호 여부",
+      "미 연준 10월 금리 결정 발표와 브라질 헤알화 급락·에너지 가격 상승이 글로벌 통화정책에 미치는 파급",
+      "멕시코 트럭 파업 지속 기간과 북미 공급망 차질 현실화 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "이스라엘 총선 실시—전후 중동의 방향을 결정할 네타냐후 심판",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "2023년 10월 7일 이후 수년간의 전쟁을 거쳐 이스라엘에서 총선이 실시됐다. 중도우파 전직 장성 에이젠코트가 네타냐후의 최대 경쟁자로 부상했으며, 네타냐후는 트럼프의 지지와 이란 위협론을 핵심 전략으로 내세웠다. 이스라엘은 선거 당일 서안지구 모든 육상 국경을 폐쇄했고, 유엔은 헤브론 작전에 대해 민족청소 우려를 공식 표명했다.",
+        "why_it_matters": "이 선거는 단순한 정권 교체 이상으로, 이란·가자·서안지구를 둘러싼 전후 중동 질서의 방향 자체를 결정한다. 네타냐후 재집권 시 이란 군사 행동 재개 가능성이 제기됐고, 교체 시에는 수십 년 만의 정치 전환이 이뤄진다.",
+        "what_is_changing": "이스라엘 정치가 전통적 좌우 구도에서 '전쟁 책임론 대 안보 우선론'으로 재편됐다. 수만 명의 재외 국민이 귀국 투표에 나서는 이례적 참여 패턴도 나타났다.",
+        "connection": "선거 결과는 미국 중간선거와 연동되며, 이란 외교와 팔레스타인 문제에 관한 국제 협상 틀 전반에 파급된다. 사우디·터키·파키스탄의 이란 방문 외교도 이 선거 결과를 주시하고 있다.",
+        "signal": "전시 중 치러진 민주주의 선거라는 상징성 자체가 이스라엘 사회의 정치 정상화 요구를 반영한다. 군부와 총리 간 갈등 공개화는 이스라엘 민군 관계의 구조 변화를 시사한다.",
+        "what_to_watch": "개표 결과와 함께 연립 구성 협상, 이란 대응 기조 변화, 유엔 집단학살 규정 발표에 대한 이스라엘 신정부의 입장."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "네타냐후가 재집권하면 이란 군사 행동 재개를 포함한 강경 노선이 지속되고, 에이젠코트가 승리하면 외교적 해법으로의 전환 가능성이 열린다. 어느 쪽이든 향후 수년간 중동 안보 구조가 이 선거 결과에 구속된다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "전쟁 중 총선이라는 구도는 이스라엘 사회가 안보 위기 속에서도 민주적 절차를 유지하려는 내부 압력을 드러낸다. 수만 명의 귀국 투표는 이산 이스라엘인들의 정체성 정치가 결과를 바꿀 수 있는 변수다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20261026-israeli-candidate-eisenkot-pledges-to-unite-israelis-as-netanyahu-deems-him-soft-on-iran",
+          "region": "Middle East"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3372222/netanyahu-touts-trump-endorsement-eve-vote-suggests-they-may-restart-war-iran",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron",
+          "region": "Middle East"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "브라질 룰라 4선 확정—볼소나루 불복과 헤알화 폭락이 당선을 즉각 위기로 바꿨다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "룰라 다 시우바가 결선투표에서 51.8% 득표로 4번째 대통령직을 확보했다. 플라비우 볼소나루는 패배를 인정하지 않고 무효화 소송을 냈으나 법원에서 기각됐다. 당선 직후 헤알화는 8% 이상 급락하고 상파울루 증시는 13.9% 폭락해 서킷브레이커가 발동됐다.",
+        "why_it_matters": "세계 5위 경제대국의 정치·경제적 불안이 동시에 가시화됐다. 브라질-중국 협력 기조가 유지되고, 미국의 라틴아메리카 영향력 전략에는 차질이 예상된다. 룰라의 재정 지출 확대 공약이 시장 신뢰 위기를 즉각 촉발했다.",
+        "what_is_changing": "라틴아메리카 정치에서 선거 불복이 법적 절차를 통해 신속하게 차단된 점은 민주주의 제도의 작동을 보여주지만, 트럼프까지 부정선거 의혹을 제기하며 국제적 정당성 논쟁이 붙었다.",
+        "connection": "브라질은 희토류를 지렛대로 미중 경쟁 사이에서 전략적 중립을 유지하려 할 것이다. 아마존 삼림 파괴 최저 기록이 환경 외교의 자산이 된다. 아르헨티나 밀레이와의 이념 갈등도 남미 지역 통합 구도에 영향을 준다.",
+        "signal": "1차 투표 2위 후보의 결선 역전이라는 이례적 결과는 브라질 유권자들이 경제 불안보다 민주주의 규범 수호를 선택했다는 해석이 가능하다.",
+        "what_to_watch": "헤알화·증시 추가 움직임, 룰라 내각 구성과 재정 정책 첫 신호, 볼소나루의 야권 재편 선언이 2027년 정치 지형에 미칠 영향."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "시장은 룰라의 재정 지출 확대 공약을 부채·인플레이션 위험으로 즉각 반응했다. 적대적 우파 의회와의 충돌이 재정 정책 실행력을 제약할 가능성이 크다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 부정 의혹 제기가 볼소나루 불복과 결합해 민주주의 규범 훼손을 국제화시켰다. 반면 법원이 신속히 소송을 기각한 것은 브라질 사법 독립성의 회복력을 보여준다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "왓츠앱 1,000만 명 채널이 선거 운동의 핵심 수단이 됐다는 사실은 소셜미디어가 전통 정당 구조를 우회해 유권자를 직접 동원하는 새로운 선거 생태계를 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+          "region": "Latin America"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/10/26/brazils-real-plunges-more-than-8-and-s-o-paulo-stocks-slump-after-lula-s-victory",
+          "region": "Latin America"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+          "region": "Latin America"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/brazil-s-lula-reelected-president-in-runoff-vote-a-look-back-at-his-career",
+          "region": "Latin America"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage",
+          "region": "Latin America"
+        }
+      ]
+    },
+    {
+      "headline": "세르비아·베네수엘라 동시 반전—학생 운동이 권력을 교체하고 망명 지도자가 귀환했다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "세르비아에서 학생 운동 주도 야권 연합이 부치치 12년 집권 여당을 꺾었고, 부치치는 패배를 공식 인정했다. 같은 날 베네수엘라에서는 야권 지도자 마리아 코리나 마차도가 약 10개월의 망명을 마치고 귀국했다. 두 사건 모두 권위주의 체제에 대한 시민 저항이 실질적 결과를 낳은 사례다.",
+        "why_it_matters": "두 사건은 각각 독립적이지만, 같은 날 발생해 권위주의에 대한 민주주의적 대항이 가시적 성과를 낼 수 있다는 전 세계적 신호를 동시에 발신했다.",
+        "what_is_changing": "세르비아 정권 교체는 발칸 지역의 친러 블록 약화로 이어질 수 있다. 마차도 귀국은 마두로 정권 붕괴 이후 베네수엘라의 정치 재편 국면이 새로운 단계로 접어들었음을 의미한다.",
+        "connection": "세르비아의 변화는 EU 가입 협상을 재활성화할 가능성이 있고, 베네수엘라 야권 복귀는 미국의 중남미 정책 기조와 맞닿아 있다.",
+        "signal": "학생 운동이 선거 감시 조직으로 진화해 실제 권력 교체를 이끌어낸 세르비아 사례는 시민 디지털 감시가 선거 부정을 억제하는 새로운 민주주의 방법론으로 부상할 수 있음을 시사한다.",
+        "what_to_watch": "세르비아 신정부 구성 협상과 EU 외교 노선 전환 속도, 베네수엘라 마차도의 구체적 정치 행보와 잔존 권력과의 갈등."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "세르비아 변화는 동유럽에서 시민사회가 전통적 야당 구조 없이도 선거 판도를 바꿀 수 있다는 것을 보여줬다. 그러나 분석가들은 새 정부가 실질적 친서방 전환에는 시간이 필요할 것이라고 본다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "세르비아 학생 운동은 거리 시위에서 선거 감시 기술 조직으로 진화했다. 이는 SNS 세대가 제도 정치에 개입하는 방식의 패러다임 변화를 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6016298/serbia-student-list-vucic-election",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "region": "Latin America"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
