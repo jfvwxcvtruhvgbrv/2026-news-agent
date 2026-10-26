@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-26",
+  "session": "pm",
+  "time": "23:06",
+  "global_picture": {
+    "world_right_now": [
+      "브라질 룰라 4선 확정—볼소나루 측 결과 불복·헤알화 8% 급락으로 당선 직후 정치·경제 동시 충격",
+      "세르비아 학생운동 세력 총선 승리—부치치 14년 집권 종식, 동유럽 반권위주의 시민운동이 선거 승리로 전환된 첫 사례",
+      "이스라엘 총선 실시 중—네타냐후 17년 집권 심판이자 전후 방향 국민투표, 서안지구 국경 전면 봉쇄",
+      "에볼라 4개국 동시 확산—우간다 기원 바이러스가 케냐·나이지리아·DR콩고로 번지며 항공이동으로 국제 경보",
+      "후티, 사우디 리야드 공항 반복 미사일 공격—항공편 90% 결항, 유가 배럴당 114달러 돌파",
+      "프랑스 전국 시위 확산—학생운동에서 반정부 시위로 격화, 마크롱 비상사태 배제 않겠다 시사",
+      "중국 공산당 5중전회 비공개 개막—2027년 당 대회 앞 시진핑 권력 공고화 작업",
+      "앤트로픽 IPO 신청서 제출—순수 생성AI 기업 최초 증시 상장 추진, AI 섹터 자본화 새 이정표",
+      "김정은, 신압록강대교 통해 중국 방문—북중 협력 강화 의지 표명",
+      "IEA, 에너지 가격 전쟁 전 수준 회복 불가 공식 선언—2027년까지 구조적 고유가 지속 경고"
+    ],
+    "emerging_signals": [
+      "AI 투자 수익성 논란 심화—중국 AI 버블 붕괴 징후, 대부분 기업에서 재무 성과 미확인",
+      "후티 공격이 글로벌 항공망과 에너지 인프라를 동시에 위협하는 새로운 분쟁 양상으로 진화",
+      "미 국방부, 2027년부터 무기 내 중국산 희토류 전면 금지—대체 공급망 준비 불투명",
+      "CRISPR 프라임 편집, 살아있는 인체에서 직접 DNA 변형 첫 성공—체내 유전자 치료 새 시대",
+      "mRNA 암 백신, 흑색종 사망·재발 위험 42% 감소 3상 확인—감염병 넘어 암 치료로 확장",
+      "알제리, 50년 만에 첫 해외 지상군 파병—사헬 안보 재편의 새로운 변수"
+    ],
+    "structural_trends": [
+      "선거 불복이 글로벌 정치 표준이 되고 있다—브라질·세르비아에서 반복, 민주주의 절차에 대한 신뢰 침식",
+      "민간 기업이 분쟁 지역 통신 인프라를 통제하는 새로운 지정학 리스크—스타링크 사례",
+      "에볼라가 반복적으로 다국가로 확산되는 구조적 공중보건 취약성, 국경 통제·의료 신뢰 동시 위기",
+      "AI 인프라 투자 거품과 수익성 불확실성이 동시에 커지고 있다—네오클라우드·앤트로픽 IPO 병존",
+      "중동 분쟁발 에너지 가격 구조 변화—IEA, 유럽 가스 4년 최고치, 글로벌 공급망 재편 가속",
+      "동남아 에너지 자원 민족주의 강화—인도네시아·말레이시아, 자국 우선 에너지 정책으로 이웃국과 마찰",
+      "유엔, 파리협정 1.5도 목표 사실상 실패 선언—최악 시나리오 2.8도 상승 경고로 기후 정책 재설정 압박"
+    ],
+    "what_changed_today": [
+      "세르비아 부치치 14년 집권 공식 종식—어제 '시위가 선거 세력으로 변신'에서 오늘 실제 권력 교체로 완결",
+      "브라질 룰라 4선 당선 확정·헤알화 8% 급락·볼소나루 불복 선언—어제 예고된 선거 결과가 경제 충격과 정치 갈등으로 현실화",
+      "앤트로픽 IPO 신청서 SEC 공식 제출—AI 기업 상장 의지에서 실제 절차 개시로 전환",
+      "에볼라 다국가 확산 경보 격상—어제 허점 경고에서 오늘 케냐 확진자 9명·미국 여행 재고 권고로 구체화",
+      "이스라엘 총선 실시 중—어제 예정 단계에서 오늘 실제 투표 진행, 서안지구 국경 봉쇄 동시 발효",
+      "프랑스 시위, 유럽 5개국으로 확산·마크롱 '10월 31일 위험 경고'—어제 재정 위기 연계에서 오늘 대륙 단위 사회 불안으로 확대"
+    ],
+    "what_to_watch_next": [
+      "이스라엘 총선 개표 결과—네타냐후 패배 여부와 연정 구성 시나리오, 중동 정책 변화 가능성",
+      "브라질 볼소나루 측 선거 무효화 소송·헤알화 추가 하락 여부—정치 불안정과 경제 충격 연결 고리",
+      "에볼라 확산 경로 추적—케냐·나이지리아 추가 확진자 발생과 유럽 유입 여부",
+      "세르비아 차기 총리 인선 및 정부 구성 협상—학생운동 세력의 실제 집권 능력 시험대",
+      "앤트로픽 IPO 공모가 및 시장 반응—AI 섹터 밸류에이션 기준점 설정",
+      "프랑스 10월 31일 집회 규모와 정부 대응 수위—비상사태 선포 여부",
+      "Fed 금리 결정 발표—글로벌 금융시장과 비트코인 등 위험자산 변동성",
+      "중국 5중전회 폐막 공식 발표—지도부 인사 변경 및 당 노선 변화 신호"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "브라질 룰라 4선 확정됐지만 헤알화 8% 급락·볼소나루 불복으로 당선이 곧 위기가 됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "브라질 대선 결선투표에서 현직 룰라 다 시우바 대통령이 51.8%를 득표해 전례 없는 4선을 확정했다. 볼소나루 측은 즉각 결과 승인을 거부하고 선거 무효화를 시도했으나 볼소나루 측이 임명한 판사마저 소송을 기각했다. 당선 직후 헤알화가 8% 이상 급락하고 상파울루 증시에 서킷브레이커가 발동됐으며, 트럼프는 결과에 의문을 제기한 반면 대부분의 중남미 정상들은 축하 메시지를 보냈다.",
+        "why_it_matters": "라틴아메리카 최대 경제국이자 세계 6위 인구 대국 브라질의 정치 방향이 결정됐다. 선거 불복 패턴이 반복되며 민주주의 절차 신뢰가 다시 시험대에 올랐고, 당선 직후 금융시장 충격은 룰라 4기의 경제적 취약성을 즉시 드러냈다.",
+        "what_is_changing": "1차 투표 열세를 결선에서 역전한 것 자체가 이례적이며, 4선이라는 전례 없는 기록이 세워졌다. 동시에 선거 불복이 단순 정치 수사가 아닌 법적 소송으로 이어지는 패턴이 글로벌 민주주의 위기의 반복 시나리오임을 재확인했다.",
+        "connection": "트럼프의 결과 의문 제기, 밀레이의 침묵 등 우파 국제 연대 구도와 맞물려 있으며, 중국과의 관계 심화·미국과의 관세 협상이 룰라 4기의 핵심 외교 과제로 부상한다. 세르비아와 함께 같은 날 '선거 결과 수용 거부' 패턴이 두 나라에서 동시에 나타났다는 점도 주목된다.",
+        "signal": "선거 불복이 특정 지역의 일탈이 아닌 글로벌 우파 정치의 표준 전술로 자리 잡고 있다는 더 큰 변화의 신호다.",
+        "what_to_watch": "볼소나루 측의 추가 법적 대응 여부, 헤알화와 브라질 국채 시장 안정 여부, 디젤 보조금 만료와 미국 관세 협상 결과가 룰라 집권 초기 경제 불안을 결정할 핵심 변수다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "선거 불복 패턴이 법원에 의해 즉각 차단됐다는 점에서 브라질 사법 기관의 독립성이 작동했다고 볼 수 있다. 그러나 트럼프의 의혹 제기는 불복 운동에 국제적 정당성을 부여하려는 시도로 해석된다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "당선 직후 헤알화 8% 급락과 서킷브레이커 발동은 시장이 룰라의 재정 확장 기조에 즉각 부정적으로 반응했음을 보여준다. 부채·인플레이션·적대적 의회라는 3중 부담이 룰라 4기 경제의 구조적 취약점이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+          "region": "Brazil"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/brazil-s-lula-wins-historic-fourth-term",
+          "region": "Brazil"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/10/26/brazil-s-real-plunges-more-than-8-and-s-o-paulo-stocks-slump-after-lula-s-victory",
+          "region": "Latin America"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630",
+          "region": "Latin America"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+          "region": "Business"
+        }
+      ]
+    },
+    {
+      "headline": "세르비아 학생들이 총선을 이겼다—동유럽에서 시민운동이 실제 권력을 교체한 첫 사례",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "세르비아 조기 총선에서 약 70%의 높은 투표율을 기록한 가운데 학생운동 주도 세력이 승리하고 알렉산다르 부치치 대통령의 여당이 패배했다. 부치치는 공식적으로 패배를 인정했으며, 베오그라드 시민들이 거리로 나와 축제 분위기를 연출했다. 이번 선거의 직접적 동력은 2024년 노비사드 기차역 지붕 붕괴로 16명이 숨진 사건을 계기로 2년여간 이어진 반부패 시위였다.",
+        "why_it_matters": "거리 시위가 단순한 저항을 넘어 실제 선거 승리로 전환된 것은 동유럽 반권위주의 운동에서 드문 사례다. 14년 장기 집권의 종식은 발칸 지역 정치 지형과 EU 편입 논의에도 영향을 미칠 것으로 분석된다.",
+        "what_is_changing": "기성 야당이 아닌 학생 운동 세력이 직접 선거를 통해 집권 가능성을 얻었다는 점이 기존 정치 패러다임과 다르다. 분노한 시민이 SNS 조직화를 거쳐 선거 세력으로 전환되는 과정이 완결됐다.",
+        "connection": "프랑스 학생 시위, 케냐 시위 등 전 세계적으로 동시다발적으로 일어나는 반정부·반권위주의 흐름과 맥락을 공유한다. 세르비아의 EU 가입 협상 재개 여부가 새 정부의 첫 시험대가 될 것이다.",
+        "signal": "사회적 재난(기차역 붕괴)이 정치적 동원의 촉매가 되고, 그것이 선거 결과를 바꾸는 경로는 다른 국가에도 복제될 수 있는 모델이다.",
+        "what_to_watch": "차기 총리 인선과 연정 구성 협상, 학생운동 세력의 실제 통치 역량 검증, 부치치가 대통령직(별도 임기)을 유지하는 상황에서 공존 또는 갈등 구도가 어떻게 전개될지가 핵심이다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "동유럽에서 포퓰리스트 권위주의 지도자가 선거로 교체된 사례가 추가됐다. EU는 세르비아 민주화를 지렛대로 가입 협상을 가속화할 유인이 생겼다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "기성 정당이 아닌 학생 세대가 선거를 직접 바꿨다는 사실은 대의 민주주의의 진화 가능성을 보여주는 동시에, 운동 세력이 실제 행정 경험 없이 국가를 운영할 수 있는지에 대한 의문도 함께 남긴다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/serbia-s-student-movement-ousts-longtime-leader-vucic-in-parliament-poll",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+          "region": "Serbia"
+        }
+      ]
+    },
+    {
+      "headline": "이스라엘 총선, 네타냐후 17년 집권 심판이자 전후 중동 방향의 분기점",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "이스라엘이 하마스 기습 공격 이후 처음으로 치르는 총선이 진행 중이다. 이스라엘군은 선거 당일 서안지구와의 모든 육로 국경을 봉쇄했다. 여론조사에서 네타냐후의 리쿠드 블록과 전직 참모총장 아이젠코트 중심의 야권 연합 모두 단독 과반(61석)에 미치지 못할 가능성이 높으며, 금융시장은 네타냐후 패배 가능성에 긍정 반응하며 3년 만의 상승세를 기록했다.",
+        "why_it_matters": "가자 전쟁 처리 방식, 사법개혁, 이란 핵 문제 등 누적된 사회 분열이 이 한 번의 선거로 수렴되고 있다. 아랍계 이스라엘 유권자의 투표율이 결과를 가를 변수로 지목된다.",
+        "what_is_changing": "수십 년간 이스라엘 정치를 지배해온 네타냐후 체제가 교체될 실질적 가능성이 처음으로 생겼다. 동시에 어떤 진영도 과반을 확보하지 못할 경우 장기 정국 교착이 반복될 수 있다.",
+        "connection": "선거 결과는 팔레스타인 정책, 이란과의 긴장, 미국과의 동맹 관계에 직접 연결된다. 이스라엘이 서안지구에서 강제 추방과 인프라 파괴를 확대하는 동시에 선거를 치르는 것 자체가 점령 현실 고착화 전략이라는 분석도 제기된다.",
+        "signal": "중동의 불안정이 단순한 무력 충돌을 넘어 이스라엘 내부 정치 구조 자체를 재편하는 단계에 진입하고 있다.",
+        "what_to_watch": "개표 결과와 연정 협상 시나리오, 네타냐후 패배 시 가자·이란·서안지구 정책 변화 범위, 아랍계 유권자 투표율이 최종 결과를 얼마나 바꿀지."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "이번 선거는 안보 이슈를 앞세운 네타냐후 대 민주주의·법치 회복을 요구하는 야권 간의 구도로, 전쟁 시기 지도자 교체라는 전례 없는 정치적 실험이다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "금융시장이 네타냐후 패배 가능성에 상승으로 반응한 것은 장기 사법개혁 갈등과 전쟁 비용이 이스라엘 경제에 미친 피로감을 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/israel-braces-for-national-elections-seen-as-a-referendum-on-netanyahu",
+          "region": "Middle East"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
+          "region": "North America"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece",
+          "region": "India"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "에볼라가 항공기를 타고 4개국으로 동시 퍼졌다—국경 검역 체계의 구조적 허점이 다시 노출됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우간다를 기원으로 한 에볼라 바이러스가 나이지리아, 케냐, DR콩고 등 복수 국가로 동시 확산되고 있다. 확진 판정을 받은 40대 사업가가 심각한 증상을 보이면서도 항공편으로 3개국 국경을 넘어 이동한 사실이 드러났다. 케냐 감염자는 9명으로 늘어 미국이 여행 재고를 권고했으며, DR콩고에서는 에볼라 대응 의료진이 주민의 공격을 받아 간호사 1명이 사망했다.",
+        "why_it_matters": "에볼라는 치명률이 높고 전파 경로 추적이 어렵다. 확진자가 증상 중에도 항공편을 이용했다는 사실은 현재 국제 항공 보건 감시 체계가 고위험 감염병을 차단하는 데 구조적으로 불충분함을 보여준다.",
+        "what_is_changing": "이전 에볼라 유행은 주로 서아프리카 특정 지역에 집중됐지만, 이번에는 동아프리카·서아프리카·중앙아프리카·유럽(스위스 외교관 가족)을 아우르는 진정한 다대륙 확산 패턴이 나타나고 있다.",
+        "connection": "DR콩고에서 의료진이 피습된 것은 지역사회 신뢰 부재가 공중보건 대응을 심각하게 방해하는 반복적 패턴이다. COVID-19 이후에도 국제 보건 체계가 항공 이동 단계에서의 감염 차단에 실패하고 있다는 점이 구조적 문제로 재확인됐다.",
+        "signal": "항공 이동이 감염병 확산의 증폭기로 기능하는 구조가 바뀌지 않는 한, 다음 대유행의 초기 경로도 동일한 패턴을 따를 가능성이 높다.",
+        "what_to_watch": "케냐·나이지리아에서 추가 감염 확인 여부, 유럽 입국자 중 접촉자 추적 결과, WHO의 국제적 공중보건 비상사태(PHEIC) 선포 여부."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "우간다 당국이 자국 내 활성 환자가 없다고 주장하나 관련 진술이 상충돼 정보 투명성 문제가 제기된다. 국가 간 보건 정보 공유 의무 이행이 위기의 핵심 변수다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "DR콩고에서 의료진이 '수원지 오염자'로 오해받아 피습된 사건은 허위정보가 실제 인명 피해로 이어지는 공중보건의 사회적 차원을 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo",
+          "region": "Africa"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580",
+          "region": "Africa"
+        },
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
+          "region": "DR Congo"
+        },
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo",
+          "region": "Kenya"
+        }
+      ]
+    }
+  ]
+}
