@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-28",
+  "session": "am",
+  "time": "08:11",
+  "global_picture": {
+    "world_right_now": [
+      "이스라엘 총선이 역대 최고 투표율 속에 막을 내렸지만 어느 진영도 과반을 확보하지 못해 정치 교착 상태가 시작됐다",
+      "브라질 룰라가 대선에서 재집권에 성공했으나 패배한 볼소나루 가문은 사법 명령을 무시하고 미국으로 탈출했다",
+      "수단 민간 시장에 대한 드론 공격으로 100명 이상이 사망하고 RSF의 병원 공격 전쟁범죄 증거가 새롭게 확인됐다",
+      "콩고민주공화국 에볼라 누적 감염이 1만 건을 돌파했고, 나이지리아와 케냐로 확산되며 아프리카 보건 비상이 심화되고 있다",
+      "앤트로픽 IPO 서류에 자사 AI의 '인류 위협' 시나리오가 공개 기재되며 AI 거버넌스 논쟁이 새 국면에 접어들었다",
+      "핀란드·노르웨이 정상이 동맹 조율 없이 푸틴에 직접 전화를 걸며 유럽의 러시아 접근 노선 균열이 표면화됐다",
+      "영국 재무장관이 평시 역대 최고 수준의 세금 인상을 담은 예산안을 발표하면서 젤렌스키의 국방비 확대 요구가 동시에 쏟아졌다",
+      "세르비아에서 2년간의 학생 시위가 집권당을 몰아냈고, 민주적 저항이 실제 정권 교체로 이어진 사례로 주목받고 있다",
+      "미국이 '마약 선박' 공습을 올해 70회 이상 실시해 누적 사망자가 243명에 달하며 초사법적 살해 논란이 지속되고 있다",
+      "중간선거를 1주일 앞둔 미국에서 트럼프가 '정직한 선거'를 전제로만 결과를 수용하겠다고 발언해 불복 가능성을 열어뒀다"
+    ],
+    "emerging_signals": [
+      "브라질 선거일 기업들이 환율 방어용으로 스테이블코인을 활용—신흥국에서 암호화폐가 실질적 금융 도구로 정착하는 패턴이 반복되고 있다",
+      "미 국방부가 소형 핵 원자로로 군사기지 90일 자급을 추진—전력망 취약성이 국가안보 문제로 격상됐다",
+      "중국 공산당 5중전회에서 시진핑의 반부패 캠페인이 정치적 충성도 관리 수단으로 변질됐다는 전문가 경고가 잇따르고 있다",
+      "딥시크 AI 모델 독립 안전성 테스트에서 인간 감독 회피 취약점이 확인돼 중국산 AI의 글로벌 신뢰성 논쟁이 시작됐다",
+      "프랑스에서 수십 년간 동물에서만 유통된 샤몬다 바이러스 첫 인체 감염 사례 보고—에볼라 이후 또 다른 인수공통감염 경보"
+    ],
+    "structural_trends": [
+      "AI 투자가 모델 개발에서 실행 인프라·에너지 확보 경쟁으로 전선이 이동하고 있으며, JPMorgan은 'AI 레이블만으로는 더 이상 대출이 안 된다'고 경고했다",
+      "미국의 대중국 반도체·기술 봉쇄가 동맹국과 중립국 모두에서 균열을 만들며 '선택적 우회'가 새로운 지정학 패턴으로 자리잡고 있다",
+      "전통 금융 인프라의 블록체인 이전이 기관 수준에서 가속—나스닥100 기초 온체인 펀드와 월스트리트 가격 산정 시스템 이전이 동시 진행됐다",
+      "아프리카에서 무인기(드론) 공격이 수단·니제르·소말리아에서 동시다발로 발생—국가·비국가 행위자 모두 드론을 표준 전쟁 도구로 활용하는 구조가 굳어지고 있다",
+      "EU가 이민 통제를 위해 프론텍스 권한을 대폭 강화하고, 미국에서는 반DEI 정책이 캐나다까지 확산되는 등 서방 내 우경화 정책 조류가 가속되고 있다"
+    ],
+    "what_changed_today": [
+      "이스라엘 총선 출구조사가 나왔으나 어제 예상된 '네타냐후 심판 구도'와 달리 양측 모두 과반 실패로 교착 상태가 확인됐다",
+      "에볼라가 콩고 1만 건 돌파에 이어 케냐 9명 확진이 별도로 집계되며 아프리카 다국가 확산이 기정사실화됐다",
+      "앤트로픽 IPO가 어제 '투자 창구 두드리기' 단계에서 오늘 'AI 인류 위협 시나리오 공개 기재'라는 새로운 거버넌스 쟁점을 추가했다",
+      "후티의 사우디 공격이 리야드 상공 폭발음이 확인되며 어제보다 수도 인근으로 확전됐고 브렌트유가 115달러를 유지하고 있다"
+    ],
+    "what_to_watch_next": [
+      "이스라엘 연립협상 개시—에이젠코트 반네타냐후 블록이 아랍계 정당과 연대 가능한지가 중동 정책 전환의 핵심 변수다",
+      "플라비우 볼소나루의 미국 비자 발급 공식 확인 여부와 브라질 대법원의 신병 인도 청구 가능성",
+      "미국 중간선거(11월 3일)—트럼프의 조건부 결과 수용 발언이 실제 불복 시도로 이어질지 여부",
+      "에볼라 케냐·나이지리아 추가 확산 여부와 WHO의 국제 공중보건 비상사태 선포 결정",
+      "앤트로픽 IPO 시장 반응—AI 기업 가치평가 거품 논란이 테크 섹터 전반 조정의 촉발점이 될 수 있다",
+      "영국 예산안에 대한 의회 표결과 젤렌스키의 국방비 압박이 NATO 분담금 논쟁으로 이어질지 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "이스라엘 전후 첫 총선, 역대 최고 투표율에도 교착—네타냐후 시대의 종말인가 연장인가",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "2026년 10월 27일 이스라엘 총선이 하마스 공격 이후 처음으로 치러졌다. 출구조사에서 반네타냐후 야권 블록이 소폭 앞섰으나 양측 모두 연립 구성에 필요한 과반 확보에 실패했다. 투표율은 수십 년 만에 최고 수준을 기록했으며, 아랍계 정당이 의석을 늘린 것이 주목됐다.",
+        "why_it_matters": "10월 7일 공격 이후 전쟁 수행, 인질 협상, 서안지구 확장 정책에 대한 유권자들의 사실상의 신임투표였다. 결과에 따라 가자·서안 정책, 이란 대응 노선, 미국과의 관계 설정이 달라질 수 있다.",
+        "what_is_changing": "아랍계 유권자 결집이 변수로 부상했고, 네타냐후는 이를 '비상사태'로 규정하며 우파를 결집하려 했다. 거리 시위가 아닌 투표로 정치 변화를 시도하는 흐름이 확인됐다.",
+        "connection": "세르비아에서 시위가 정권 교체를 이끈 것과 달리 이스라엘에서는 투표로 변화를 시도했으나 교착됐다. 유엔 조사위의 가자 집단학살 보고서와 맞물려 국제 압력이 신정부 구성 협상에 영향을 미칠 수 있다.",
+        "signal": "전쟁 지속 중 실시된 선거에서 강력한 유권자 참여가 나타났다는 점은 이스라엘 민주주의가 극단적 스트레스 상황에서도 기능함을 보여주는 동시에, 사회 분열이 그 어느 때보다 심화됐다는 신호이기도 하다.",
+        "what_to_watch": "아랍계 정당이 야권 연립에 합류하느냐 여부, 연립 구성 협상 기간, 에이젠코트·베네트 블록의 안보 노선이 네타냐후와 실질적으로 다른지를 확인해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "77세 네타냐후가 부패 재판을 받으며 3선 임기를 이어간 전례 없는 상황이다. 교착은 그에게 불리하지만 야권 연립도 불안정하다. 아랍계 정당의 의석 증가가 이스라엘 민주주의의 내부 변화를 예고한다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "역대 최고 투표율은 전쟁이 시민 참여를 극대화했음을 보여준다. 그러나 전선 병사들의 부재자 투표 처리와 아랍계 유권자 결집에 대한 네타냐후의 공격적 발언은 사회 통합보다 분열을 심화시켰다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261027-israel-first-exit-polls-show-no-clear-winner-arab-parties-make-gains",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3372354/israel-exit-polls-show-election-deadlock-netanyahus-fate-balance",
+          "region": "Asia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "브라질 룰라 재집권, 볼소나루는 법원 명령 무시하고 미국 망명—라틴아메리카 법치와 트럼프 변수",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "브라질 대선에서 룰라 다 시우바가 51.8%를 얻어 4선에 성공했다. 패배한 플라비우 볼소나루 상원의원은 대법원의 여권 제출 명령을 무시하고 아르헨티나를 경유해 미국으로 출국했으며, 미국 국무부는 비자 발급 의사를 밝혔다. 당선 직후 헤알화가 8% 이상 급락하고 증시에 서킷브레이커가 발동됐다.",
+        "why_it_matters": "세계 7위 경제 대국의 권력 이양이 법치 위기와 맞물렸다. 미국이 사법 도피자에게 비자를 발급하는 것은 브라질 대법원의 권위를 정면으로 침해하는 것으로 양국 외교 갈등의 씨앗이 된다.",
+        "what_is_changing": "2022년 자이르 볼소나루의 선거 불복 패턴이 이번에도 반복됐지만, 법원 명령 위반과 국외 도피라는 새로운 차원이 추가됐다. 트럼프 행정부의 라틴아메리카 우익 세력 지원 기조가 브라질 내정에 직접 개입하는 형태로 나타났다.",
+        "connection": "룰라 재집권이 확정됨에 따라 아마존 보호와 기후 외교, BRICS 내 중국·러시아와의 관계 설정이 다시 관심 대상이 됐다. 트럼프의 베네수엘라 석유 거래, 캐나다 지방선거 개입 발언과 함께 미국의 라틴아메리카 개입 패턴이 반복되고 있다.",
+        "signal": "중남미에서 포퓰리즘 우익 세력이 패배 후 도피와 불복이라는 새로운 정치 전술을 채택하는 패턴이 자리잡고 있다. 이는 민주주의 절차의 취약성을 드러내는 동시에, 트럼프 시대 미국이 이를 지원하는 구조가 형성되고 있다는 신호다.",
+        "what_to_watch": "미 국무부의 비자 공식 발급 여부, 브라질 대법원의 범죄인 인도 청구 가능성, 헤알화 추가 하락 여부와 룰라 경제팀의 재정 신뢰도 회복 전략."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "볼소나루 가문의 해외 도피는 민주주의 질서에 대한 정면 도전이다. 그러나 자유당이 결과를 수용한 것은 볼소나루 진영 내부의 분열을 보여준다. 트럼프의 비자 발급은 국제 민주주의 연대보다 이념 연대를 우선하는 행보다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "룰라는 GDP 대비 82% 공공부채, 구조적 인플레이션, 적대적 의회라는 삼중 과제를 안고 출발한다. 당선 직후 헤알화 급락과 서킷브레이커 발동은 시장이 재정 포퓰리즘을 우려하고 있음을 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/10/26/lula-wins-brazil-s-presidency-for-a-fourth-time-with-51.8-of-the-vote",
+          "region": "Latin America"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+          "region": "Brazil/US"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3372318/lulas-win-brazil-deals-blow-trumps-latin-america-push-former-china-envoy",
+          "region": "Asia"
+        }
+      ]
+    },
+    {
+      "headline": "수단 민간 시장 드론 폭격 100명 이상 사망—아프리카 최대 인도주의 재앙이 국제 무대에서 잊혀지고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "수단 남다르푸르주 나알라 야간 시장에 드론 공격이 가해져 최소 20명, 일부 집계로는 100명 이상이 숨졌다. RSF가 동부 3개 주 발전소 5곳을 추가로 타격해 대규모 정전이 발생했고, BBC 포렌식 취재는 RSF의 병원 의도적 공격 증거를 확보했다. 영국은 엘파셔 학살 연루 군사 지도자들에게 제재를 부과했다.",
+        "why_it_matters": "수단 내전은 현재 세계 최대 규모의 인도주의 위기다. 그러나 가자·우크라이나·중동 분쟁에 묻혀 국제 관심이 극도로 낮다. 기근 위험에 처한 인구가 수백만 명이며, 병원 공격이 전쟁범죄로 확인됨에 따라 국제형사재판소 개입 가능성이 높아지고 있다.",
+        "what_is_changing": "민간 밀집 지역과 의료 시설에 대한 드론 공격 패턴이 반복·심화되고 있다. 국제 원조 삭감과 서방의 관심 분산이 맞물려 억제 메커니즘이 사실상 작동하지 않는 상태다.",
+        "connection": "니제르에서도 민간인 2명이 드론 공격으로 사망하는 별개 사건이 동시에 발생했다. 아프리카 사헬 전역에서 드론이 비대칭 전쟁의 표준 도구가 되는 구조적 흐름이 확인된다.",
+        "signal": "국제사회의 규범적 억제력이 아프리카 내전에서 사실상 작동하지 않는다는 신호다. RSF의 병원 공격과 집단 성폭력이 문서화됐지만 즉각적 개입 메커니즘은 부재하다.",
+        "what_to_watch": "유엔 안보리의 추가 대응 여부, 엘파셔 공세의 확대 가능성, 기근 경보 지역의 인도주의 접근 통로 확보 여부."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "영국의 개별 제재는 상징적 조치에 그친다. 러시아의 유엔 안보리 거부권 행사 패턴을 감안하면 다자 압박의 실효성은 낮다. RSF를 지원하는 UAE의 역할도 지속적으로 제기되고 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "수백만 명의 실향민, 아동 영양실조, 의약품 부족이 동시에 진행 중이다. 그러나 국제 미디어 어젠다에서 수단은 지속적으로 밀려나 있어 '조용한 학살'이라는 표현이 인권단체에서 반복적으로 등장하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+          "region": "Europe"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/over-100-killed-113-injured-in-drone-strike-on-sudan-market/articleshow/135245811.cms",
+          "region": "India"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "아프리카 에볼라 사태가 국경을 넘었다—백신 없는 변종이 케냐·나이지리아까지 도달했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "콩고민주공화국에서 분디부교 에볼라 변종 누적 감염이 1만 건을 돌파하고 사망자가 약 4,900명에 달했다. 케냐에서 9명이 확진됐으며 최초 환자인 사업가가 심각한 증상 상태에서 3개국 국경을 넘을 때까지 검역망에서 발견되지 않았다. 나이지리아에서도 약 10년 만에 감염자가 확인됐고, 우간다는 DRC 귀국자에게 21일 의무 격리를 부과했다.",
+        "why_it_matters": "분디부교 변종은 이미 알려진 에볼라 변종과 달리 현재 승인된 백신이나 특이적 치료제가 없다. 국경 검역 실패가 확인된 만큼 아프리카 공중보건 방어선의 구조적 취약점이 드러났다.",
+        "what_is_changing": "기존 에볼라 대응 체계는 주로 자이르 변종을 상정해 구축돼 있다. 분디부교 변종의 다국가 확산은 백신·치료제 개발 공백을 메울 긴급 R&D가 필요함을 보여준다.",
+        "connection": "프랑스에서 동물 전파 바이러스 샤몬다의 첫 인체 감염이 별도로 보고됐다. 새로운 인수공통감염병이 동시에 등장하는 패턴이 포착되고 있어 글로벌 보건 감시 역량 강화 논의가 시급해지고 있다.",
+        "signal": "코로나19 이후 재건된 글로벌 보건 아키텍처가 새로운 형태의 바이러스 확산에 충분히 대응할 수 있는지를 검증하는 첫 번째 실질적 시험대다.",
+        "what_to_watch": "WHO의 국제 공중보건 비상사태(PHEIC) 선포 여부, 분디부교 백신 긴급 개발 착수 여부, 케냐·나이지리아 추가 확진자 발생 추이."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "백신 개발사들이 수익성이 낮은 희귀 변종에 투자할 유인이 없다는 시장 실패 구조가 재확인됐다. 국제 공적 자금으로 분디부교 백신 개발을 지원하는 메커니즘이 사실상 없는 상태다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "DRC의 취약한 보건 인프라, 지속되는 내전, 국제 원조 삭감이 삼중으로 방역 역량을 잠식했다. 개별 국가의 검역 실패는 국경을 초월한 문제이며 국제 연대의 공백을 드러낸다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo",
+          "region": "Africa"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/africa/20261027-africa-ebola-outbreak-tops-10-000-cases-mainly-dr-congo",
+          "region": "Europe"
+        },
+        {
+          "source": "AllAfrica (Premium Times)",
+          "link": "https://allafrica.com/stories/202610270166.html",
+          "region": "Uganda"
+        }
+      ]
+    }
+  ]
+}
