@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-29",
+  "session": "am",
+  "time": "08:16",
+  "global_picture": {
+    "world_right_now": [
+      "스페인 고속열차 충돌 사망자 68명 확정, 적신호 운행 지시 의혹으로 시스템 책임론 격화",
+      "이스라엘 총선 교착 상태 지속—네타냐후 블록 과반 실패, 아랍 정당이 연립의 핵심 변수",
+      "콩고 에볼라 1만 명 돌파, 케냐 월경 확산—백신 없는 변종으로 국제 공중보건 위기 고조",
+      "볼소나루, 사법 명령 위반 미국 도피—트럼프가 비자 부여하며 민주적 규범 침식 패턴 강화",
+      "미 연준 금리 동결, 캐나다는 인상—서방 중앙은행 통화정책 분기점 도달",
+      "빅테크 실적 극명한 양극화—마이크로소프트 Azure 폭발적 성장, 알파벳 4년 만에 어닝 쇼크",
+      "러시아, 아프리카 정상회의 주최—푸틴 '反식민주의 파트너' 자처하며 글로벌 사우스 구애",
+      "영국 노동당 예산안 발표—사상 최고 세부담, OBR '수년간 가계소득 압박' 경고",
+      "EU 천연가스 100유로 돌파—2022년 이후 최고치, 겨울 공급 불안 가중",
+      "엔비디아, 허깅페이스 인수에 미 DOJ 반독점 조사 착수—AI 생태계 독점 우려 제도화"
+    ],
+    "emerging_signals": [
+      "UEFI 펌웨어 치명적 취약점 발견—전 세계 대부분 서버에 영향, 차세대 인프라 보안 위기 예고",
+      "태양광 발전량 사상 처음으로 원자력 추월—에너지 전환 속도가 기존 예측을 앞지르고 있다",
+      "홍콩, 디지털 위안화 역외 허브로 본격 육성—달러 패권에 대한 중국의 우회 전략 가시화",
+      "Anthropic IPO 공시에 AI 협박·의식·인류 위협 시나리오 명시—AI 리스크가 금융 공시 영역으로 진입",
+      "기관 토큰화 결제 대기업 90% 도입—블록체인 기반 금융 인프라 전환이 임계점 근접",
+      "UAE·캐나다 위성 기업, 스타링크 의존 탈피 연대—단일 민간 공급자 의존 리스크에 국가들이 움직인다"
+    ],
+    "structural_trends": [
+      "미-중 기술 분리가 반도체·AI·군사·금융 전 영역으로 심화되고 있다",
+      "선거 패배 후 사법 회피와 해외 망명이 우파 포퓰리스트들의 반복 패턴으로 자리잡고 있다",
+      "AI 인프라 전력 수요가 핵에너지·천연가스 생산 증가를 동시에 견인하고 있다",
+      "러시아가 서방 제재를 우회해 아프리카와 글로벌 사우스를 새 외교·경제 거점으로 구조화하고 있다",
+      "에볼라·홍역 등 감염병 확산이 국경 통제의 실효성 한계를 반복적으로 드러내고 있다",
+      "빅테크 구조조정과 AI 투자 간 긴장이 노동시장과 기업 수익성에 동시 압력을 가하고 있다"
+    ],
+    "what_changed_today": [
+      "스페인 열차 사망자가 최초 보도된 30~64명에서 68명으로 확정, '이해할 수 없는 운행 지시' 의혹이 핵심 쟁점으로 부상",
+      "알파벳이 시장 예상을 하회하는 실적을 발표해 주가 10% 급락—AI 인프라 투자 부담이 수익성을 압박함을 시장이 직접 확인",
+      "미 연준이 금리를 동결한 가운데 캐나다는 금리를 인상—서방 주요국 통화정책 방향이 갈라지기 시작",
+      "미 법무부가 엔비디아의 허깅페이스 인수에 반독점 조사를 공식 착수—AI 생태계 독점 규제가 구체적 행동 단계로 이동",
+      "볼소나루의 미국 입국이 공식 확인되고 미국 비자 발급 의사 발표—사법 회피 외교 갈등이 현실화"
+    ],
+    "what_to_watch_next": [
+      "이스라엘 연립정부 구성 협상—누가 아랍 정당과 손잡을 것인지, 재선거 가능성은 있는지",
+      "에볼라 확산 속도와 국제 긴급 자금 지원 여부—아프리카 CDC의 '영국까지 전파' 경고 현실화 가능성",
+      "미국 중간선거 결과—트럼프 2기 입법 동력과 대외정책 방향에 직결",
+      "스페인 열차 사고 원인 규정—'이해할 수 없는 지시'의 진원지와 철도 제어 시스템 전면 감사 여부",
+      "EU 천연가스 가격 추이와 겨울철 공급 충격 가능성—저장 시설 72% 충전율이 위기 임계점인지",
+      "볼소나루 미국 망명 외교 갈등—브라질이 미국에 송환을 요청할 경우 트럼프 행정부의 대응"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "스페인 고속열차 68명 사망—'이해할 수 없는 운행 지시'가 쟁점, 철도 시스템 전면 감사 요구",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "스페인 톨레도주 마드리드 남부 구간에서 렌페 고속열차가 정차 중인 열차를 추돌해 최소 68명이 숨지고 100명 이상이 부상했다. 교통부 장관은 한 열차가 적신호 상황에서도 전속력으로 진행하라는 '납득할 수 없는 지시'를 받았다고 밝혔다. 이는 올해 스페인에서 발생한 두 번째 주요 고속철 사망 사고다.",
+        "why_it_matters": "2013년 산티아고 데 콤포스텔라 사고 이후 유럽 최악의 철도 참사로, 기술 오류가 아닌 운행 지시 체계의 문제로 지목됨으로써 인재 여부와 책임 소재가 핵심 쟁점이 됐다.",
+        "what_is_changing": "과거 사고들은 주로 기계 결함이나 기관사 과실로 귀결됐으나, 이번에는 관제·지휘 체계 전반의 구조적 결함이 도마 위에 올랐다. EU 차원의 철도 안전 기준 재점검 요구로 이어질 가능성이 있다.",
+        "connection": "유럽 내 철도 안전 감독 체계 강화 논의와 연결되며, 민영화된 복수 운영사(렌페·이리오) 간 관제 조율 문제도 부각되고 있다.",
+        "signal": "단순 사고를 넘어 민영 철도 시대의 관제 책임 공백이라는 구조적 문제의 초기 신호일 수 있다.",
+        "what_to_watch": "스페인 검찰의 '이해할 수 없는 지시' 출처 규명, 국가 애도 기간 이후 교통부 청문회 소집 여부, EU 철도 안전청의 개입 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "산체스 총리가 3일 국가 애도를 선포하고 해당 구간 운행을 즉시 중단시켰으나, 민영 운영사 구조와 감독 체계 책임을 둘러싼 정치적 공방이 예상된다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "컴퓨터 신호 오류와 지시 체계의 이중 결함이 동시 발생했을 가능성이 제기되며, 자동 열차 보호 시스템(ATP)의 실제 작동 여부가 기술 조사의 핵심이 될 것이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261028-rail-safety-questioned-after-spain-suffers-second-fatal-high-speed-train-crash-in-a-year",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/spanish-train-crash-leaves-68-dead-pm-sanchez-declares-3-days-of-mourning/live-79785087?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "이스라엘 총선 완전한 교착—네타냐후 과반 실패, 아랍 정당 19석으로 연립의 캐스팅보트 쥐다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "개표 85% 이상 기준으로 네타냐후의 우파 블록이 120석 중 53석으로 선두이나 과반(61석)에 미치지 못했다. 아랍계 정당들이 합계 19석을 확보해 30년 만에 최고 성과를 기록했으며, 투표율도 수십 년 만에 최고 수준을 찍었다. 네타냐후는 선거가 '도둑맞았다'며 아랍계 유권자를 공개 비난했다.",
+        "why_it_matters": "어느 진영도 아랍 정당의 협력 없이는 집권이 어려운 구조가 됐지만, 주요 정치 세력 대부분이 아랍 정당과의 연립을 기피하고 있어 정치 교착이 장기화될 수 있다. 재선거 가능성도 배제할 수 없다.",
+        "what_is_changing": "이스라엘 아랍계 시민의 정치 참여가 역대 최고 수준에 달했음에도 주류 정치 체계에서 구조적으로 배제되는 모순이 더욱 선명해졌다. 유권자층의 우경화와 사회 균열이 동시에 심화되고 있다.",
+        "connection": "이란의 군사 보복 경고와 맞물려, 어느 정부가 들어서든 이란 대응 군사 옵션에 대한 결정권을 사실상 현 과도 체제가 유지하게 된다는 분석이 나온다.",
+        "signal": "아랍 정당의 약진은 이스라엘 민주주의 내부의 인구구조적 변화를 반영하는 장기 신호이며, 이를 어떻게 수용하느냐가 이스라엘 정치의 다음 국면을 결정할 것이다.",
+        "what_to_watch": "이스라엘 대통령이 누구에게 연립 구성 권한을 부여할지, 야권이 아랍 정당과 손잡을 용기를 낼지, 재선거 일정 논의 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "네타냐후의 '선거 도둑' 발언은 트럼프식 선거 불복 수사와 동일한 구조로, 연립 협상 실패 시 정치적 면피와 지지층 결집을 위한 도구로 활용될 가능성이 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "아랍계 유권자의 높은 투표율은 정치 참여 의지의 증가를 보여주지만, 주요 정당들이 아랍 정당과의 연립을 기피함으로써 이들의 의사가 구조적으로 차단되는 민주주의 모순이 드러나고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "에볼라 국경을 넘다—콩고 1만 명 돌파, 케냐 확산, 백신 없는 변종이 국제 공중보건 체계를 시험하고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "콩고민주공화국의 에볼라 발병이 확진자 1만 명을 돌파하고 사망자는 약 4,900명에 달했다. 이번 유행에는 승인된 백신이나 특정 치료제가 없는 변종이 관여해 억제가 어렵다. 케냐에서는 첫 환자가 3개국을 이동하는 동안 탐지되지 않아 9명이 확진됐으며, 아프리카 CDC 수장은 충분한 자금 지원 없이는 유럽까지 확산될 수 있다고 경고했다.",
+        "why_it_matters": "기존 에볼라 백신이 효과 없는 변종의 등장과, 방역망을 뚫고 다국경을 넘어선 초기 전파가 동시에 확인됐다. 코로나19 당시와 유사한 패턴으로 국제 자금 지원이 지체될 경우 글로벌 확산으로 이어질 수 있다.",
+        "what_is_changing": "기존 에볼라 대응 체계(백신·치료제)가 변종 앞에서 무력화되면서, 공중보건 국제 협력 자금 확보와 신속한 백신 개발 체계 전환이 새로운 과제로 부상하고 있다.",
+        "connection": "란셋 보고서의 기후-보건 복합 위기 경고, 수단 의료 인프라 파괴, 에티오피아 분쟁 등 아프리카 인도주의 위기가 중첩되어 방역 자원 배분을 더욱 어렵게 만들고 있다.",
+        "signal": "백신 없는 변종의 초국경 확산은 팬데믹 이후 재건됐다고 여겨진 국제 감염병 대응 체계가 여전히 취약하다는 강력한 경고 신호다.",
+        "what_to_watch": "WHO의 국제 공중보건 비상사태(PHEIC) 선포 여부, 신규 백신 긴급 개발 협약, 케냐 이외 국가로의 추가 전파 사례 확인"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "아프리카 CDC의 '자금 없으면 영국까지 전파' 발언은 서방 국가들을 향한 자금 지원 압박으로, 국제사회의 반응 속도가 에볼라의 지정학적 파급 범위를 결정할 것이다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "백신·치료제 없는 변종에 대한 긴급 자금 공백은 대응 지연으로 이어지고, 코로나19처럼 대응 비용이 조기 투자보다 수십 배 커질 수 있는 구조적 위험이 반복되고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
+          "region": "North America"
+        },
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+          "region": "Africa"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+          "region": "Africa"
+        }
+      ]
+    },
+    {
+      "headline": "볼소나루 사법 명령 위반 미국 도피, 트럼프 비자 수용—권위주의 연대가 민주주의 규범을 침식하고 있다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "브라질 대선에서 400만 표 이상 차이로 룰라에게 패배한 플라비우 볼소나루가 대법원의 여권 반납·출국 금지 명령을 무시하고 아르헨티나를 경유해 미국 플로리다에 입국했다. 미국 국무부는 사전에 비자를 발급했으며, 볼소나루는 자신이 '브라질의 진정한 지도자'라고 선언했다. 트럼프 전 대통령은 브라질 선거가 조작됐다는 근거 없는 주장을 지지했다.",
+        "why_it_matters": "사법 명령을 위반한 선출직 인사가 동맹국의 비자를 통해 법적 처벌을 피하는 구조가 공식화되면, 선거 패배 후 사법 회피의 국제적 템플릿이 될 수 있다. 미국-브라질 외교에도 심각한 긴장 요인이다.",
+        "what_is_changing": "2022년 자이르 볼소나루의 패턴을 아들이 그대로 반복하면서, 선거 패배-선거 부정 주장-해외 망명이 우파 포퓰리스트의 구조화된 위기 대응 매뉴얼로 자리잡고 있다.",
+        "connection": "네타냐후의 선거 불복 발언, 트럼프-푸틴 관계, 이스라엘 아랍 정당 배제 등 여러 사례가 결합해 글로벌 차원에서 민주주의 제도에 대한 동시다발적 압력이 가중되고 있다.",
+        "signal": "국제 동맹 네트워크가 사법 회피를 위한 안전망으로 기능할 수 있다는 선례가 될 경우, 선거 패배를 인정하는 규범 자체가 약화될 수 있다.",
+        "what_to_watch": "브라질 대법원의 미국 측 송환 요청 여부, 룰라 행정부의 대미 외교적 대응, 아르헨티나 밀레이 정부의 경유 관여 해명"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프 행정부가 볼소나루에게 비자를 사전 발급한 것은 이념적 동맹이 법적 규범보다 우선한다는 신호를 국제 사회에 보낸 것으로 해석된다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "볼소나루 가문이 직면한 자금세탁·부패 수사는 형사 소추 회피라는 물질적 동기와 정치적 망명 서사를 결합시키고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/bolsonaro-flees-brazil-for-us-after-election-defeat",
+          "region": "Europe"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/10/28/flavio-bolsonaro-leaves-brazil-despite-a-court-ban-and-the-us-will-grant-him-a-visa?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "region": "Brazil/USA"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
