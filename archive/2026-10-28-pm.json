@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-28",
+  "session": "pm",
+  "time": "23:01",
+  "global_picture": {
+    "world_right_now": [
+      "스페인 고속열차 정면충돌로 64명 사망—2026년 유럽 최대 철도 참사로 기록",
+      "이스라엘 총선 최종 개표에서 네타냐후·야권 모두 과반 실패, 아랍 정당이 연립의 열쇠 쥐어",
+      "플라비우 볼소나루, 법원 출국금지 어기고 미국 입국—트럼프 행정부 비자 발급으로 사실상 망명 수용",
+      "에볼라 누적 확진 1만 명 돌파, 케냐 유입 확인—아프리카 CDC '팬데믹 수준' 경보",
+      "이란-미국 전쟁 8개월째, 브렌트유 배럴당 115달러 돌파·카타르 LNG 불가항력 연장으로 에너지 가격 급등",
+      "핀란드·노르웨이 독자 푸틴 통화에 덴마크 공개 비판—유럽 대러 외교 균열 가시화",
+      "마이크로소프트 전 세계 6만 명에 자발적 퇴직 패키지 제안—빅테크 구조조정 가속",
+      "중국 노인 인구 아동 첫 추월, 노인부양비 사상 첫 역전—동아시아 고령화 새 이정표",
+      "미국 중간선거 일주일 전, FEC 선거자금 시스템 해킹·푸드스탬프 삭감이 유권자 분노 촉발",
+      "UEFI 펌웨어 원격코드 실행 취약점 발견—전 세계 대부분 서버 노출"
+    ],
+    "emerging_signals": [
+      "아시아 동맹국들 미국 국채 매입 60% 급감—달러 자산 신뢰 균열의 초기 신호",
+      "중국 희토류에 이어 AI 핵심기술 수출 규제 추진, 관련 기술 인력 출국 통제까지 추가",
+      "화웨이 '타우 스케일링 법칙' 기지국 적용—미국 반도체 제재 우회 기술 실용화 단계 진입",
+      "자율주행 트럭 Kodiak, 상업 계약 체결로 공공도로 무인 투입 시작—물류 자동화 임계점 접근",
+      "AI 에이전트 책임 공백 논란—뱅크오브아메리카 경고, 델라웨어 AI 기업 운영 허용 법안 동시 점화",
+      "모로코 첫 여성 총리 취임—왕실·이슬람 세력·페미니즘 사이 실질적 권한 범위 주목"
+    ],
+    "structural_trends": [
+      "이란-미국 전쟁이 유가·LNG·항공·해운·크루즈 등 민간 경제 전 부문으로 파급되는 복합 충격 구조 형성",
+      "미중 기술 패권 경쟁이 반도체→AI 모델→수출규제→인력 통제로 단계적 확전 중",
+      "전 세계 중앙은행이 인플레이션 대응 금리 인상 기조를 유지하는 가운데 달러 패권 도전 압력도 동시 증가",
+      "AI가 의료·법률·금융·국방·물류 전 영역 의사결정에 침투하면서 규제 공백과 책임 귀속 문제가 동시 폭발",
+      "러시아가 서방 고립 속 아프리카·중동·라틴아메리카를 대체 외교·경제 거점으로 공식화하는 글로벌 사우스 포섭 가속",
+      "기후변화 가속이 에볼라·사이클론·산불 연기 사망 등 공중보건 복합위기로 전환되는 구조적 연결 심화"
+    ],
+    "what_changed_today": [
+      "이스라엘 총선 결과가 교착에서 '아랍 정당 캐스팅보트' 국면으로 구체화—어제의 초박빙 예측이 현실로",
+      "에볼라가 케냐 유입 9명 확진으로 확인되며 '국경 돌파' 단계로 격상—어제 아프리카 내 확산 경고에서 실제 월경 확산으로",
+      "플라비우 볼소나루가 미국 입국을 완료, 트럼프 행정부 비자 발급 공식화—어제 탈출 경위 불명에서 망명 수용으로 전환",
+      "스페인 열차 충돌 사망자가 초기 10명에서 64명으로 급증하며 유럽 사상 최대급 철도 참사로 확정"
+    ],
+    "what_to_watch_next": [
+      "이스라엘 아랍 정당 연립 참여 여부—야권-아랍 연정 구성 시도 vs. 교착 및 재선거 가능성",
+      "에볼라 케냐 지역사회 2차 전파 여부—국경 검역 강화 및 WHO 긴급위원회 소집 가능성",
+      "미국 중간선거(11월 4일)—하원 권력 교체 여부에 따른 부채한도 협상 및 예측시장 규제 방향",
+      "이란 카타르 중재안 거부 이후 미국의 다음 군사·외교 대응—트럼프 '종전 내 결정' 발언 후속 행보",
+      "마이크로소프트 6만 명 퇴직 패키지 신청 현황—AI 대체 고용 재편 규모 가시화 시점",
+      "UEFI·PHP·eMudhra 인증기관 취약점 패치 배포 및 실제 피해 규모 집계"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "스페인 고속열차 64명 사망—올해 두 번째 철도 참사로 시스템 실패 논란",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "10월 28일 스페인 마드리드-안달루시아 노선 톨레도주 구간에서 정차 중인 열차에 다른 고속열차가 추돌해 최소 64명이 사망하고 80명 이상이 부상했다. 정부는 신호 시스템 고장 상황에서 운영사 Adif 직원의 인적 오류가 주요 원인일 가능성이 높다고 발표했으며, 마드리드-세비야 구간 철도 서비스가 전면 중단됐다.",
+        "why_it_matters": "2026년 1월에 이어 같은 해 두 번째 고속철 대형 사고로, 스페인 철도 안전 관리 시스템 전반에 대한 구조적 문제 의혹이 국제적 관심을 받고 있다. 64명 사망은 유럽 수십 년 내 최대 규모의 열차 인명 피해에 해당한다.",
+        "what_is_changing": "단순 운영 실수가 아니라 신호 시스템 결함과 인적 오류가 복합된 사고로, '철도 선진국' 스페인의 안전 인프라 투자 기준과 감독 체계에 대한 근본적 재검토 요구가 제기된다.",
+        "connection": "유럽 전반에서 철도 투자 확대와 항공기 대체 교통수단으로서 고속철의 역할이 강조되는 시점에 발생해, EU 차원의 철도 안전 규제 강화 논의로 이어질 수 있다.",
+        "signal": "반복적 고속철 사고는 인프라 노화·디지털화 지연·인력 감축이 맞물린 구조적 위험의 징후일 수 있다.",
+        "what_to_watch": "사고 원인 공식 조사 결과, 스페인 철도 당국 경영진 책임 문제, EU 철도 안전 지침 재논의 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "스페인 집권 여당은 인적 오류를 강조하며 시스템 책임 분산을 시도하는 반면, 야당은 정부의 인프라 투자 소홀을 공격 지점으로 삼을 가능성이 높다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "최신 열차자동방호(ATP) 시스템이 해당 구간에 완전히 도입되지 않았다는 의혹이 제기되며, 디지털 신호 제어 시스템의 전국 표준화 속도가 도마에 올랐다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/death-toll-in-spain-train-crash-rises-to-at-least-64-with-rescue-and-recovery-operations-ongoing/live-79785087",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
+          "region": "India"
+        }
+      ]
+    },
+    {
+      "headline": "이스라엘 총선 교착—아랍 정당이 처음으로 연립의 캐스팅보트를 쥐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "10월 27일 치러진 이스라엘 총선에서 네타냐후 리쿠드 블록과 에이젠코트 야권 블록 모두 과반(61석)을 확보하지 못했다. 팔레스타인계 이스라엘 시민들이 기록적 투표율을 보이며 아랍 정당이 역대 최다 득표에 근접했고, 어느 진영도 아랍 정당의 협조 없이는 연립정부를 구성할 수 없는 전례 없는 상황이 됐다. 국채와 셰켈화는 정치 불확실성을 반영해 동반 하락했다.",
+        "why_it_matters": "10·7 공격 이후 전쟁 책임과 가자 전후 구상을 놓고 치러진 선거에서 이스라엘 정치 지형이 근본적으로 재편될 가능성이 처음으로 열렸다. 이란 핵 협상, 가자 재건, 중동 외교 전반에 걸쳐 수개월간 리더십 공백이 발생할 수 있다.",
+        "what_is_changing": "이스라엘 정치에서 아랍 정당과의 연정이 금기시됐던 관행에 균열이 생겼다. 아랍 정당 포함 연정 구성 시도 여부가 이스라엘 민주주의의 성격을 재정의할 수 있다.",
+        "connection": "연립 협상 기간 중 이란과의 긴장, 헤즈볼라·하마스와의 교전 조건 변화, 미국 중간선거 이후 트럼프 대중동 정책 재조정과의 타이밍이 맞물린다.",
+        "signal": "아랍계 이스라엘 시민의 정치 참여 확대는 이스라엘 내부 인구 구조 변화가 선거 결과를 실질적으로 바꾸기 시작했다는 구조적 신호다.",
+        "what_to_watch": "야권의 아랍 정당 연립 참여 협상 시도 여부, 네타냐후 측의 군소 우파 정당 설득 가능성, 교착 지속 시 재선거 일정"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "네타냐후는 아랍 정당 없이 우파 연립을 구성하려 하겠지만 의석 수학이 불가능에 가깝고, 에이젠코트 야권은 아랍 정당 참여를 공개 수용하면 내부 분열에 직면한다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "정치 교착이 장기화될수록 이스라엘 예산 통과 지연, 투자 심리 위축, 셰켈화 추가 약세 리스크가 커진다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment",
+          "region": "Middle East"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-arab-parties-hold-key-as-netanyahu-falls-short-of-majority/article71635927.ece",
+          "region": "India"
+        },
+        {
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "headline": "에볼라 1만 명 돌파·케냐 월경 확산—백신 없는 변종이 국제 공중보건 비상사태 문턱에",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "콩고민주공화국 에볼라 사태가 누적 확진 1만 명, 사망 약 4,900명을 넘어 역사상 두 번째 규모가 됐다. 케냐에서 9명 확진이 확인됐으며, 최초 환자는 심각한 증상에도 3개국을 경유해 입국한 것으로 드러났다. 아프리카 CDC 수장은 충분한 자금 없이는 영국 등 유럽까지 확산될 수 있다고 경고했다.",
+        "why_it_matters": "승인된 백신과 특이 치료제가 없는 변종이라는 점, 국경 검역 허점이 이미 노출됐다는 점, 그리고 확산 속도가 DRC 역대 최고라는 점이 복합적으로 작용해 WHO 국제공중보건 비상사태(PHEIC) 선언 여부가 임박한 판단대에 올라 있다.",
+        "what_is_changing": "코로나19 이후 강화됐다고 평가받던 아프리카 감염병 감시 체계가 실제 월경 전파 앞에서 허점을 드러냈다. 국제 확산 경로가 '여행자'가 아닌 '증상 있는 사업가의 일반 경유'였다는 점이 검역 패러다임 재검토를 요구한다.",
+        "connection": "서방 국가들의 국제원조 삭감 기조와 맞물려 DRC 방역 자금 부족이 해결되지 않으면, 유럽·아시아 공항으로의 확산 경로가 열릴 수 있다.",
+        "signal": "기후변화로 인한 생태계 교란, 분쟁 지역 의료 공백, 국제원조 감소가 결합될 때 감염병의 대륙 간 확산이 구조적으로 더 쉬워지는 패턴의 반복이다.",
+        "what_to_watch": "WHO PHEIC 선언 여부, 케냐 지역사회 2차 전파 규모, 국제 긴급 자금 조달 성사 여부, 백신 긴급사용 승인 논의"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "아프리카 CDC는 선진국들의 방역 자금 지원을 촉구하고 있으나, 미국·영국 등이 국제원조를 삭감하는 추세여서 국제 정치적 협조 조달이 최대 변수다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "케냐의 최초 환자가 심각한 증상에도 국경을 자유롭게 넘을 수 있었던 것은 낙인 우려와 경제적 이유가 복합적으로 작용한 결과로, 공중보건 메시지 전략의 재설계가 필요하다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC Africa",
+          "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo",
+          "region": "Kenya/Africa"
+        },
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+          "region": "UK"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-28/ebola-latest-10000-cases/107318116",
+          "region": "Oceania"
+        }
+      ]
+    },
+    {
+      "headline": "볼소나루, 법원 명령 어기고 미국 입국—트럼프의 망명 수용이 민주주의 도미노를 건드린다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "브라질 대선에서 룰라에게 패한 플라비우 볼소나루가 법원의 여권 제출·출국금지 명령을 무시하고 아르헨티나와 에콰도르를 경유해 미국 마이애미에 도착했다. 트럼프 행정부는 볼소나루 일가에 대한 비자 발급 의사를 공식 확인했으며, 트럼프 대통령은 선거 결과에 의혹을 제기했다. 볼소나루 측이 선임한 판사마저 선거 무효 소송을 기각했다.",
+        "why_it_matters": "법원 명령 위반과 미국의 사실상 망명 수용이 결합되면 브라질 사법 권위에 대한 공개적 도전을 미국이 비호하는 구도가 형성된다. 이는 라틴아메리카 다른 국가의 선거 불복 세력에 선례를 제공할 수 있다.",
+        "what_is_changing": "트럼프 행정부가 동맹·우방국 국내 사법 절차에 실질적으로 개입하는 패턴이 반복되고 있다. 브라질-미국 관계는 외교 채널이 아닌 정치 진영 논리로 작동하는 새로운 국면에 접어들고 있다.",
+        "connection": "룰라 4기 정부는 GDP 대비 82% 공공부채, 야권이 장악한 의회, 지속적 인플레이션이라는 삼중 과제를 안고 있어 볼소나루 문제가 국내 정치 불안 요소로도 기능한다.",
+        "signal": "미국이 자국 동맹국에서 패배한 우파 지도자를 정치적으로 비호하는 패턴은 2026년 글로벌 민주주의 규범의 구조적 약화를 보여주는 신호다.",
+        "what_to_watch": "브라질 검찰의 인터폴 적색수배 청구 여부, 아르헨티나 밀레이 정부의 경유 해명, 룰라 정부의 외교적 대응 수위"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프는 볼소나루 지지를 통해 라틴아메리카 우파 네트워크와의 연대를 강화하는 동시에 선거 불복 서사를 국제화하는 효과를 얻는다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "브라질 정치 불안 지속은 외국인 투자 심리를 위축시키고 헤알화 약세 압력으로 이어질 수 있어, 룰라의 재정 안정화 과제를 더욱 어렵게 만든다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+          "region": "UK/Brazil"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/brazil-bolsonaro-defeated-and-on-the-run",
+          "region": "Europe"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/10/28/flavio-bolsonaro-leaves-brazil-despite-a-court-ban-and-the-us-will-grant-him-a-visa",
+          "region": "Latin America"
+        }
+      ]
+    },
+    {
+      "headline": "이란-미국 전쟁이 에너지 가격을 통해 전 세계 민간경제를 흔들고 있다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "카타르에너지가 LNG 불가항력 조항을 2026년 말까지 연장하면서 유럽 천연가스 가격이 2022년 이후 최고치를 찍었고, 후티 세력의 사우디 정유시설 공격 재개로 브렌트유는 배럴당 115.70달러까지 상승했다. IAEA 사무총장은 미국·이스라엘 공습으로 손상된 이란 핵시설이 복구 시도조차 없다고 유엔 안보리에 보고했으며, 카타르 중재안을 이란이 거부하면서 외교적 출구도 막혔다.",
+        "why_it_matters": "유가 급등은 항공 요금, 유조선 운임, 개도국 에너지 수입 비용, 소비재 물가에 연쇄 파급되어 분쟁의 직접 당사국이 아닌 국가들까지 경제적 피해를 입히는 '전쟁의 세계화' 효과를 낳는다.",
+        "what_is_changing": "중동 분쟁이 과거처럼 특정 지역 문제로 격리되지 않고, 에너지 가격을 매개로 동남아·유럽·남미 민간 기업과 가계의 일상에 직접 영향을 주는 구조로 전환됐다.",
+        "connection": "필리핀은 사우디·러시아·미국과 석유 비축 협의를 시작했고, 영국은 예산안에서 에너지 지원금 100파운드를 지급하기로 했으며, 태국은 바이오연료 세금을 인하했다—모두 동일한 에너지 충격에 대한 국가별 대응이다.",
+        "signal": "이란 핵시설 복구 미착수는 협상 재개가 아닌 현상 유지를 선택하고 있음을 시사하며, 분쟁이 수개월 더 이어질 가능성을 높인다.",
+        "what_to_watch": "미국 중간선거 이후 트럼프의 종전 조건 발언 구체화, 후티 추가 공격 여부, 이란의 카타르 중재안 재협상 의사 표명"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "브렌트유 115달러는 2022년 러시아-우크라이나 전쟁 초기 수준으로, 항공·해운·제조업 전반의 비용 구조를 재편하고 있다. 유조선 운임 급등으로 바흐리 등 해운사는 수혜를 보지만 수입국 소비자는 타격을 받는 비대칭 충격이 발생한다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프는 '종전은 내 결정'이라고 발언하며 중간선거 전 협상 카드를 쥐고 있음을 시사했으나, 470억 달러 전쟁 비용 누적은 유권자 불만의 직접 원인이 된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/QatarEnergy-Extends-LNG-Force-Majeure-to-End-of-2026.html",
+          "region": "Energy"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-hasnt-tried-to-repair-nuclear-facilities-damaged-in-us-strikes-iaea-chief/article71634749.ece",
+          "region": "India"
+        },
+        {
+          "source": "Straits Times",
+          "link": "https://www.straitstimes.com/asia/qatari-mediators-present-iran-with-new-deal-to-end-the-war-official-says",
+          "region": "Southeast Asia"
+        }
+      ]
+    }
+  ]
+}
