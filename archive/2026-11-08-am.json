@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-08",
+  "session": "am",
+  "time": "00:34",
+  "global_picture": {
+    "world_right_now": [
+      "미국 중간선거 민주당 압승으로 분점정부 출범, 트럼프는 강경파 밀러를 비서실장에 앉히며 역공 태세",
+      "러시아가 협상 직전 키이우 에너지 인프라를 대규모 공습—전장과 외교 테이블이 여전히 분리되지 않는다",
+      "파라과이 대통령 탄핵·체포, 디지털 은행 붕괴로 국민 절반이 예금 접근 불가한 금융위기가 배경",
+      "미·이란 충돌이 군사 타격과 핵 협상을 동시에 구동—호르무즈 선박 피격, 유가 급락, 카타르 중재 가동",
+      "이스라엘 총선 승자 없이 종료—아랍계 정당이 연립 열쇠를 쥐고 네타냐후 퇴진 가능성 부상",
+      "AI·기술주 1조 달러 증발 후 반등—민주당 규제 강화 우려가 시장을 흔들었다",
+      "뉴질랜드 총선 초박빙, 남아공 ANC 득표율 3분의 1 미만—서방·아프리카 연쇄 선거 지각변동",
+      "유럽 항공편 반복 폭탄 위협, 이탈리아 외무장관 친러 해킹 피해—사이버·물리 위협이 유럽 안보를 동시에 흔들고 있다",
+      "테슬라 사이버트럭 2027년 생산 중단, 사이버캡으로 전환—EV에서 자율주행 택시로 전략 중심 이동",
+      "중국, 미·중·러 3자 정상회담 논의 중이라고 발표—트럼프-시진핑 선전 회담 임박"
+    ],
+    "emerging_signals": [
+      "일본, 미국 제재로 ICC가 달러 결제에서 배제될 것을 우려해 분담금 조기 납부 검토—다자 국제질서 재편 가속 조짐",
+      "필리핀, 남중국해 2차 국제소송 준비 중—중국 견제 법적 수단이 아시아 전반으로 확산될 가능성",
+      "수의용 진정제 혼입 펜타닐 북미 확산, 응급실 대응 한계—다음 단계 과다복용 위기의 초기 신호",
+      "AI 에이전트가 설계·운영하는 실험실 등장—인간 없이 돌아가는 과학 연구 인프라의 현실화",
+      "그리스 암호화폐 과세 승인—유럽 디지털 자산 과세 표준화의 첫 단추"
+    ],
+    "structural_trends": [
+      "미·이란 전쟁이 협상과 타격을 병행하는 '이중 국면'으로 고착—호르무즈 에너지 리스크가 장기화",
+      "AI 인프라 투자에 주민 반발·규제 압력이 동시 작동—데이터센터 확장의 사회적 비용이 가시화",
+      "중국이 아프리카 광물 현지 가공에 160억 달러 투자—자원 수출국의 가치사슬 내재화 흐름 가속",
+      "북한 연계 해킹조직이 거래소 63억 달러 탈취—국가 수준 사이버 범죄가 금융 인프라 위협의 주요 행위자로 부상",
+      "의료기관·냉장 인프라 겨냥 사이버 공격 증가—공급망 취약점이 국가 안보 의제로 격상",
+      "재생에너지 송배전망 투자 급증(유럽 155% 증가)—에너지 안보가 기후 정치를 압도하는 새 질서 형성"
+    ],
+    "what_changed_today": [
+      "트럼프 비서실장 교체가 발표됨—어제 예고에서 오늘 공식화로 전환",
+      "러시아 키이우 공습이 계속됨—어제 대규모 타격에서 오늘 자포리자까지 드론 공격 범위 확대",
+      "파라과이 대통령 탄핵이 완료되어 체포·승계까지 진행됨—어제 탄핵 절차에서 오늘 권력 이전 완료",
+      "미·이란 충돌이 케심섬·호르무즈 선박 피격으로 확대됨—어제 협상·타격 병행에서 오늘 해상 전선 추가"
+    ],
+    "what_to_watch_next": [
+      "트럼프-시진핑 선전 정상회담 일정 및 무역 휴전 연장 여부",
+      "아부다비 미·우·러 3자 회담 개최 여부 및 휴전 협의 진전",
+      "미·이란 핵 협상 '교량형 합의안' 수용 여부와 추가 군사 타격 가능성",
+      "이스라엘 연립 협상—아랍계 정당 참여 여부와 네타냐후 거취",
+      "뉴질랜드 특별투표 집계 완료(이달 말)와 연립 구성 경로",
+      "Anthropic IPO 공식 발표 시점과 AI 기업 기업공개 시장 반응",
+      "미국 홍역 퇴치 지위 판정(다음 주 예정)"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "민주당 의회 장악 후 트럼프는 강경파를 전면에 내세워 역공 태세를 갖췄다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국 2026년 중간선거에서 민주당이 상·하원을 모두 장악하며 분점 정부가 출범했다. 트럼프 대통령은 패배 직후 비서실장 수지 와일스를 교체하고 이민 강경 정책의 설계자 스티븐 밀러를 후임으로 임명했다. 민주당은 하킴 제퍼리스를 하원의장 후보로 내세우며 행정부 조사를 예고했다.",
+        "why_it_matters": "대통령과 의회가 분리된 분점 정부는 입법 교착을 의미하며, 밀러의 임명은 트럼프 행정부가 타협보다 대립을 선택했음을 보여준다. 양원을 장악한 민주당은 예산·인사·조사 권한을 최대한 활용할 것으로 예상된다.",
+        "what_is_changing": "공화당 단일 지배 구조에서 견제 구도로 전환됨과 동시에, 행정부 내부는 오히려 더 강경한 방향으로 이동했다. 미국 정치는 외부적으로는 분점, 내부적으로는 극화라는 이중 구조로 진입했다.",
+        "connection": "밀러의 비서실장 임명은 이민 단속 강화 신호로 읽히며, 캐나다·멕시코 등 접경 국가의 이민·무역 정책에 직접 영향을 줄 수 있다. 민주당 내 진보 진영(DSA 등)은 이스라엘 지원 중단과 ICE 감독 강화를 의제로 올리며 압박 수위를 높이고 있다.",
+        "signal": "백악관의 우경화와 의회의 민주당 주도는 2027~2028년까지 미국 정치를 지속적인 충돌 모드로 가져갈 가능성이 높다.",
+        "what_to_watch": "민주당의 첫 행정부 조사 대상 선정, 밀러가 주도할 이민 정책 행정명령, 2028년 대선 후보군 윤곽"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "분점 정부는 입법 교착을 낳지만, 행정부는 행정명령과 규제 완화로 의회를 우회할 수 있다. 밀러 임명은 트럼프가 패배를 타협의 신호가 아닌 강공의 계기로 삼았음을 보여준다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "민주사회주의자들의 의회 진입 확대와 흑인 최초 하원의장 가능성은 미국 정치 대표성의 구조적 변화를 예고하지만, 주류 민주당과의 노선 충돌도 불가피하다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/trump-stephen-miller-chief-of-staff/",
+          "region": "Japan"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "러시아는 협상 테이블 직전에도 키이우 전력망을 타격했다—전장과 외교가 분리되지 않는다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "러시아가 아부다비 3자 회담을 앞두고 키이우와 자포리자에 대규모 미사일·드론 공격을 감행했다. 에너지 기반시설이 집중 타격받아 전기·수도 공급이 끊겼고 최소 1명이 사망했다. 드니프로강 교량이 폐쇄되는 등 도시 기능이 타격을 입었다.",
+        "why_it_matters": "겨울 직전 에너지 인프라 파괴는 민간 생존 조건을 겨냥한 압박 전술이다. 협상 직전의 대규모 공격은 러시아가 협상 레버리지를 높이기 위해 전장 우위를 먼저 확보하려는 패턴을 반복하고 있음을 보여준다.",
+        "what_is_changing": "과거 전쟁에서 협상 개시가 교전 완화의 신호였다면, 이번 전쟁에서는 협상 일정이 오히려 공격 강도를 높이는 계기로 작용하고 있다. 협상과 전투의 동시 진행이 새로운 패턴으로 고착화되고 있다.",
+        "connection": "유럽의 에너지 가격과 겨울철 공급 안정에 직접 영향을 미치며, 미국 중간선거 이후 우크라이나 지원 의지가 흔들릴 경우 전선이 더 불안정해질 수 있다.",
+        "signal": "러시아의 에너지 인프라 집중 공격은 협상을 통해 전쟁을 종결짓기보다 우크라이나의 버티기 능력을 겨울 동안 무력화하려는 전략적 선택일 가능성을 시사한다.",
+        "what_to_watch": "아부다비 3자 회담의 실제 개최 여부 및 휴전 조건, 우크라이나의 에너지 복구 속도, 유럽의 대우크라이나 긴급 에너지 지원 규모"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아는 협상 카드를 쥐면서도 전장 압박을 멈추지 않음으로써 협상 조건을 유리하게 설정하려 한다. 미국 분점 정부 출범이 대우크라이나 지원에 미칠 영향이 러시아의 타이밍 계산에 반영되었을 가능성이 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "에너지 인프라 반복 파괴는 우크라이나 재건 비용을 기하급수적으로 늘리며, 유럽 보험사와 금융기관의 우크라이나 관련 익스포저에도 불확실성을 가중시킨다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "파라과이 디지털 은행 붕괴가 대통령 탄핵으로 이어졌다—금융 위기가 정치 위기를 직접 만들어냈다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "파라과이 상원이 산티아고 페냐 대통령을 출석 45명 중 44명 찬성으로 탄핵·파면했고 가택연금에 처했다. 배경은 디지털 은행 우에노 뱅크의 급격한 사업 확장 후 붕괴로 국민 약 절반이 예금에 접근하지 못하게 된 금융위기다. 검찰은 관련자 27명을 기소했으며 페드로 알리아나가 대통령직을 승계했다.",
+        "why_it_matters": "디지털 뱅킹의 급격한 확장과 취약한 규제 감독이 결합하면 국가 금융 시스템 전체를 위협할 수 있음을 실증한 사례다. 개발도상국에서 핀테크 규제 공백이 얼마나 심각한 정치적 결과를 낳을 수 있는지를 보여준다.",
+        "what_is_changing": "금융위기가 정치 위기를 직접 촉발하는 경로가 단기간에 완성되었다. 과거 금융위기는 경제 침체를 거쳐 수년 뒤 정치 불안으로 이어졌지만, 디지털 뱅킹 환경에서는 붕괴가 즉각 대규모 예금 접근 불가로 연결되어 대중 분노가 급속히 집결했다.",
+        "connection": "남미 전반에서 디지털 금융 혁신과 규제 역량 사이의 격차가 비슷한 취약성을 만들어낼 가능성이 있다. FATF는 파라과이의 자금세탁 방지 체계를 주목하고 있다.",
+        "signal": "규제 없이 성장한 핀테크가 국가 금융 인프라를 위협할 수 있다는 경보가 개도국 정책 입안자들에게 전달되고 있다.",
+        "what_to_watch": "우에노 뱅크 기소 결과, 예금 반환 일정, 신임 알리아나 정부의 금융 규제 개혁안, 콜로라도당의 2028년 선거 대응 전략"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "국민 절반의 예금 접근 차단은 소비 붕괴와 소규모 사업자 도산으로 이어질 수 있다. 해외송금(GDP의 약 2.7%)도 수령 단계에서 직접 타격을 받는다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "탄핵을 통한 면책특권 박탈은 집권당 내부에서도 위기 책임을 분산하려는 압력이 작동했음을 의미한다. 거리 시위가 계속되고 있어 정권 교체만으로 민심이 가라앉을지 불확실하다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+          "region": "Europe"
+        },
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/11/07/paraguay-s-senate-removes-santiago-pena-who-is-placed-under-arrest-and-pedro-alliana-takes-office",
+          "region": "Latin America"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "미·이란 충돌이 군사 타격과 핵 협상을 동시에 구동하는 가장 위험한 국면에 진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미군이 이란 대공 시설과 케심섬을 추가 타격했고, 이란은 미국 재공격 시 해저 케이블 공격을 경고했다. 호르무즈 해협에서 선박 피격이 발생했으며 중재국 카타르는 긴장 완화 협상을 계속하고 있다. 이란은 중재국이 제안한 핵 프로그램 '교량형 합의안'을 검토 중이며, 이란 정부는 국민에게 요오드화칼륨을 배포하고 있다. 전쟁 협상 기대로 브렌트유가 주간 약 15% 급락했다.",
+        "why_it_matters": "에너지 가격의 급격한 변동성과 호르무즈 해협 통행 불안은 전 세계 공급망에 직접 영향을 미친다. 군사 타격과 핵 협상의 동시 진행은 오판에 의한 급격한 확전 가능성을 높인다.",
+        "what_is_changing": "미국과 이란이 충돌하면서도 협상 채널을 유지하는 '이중 국면'은 전통적 전쟁 종결 패턴과 다르다. 에너지 시장은 종전 기대를 먼저 가격에 반영하고 있으나 전문가들은 향후 2개월이 확전 위험이 가장 큰 시기라고 평가한다.",
+        "connection": "호주, 한국, 일본 등 호르무즈 의존 국가들이 에너지 대체 공급 경로 확보에 나서고 있다. 미국 중간선거 이후 의회가 대통령의 전쟁 권한을 견제할 수 있는 구도가 만들어졌다는 점도 변수다.",
+        "signal": "이란의 요오드화칼륨 배포와 핵시설 추가 타격 검토는 분쟁이 핵 에스컬레이션 경계에 가까워지고 있음을 시사하는 초기 신호다.",
+        "what_to_watch": "핵 합의안 협상 진행 여부, 호르무즈 해협 추가 사고, 미국 의회의 전쟁 권한 제한 시도, 유가 방향성"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "브렌트유 15% 주간 급락은 종전 기대를 선반영한 것이지만, 전문가들은 협상 실패 시 반등 폭이 더 클 수 있다고 경고한다. 호르무즈 통행 차질은 아시아 에너지 수입국에 즉각적인 타격을 준다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "민주당이 의회를 장악한 상황에서 트럼프 행정부의 대이란 군사 옵션은 의회 견제를 받을 가능성이 높아졌다. 이란은 이를 협상 레버리지로 활용할 수 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "이란의 해저 케이블 공격 위협은 디지털 인프라가 지정학 분쟁의 새로운 전선이 되고 있음을 보여준다. 케이블 인근 선박 집결이 이미 관측되고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+          "region": "Business"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation",
+          "region": "Middle East"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece",
+          "region": "India"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+          "region": "Technology"
+        }
+      ]
+    }
+  ]
+}
