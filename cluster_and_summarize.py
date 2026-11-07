@@ -36,7 +36,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 
-from config import CLAUDE_MODEL
+from config import CLAUDE_MODEL, CLAUDE_MODEL_FAST
 
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 
@@ -45,7 +45,7 @@ ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 MAX_CONCURRENCY = 5
 
 
-def _call_claude(system_prompt: str, user_content: str, max_tokens: int) -> dict:
+def _call_claude(system_prompt: str, user_content: str, max_tokens: int, model: str = CLAUDE_MODEL) -> dict:
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         raise RuntimeError("환경변수 ANTHROPIC_API_KEY 가 설정되어 있지 않습니다.")
@@ -58,7 +58,7 @@ def _call_claude(system_prompt: str, user_content: str, max_tokens: int) -> dict
             "content-type": "application/json",
         },
         json={
-            "model": CLAUDE_MODEL,
+            "model": model,
             "max_tokens": max_tokens,
             "system": system_prompt,
             "messages": [{"role": "user", "content": user_content}],
@@ -181,7 +181,7 @@ def _stage1_extract_raw_clusters(items: list[dict]) -> list[dict]:
             + json.dumps(batch, ensure_ascii=False)
         )
         try:
-            result = _call_claude(STAGE1_SYSTEM_PROMPT, user_content, max_tokens=6000)
+            result = _call_claude(STAGE1_SYSTEM_PROMPT, user_content, max_tokens=6000, model=CLAUDE_MODEL_FAST)
             return result.get("raw_clusters", [])
         except (json.JSONDecodeError, requests.RequestException, RuntimeError) as e:
             print(f"[WARN] 1단계 배치 처리 실패, 건너뜀: {e}")
@@ -243,7 +243,7 @@ def _stage2_chunk_reduce(clusters: list[dict]) -> list[dict]:
             + json.dumps(chunk, ensure_ascii=False)
         )
         try:
-            result = _call_claude(STAGE2_SYSTEM_PROMPT, user_content, max_tokens=8000)
+            result = _call_claude(STAGE2_SYSTEM_PROMPT, user_content, max_tokens=8000, model=CLAUDE_MODEL_FAST)
             return result.get("candidates", [])
         except (json.JSONDecodeError, requests.RequestException, RuntimeError) as e:
             print(f"[WARN] 2단계 덩어리 처리 실패, 건너뜀: {e}")
