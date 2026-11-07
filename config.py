@@ -108,4 +108,5 @@ REQUEST_USER_AGENT = "personal-archive-bot/0.1 (contact: your-email@example.com)
 REQUEST_DELAY_SECONDS = 2  # 사이트별 과도한 요청 방지
 
 # Claude API 모델 (클러스터링/다중관점 요약에 사용)
-CLAUDE_MODEL = "claude-sonnet-4-6"
+CLAUDE_MODEL = "claude-sonnet-4-6"  # 3단계(최종 인사이트/글로벌 픽처)
+CLAUDE_MODEL_FAST = "claude-haiku-5-5"  # 1~2단계(분류/통합). 품질 문제 시 CLAUDE_MODEL로 되돌릴 것
