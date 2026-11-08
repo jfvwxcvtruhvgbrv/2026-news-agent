@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-08",
+  "session": "pm",
+  "time": "23:08",
+  "global_picture": {
+    "world_right_now": [
+      "미국 중간선거 이후 민주당이 의회를 장악하면서 트럼프 행정부와 의회 간 정면충돌이 본격화되고 있다",
+      "러시아는 아부다비 평화협상 직전에도 우크라이나 에너지 인프라를 공습해 85만 명을 정전으로 몰아넣었고 자포리자 원전은 비상발전기에 의존 중이다",
+      "미국이 호르무즈 해협에서 이란 선박을 타격하고 육상 교역까지 차단하며 이란 봉쇄를 전방위로 확대하고 있다",
+      "파라과이 대통령이 탄핵·체포됐으나 거리 시위는 오히려 콜로라도당 전체를 겨냥하며 확대되고 있다",
+      "이스라엘 대통령이 야당 아이젠코트에게 정부 구성 임무를 맡기며 네타냐후 시대의 종막 가능성이 열렸다",
+      "폴란드 크라쿠프 중앙광장에서 극우 성향 총격범이 6명을 살해해 유럽 내 극단주의 폭력 우려가 다시 불거졌다",
+      "AI 데이터센터를 둘러싼 주민 반발이 호주·인도네시아·캐나다를 넘어 선거 쟁점으로 부상하고 있다",
+      "가자지구 폭우로 수만 명이 임시 거처를 잃으며 전쟁과 자연재해가 중첩된 최악의 인도적 위기가 심화되고 있다",
+      "남아프리카공화국 ANC가 지방선거에서 31% 득표에 그치며 역대 최저 지지율을 기록했다",
+      "COP31이 튀르키예 안탈리아에서 개막했지만 약속을 넘어 구체적 실행안이 나올지에 대한 회의론이 팽배하다"
+    ],
+    "emerging_signals": [
+      "텐센트 수석 AI 과학자가 AI의 생물학 장악이 임박했다고 경고—바이오 안보와 AI의 교차점이 새로운 위험 영역으로 부상 중",
+      "AI 코딩 에이전트(Claude Code)가 GitHub에 자격 증명 1,122건을 노출—AI 도구의 보안 취약점이 조용히 확산 중",
+      "유럽 항공편 대상 허위 폭파 위협이 반복되고 프랑스가 외국 세력 개입을 수사—하이브리드 위협의 새로운 양상",
+      "세쿼이아 캐피털 스카우트 프로그램 종료—VC 업계의 투자 모델 재편 신호",
+      "미국 10월 고용이 예상의 두 배 이상인 16.5만 명 증가—금리 인하 지연 가능성 재부상"
+    ],
+    "structural_trends": [
+      "미·이란 군사 대립과 외교 협상이 동시에 진행되는 이중 구조가 고착화되며 중동 에너지 안보가 만성적 불안정 상태로 진입하고 있다",
+      "AI 데이터센터 인프라 확장과 지역 사회·환경 반발 간의 긴장이 글로벌 디지털 전환의 핵심 걸림돌로 자리 잡고 있다",
+      "러시아의 민간 에너지 인프라 반복 공습이 전쟁의 장기화 전략으로 굳어지고 있으며 원전 안전 문제가 상수가 됐다",
+      "중국의 개발도상국 청정기술 투자 1,320억 달러로 글로벌 에너지 전환 질서에서 중국의 주도권이 강화되고 있다",
+      "아프리카 여러 국가에서 선거 결과 불복·사법 개입·반테러법 남용이 반복되며 민주주의 후퇴가 구조화되고 있다"
+    ],
+    "what_changed_today": [
+      "러시아가 아부다비 협상 직전에도 공습을 감행—어제 확인된 협상·전장 분리 불가 패턴이 더 구체적으로 확인됐다",
+      "미국이 이란에 대한 해상 봉쇄를 육상 교역 차단으로 확대—어제의 군사 타격·핵 협상 동시 진행에서 경제 압박 차원이 추가됐다",
+      "파라과이 대통령이 체포 및 직무정지를 넘어 탄핵 완료·신임 대통령 취임 단계로 진행—어제의 금융위기→정치위기 연결 고리가 사법·승계 단계까지 확장됐다",
+      "트럼프가 법무부에 민주당 수사를 지시하고 UFC 대표를 대변인으로 임명—어제의 역공 태세가 구체적 인사·수사 행동으로 전환됐다"
+    ],
+    "what_to_watch_next": [
+      "아부다비 3자 협상에서 우크라이나·러시아가 휴전 로드맵에 합의할 수 있는지",
+      "자포리자 원전 비상발전기 연료가 2주 내에 보충될 수 있는지—보충 실패 시 핵 안전 비상 가능성",
+      "이스라엘 아이젠코트가 28일 안에 연립정부를 구성할 수 있는지, 아랍계 정당의 지지 여부",
+      "호르무즈 해협에서 미·이란 충돌이 추가 교전으로 확대될지, 유가 반등 여부",
+      "미국 주 법무장관들이 트럼프 행정부를 상대로 이민·낙태·환경 분야 연방 소송을 언제 개시할지",
+      "Anthropic IPO 신청 타이밍과 AI 기업 지출 정체 데이터가 공모 가치 평가에 미치는 영향"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "러시아는 협상 테이블 하루 전에도 우크라이나 전력망을 공습했다—자포리자 원전은 비상발전기에 2주를 의존 중",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 아부다비 3자 협상 직전 우크라이나 에너지 인프라를 공습해 드니프로페트로우시크·하르키우 일대 약 85만 명이 정전 피해를 입었다. 자포리자 원전은 외부 송전선이 절단되면서 비상발전기로 원자로 냉각을 유지 중이며, IAEA는 연료가 약 2주분 남았다고 밝혔다. 같은 공격으로 자포리자 지역 인도주의 쉘터와 구조 인력을 겨냥한 2차 공격이 이뤄져 최소 55명이 사망했다.",
+        "why_it_matters": "원전 냉각 전력이 2주 내 고갈될 경우 체르노빌·후쿠시마급 핵 비상이 현실화될 수 있다. 에너지 인프라 공격이 협상 국면에서도 중단되지 않는다는 사실은 휴전 협상의 실효성에 근본적 의문을 던진다.",
+        "what_is_changing": "러시아가 군사 타격과 외교를 완전히 분리된 도구로 운용하고 있음이 반복 확인되고 있다. 민간 에너지 망 공격이 전략적 압박 수단으로 고착화됐으며, 원전 안전 위협은 더 이상 우발적 사고가 아닌 의도된 압박 수단으로 해석된다.",
+        "connection": "아부다비 협상에 참여 중인 미국과 유럽 중재자들은 이번 공습이 협상 동력에 미치는 영향을 평가해야 하는 처지가 됐다. IAEA는 추가 대응을 검토 중이며, 이 사안은 COP31에서 에너지 안보 의제와도 연결된다.",
+        "signal": "에너지 인프라 공격이 협상 중에도 멈추지 않는 패턴은 러시아가 협상을 약점으로 보지 않는다는 신호다. 2주 연료 경고는 국제사회의 긴급 개입 타이밍을 압박하는 타이머 역할을 한다.",
+        "what_to_watch": "자포리자 원전 비상발전기 연료 보충 여부, 아부다비 협상에서 에너지 시설 보호 조항 포함 여부, IAEA 긴급 성명 수위"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "협상과 군사 행동을 동시에 구동하는 러시아의 이중 전략은 서방 중재자들에게 협상 테이블에서의 양보를 압박하는 레버리지로 작동한다. 미국 민주당 의회 승리로 우크라이나 지원이 강화될 수 있다는 전망이 나오는 가운데, 크렘린은 협상 전에 카드를 최대한 활용하려는 계산을 하고 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "원전 냉각에 필요한 외부 전력 공급망이 단일 송전선에 의존하는 취약 구조가 반복 노출되고 있다. 비상발전기 2주 연료는 국제 원자력 기준에서 최소 안전 한계에 해당하며, 연료 재보급 경로 확보가 기술적으로도 외교적으로도 복잡한 과제다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity",
+          "region": "Middle East"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-external-power-supply/article71680948.ece",
+          "region": "India"
+        },
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/11/08/world-news/russia-strikes-ukraine-emergency-rescue-shelter-again/",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "미국이 호르무즈 해협 군사 타격에서 육상 교역 차단으로 대이란 압박을 확대했다—핵 정보 포상금 2,000만 달러도 동시에",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미군이 이란 항구를 떠나던 선박이 해상 봉쇄를 위반했다는 이유로 타격했고, 이란 측은 호르무즈 해협에서 유조선 여러 척이 화재를 겪었다고 맞섰다. 이와 함께 미국은 이란의 육상 교역까지 차단하는 조치를 추가하고 'Task Force Iron Gate'를 신설했다. 미국 정부는 별도로 이란 핵 프로그램 관련 정보 제공자에게 2,000만 달러 포상금을 내걸었다.",
+        "why_it_matters": "호르무즈 해협은 전 세계 석유 수출의 약 20%가 통과하는 전략적 요충지다. 군사 타격과 경제 봉쇄, 정보 공작이 동시에 가동되는 것은 이란에 대한 압박이 새로운 단계로 접어들었음을 의미한다.",
+        "what_is_changing": "기존의 제재 중심 대이란 전략이 직접적인 군사 행동과 물리적 봉쇄로 전환되고 있다. 육상 교역 차단은 이란이 제재를 우회하던 경로를 체계적으로 차단하려는 시도다.",
+        "connection": "브렌트유는 이란 협상 기대로 주간 15% 급락했지만 호르무즈에서는 충돌이 계속되고 있다. 시장과 현실의 괴리가 커지고 있으며, 이스라엘 국방장관도 이란 핵 대응이 미완료라고 별도 경고했다.",
+        "signal": "미국이 해상 봉쇄→육상 차단→정보 포상금을 동시에 가동한 것은 군사·외교·정보 삼각 압박 체계를 완성하려는 신호다. 이란이 대화냐 에스컬레이션이냐를 선택해야 하는 임계점에 가까워지고 있다.",
+        "what_to_watch": "이란의 핵 협상 복귀 혹은 호르무즈 추가 도발 여부, 유가 반등 시점, 이스라엘의 독자적 군사 옵션 행사 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "민주당 의회 승리 이후에도 트럼프 행정부가 대이란 강경 기조를 유지하고 있다는 사실은 이란 정책이 양당 합의 기반 위에 있음을 보여준다. 그러나 의회가 군사 행동에 대한 견제를 강화할 가능성도 높아졌다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "유가는 평화 기대로 급락했지만 호르무즈 충돌이 지속되면 역방향 충격이 올 수 있다. 에너지 시장이 외교 신호와 현장 현실 사이에서 방향을 잡지 못하는 불안정 상태가 이어질 전망이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/us-military-blockade-iran-commerce/",
+          "region": "Japan"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece",
+          "region": "India"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Isnt-Over-but-Oil-Traders-Are-Already-Pricing-In-Peace.html",
+          "region": "Global"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프는 중간선거 패배 직후 UFC 대표를 대변인으로 임명하고 민주당을 겨냥한 법무부 수사를 지시했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 대통령이 중간선거에서 공화당이 상·하원 모두 다수당을 잃은 직후 UFC 최고경영자 데이나 화이트를 백악관 대변인으로 임명하고, 법무부에 민주당 슬롯킨 의원 등을 겨냥한 위협 행위 수사를 지시했다. 민주당은 하킴 제프리스 지도부 체제로 의회를 장악하고 관세 철회와 이민 정책 협력 중단을 최우선 과제로 내세웠다.",
+        "why_it_matters": "미국 행정부와 의회가 완전히 대립하는 구도가 형성됐다. 트럼프가 사법권을 정치 도구로 활용하고 비주류 인사를 전면에 배치하는 방식은 제도적 충돌의 수위를 높인다.",
+        "what_is_changing": "행정부·사법부를 동원한 역공이 선거 직후 48시간 내에 본격화됐다. 주 법무장관들도 이민·낙태·환경 분야에서 연방 대상 소송 준비에 나서 연방-주 간 법적 전선이 열리고 있다.",
+        "connection": "빅테크는 민주당 의회와의 관계를 재설정해야 하는 압박을 받고 있다. 중간선거에서 AI 데이터센터 관련 주민투표 41건 중 40건이 규제 강화로 가결돼 AI 산업 환경이 2년간 어려워질 전망이다.",
+        "signal": "2018년 중간선거 패배 후의 패턴과 비교해 이번 대응은 더 빠르고 직접적이다. 대통령의 사법 개입과 비전통적 인사 활용은 2028년을 겨냥한 장기 포석의 성격도 있다.",
+        "what_to_watch": "주 법무장관들의 첫 연방 소송 타이밍, 의회가 트럼프 관세를 실제로 철회할 수 있는 입법 경로 여부, 루비오 등 공화당 내 2028 대선 주자들의 거리 두기 움직임"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "행정부와 의회가 갈리는 분점 정부(divided government) 구조는 미국 정치의 익숙한 풍경이지만, 대통령이 사법 권력을 야당 겨냥 도구로 사용하는 속도와 노골성은 이전과 다르다. 민주당의 관세 철회 의제는 국내 여론과 캐나다 등 동맹과의 관계에 모두 영향을 준다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "빅테크 시가총액이 선거 다음 날 약 1조 달러 증발했다. 데이터센터 규제 강화 흐름과 Anthropic IPO의 시장 평가 압박이 겹치면서 AI 산업의 투자 심리가 흔들리고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957",
+          "region": "Europe"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+          "region": "US"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/trump-ufc-press-secretary/",
+          "region": "Japan"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+          "region": "US"
+        }
+      ]
+    },
+    {
+      "headline": "파라과이 대통령이 체포·탄핵됐지만 시위는 콜로라도당 전체를 겨냥하며 오히려 확대되고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "파라과이 상원이 약 10시간의 심리 끝에 찬성 44표로 산티아고 페냐 대통령을 탄핵해 해임했다. 검찰은 대형 온라인 은행 우에노 붕괴와 관련한 횡령 교사 혐의로 그를 기소하고 구금을 청구했다. 은행 폐쇄로 약 300만 명의 예금자가 계좌에 접근하지 못하고 있으며, 페드로 알리아나가 직무를 승계했으나 거리 시위는 오히려 콜로라도당 전체를 겨냥하고 있다.",
+        "why_it_matters": "디지털 은행 하나의 붕괴가 국가 최고지도자 탄핵으로 이어진 사례는 금융 취약성이 정치적 위기를 얼마나 직접적으로 촉발할 수 있는지를 보여준다. 약 300만 명은 파라과이 인구의 절반 이상이다.",
+        "what_is_changing": "핀테크·디지털 은행의 급성장이 규제 공백 속에서 대규모 금융 위기로 연결되는 새로운 패턴이 등장했다. 대통령 해임이 분노를 흡수하는 데 실패하면서 체제 전반에 대한 불신이 가시화되고 있다.",
+        "connection": "남미 전반에서 금융 디지털화 속도와 감독 역량 간의 격차가 확대되고 있다. 아르헨티나·브라질에서도 유사한 취약성이 존재한다는 우려가 나온다.",
+        "signal": "대통령 교체로도 시위가 사그라지지 않는 것은 위기가 개인 비리를 넘어 구조적 정당성 위기로 전환됐다는 신호다.",
+        "what_to_watch": "우에노 은행 예금자 보상 방안, 신임 알리아나 정부의 안정화 조치, 콜로라도당에 대한 추가 사법·의회 조사"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "규제 감독 없이 급성장한 디지털 은행이 대규모 예금 동결로 이어진 사례는 중남미 핀테크 성장의 취약한 이면을 드러낸다. 약 300만 계좌 동결은 국내 소비와 사회 안정에 즉각적인 충격을 주고 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "탄핵은 절차적 완료였지만 정치적 해소는 아니었다. 콜로라도당이 수십 년간 집권해 온 구조 자체에 대한 불신이 표면화된 상황에서 신임 정부는 정당성 위기를 그대로 떠안게 됐다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "MercoPress",
+          "link": "https://en.mercopress.com/2026/11/08/paraguay-s-prosecutors-charge-santiago-pena-and-seek-his-pre-trial-detention-over-the-ueno-bank-collapse",
+          "region": "Latin America"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+          "region": "North America"
+        }
+      ]
+    }
+  ]
+}
