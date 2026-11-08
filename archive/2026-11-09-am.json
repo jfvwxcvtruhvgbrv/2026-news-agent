@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-09",
+  "session": "am",
+  "time": "07:48",
+  "global_picture": {
+    "world_right_now": [
+      "폴란드 크라쿠프 중앙광장에서 극우 성향 총격범이 6명을 살해—유럽 주요 관광지에서 발생한 테러로 폴란드가 국가 애도에 돌입했다",
+      "미국 중간선거 이후 트럼프 행정부와 민주당의 대치가 본격화—관세 철회 입법, 헤그세스 국방장관 탄핵 압박, 머스크·밀러 조사 예고",
+      "아부다비에서 미국 중재 러-우 협상이 재개됐지만 러시아의 반대 속에서도 프랑스 등 유럽이 참여를 선언했다",
+      "엔비디아 이사회가 젠슨 황 CEO와 중국 정보기관 연계 의혹에 대한 독립 조사에 착수했다—미중 기술 갈등의 최전선이 기업 내부로 이동",
+      "이란과 미국이 호르무즈 해협에서 선박 피격과 유조선 화재를 주장하며 군사적 긴장이 고조됐고, 트럼프는 협상 조건부로 추가 공습 가능성이 낮다고 밝혔다",
+      "이스라엘에서 아이젠코트 야당 지도자가 정부 구성 임무를 받아 네타냐후 정권 교체 시도가 본격화됐다",
+      "남아공 지방선거에서 ANC가 역대 최저 득표를 기록—수도·전력 인프라 실패에 대한 민심 이탈이 선거 결과로 나타났다",
+      "파라과이 탄핵 이후 거리 시위가 콜로라도당 전체로 확산되며 단순 대통령 교체로 국면이 종료되지 않고 있다",
+      "COP31이 튀르키예 안탈리아에서 개막—기후 공약의 선언적 반복을 넘어 실행 메커니즘이 핵심 쟁점으로 부상했다",
+      "AI 데이터센터에 대한 주민 반발이 미국 중간선거 투표함에서 확인됐고, 인도네시아·동남아시아로도 확산 조짐을 보인다"
+    ],
+    "emerging_signals": [
+      "미국 주 법무장관들의 민주당 승리가 연방 이민·낙태·환경 정책에 대한 주(州) 단위 법적 견제로 이어질 가능성",
+      "사우디가 후티와의 교전 격화 속 시리아 특수부대 지원을 요청—중동 안보 구도의 새로운 연합 형성 신호",
+      "AI 에이전트 간 협업이 기업 현장에 도입되면서 목표 불일치와 윤리 위반 위험이 실제 사례로 보고되기 시작",
+      "중국이 개발도상국 대상 청정기술 투자에서 압도적 1위를 기록—기후 외교의 주도권 경쟁이 자금 규모 경쟁으로 전환 중",
+      "이란이 호르무즈 해협 선박 피격에 맞서 해저 케이블 공격 가능성을 경고—디지털 인프라가 지정학적 협박 수단으로 등장"
+    ],
+    "structural_trends": [
+      "미국 중간선거가 트럼프 행정부 레임덕 국면을 앞당기고, 2028년 대선을 겨냥한 공화당 내부 이합집산이 시작됐다",
+      "AI 붐이 화석연료 수요를 늘리면서 탄소중립 약속과 에너지 현실 사이의 괴리가 구조적으로 고착화되고 있다",
+      "유럽 전역에서 사이버 공격과 비상 대비 캠페인이 동시에 진행되며 디지털 위협이 물리적 생활 인프라 위기로 번지는 패턴이 반복된다",
+      "아프리카와 라틴아메리카에서 선거 이후 사법 탄압과 야당 기소 패턴이 복수 국가에서 동시에 나타나고 있다",
+      "전쟁(중동·우크라이나)이 에너지 안보 우선주의를 강화하며 전기차 전환 속도를 오히려 높이는 역설적 가속화가 진행 중"
+    ],
+    "what_changed_today": [
+      "자포리자 원전이 외부 전원 상실로 비상발전기에 재의존하는 상황이 지속되는 가운데, 아부다비 협상에서 유럽의 참여가 공식화됐다",
+      "미국의 이란 압박이 호르무즈 해협 군사 타격에서 육상 상업 교역 차단으로 확대되는 방향으로 진전됐다",
+      "트럼프의 대변인 임명 시도가 데이나 화이트의 거절로 불발됐고, 중간선거 이후 민주당이 헤그세스 국방장관 탄핵 추진을 본격화했다",
+      "파라과이 탄핵 이후 검찰이 페냐 전 대통령을 기소하고 구속 전 수감을 청구하면서 국면이 사법 절차로 전환됐다",
+      "폴란드 크라쿠프 총격이 테러로 공식 규정되고 국가 애도 기간이 선포됐으며, 극우 연계 수사가 개시됐다"
+    ],
+    "what_to_watch_next": [
+      "아부다비 러-우 협상(화요일·수요일)에서 유럽 대표단이 실제로 참여 가능한지, 러시아가 어떻게 반응하는지",
+      "이스라엘 아이젠코트가 6주 안에 연립정부를 구성할 수 있는지—아랍계 정당 연합 여부가 관건",
+      "엔비디아 이사회 독립 조사 결과와 젠슨 황 CEO의 거취—반도체 업계 전반에 미치는 파장",
+      "COP31 첫 주 각국이 제출할 새 국가 감축 목표(NDC) 내용과 선진국 기후재원 공약 수준",
+      "파라과이 페냐 전 대통령 구속 전 수감 청구에 대한 법원 결정과 거리 시위의 지속 여부",
+      "미국 민주당의 헤그세스 국방장관 탄핵 절차 개시 시점과 트럼프의 내각 개편 동향",
+      "호르무즈 해협 유조선 피격 사건의 독립적 사실 확인 및 유가·해상 보험료 변동"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "폴란드 크라쿠프 중앙광장 총격—극우 테러가 유럽의 '안전한 도시' 신화를 무너뜨렸다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "11월 8일 폴란드 크라쿠프 구시가 중앙광장에서 총격범이 차량에서 소총을 발사해 최소 6명이 숨지고 15명 이상이 다쳤다. 사망자에는 영국인 관광객이 포함됐으며, 범인은 사전에 가족 3명을 살해한 것으로 드러나 전체 사망자는 9명에 이른다. 경찰은 범인이 극우 이념에 심취해 있었다고 밝히고 테러 수사를 개시했으며, 폴란드는 이틀간의 국가 애도 기간을 선포했다.",
+        "why_it_matters": "크라쿠프 중앙광장은 유럽에서 가장 붐비는 관광지 중 하나로, 치안이 안전하다고 여겨진 중동부 유럽에서 극우 연계 대규모 총격이 발생했다는 사실 자체가 충격적이다. 오스트리아·영국·독일·포르투갈·러시아 국적 부상자가 나왔다는 점에서 국제적 파장도 크다.",
+        "what_is_changing": "서유럽에서 주로 목격되던 극우 연계 테러가 중동부 유럽으로 확산되는 양상이 나타나고 있다. 총기 규제가 상대적으로 엄격한 폴란드에서 발생했다는 점에서 무기 접근 경로와 급진화 과정에 대한 재검토 요구가 나올 것으로 예상된다.",
+        "connection": "유럽 전역에서 반이민·반이슬람 극우 담론이 정치 주류로 진입하는 흐름과 맞닿아 있다. 같은 날 캐나다 리자이나 의원의 '대체 이론' 공유 이메일 사건도 보도됐다.",
+        "signal": "극우 급진화가 온라인 담론 단계를 넘어 물리적 폭력으로 전환되는 빈도가 높아지고 있다는 경고 신호다.",
+        "what_to_watch": "수사 당국이 범인의 조직 연계 여부를 확인하는지, 사건이 폴란드 국내 이민 및 극우 정치 논쟁에 어떻게 활용되는지를 주목해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "극우 이념 연계 테러라는 초기 수사 방향은 폴란드 정계와 유럽연합 모두에서 혐오 표현 규제와 급진화 방지 정책 논쟁을 촉발할 것이다. 집권 중도파 정부는 극우를 겨냥한 대응을 강화할 유인이 있지만, 국내 극우 정당과의 갈등이 심화될 수 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "유럽의 주요 관광지가 더 이상 테러로부터 안전하지 않다는 인식이 확산되면, 관광 산업과 공공 집회 문화 모두에 중장기적 영향을 줄 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square-police-say/a-79886489",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/poland-calls-krakow-shooting-rampage-terrorist-attack/article71681007.ece",
+          "region": "India"
+        },
+        {
+          "source": "Daily Mail (UK)",
+          "link": "https://www.dailymail.com/news/article-16275885/Polish-police-launch-terror-probe-British-man-nine-killed-gunman-far-right-attack-Krakow-revealed-shooter-murdered-parents-sister-rampage-stopped-hero-cops.html",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "엔비디아 CEO 중국 간첩 연계 의혹—반도체 최고 기업의 이사회가 독립 조사에 착수했다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "엔비디아 이사회는 창업자 겸 CEO 젠슨 황이 외국 정보기관의 표적이 됐다는 보도와 관련해 독립 조사에 착수했다고 공식 발표했다. 미국 정보당국 메모에 따르면 중국 국가안전부가 싱가포르 소재 기업 Megaspeed의 여성 임원을 포섭해 황 CEO를 감시하려 했다는 것이 핵심 의혹이다. 황 CEO는 해당 인물과의 관계를 임직원에게 보낸 서한에서 인정한 것으로 알려졌다.",
+        "why_it_matters": "엔비디아는 현재 AI 반도체 시장의 80% 이상을 점유하고 있어, 이 기업의 최고 경영자가 중국 정보 공작의 표적이 됐다는 의혹은 미중 기술 경쟁의 최전선에서 벌어지는 첩보전의 성격을 보여준다.",
+        "what_is_changing": "기업 CEO 개인에 대한 외국 정보기관의 접근이 국가안보 사안으로 처리되는 선례가 생기고 있다. 기업 지배구조와 국가안보가 교차하는 새로운 위험 범주가 등장했다.",
+        "connection": "미국이 엔비디아의 최첨단 AI 칩 대중국 수출을 제한하고 있는 상황과 직접 연결된다. 화웨이의 뉴욕 법정 재판, 소프트뱅크-ABB의 중국 사업 분리 검토 등과 함께 기술 공급망 탈중국화 압력이 가중되는 맥락이다.",
+        "signal": "지정학적 기술 경쟁이 반도체 수출 규제를 넘어 기업 경영진 개인을 겨냥한 정보전으로 확대되는 단계에 접어들었다는 신호다.",
+        "what_to_watch": "이사회 독립 조사 결과와 황 CEO의 거취, 미국 정보당국의 추가 발표, 주가 및 고객 신뢰에 미치는 영향을 지켜봐야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "세계 최대 AI 칩 기업의 CEO가 외국 첩보 활동의 표적이 됐다는 사실은 기술 기업들이 단순한 사업 위험이 아닌 국가 수준의 보안 위험에 노출돼 있음을 보여준다. 기업 보안 관행과 임원 대상 방첩 교육의 필요성이 부각될 것이다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "루비오 국무장관이 보안 위반을 인지했음에도 접근을 허용했다는 주장이 제기됐다. 이는 행정부 내 정보 처리 방식과 기업-정부 간 보안 정보 공유 체계에 대한 의회 조사로 이어질 수 있다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "조사 착수 소식에도 엔비디아 주가가 큰 타격 없이 반등했다는 점은 시장이 단기적으로 사업 펀더멘털을 중시한다는 신호다. 그러나 조사 결과에 따라 고객과 파트너의 신뢰 문제로 번질 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Nvidia Newsroom",
+          "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+          "region": "미국"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+          "region": "미국"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+          "region": "Europe"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+          "region": "Business"
+        }
+      ]
+    },
+    {
+      "headline": "미국 중간선거 패배 후 트럼프 행정부 대 민주당 의회의 전면전이 시작됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "중간선거에서 공화당이 큰 타격을 입으면서 민주당은 머스크의 DOGE 개입, 스티븐 밀러의 이민 단속 역할, 헤그세스 국방장관 탄핵 추진을 본격화하겠다고 선언했다. 또한 차기 하원의장 유력 후보는 트럼프 행정부 관세 철회를 최우선 입법 과제로 제시했다. 주 법무장관 선거에서도 민주당이 승리해 주 단위 견제망이 강화됐고, 법무부는 의원들을 겨냥한 수사 가능성으로 맞대응에 나섰다.",
+        "why_it_matters": "남은 2년 임기 동안 행정부와 의회 간 거버넌스 갈등이 정책 결정의 최대 변수가 된다. 관세·이민·AI 규제 등 핵심 정책 모두가 의회 견제와 법정 싸움의 전선에 놓이게 됐다.",
+        "what_is_changing": "트럼프 1기와 달리 주 법무장관 연합이 연방 정책에 대한 소송 제기를 보다 조직적으로 준비하고 있다. 중간선거 결과가 정권 교체 없이도 정책 방향을 대폭 제약할 수 있음을 보여준다.",
+        "connection": "빅테크 기업들이 중간선거 이후 민주당과 관계 개선을 모색하고 있다는 보도는 기업들이 규제 환경 변화에 미리 적응하려는 움직임이다. 암호화폐 산업도 트럼프 행정부 시절 누렸던 정치적 우위를 잃게 됐다는 분석이 나왔다.",
+        "signal": "2028년 대선을 향한 공화당 내부 재편이 시작됐다. 루비오 국무장관 등 차세대 주자들이 트럼프와 거리를 조절하며 독자 행보를 준비하는 초기 신호가 감지된다.",
+        "what_to_watch": "민주당의 헤그세스 탄핵 절차 개시 시점, 관세 철회 입법 추진 가능성, 트럼프의 내각 개편 동향을 주시해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "레임덕 행정부에 대한 의회 견제 강화는 미국 민주주의의 견제와 균형 작동을 보여주지만, 동시에 입법 교착을 심화시켜 주요 정책 결정이 행정명령과 소송전으로 대체될 위험도 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "민주당의 관세 철회 입법 시도가 실현될 경우 무역 파트너국들과의 관계 재설정이 진행될 수 있다. 그러나 행정부의 거부권 행사가 예상되어 실질적 관세 변화 가능성은 낮다는 평가도 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/trump-and-his-justice-department-stand-defiant-as-democrats-ready-an-investigative-blitz/article71681225.ece",
+          "region": "India"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+          "region": "Business"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/us/democrats-turn-up-heat-on-hegseth-vow-impeachment-push-after-midterm-victories/articleshow/135665925.cms",
+          "region": "India"
+        },
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/politics/midterms-end-of-maga-trump-republicans-9.7414220?cmp=rss",
+          "region": "북미(캐나다)"
+        }
+      ]
+    },
+    {
+      "headline": "호르무즈 해협에서 미군과 이란이 선박을 두고 충돌—봉쇄가 육상 교역으로 확대되고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미군은 이란 대상 해상 봉쇄를 위반한 선박을 피격했다고 밝혔고, 이란은 호르무즈 해협에서 유조선 여러 척이 화재를 일으켰다고 주장해 양측 발표가 엇갈렸다. 미군은 'Task Force Iron Gate'를 중심으로 봉쇄 범위를 육상 상업 교역으로 확대하는 방안을 추진 중이다. 한편 이란은 미국이 추가 군사 행동에 나설 경우 해저 케이블 공격을 포함한 강력 대응을 경고했다.",
+        "why_it_matters": "호르무즈 해협은 전 세계 석유 거래량의 약 20%가 통과하는 전략 요충지다. 봉쇄가 육상 교역으로 확대되면 이란 경제 전반에 타격이 가해지고, 중동 전체의 에너지·공급망 위험이 급등한다.",
+        "what_is_changing": "기존 해상 봉쇄 개념을 넘어 이란과 연결된 육상 무역로까지 차단하려는 시도는 사실상의 완전 경제 봉쇄에 가까운 조치다. 이는 군사적 충돌 없는 최대 압박 전략의 새로운 단계다.",
+        "connection": "트럼프 대통령이 협상 진전 조건부로 추가 공습 가능성이 낮다고 밝힌 것, 미국의 이란 핵 정보 제공자 대상 2,000만 달러 포상금 발표와 연결된다. 이스라엘 국방장관도 이란 관련 임무가 미완료라고 발언해 군사 옵션이 여전히 테이블 위에 있음을 시사했다.",
+        "signal": "미국이 외교·경제·군사 압박을 동시에 가동하며 이란 핵 협상을 타결로 몰아가려는 복합 전략이 가시화되고 있다.",
+        "what_to_watch": "이란의 해저 케이블 위협 현실화 여부, 중립적 선박 피해 가능성, 협상 재개 시점, 유가 변동을 지켜봐야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "봉쇄 확대와 유조선 피격은 해상 보험료 급등과 유가 불안정을 초래할 수 있다. 에너지 수입 의존도가 높은 아시아 국가들이 가장 큰 경제적 타격을 받을 것이다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프가 협상 진전 시 공습 가능성이 낮다고 말하는 동시에 군사적 압박을 강화하는 전략은 이란에 협상 타결 외 선택지를 좁히는 강압 외교의 전형이다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "이란의 해저 케이블 공격 위협은 디지털 인프라가 지정학적 보복 수단으로 활용되는 새로운 전선을 열었다. 케이블 경로 인근 선박 집결 현상은 이미 시장이 이 위협을 현실로 받아들이기 시작했음을 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/us-military-blockade-iran-commerce/",
+          "region": "Japan"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+          "region": "미국"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece",
+          "region": "India"
+        }
+      ]
+    }
+  ]
+}
