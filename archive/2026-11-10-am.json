@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-10",
+  "session": "am",
+  "time": "02:10",
+  "global_picture": {
+    "world_right_now": [
+      "엔비디아 CEO 간첩 의혹이 미중 기술 패권 경쟁의 최전선으로 부상하며 반도체 공급망 전체를 흔들고 있다",
+      "이란과 미국의 군사적 긴장이 호르무즈 해협 봉쇄·유조선 공격·해저 케이블 위협으로 다층 확대되는 중이다",
+      "COP31이 튀르키예에서 개막했지만 세계 기온 2.6도 상승 전망 속에 1.5도 목표는 사실상 멀어지고 있다",
+      "미국 중간선거 이후 민주당 의회가 트럼프 관세·골든 돔·이민 정책에 본격 제동을 걸기 시작했다",
+      "파라과이에서 대통령 기소와 은행 붕괴가 맞물려 300만 명이 예금에 접근하지 못하는 금융·정치 복합 위기가 터졌다",
+      "프랑스가 슈퍼마켓 냉장고를 겨냥한 사이버 공격의 배후로 이란 혁명수비대를 지목하며 유럽 차원 제재를 추진하고 있다",
+      "남아공 ANC가 지방선거에서 역대 최저 득표율을 기록해 집권당 체제 균열이 가시화되고 있다",
+      "러시아·미국·우크라이나의 아부다비 4차 평화 협상이 이번 주 열리지만 양측 모두 양보 없는 태도를 유지 중이다",
+      "세네갈과 그리스 근해에서 이주민 보트가 잇따라 침몰해 사망자가 50명을 넘어섰다",
+      "유럽 전력 가격이 재생에너지 발전 감소와 LNG 재고 부족으로 2022년 고점 수준까지 치솟고 있다"
+    ],
+    "emerging_signals": [
+      "AI 기업들(Anthropic 등)이 데이터센터 전력을 위해 천연가스 터빈을 대규모 구매하며 AI 인프라가 화석연료 의존으로 역설적 회귀를 보이고 있다",
+      "이란이 미국의 추가 공격 시 해저 케이블 공격을 경고하면서 군사 분쟁이 글로벌 통신 인프라 리스크로 번지는 새로운 차원에 진입했다",
+      "아프리카 짐바브웨·소말리아 등에서 러시아 용병 모집과 사법부 장악 시도가 동시에 포착되며 대륙 거버넌스 위기가 중첩되고 있다",
+      "카가·DRK·르완다 삼각 긴장 속 카빌라의 신규 반군 출범이 중앙아프리카 불안정을 한 단계 더 높일 가능성이 있다",
+      "웨이모 로보택시의 반복적 안전 위반이 자율주행 규제 강화의 직접 계기로 부상하고 있다"
+    ],
+    "structural_trends": [
+      "미중 기술 경쟁이 반도체 성능에서 CEO 신원 보안과 공급망 무결성 검증으로 싸움의 성격이 바뀌고 있다",
+      "국가 배후 사이버 공격이 군사 인프라를 넘어 슈퍼마켓 냉장고 같은 민간 소비재 IoT로 표적을 확대하고 있다",
+      "아프리카 선거 주기마다 집권당 지지율이 급락하는 패턴이 가나·남아공·탄자니아 등에서 반복되며 세대 교체 압력이 구조화되고 있다",
+      "COP 협상에서 개도국 기후 재원 갈등이 의제를 삼키면서 연례 총회 체제의 실효성에 대한 근본적 의문이 커지고 있다",
+      "AI 에이전트가 실험실 설계·운영을 맡는 단계로 진입하며 과학 연구 인프라 자체의 자동화가 시작됐다",
+      "유럽과 중동 전반에서 러시아 연계 정보 공작이 국내 소요를 이민 문제로 왜곡하는 표준 플레이북을 반복 사용하고 있다"
+    ],
+    "what_changed_today": [
+      "엔비디아 CEO의 혼외관계 인정과 이사회 조사 착수가 어제 의혹 단계에서 오늘 공식 조사 단계로 격상됐다",
+      "이란과의 호르무즈 긴장이 어제 선박 충돌에서 오늘 해저 케이블 공격 위협과 유조선 3척 공격 발표로 확전됐다",
+      "트럼프가 중간선거 결과에 대해 처음에는 인정하는 듯 했다가 오늘 2020년식 부정선거 주장을 재개했다",
+      "파라과이 위기가 어제 대통령 하야 수준에서 오늘 자택 압수수색·장갑 금고 발견·검찰 구속 청구로 심화됐다",
+      "COP31이 오늘 공식 개막하며 1.5도 초과 과학적 전망이 공식 의제로 올라왔다"
+    ],
+    "what_to_watch_next": [
+      "엔비디아 이사회 조사 결과와 젠슨 황 CEO 거취—50대 50 가능성으로 거론된 CEO 교체 여부",
+      "아부다비 러시아·미국·우크라이나 4차 협상 결과—안전보장 의제에서 양측이 얼마나 접근할 수 있는지",
+      "이란 호르무즈 잠정 합의안을 트럼프가 수용할지—합의 시 유가와 중동 긴장 급변 가능성",
+      "프랑스 주도 대이란 유럽 제재가 EU 차원에서 실제 채택될지—이란 사이버 공격 귀속 외교 파장",
+      "COP31에서 개도국 기후 재원 협상 진전 여부—1.5도 목표 공식 포기 선언이 나올 가능성",
+      "파라과이 페냐 전 대통령 구속 여부와 우에노 은행 예금자 보상 방안"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "엔비디아 CEO 간첩 의혹이 반도체 패권 경쟁의 새로운 전선을 열었다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "엔비디아 이사회가 젠슨 황 CEO와 중국 정보기관 연계 의혹을 받는 여성 사업가 사이의 관계에 대해 독립적 외부 법률 조사를 공식 개시했다. 황 CEO는 혼외관계 사실을 인정하며 사과했고, 주가는 하루 만에 약 8% 하락했다. 미 의회는 국가안보 차원의 답변을 요구하고 있으며, 중국 측은 간첩 혐의를 전면 부인했다.",
+        "why_it_matters": "엔비디아는 AI 반도체 공급망의 사실상 단일 지배자다. CEO 거취 불안정은 반도체 수출 통제 체계, 한국·대만 협력사의 리스크, AI 인프라 투자 흐름 전체에 직접 영향을 준다.",
+        "what_is_changing": "미중 기술 갈등이 칩 설계·수출 통제에서 최고 경영진의 인적 보안 검증으로 싸움의 층위가 이동했다. 기업 지배구조가 지정학 리스크 관리의 최전선이 됐다.",
+        "connection": "이 사건은 리투아니아의 대만 대표처 명칭 변경 압력, 태국의 위구르인 강제송환 등 중국이 외교·정보 채널을 통해 주변국과 기업에 동시다발 압력을 가하는 패턴과 연결된다.",
+        "signal": "국가 정보기관이 첨단 기업의 CEO를 직접 표적으로 삼는 '인적 취약점 활용' 방식이 반도체 경쟁의 새로운 도구로 부상했음을 보여주는 첫 번째 대형 사례다.",
+        "what_to_watch": "이사회 조사 결과와 젠슨 황 거취 결정, 미 의회 청문회 소집 여부, 한국·대만 반도체 기업에 대한 추가 수출 규제 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "AI 반도체 독점 기업의 수장이 지정학적 리스크에 직접 노출되면서, 기술 기업의 경영 연속성이 국가안보 의제와 불가분하게 얽혔다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "미 의회가 조사 결과를 활용해 대중국 반도체 수출 통제를 더욱 강화하는 입법 카드로 쓸 가능성이 높다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "CEO 거취 불확실성은 단기 주가 하락을 넘어 엔비디아의 대형 계약 협상력과 파트너사 신뢰를 동시에 훼손할 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "region": "미국"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+          "region": "미국"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338",
+          "region": "독일"
+        },
+        {
+          "source": "SCMP",
+          "link": "https://www.scmp.com/tech/big-tech/article/3373825/nvidia-faces-defining-test-jensen-huang-probe-adds-chip-stock-turbulence",
+          "region": "홍콩"
+        }
+      ]
+    },
+    {
+      "headline": "이란 전쟁이 호르무즈 봉쇄에서 해저 케이블 위협으로 확전의 차원을 바꾸고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란 혁명수비대가 호르무즈 해협 인근에서 미국 연계를 이유로 유조선 3척을 공격했고, 이란은 미국의 추가 군사 공격 시 해저 통신 케이블을 공격하겠다고 경고했다. 동시에 이란은 해협 재개방을 위한 잠정 합의안을 미국에 제시했고, 트럼프는 추가 공격 계획이 당장 없다고 밝혔다. 브렌트유는 약 94달러까지 하락했다.",
+        "why_it_matters": "호르무즈 해협은 전 세계 석유 해상 운송의 20% 이상이 통과하는 경로다. 해저 케이블 위협은 군사 분쟁이 글로벌 인터넷·금융 인프라를 직접 겨냥하는 새로운 단계를 의미한다.",
+        "what_is_changing": "미·이란 충돌이 에너지 운송 차단에서 디지털 인프라 공격 위협으로 그 범위를 확장하고 있다. 협상과 군사 행동이 동시에 진행되는 '전쟁 속 외교' 구조가 고착화됐다.",
+        "connection": "예멘 후티의 사우디 아람코 타워 공격, 필리핀 경기 둔화, 유럽 LNG 가격 급등이 모두 이 지정학적 긴장의 직접적 파급이다.",
+        "signal": "이란이 비군사 인프라를 협상 레버리지로 삼는 방식은 향후 다른 행위자들이 모방할 수 있는 위험한 선례를 만들고 있다.",
+        "what_to_watch": "트럼프-카타르 중재 협의 결과, 이란 잠정 합의안의 세부 조건 공개, 해협 재개방 여부와 유가 반응"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "유가가 일시 하락했지만 해협 위기가 해소되지 않는 한 에너지 가격 변동성은 계속 글로벌 성장을 압박한다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프가 중간선거 패배 이후 이란 문제로 외교적 돌파구를 찾으려 하지만, 루비오 국무장관의 강경 발언과 충돌하며 미국 내부 조율이 불안정하다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "해저 케이블 공격 위협은 군사 충돌이 글로벌 디지털 인프라에 미치는 위험을 처음으로 직접 가시화한 경고다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure",
+          "region": "중동"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+          "region": "미국"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Sinks-to-94-as-Irans-8-Billion-Hormuz-Deal-Heads-to-Trump.html",
+          "region": "미국"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-says-resumption-of-war-with-iran-highly-unlikely/article71683793.ece",
+          "region": "인도"
+        }
+      ]
+    },
+    {
+      "headline": "프랑스가 슈퍼마켓 냉장고를 무기로 쓴 이란 혁명수비대를 겨냥해 유럽 차원 사이버 제재를 추진한다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "프랑스 외무장관이 전국 수백 개 슈퍼마켓 냉장·냉동고 온도를 최대 80도까지 올린 사이버 공격의 배후로 이란 혁명수비대 산하 사이버 부대를 지목하고, 파리 검찰이 체포영장을 발부했다. 식품 피해액은 수백만 유로로 추정되며, 프랑스는 이를 전례 없는 공격으로 규정하고 EU 차원의 대이란 제재를 추진하겠다고 밝혔다.",
+        "why_it_matters": "국가 배후 해킹이 군사·에너지 시설을 넘어 소비자 가전과 식품 유통 인프라로 타깃을 옮겼다는 점이 핵심이다. 모든 IoT 연결 장치가 지정학적 무기가 될 수 있음을 처음으로 대규모로 보여준 사건이다.",
+        "what_is_changing": "사이버 공격의 귀속(attribution) 발표와 외교적 제재 연계가 빨라졌다. 프랑스는 귀속 주장 단계에서 곧바로 EU 제재 추진으로 이어지는 더 공격적인 대응 방정식을 채택했다.",
+        "connection": "이탈리아 외무장관 개인정보를 유출한 친러 해커 공격, 러시아 연계 프랑스 소요 여론 조작과 함께 유럽 전역에서 외부 세력의 복합 공격이 동시에 진행되는 패턴의 일부다.",
+        "signal": "소비자 인프라를 겨냥한 사이버 공격이 군사적 충돌의 대안 도구로 체계화되고 있다. IoT 보안이 국가안보 의제의 핵심으로 편입되는 전환점이 될 수 있다.",
+        "what_to_watch": "EU 대이란 사이버 제재 채택 여부, 다른 유럽 국가에서 유사 공격 사례 추가 발견 여부, 이란과의 더 넓은 외교 갈등으로 연결 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "이란과의 군사 긴장이 고조된 시점에 프랑스의 공개 귀속 발표는 대이란 외교 압박을 위한 계산된 행보로 읽힌다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "냉장고 IoT 기기가 사이버 무기의 표적이 된 것은 연결된 소비재 모두가 보안 취약점임을 증명한 사례로, 제조업체의 보안 책임 논쟁을 촉발한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24",
+          "link": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot",
+          "region": "프랑스"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
+          "region": "영국"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646",
+          "region": "독일"
+        }
+      ]
+    },
+    {
+      "headline": "미국 중간선거 패배 후 트럼프가 부정선거 주장을 재개하고 민주당은 관세 폐지를 최우선 과제로 삼았다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 대통령이 중간선거 결과에 대해 처음 인정하는 듯 했다가 소셜미디어에서 2020년식 부정선거 의혹을 다시 제기했다. 민주당은 하킴 제프리스를 중심으로 트럼프 행정부 관세 폐지를 최우선 입법 과제로 선언했다. 공화당은 상·하원 다수당 지위를 약 두 달 남긴 상황에서 예산·부채한도 협상이 본격화됐다.",
+        "why_it_matters": "미국 내부 정치의 충돌이 대외 정책 혼란과 직접 연결된다. 트럼프의 이란 협상·우크라이나 협상 운신 폭이 의회 구도 변화로 제한될 수 있으며, G7 동맹국들은 이 불확실성을 가장 큰 위험 변수로 평가하고 있다.",
+        "what_is_changing": "트럼프 2기의 행정부 단독 행보 방식이 의회 감시라는 제도적 견제를 받게 됐다. 선거 결과 불복이 반복되면서 미국 민주주의 신뢰도 자체가 외교 자산 손실로 이어지는 구조가 고착화되고 있다.",
+        "connection": "G7 파리 회담에서 동맹국들이 트럼프 행정부의 대외 정책 연속성에 의문을 표명하고 있으며, 중국은 미국 무역 휴전을 2개월 연장하며 미국 내부 혼란을 관망하는 중이다.",
+        "signal": "미국 대외 정책의 예측 불가능성이 구조적 위험으로 굳어지면서, 동맹국들이 미국 없이도 작동하는 외교 경로를 조용히 구축하기 시작할 수 있다.",
+        "what_to_watch": "민주당 주도 의회의 첫 관세 관련 입법 시도, 트럼프의 부채한도 협상 접근 방식, 골든 돔 미사일 방어 예산 삭감 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프가 선거 불복 프레임을 다시 꺼내는 것은 지지층 결집 도구이자 의회 협상 압박 카드로 동시에 기능한다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "민주당이 관세 폐지를 추진하면 무역 파트너들의 보복 관세 해제 협상이 재개될 수 있으나, 트럼프 거부권으로 실제 통과는 불확실하다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+          "region": "미국"
+        },
+        {
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+          "region": "미국"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/09/world/politics/g7-allies-trump-midterm-paris/",
+          "region": "일본"
+        }
+      ]
+    }
+  ]
+}
