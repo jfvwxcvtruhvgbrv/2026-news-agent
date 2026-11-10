@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-11",
+  "session": "am",
+  "time": "00:29",
+  "global_picture": {
+    "world_right_now": [
+      "러시아·우크라이나·미국 3자 평화 협상이 아부다비에서 9개월 만에 재개됐으나 근본적 교착은 여전하다",
+      "엔비디아 CEO 젠슨 황의 중국 간첩 연루 의혹이 이사회 조사·주주 소송·의회 청문 요구로 확대되며 반도체 수출통제 압박이 가중되고 있다",
+      "Anthropic이 IPO 공모가 주당 70~78달러를 제시해 기업가치 1.4조 달러로 AI 기업 첫 대형 상장을 준비 중이다",
+      "미국 10월 CPI가 예상을 상회해 연준의 12월 금리 인상 가능성이 커지고 비트코인·금융시장이 반응했다",
+      "미국 공화당 의원이 헤그세스 국방장관 탄핵소추안 8개 조항을 발의했으며, 이란 전쟁 권한 남용이 핵심 쟁점이다",
+      "이란이 프랑스 수백 개 슈퍼마켓 냉장설비를 사이버 공격했다는 프랑스 정부의 공식 지목에 이란이 반박했다",
+      "이스라엘 신의회가 출범하고 아이젠코트가 연정 구성 우선권을 얻어 네타냐후 체제 교체 가능성이 부상했다",
+      "호르무즈 해협 통항이 미군 호위 아래 부분 회복되며 LNG 물동량이 이란 전쟁 이후 최고치를 기록했다",
+      "호주가 AI 안전 규제기관 신설과 의무 보고제를 추진하며 AI 거버넌스 경쟁에서 선제적 행보를 보이고 있다",
+      "COP31이 개막한 가운데 과학자들은 1.5°C 목표 초과가 임박했다고 경고했다"
+    ],
+    "emerging_signals": [
+      "알리바바 반도체 자회사 T-Head의 홍콩 IPO 추진이 중국 AI 자립 공급망 구축의 새로운 단계를 보여준다",
+      "콴타스의 850명 인도 아웃소싱이 'AI 명분' 고용 조정의 선례가 되며 항공·서비스업 전반으로 확산 여부가 주목된다",
+      "미 국방부의 달 궤도 군사 위성 배치 검토가 우주 안보의 새로운 전선을 예고한다",
+      "소프트뱅크의 70억 달러 데이터센터 손실이 AI 인프라 과잉투자 리스크의 가시화를 보여주는 신호다",
+      "파라과이 디지털 은행 발 대통령 탄핵이 디지털 금융 시스템의 정치적 취약성을 드러낸다",
+      "짐바브웨인 9명이 러·우 전쟁 참전 목적으로 남아공에서 체포되며 아프리카 용병 모집망이 주목받고 있다"
+    ],
+    "structural_trends": [
+      "미중 기술 분리가 반도체 수출통제에서 기업 CEO 보안 검증으로 전선이 확대되고 있다",
+      "AI 붐이 글로벌 데이터센터 전력·비용 급등을 낳으며 기업 수익성 압박이라는 새로운 국면으로 진입하고 있다",
+      "이란 전쟁이 에너지 가격·탄소 배출·중동 안보·미국 정치 등 복수의 구조적 변수를 동시에 재편하고 있다",
+      "서방 주요국이 AI 규제기관 신설과 의무 보고제 도입을 경쟁적으로 추진하며 AI 거버넌스 체계화가 가속되고 있다",
+      "식민지 시대 유물·유해 반환 흐름이 아시아·아프리카 전반으로 확대되며 역사 청산의 제도화가 진행 중이다"
+    ],
+    "what_changed_today": [
+      "엔비디아 사태가 어제 간첩 의혹 단계에서 오늘 이사회 공식 조사·주주 소송·의회 청문 요구로 법적 절차가 본격화됐다",
+      "프랑스의 이란 사이버공격 지목이 어제 유럽 제재 추진 논의 단계에서 오늘 이란의 공식 반박과 외교 공방으로 전환됐다",
+      "미국 중간선거 여파가 어제 선거 결과 분석에서 오늘 헤그세스 탄핵 소추안 발의·법무부 사직 등 구체적 정치 행동으로 이어졌다",
+      "러·우 협상이 어제 개막 예고에서 오늘 첫 4시간 회담 실시로 전환됐으며 미국은 '매우 생산적'이라고 평가했다"
+    ],
+    "what_to_watch_next": [
+      "아부다비 러·우·미 3자 회담 2일차 결과와 안보 보장 문제 접점 여부",
+      "엔비디아 이사회 독립 조사 결과 및 미 의회 청문회 일정 확정 여부",
+      "Anthropic IPO 11월 19일 거래 개시 후 초기 시장 반응과 AI 기업 밸류에이션 재설정",
+      "미국 10월 CPI 발표 후 연준 12월 금리 결정 방향과 금융시장 반응",
+      "이스라엘 아이젠코트 연정 구성 협상 진행 상황 및 네타냐후 체제 전환 여부",
+      "호르무즈 해협 추가 사건 여부 및 사우디 리야드 폭발음 원인 규명"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "엔비디아 CEO 간첩 의혹이 개인 스캔들에서 반도체 안보 법적 위기로 격상됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "엔비디아 CEO 젠슨 황이 중국 국적 여성 임원과의 사적 관계를 인정하고, 이사회가 중국 정보기관의 허니팟 공작 가능성에 대한 독립 조사에 착수했다. 주주들은 이사회의 감독 실패를 이유로 소송을 제기했으며, 하원 중국특별위원회 위원장은 의회 답변을 요구했다. 트럼프 대통령도 FBI 조사 가능성을 언급하고 황 CEO와 직접 통화했다고 밝혔다.",
+        "why_it_matters": "세계 최대 AI 반도체 기업의 CEO가 국가안보 리스크와 직접 연결됐다. 엔비디아의 시가총액은 4.5조 달러에 달하며 글로벌 AI 인프라의 핵심 공급자다. 이 사안은 대중 반도체 수출통제 강화의 정치적 명분이 될 수 있다.",
+        "what_is_changing": "반도체 경쟁의 전선이 칩 사양·수출 규제에서 기업 경영진 개인의 대중 연계 여부로 확대되고 있다. 기술 CEO는 이제 국가안보 심사 대상이 되는 새로운 환경에 직면하고 있다.",
+        "connection": "미 의회의 대중 수출통제 강화 법안이 국방수권법에 포함되려는 움직임과 맞물리며 중국의 AI 칩 우회 조달 경로 전반에 대한 조사 압박이 커지고 있다. 한국 반도체 기업들도 연쇄 수출규제 강화 위험에 노출됐다는 분석이 나온다.",
+        "signal": "기업과 국가안보의 경계가 무너지는 시대에 글로벌 기술 기업 CEO는 지정학적 리스크 관리의 최전선에 서게 됐다는 신호다.",
+        "what_to_watch": "이사회 독립 조사 결과, 의회 청문회 소환 여부, 대중 반도체 수출통제 강화 법안의 국방수권법 포함 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "중간선거 패배 이후 의회 주도권을 잃은 공화당과 새 의회 다수당이 된 민주당 모두 대중 강경 기조를 경쟁적으로 취하면서 엔비디아 사태는 초당파적 대중 압박의 소재가 됐다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "황 CEO의 리더십 공백 가능성과 명확한 후계자 부재가 엔비디아 주가의 불확실성을 키우며, 경쟁자인 AMD·인텔에 반사이익 가능성이 거론된다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "이 사건이 대중 AI 칩 판매 금지 범위 확대로 이어질 경우, 중국의 자체 AI 반도체 개발 가속화를 자극하는 역효과가 발생할 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+          "region": "미국"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+          "region": "미국"
+        },
+        {
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+          "region": "미국"
+        },
+        {
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3373986/will-nvidia-ceo-jensen-huangs-affair-become-another-spy-balloon-saga-us-china-ties",
+          "region": "홍콩"
+        }
+      ]
+    },
+    {
+      "headline": "9개월 만에 재개된 러·우·미 3자 협상, 첫 회담은 '생산적'이었지만 구조적 교착은 그대로다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "러시아·우크라이나·미국 대표단이 아랍에미리트 아부다비에서 2월 이후 처음으로 3자 회담을 열고 약 4시간 협상을 진행했다. 미국 특사 위트코프와 쿠슈너가 협상을 주도했으며, 미국 측은 첫날을 매우 생산적으로 평가했다. 젤렌스키는 포로 교환 등 인도적 의제가 다뤄졌다고 밝혔다.",
+        "why_it_matters": "유럽에서 가장 큰 지상전이 2년 넘게 지속되는 가운데 대화 채널이 재가동됐다는 사실 자체가 외교적 의미를 갖는다. 이란 전쟁 국면을 겪은 트럼프가 외교 성과를 서두를 유인이 생겼다는 분석도 있다.",
+        "what_is_changing": "올해 초 세 차례 회담이 모두 성과 없이 끝났지만, 중간선거 후 미국 국내 정치 역학이 바뀌면서 미국의 협상 방식이 달라질 가능성이 제기된다.",
+        "connection": "우크라이나의 징집 문제와 러시아 본토로 확대된 드론·미사일 공습 경보가 협상 압박을 쌍방에 가하는 배경이다. 일본 등 아시아 동맹국은 협상 타결 과정에서 자국 이익이 희생될 가능성을 주시하고 있다.",
+        "signal": "러·우 갈등의 외교적 해소 가능성이 완전히 열리지 않은 채 '관리된 협상'이 장기화되는 새로운 단계로 접어들 수 있다.",
+        "what_to_watch": "2일차 회담 결과, 안전보장 조항에 대한 러시아의 양보 여부, 중간선거 후 민주당 다수 의회의 협상 감독 역할 변화"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프는 중간선거 패배 이후 외교 성과로 국면 전환을 꾀할 동기가 있으며, 민주당은 이란 전쟁 종식과 함께 우크라이나 종전을 의제로 삼을 가능성이 크다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "조기 종전이 에너지 시장 불확실성을 줄이고 유럽 재건 수요를 촉발할 수 있지만, 러시아가 수용 가능한 조건은 여전히 불투명하다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734",
+          "region": "유럽"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
+          "region": "북미"
+        },
+        {
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table",
+          "region": "유럽"
+        }
+      ]
+    },
+    {
+      "headline": "Anthropic의 1.4조 달러 IPO가 AI 기업 가치 평가의 새로운 기준선을 그린다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "Claude를 개발한 Anthropic이 주당 70~78달러의 IPO 공모가 범위를 제시했다. 상단 기준 완전희석 기업가치는 약 1.4조 달러이며, 11월 19일 거래 개시를 목표로 한다. 이는 앞서 보도된 2조 달러 목표보다 낮아진 수치다.",
+        "why_it_matters": "Anthropic은 오픈AI와 함께 대형언어모델 시장의 양강 구도를 형성하고 있다. 이번 상장은 AI 붐 속에서 실제 투자자들이 AI 기업의 현금 흐름과 성장성을 얼마나 인정하는지를 보여주는 최초의 대규모 테스트다.",
+        "what_is_changing": "AI 기업의 가치 평가가 성장 기대치에서 수익성·실행 능력 중심으로 이동하고 있음을 목표가치 하향 조정이 보여준다. SpaceX 대형 상장에 이어 AI 기업 연쇄 상장 흐름이 본격화되고 있다.",
+        "connection": "같은 시기 알리바바 반도체 자회사 T-Head의 홍콩 IPO 추진, 사카나AI의 2027년 상장 검토 등 전 세계 AI 기업들의 상장 행렬이 이어지고 있다.",
+        "signal": "AI 기업의 공모 시장 진입은 VC 주도 AI 투자 사이클이 공개 시장 검증 단계로 넘어가는 전환점이다.",
+        "what_to_watch": "11월 19일 거래 첫날 주가 흐름, 기관 수요와 개인 투자자 반응, 오픈AI 등 경쟁사의 상장 계획 가속화 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Business View",
+          "summary": "1.4조 달러 목표가치는 여전히 대부분의 전통 기술 기업을 웃도는 수준이지만, 연간 수십억 달러 손실을 기록하는 AI 기업에 시장이 얼마나 프리미엄을 붙일지가 관건이다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "Anthropic의 상장은 AI 모델 개발 경쟁이 단순 연구에서 수익화 가능한 비즈니스 모델 증명으로 무게중심이 이동했음을 의미한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "region": "미국"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
+          "region": "영국"
+        },
+        {
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+          "region": "미국"
+        }
+      ]
+    },
+    {
+      "headline": "미국 10월 물가가 예상을 넘어서며 연준의 긴축 종료 기대에 제동을 걸었다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국의 10월 소비자물가지수(CPI)가 전월 대비 0.4% 상승해 시장 예상을 상회했다. 같은 시기 10월 고용보고서도 경제학자 예상치를 크게 웃돌았다. 비트코인과 금이 하락하고 연준의 12월 금리 인상 가능성이 시장에 반영됐다.",
+        "why_it_matters": "이란 전쟁 충격으로 인한 에너지 가격 상승이 인플레이션을 재점화할 수 있다는 우려가 현실화되고 있다. 연준이 긴축 종료 대신 추가 인상으로 선회할 경우 글로벌 금융 시장과 신흥국 부채에 연쇄 영향이 불가피하다.",
+        "what_is_changing": "2026년 화석연료 CO2 배출이 오히려 소폭 감소한다는 예측과 달리, 에너지 충격이 인플레이션 경로를 통해 금융 시스템을 압박하는 역설적 구도가 형성되고 있다.",
+        "connection": "소프트뱅크의 70억 달러 데이터센터 손실, CoreWeave의 부채 기반 AI 투자 우려와 함께 AI 인프라 과잉투자가 고금리 환경과 충돌하는 국면이다.",
+        "signal": "'인플레이션은 끝났다'는 시장 합의가 깨지기 시작하는 초기 신호일 수 있다.",
+        "what_to_watch": "연준 12월 FOMC 결정, 11월 CPI 발표, 이란 관련 에너지 가격 추가 상승 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "고용 강세와 물가 상승의 동시 출현은 연준의 이중 목표 사이에서 선택을 강제하며, 연착륙 시나리오의 여지가 좁아지고 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "민주당이 중간선거에서 승리했음에도 물가 압박이 지속되면 차기 의회의 경제 정책 집행이 어려워지며, 이란 전쟁 종식 압박의 실질적 동기가 된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+          "region": "미국"
+        },
+        {
+          "source": "CoinDesk",
+          "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+          "region": "글로벌"
+        }
+      ]
+    },
+    {
+      "headline": "공화당 내부에서 나온 헤그세스 탄핵 소추가 이란 전쟁의 정치적 책임 공방을 본격화했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "공화당 하원의원 토머스 매시가 헤그세스 국방장관에 대한 탄핵소추안 8개 조항을 발의했으며, 핵심 혐의는 의회 승인 없이 이란 전쟁을 불법으로 수행했다는 것이다. 중간선거 패배 직후 나온 움직임으로, 헤그세스는 이를 '정치적 사보타주'로 반박했다. 미 대법원은 같은 시기 국경장벽 공사를 계속 허용하는 판결을 내렸다.",
+        "why_it_matters": "미국의 대이란 군사 개입이 의회의 전쟁 선포 권한을 무시했다는 헌법적 쟁점이 본격 제기됐다. 중간선거 이후 법무부 사직 사태와 맞물려 행정부·사법·의회 사이의 권력 균형이 재편되고 있다.",
+        "what_is_changing": "트럼프 행정부 2기에서 당내 이탈이 처음으로 탄핵 절차로 이어졌다. 이는 이란 전쟁의 비용—에너지 가격 상승, 중간선거 패배—이 공화당 내부 단결을 균열시키고 있음을 보여준다.",
+        "connection": "트럼프가 추가 대이란 공습을 보류하고 영국 기지 미군 항공기를 철수시키는 조치와 맞물려, 행정부가 군사 행동을 자제하는 방향으로 방향을 틀고 있을 가능성이 있다.",
+        "signal": "이란 전쟁이 외교·군사 문제를 넘어 미국 국내 정치의 최대 균열선으로 자리 잡고 있다.",
+        "what_to_watch": "탄핵소추안의 하원 본회의 표결 가능성, 민주당 다수 신의회의 헤그세스 청문 계획, 이란 전쟁 추가 공습 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "공화당 소수 의원의 탄핵 추진은 중간선거 패배 책임을 행정부로 돌리는 내부 갈등의 표출이지만, 민주당 다수 의회에서 실제 해임으로 이어질 가능성은 낮다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "이란 전쟁으로 인한 에너지 가격 상승이 중간선거 패배의 핵심 원인으로 지목되면서, 전쟁 종식이 경제 처방으로 제시되는 구도가 형성됐다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24",
+          "link": "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
+          "region": "유럽"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed",
+          "region": "중동"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/defence-secretary-pete-hegseth-thomas-massie-8-articles-of-impeachment-filed-united-states-war-power-resolution/article71684991.ece",
+          "region": "인도"
+        }
+      ]
+    }
+  ]
+}
