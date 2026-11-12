@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-13",
+  "session": "am",
+  "time": "00:51",
+  "global_picture": {
+    "world_right_now": [
+      "엔비디아 젠슨 황 CEO가 중국 간첩 의혹 연루와 사내 불륜 스캔들 끝에 공식 사임하고 CFO가 임시 체제를 맡으며 AI 반도체 패권 구도가 흔들리고 있다",
+      "미국 특사단이 아부다비 협상 직후 모스크바에서 푸틴을 면담했으나 가시적 돌파구 없이 협상이 지속되고 있다",
+      "인도네시아 부통령 기브란이 학력 자격 논란 끝에 사임하며 프라보워 연정에 균열 신호가 나타났다",
+      "미시시피주 상원 선거에서 민주당 스콧 콜럼이 공화당 현직을 꺾고 재건기 이후 첫 흑인 상원의원으로 당선됐다",
+      "가자지구 나세르 병원이 이스라엘 공습을 받아 외과의사 포함 최소 6명이 숨지며 의료 체계 붕괴 우려가 커지고 있다",
+      "러시아가 아프가니스탄 탈레반 정부와 무역·투자 협의를 위해 고위급 대표단을 파견했다",
+      "미국이 멕시코 국경으로 향하는 약 2,000명 규모 이주민 행렬에 맞서 추방 항공편을 운영하고 관세 위협 카드를 꺼냈다",
+      "콩고민주공화국의 에볼라 유행이 6개월째 통제되지 않고 있으며 MSF는 국제 원조금 행방불명 가능성을 경고했다",
+      "트럼프와 네타냐후가 이란 핵 대응 방식을 놓고 격렬히 충돌하며 미이스라엘 균열이 표면화됐다",
+      "2026년 전 세계 CO2 총 배출량이 화석연료 감소에도 산림 파괴로 사상 최고치에 달할 것으로 예측됐다"
+    ],
+    "emerging_signals": [
+      "Anthropic IPO 추진이 순수 AI 기업의 공개 시장 가치 평가 첫 시험대가 될 전망이다",
+      "중국 AI 기업들이 엔비디아 스캔들을 계기로 미국 수출 규제 강화를 예상해 해외 칩 용량 확보에 나서고 있다",
+      "이더리움이 2027년 양자 내성 체계 로드맵을 발표하며 블록체인 보안의 다음 전선이 열렸다",
+      "인도 11월 페르시아만산 원유 수입이 처음으로 러시아산을 추월하며 글로벌 에너지 공급망 재편이 가속되고 있다",
+      "EU의 러시아산 LNG 수입액이 1월 전면 금지를 앞두고 이미 작년 연간 규모를 넘어섰다"
+    ],
+    "structural_trends": [
+      "엔비디아 사태가 개인 스캔들을 넘어 AI 반도체 국가안보 의존도와 기업 지배구조 취약성을 동시에 드러내는 구조적 위기로 번지고 있다",
+      "러시아-우크라이나 협상이 미국 중재 하에 반복되지만 영토·안보 체계의 근본 쟁점은 해결되지 않은 채 교착이 장기화되고 있다",
+      "초국가적 탄압이 이란·중국·러시아 주도로 영국·태국·인도네시아 등 다수 국가에서 동시에 심화되고 있다",
+      "AI 인프라 자금 조달이 사모펀드·선결제·칩 기업 순환 투자 구조로 복잡해지며 거품 위험이 쌓이고 있다",
+      "아시아 원유 구매자들이 중동 의존도를 낮추고 아프리카·브라질산으로 다변화하는 흐름이 뚜렷해지고 있다"
+    ],
+    "what_changed_today": [
+      "젠슨 황 CEO가 사임을 공식 확인하고 임시 CEO 체제가 발동됐다 — 어제까지는 이사회 논의 단계였다",
+      "미국 특사단이 실제로 크렘린에서 푸틴을 면담해 협상이 외교 접촉 단계로 진전됐다",
+      "미시시피 상원 선거 결과가 확정되며 민주당이 공화당 텃밭에서 역전승을 거뒀다",
+      "인도네시아 기브란 부통령이 사임을 완료하고 프라보워 대통령이 이를 수리했다",
+      "가자지구 나세르 병원 공습으로 의료시설 피해가 현실로 나타나며 인도적 위기가 한층 악화됐다"
+    ],
+    "what_to_watch_next": [
+      "엔비디아 이사회가 영구 CEO 후보를 누구로 선택할지, 미국 의회 청문회 소환 여부",
+      "미국 특사단이 젤렌스키와 더블린에서 회동한 뒤 우크라이나가 협상 조건을 수용할지",
+      "인도네시아 의회가 차기 부통령 선출 절차를 개시할 시점과 후임 인물",
+      "Anthropic IPO 공모 가격과 시장 반응이 AI 섹터 전반 밸류에이션에 미칠 영향",
+      "중국 CXMT 엔티티 리스트 추가 여부 — 미국 상무부의 결정 시기",
+      "11월 28일 국제해양법재판소의 포클랜드 Sea Lion 프로젝트 임시조치 판결"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "젠슨 황 사임으로 엔비디아가 AI 반도체 패권 기업에서 국가안보 리스크 진원지로 전락했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "엔비디아는 창업자 겸 CEO 젠슨 황의 사임을 공식 발표했으며, CFO 콜레트 크레스가 영구 후임 선임 전까지 임시 CEO를 맡는다. 황 CEO는 중국 간첩 혐의를 받는 인물 앨리스 황과의 관계 및 사내 임원과의 불륜 의혹이 불거진 뒤 물러났고, 싱가포르는 앨리스 황의 재입국을 금지했다. 발표 직후 엔비디아 주가는 약 13% 급락해 시가총액이 4조 달러 아래로 밀렸고, 비트코인 등 위험자산도 연쇄 하락했다.",
+        "why_it_matters": "엔비디아는 AI 혁명의 핵심 인프라 공급자다. CEO 교체가 단순 거버넌스 문제를 넘어 미중 기술 패권 경쟁의 취약고리로 부각됐으며, 의회 조사와 FBI 수사 가능성이 거론되면서 반도체 수출 통제 정책 전반을 흔들 수 있다.",
+        "what_is_changing": "황 CEO 1인 체제로 운영되던 엔비디아의 비전·전략 추진력이 불확실해졌다. 중국 AI 기업들은 규제 강화를 예상해 해외 칩 용량 선점에 나섰고, 소프트뱅크·아폴로 등 대형 투자자들의 엔비디아 의존 베팅 구조도 재검토 압박을 받는다.",
+        "connection": "소프트뱅크는 아폴로 부채 150억 달러를 기반으로 오픈AI에 대규모 투자를 단행했는데, 엔비디아 주가 급락은 이 전체 AI 투자 사슬의 신뢰성을 흔든다. TSMC의 Anthropic·오픈AI 각 10억 달러 투자도 같은 순환 구조 안에 있다.",
+        "signal": "이 사건은 AI 붐 시대의 거버넌스 공백이 국가안보 리스크와 결합할 때 얼마나 빠르게 시스템 충격으로 번질 수 있는지를 보여주는 최초 사례다.",
+        "what_to_watch": "영구 CEO 후보 선발 과정, 미국 의회 청문회 소환 여부, 엔비디아 대중 수출 정책 변화, 중국 CXMT 엔티티 리스트 추가 결정"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "엔비디아의 비전·로드맵 추진 역량은 황 개인에 집중돼 있었다. 임시 CEO 체제에서 블랙웰 이후 아키텍처와 소프트웨어 생태계 전략이 흔들릴 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "미국 의회는 중국 측 인물이 세계 최대 AI 칩 기업 경영진과 연결됐다는 사실 자체를 안보 위협으로 간주하며, 반도체 수출 규제 강화의 명분으로 활용할 가능성이 높다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "시가총액 4조 달러 기업의 주가가 하루에 13% 하락한 사건은 AI 인프라 투자 전반의 고평가 위험을 재인식하게 만들었다. 비트코인·AI 기술주의 연쇄 하락이 그 반응이다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "중국 AI 기업들은 미국 규제 강화를 예상해 동남아 데이터센터에서 엔비디아 칩 용량을 선점하려는 움직임을 보이고 있어, 아이러니하게도 엔비디아의 단기 주문은 증가할 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NVIDIA Newsroom",
+          "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "region": "미국"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+          "region": "미국"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+          "region": "영국"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/week-asia/economics/article/3374256/megaspeed-ex-ceo-alice-huang-barred-singapore-amid-nvidia-scandal",
+          "region": "홍콩"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
+          "region": "중동"
+        }
+      ]
+    },
+    {
+      "headline": "우크라이나 협상이 아부다비에서 모스크바로 이어졌지만, 전쟁을 끝낼 돌파구는 아직 없다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "미국 특사 쿠슈너와 위트코프가 아부다비에서 러시아·우크라이나와 대규모 포로 교환 원칙 합의를 이끈 뒤 크렘린으로 이동해 푸틴과 직접 면담했다. 이후 더블린에서 젤렌스키와 회동할 예정이다. 같은 시점에 우크라이나는 군용 위성망 스타쉴드 접속 장애를 보고했고, 영국은 러시아 석유기업과 그림자 함대 선박 11척에 추가 제재를 발표했다.",
+        "why_it_matters": "미국이 직접 양측 수도를 오가며 중재에 나선 것은 협상 구조가 비공식 채널에서 고위급 공식 접촉으로 격상됐음을 의미한다. 그러나 전문가들은 영토·안보 체계 쟁점이 해결되지 않은 한 협상이 조기 종결로 이어지기 어렵다고 본다.",
+        "what_is_changing": "트럼프 행정부가 직접 협상의 실질 주도자로 나서면서 유럽의 대미 의존도와 소외 우려가 동시에 커지고 있다. 포로 교환이라는 인도적 합의가 먼저 타결됨으로써 협상의 단계적 접근 방식이 굳어지고 있다.",
+        "connection": "우크라이나 스타쉴드 접속 장애 보도는 일론 머스크와 트럼프 행정부의 관계가 협상 레버리지로 작동할 가능성을 시사한다. 러시아가 탈레반과 별도로 관계를 확장하는 움직임도 협상 구도 밖에서의 외교 다각화로 읽힌다.",
+        "signal": "미국이 주도하는 협상 틀이 자리를 잡으면 유럽은 협상 결과에 영향을 미칠 수 있는 채널을 잃을 수 있다는 우려가 현실화되고 있다.",
+        "what_to_watch": "젤렌스키와 미국 특사의 더블린 회동 결과, 우크라이나가 제시할 협상 조건의 핵심 내용, 스타쉴드 접속 장애의 원인과 지속 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프 특사들이 푸틴과 직접 대화하며 사실상 미러 양자 채널을 형성하고 있어, 젤렌스키는 조건을 수용하거나 협상 테이블에서 밀려나는 선택에 직면하고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "에너지 제재가 강화되는 가운데 EU의 러시아 LNG 의존은 오히려 늘었다. 협상이 타결되면 에너지 공급망 재편 속도가 바뀔 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+          "region": "북미"
+        },
+        {
+          "source": "CBC News",
+          "link": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss",
+          "region": "북미"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+          "region": "영국"
+        },
+        {
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
+          "region": "미국"
+        },
+        {
+          "source": "Mirror (UK)",
+          "link": "https://www.mirror.co.uk/news/uk-news/iran-spies-uk-jailed-threat-37871131",
+          "region": "영국"
+        }
+      ]
+    },
+    {
+      "headline": "인도네시아 부통령 사임이 조코위-프라보워 동맹의 균열을 가시화했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "조코 위도도 전 대통령의 아들 기브란 라카뷰밍이 학력 증명서 논란과 헌재·대법원의 자격 미달 판단 이후 부통령직을 사임했고, 프라보워 대통령이 이를 수리했다. 의회는 7단계 절차를 통해 후임 부통령을 선출할 예정이다.",
+        "why_it_matters": "기브란은 프라보워와 조코위가 동맹을 맺는 상징적 인물이었다. 그의 퇴장은 현 정부 연정 내부의 권력 재편을 촉발하고, 차기 부통령 선택이 2029년 대선 구도를 좌우할 수 있다.",
+        "what_is_changing": "세계 4위 인구 대국 인도네시아의 권력 중심이 조코위 계열에서 프라보워 단독으로 이동하고 있다. 동시에 별도로 진행 중인 도청 사건도 정치 불안 요인으로 남아 있다.",
+        "signal": "민주주의 제도가 고위 권력자를 견제하는 사례로 동남아 전반에 주목받을 수 있으며, 역으로 연정 불안이 외국인 투자 심리에 영향을 줄 가능성도 있다.",
+        "what_to_watch": "차기 부통령 후보군과 선출 시점, 프라보워 단독 체제에서의 경제·외교 정책 방향 변화"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "조코위 계열의 영향력이 약화되면서 프라보워 대통령이 연정 단속 대신 독자 노선을 강화할 여건이 생겼다는 해석과, 반대로 연정 균열로 국정 운영이 불안해질 수 있다는 우려가 공존한다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "학력 검증이라는 비교적 절차적 사안이 고위직 사임을 이끈 사례로, 동남아에서 제도적 책임성에 대한 기대치가 높아지고 있다는 신호로 읽힌다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/se-asia/prabowo-hugs-gibran-accepts-indonesian-v-p-s-resignation-with-heavy-heart",
+          "region": "동남아"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+          "region": "북미"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/12/asia-pacific/politics/gibran-indonesia-diploma-scandal/",
+          "region": "일본"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802",
+          "region": "오세아니아"
+        }
+      ]
+    },
+    {
+      "headline": "가자지구 병원 공습과 겨울 폭풍이 맞물려 의료·인도적 위기가 임계점에 다가서고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이스라엘군이 가자지구 나세르 병원을 공습해 외과의사 포함 최소 6명이 사망하고 20명이 부상했다. 이스라엘 측은 하마스 고위 지휘관이 병원을 작전 거점으로 활용했다고 주장했다. 같은 시기 겨울 폭풍으로 텐트 거주민들이 홍수와 산사태 피해를 입었고, 구호단체들은 이스라엘에 피난 쉼터 반입 허용을 촉구했다.",
+        "why_it_matters": "의료시설 피해는 국제인도법 위반 논쟁을 촉발하며 국제 여론과 외교적 압박을 강화한다. 의료 인력 손실은 이미 붕괴 직전인 가자 보건 체계를 더 빠르게 무너뜨린다.",
+        "what_is_changing": "군사 작전과 자연재해가 동시에 겹치며 인도적 위기가 복합 재난 국면으로 전환되고 있다. 구호 접근 제한이 지속되면서 국제기구의 직접 개입 요구가 높아지고 있다.",
+        "connection": "트럼프-네타냐후 간 이란 핵 문제 갈등이 미이스라엘 관계를 약화시키는 시점에 가자 상황이 악화되면서, 미국의 이스라엘 지원 조건에 대한 국제적 압력이 복합적으로 작용하고 있다.",
+        "signal": "병원이 반복적으로 군사 목표물이 되는 패턴은 분쟁 지역 의료 보호 국제 규범의 실효성에 근본적 의문을 제기한다.",
+        "what_to_watch": "유엔 안보리의 대응 여부, 이스라엘-하마스 임시 휴전 가능성, 국제형사재판소(ICC)의 추가 조치"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "이스라엘은 병원 내 하마스 존재를 정당성의 근거로 삼지만, 국제사회는 의료시설 보호 의무를 우선시하며 인식 차가 좁혀지지 않고 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "의사와 의료진의 반복적 피해는 가자 주민들의 생존 가능성을 구조적으로 훼손하며, 전후 재건을 위한 보건 인력 기반 자체가 사라지고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+          "region": "북미"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+          "region": "영국"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
+          "region": "북미"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+          "region": "중동"
+        }
+      ]
+    }
+  ]
+}
