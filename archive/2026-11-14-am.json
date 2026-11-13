@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-14",
+  "session": "am",
+  "time": "00:10",
+  "global_picture": {
+    "world_right_now": [
+      "젠슨 황 엔비디아 CEO 사임 사태가 미중 첩보전·반도체 수출통제·AI 패권 경쟁을 한꺼번에 뒤흔들고 있다",
+      "마이크로소프트 365 글로벌 장애가 18시간 넘게 이어지며 단일 클라우드 의존의 취약성을 전 세계가 실감했다",
+      "미국 특사가 푸틴을 만나고 유럽은 협상 참여 자리를 확보하려 하지만 우크라이나 국민은 평화를 믿지 않고 있다",
+      "이란 혁명수비대가 바레인 미군 레이더를 공격했다고 주장하며 호르무즈 해협 긴장이 군사 충돌 직전까지 치닫고 있다",
+      "IAEA가 이란 지하 우라늄 농축 시설에 1년째 접근하지 못하면서 핵 검증 체계에 공백이 생겼다",
+      "가자지구에 겨울 폭풍이 덮쳐 수천 개 텐트가 침수되고 평화 협상은 교착 상태를 벗어나지 못하고 있다",
+      "북한이 화상통화 위장 해킹으로 약 4억 달러 규모의 암호화폐를 탈취했고, 미 법무부가 바이낸스 해킹 관련 12억 달러를 압수했다",
+      "콩고민주공화국에서 에볼라가 확산되는 가운데 무장단체 공격과 자금 행방불명으로 방역망이 흔들리고 있다",
+      "유럽 첫 AI 정상회의가 열렸지만 미중이 주도하는 AI 경쟁에서 유럽이 어떤 역할을 할지는 아직 불분명하다",
+      "남아프리카공화국 총선에서 ANC가 역대 최저 득표를 기록해 집권당 체제가 역사적 전환점을 맞았다"
+    ],
+    "emerging_signals": [
+      "United Airlines의 AI 에이전트 예약 차단은 AI가 실거래를 대행하는 흐름에 기업들이 본격 저항하기 시작한 첫 신호일 수 있다",
+      "소프트뱅크의 가스터빈 선주문 30억 달러 손실이 AI 데이터센터의 천연가스 의존 전략에 제동을 걸 수 있다",
+      "러시아가 인도네시아에서 전쟁 병력을 모집하는 것은 분쟁의 동남아 연루가 처음 가시화된 사례다",
+      "중국이 COP33 유치를 포기하면서 세계 최대 배출국의 기후 리더십 공백이 생겼고 협상 구도가 흔들릴 수 있다",
+      "태국이 관광객의 암호화폐-바트 전환 소비를 허용하면서 아시아에서 암호화폐의 일상 경제 편입 실험이 시작됐다"
+    ],
+    "structural_trends": [
+      "엔비디아발 충격이 AI 반도체 공급망을 국가안보 의제로 격상시키며 미중 기술 분리를 가속화하고 있다",
+      "마이크로소프트·클라우드플레어·클로드 동시 장애가 AI 인프라 집중 리스크를 구조적 과제로 만들었다",
+      "미국 도매물가가 2022년 이후 최고 수준을 기록하며 금리 인하 기대를 약화시키고 있다",
+      "우크라이나 전쟁 협상에서 유럽이 발언권을 요구하고 있지만 미국-러시아 양자 채널이 실질 무게를 쥐고 있다",
+      "기후 금융 약속과 실제 자금 조달 간의 간극이 커지며 열대우림 기금 등 여러 녹색 메커니즘이 출범 전부터 위기를 맞고 있다"
+    ],
+    "what_changed_today": [
+      "젠슨 황 사임이 어제의 'AI 패권 리스크'에서 오늘은 미 의회 청문·행정부 내부 책임 공방·중국 첩보 연루 의혹으로 정치화됐다",
+      "우크라이나 협상이 아부다비에서 모스크바로 이동했고, 유럽 참여 가능성이 처음으로 구체화됐다",
+      "인도네시아 프라보워 권력 재편이 조코위 청산에서 대통령 불법 감청 스캔들로 새로운 국면에 접어들었다",
+      "가자지구 위기가 어제의 병원 공습 중심에서 겨울 폭풍 피해·인도적 지원 차단 문제로 초점이 이동했다"
+    ],
+    "what_to_watch_next": [
+      "젠슨 황·러트닉 상무장관의 미 의회 증언 일정과 내용",
+      "마이크로소프트 서비스 완전 복구 시점과 공식 원인 발표",
+      "이란-미국 호르무즈 긴장이 추가 군사 행동으로 이어지는지 여부",
+      "ITLOS의 11월 28일 포클랜드 Sea Lion 프로젝트 가처분 판결",
+      "다음 주 예정된 트럼프-푸틴 회담에서 유럽이 어떻게 처리될지",
+      "엔비디아 주가 및 AMD·브로드컴 등 경쟁사 반응",
+      "콩고민주공화국 에볼라 자금 행방과 국제 지원 재개 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "젠슨 황 사임이 미 의회·첩보·수출통제를 하나로 묶는 복합 위기로 번졌다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "엔비디아 창업자 젠슨 황 CEO가 사임하고 콜레트 크레스 CFO가 임시 CEO를 맡았다. 사임 배경으로 중국 간첩 혐의를 받는 앨리스 황·싱가포르 유령 기업 메가스피드와의 관계가 거론되며, 미 상원 은행위원회는 러트닉 상무장관과 황 전 CEO의 증언을 요구했다. 베센트 재무장관은 반도체 수출통제 체계에 '상당한 누출'이 있다고 공개 비판했다.",
+        "why_it_matters": "세계 AI 반도체 공급망을 사실상 단독으로 지배해온 기업의 창업자 겸 CEO 교체와 국가안보 스캔들이 동시에 터지면서 AI 인프라 투자 신뢰, 대중국 수출통제 실효성, 미국 행정부 내 책임 소재 모두가 흔들리고 있다.",
+        "what_is_changing": "엔비디아는 그동안 창업자 카리스마에 의존한 단일 리더십 구조를 유지해왔는데, 임시 CEO 체제에서 기술 로드맵·공급 약정·오픈소스 AI 지원 방향 모두가 불확실해졌다. AMD·브로드컴·TSMC 등 경쟁사를 향한 자금 이동도 감지되고 있다.",
+        "connection": "싱가포르·말레이시아 데이터센터 산업이 미국의 추가 규제 대상이 될 수 있다는 분석이 나왔고, 한국 주식시장도 엔비디아 불안으로 1% 내외 하락했다. 중국은 미국이 규제를 강화하면 희토류 수출 통제로 맞대응할 수 있다는 신호를 내보내고 있다.",
+        "signal": "이 사건은 AI 반도체가 순수 기업 경쟁 영역에서 국가 안보·첩보전·의회 감시 대상으로 완전히 편입되는 전환점의 신호다.",
+        "what_to_watch": "황 전 CEO의 의회 증언 내용, 콜레트 크레스 체제에서 블랙웰 GPU 공급 일정 유지 여부, 메가스피드 조사 결과, AMD·인텔·브로드컴의 시장 점유율 변화"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "행정부 내 베센트-러트닉 공개 갈등은 반도체 수출통제 실패의 책임 소재를 둘러싼 워싱턴 권력 싸움으로, 의회 청문이 정치적 무기화될 가능성이 크다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "창업자 의존 경영의 리스크가 현실화됐으며, 임시 CEO 체제에서 대규모 AI 인프라 약정 이행 능력에 의문이 생겨 고객과 투자자 신뢰 회복이 급선무다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "황의 오픈소스 AI 지원 약속이 흔들리면서 Hugging Face 등 오픈소스 생태계가 엔비디아 의존에서 벗어날 대안을 모색하기 시작했다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+          "region": "North America"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+          "region": "Europe"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+          "region": "Europe"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "region": "미국"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
+          "region": "Business"
+        },
+        {
+          "source": "Straits Times",
+          "link": "https://www.straitstimes.com/asia/east-asia/would-jensen-huangs-fall-dent-chinas-ai-ambitions",
+          "region": "Southeast Asia"
+        }
+      ]
+    },
+    {
+      "headline": "마이크로소프트 365 글로벌 장애 18시간, 병원·학교·경찰도 멈춰서며 단일 클라우드 의존의 위험이 현실이 됐다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "마이크로소프트의 Outlook, Teams, Copilot 등 주요 서비스가 11월 12일부터 18시간 이상 전 세계에서 장애를 일으켰다. 영국 병원·경찰, 미국 여러 도시, 아시아태평양 지역 기업과 공공기관까지 피해를 입었으며 호주의 경제 손실은 수십억 달러로 추산됐다. 같은 날 Cloudflare와 Claude도 접속 장애가 발생했고, 마이크로소프트는 사이버 공격은 없었다고 밝혔으나 완전 복구 시점은 미확정이다.",
+        "why_it_matters": "현대 기업과 공공 인프라가 단일 클라우드 플랫폼에 얼마나 깊이 의존하는지를 전 세계가 동시에 체감했다. 호주 국가안보 자문관이 수개월 전부터 마이크로소프트 의존도 집중 위험을 경고했으나 무시됐다는 사실도 드러났다.",
+        "what_is_changing": "과거 IT 장애는 특정 국가나 업계에 국한됐지만, 이번 장애는 의료·치안·교육·금융이 동시에 마비되면서 디지털 인프라 다변화(멀티클라우드 의무화 등) 논의가 정책 의제로 급부상할 가능성이 높아졌다.",
+        "connection": "일본에서는 온라인 장애 대비 수단으로 팩스가 재조명됐고, 여러 국가에서 마이크로소프트 의존도 감사를 촉구하는 목소리가 나왔다. AI 서비스(Copilot)의 광범위한 채택이 오히려 장애 파급 범위를 넓혔다는 분석도 제기됐다.",
+        "signal": "AI 서비스가 핵심 인프라에 통합될수록 단일 장애점의 파괴력이 기하급수적으로 커진다는 구조적 경고다.",
+        "what_to_watch": "마이크로소프트의 공식 원인 발표와 재발 방지 대책, 각국 정부의 클라우드 의존도 규제 논의 개시 여부, 경쟁 클라우드 서비스(AWS, Google Cloud)로의 이탈 움직임"
+      },
+      "perspectives": [
+        {
+          "frame": "Business View",
+          "summary": "기업 리스크 관리 차원에서 멀티클라우드 전략이 선택이 아닌 필수로 전환되는 계기가 될 수 있으며, 클라우드 보험 시장 성장도 가속화될 전망이다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "공공 의료·치안 서비스가 민간 기업 인프라에 종속된 현실이 드러나면서 디지털 인프라 주권과 국가 조달 기준 강화 논의가 의회 의제로 올라올 것이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+          "region": "Europe"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+          "region": "Europe"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-13/microsoft-reliance-national-security-risk/107382100",
+          "region": "Oceania"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+          "region": "미국"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/13/microsoft-outage-fax-machine/",
+          "region": "일본"
+        }
+      ]
+    },
+    {
+      "headline": "우크라이나 협상이 아부다비에서 모스크바로 이어졌지만, 유럽은 발언권을 얻으려 싸우고 우크라이나 국민은 평화를 믿지 않는다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "아부다비 협상 후 미국 특사 쿠슈너·위트코프가 모스크바에서 푸틴과 회담했고 포로 교환에 합의했다. 유럽 국가들은 협상 참여 대표 선정을 두고 내부 조율을 진행 중이며, 독일 메르츠 총리는 트럼프-푸틴 다음 주 회담에서 돌발 변수를 만들지 말라고 요청했다. 한편 러시아는 모스크바에서 이틀 연속 차량 폭탄 공격을 받았고, 우크라이나 발전소는 미사일 공격으로 거의 파괴된 상태에서 운영을 이어가고 있다.",
+        "why_it_matters": "미국이 협상 주도권을 쥔 채 유럽을 부분 배제하는 구도가 굳어질 경우, 유럽의 안보 아키텍처가 미국 의존에서 자립으로 전환해야 한다는 압박이 커진다.",
+        "what_is_changing": "과거 우크라이나 전쟁 외교는 나토와 유럽이 핵심 조정자였으나, 이제 미국이 유럽을 우회하는 직접 채널을 구축하면서 협상 지형 자체가 재편되고 있다.",
+        "connection": "우크라이나 국내에서는 강제 징집 '버스화' 논란이 사회적 반발을 키우고 있어, 협상과 별개로 내부 전쟁 지속 의지가 흔들릴 수 있다.",
+        "signal": "이번 협상 구도는 냉전 종식 이후 유럽 안보 질서에서 가장 큰 구조 재편의 신호탄일 수 있다.",
+        "what_to_watch": "트럼프-푸틴 다음 주 회담 결과, 유럽 협상 대표단 구성 타결 여부, 우크라이나 젤렌스키의 수용 범위"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "유럽은 협상 테이블 자리를 요구하면서도 군사 지원 중단 카드를 미국에 뺏긴 상태여서 실질 협상력이 약하다는 딜레마에 처해 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "정전 가능성이 높아질수록 우크라이나 재건 계약을 선점하려는 미국·유럽·중동 기업들의 포지셔닝이 본격화될 것이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+          "region": "North America"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261113-most-ukrainians-think-there-s-no-chance-of-a-peace-deal-with-russia",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/europe-pushes-for-seat-at-ukraine-peace-talks-but-lacks-unified-voice/article71696911.ece",
+          "region": "India"
+        }
+      ]
+    },
+    {
+      "headline": "이란이 바레인 미군 레이더를 공격하고 호르무즈를 위협하면서 중동이 직접 충돌 직전까지 치닫고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란 혁명수비대가 바레인에 주둔한 미군 조기경보 레이더를 파괴했다고 주장하며 호르무즈 해협에 대한 무제한 대응을 경고했다. 미 해군은 상업 선박을 위한 남쪽 항로를 열었지만 이란 항구 봉쇄는 유지한다고 밝혔다. 같은 날 호르무즈 해협에서 LNG 운반선이 기뢰에 맞아 폭발했다는 이란의 발표도 나왔다.",
+        "why_it_matters": "세계 에너지 무역의 약 20%가 통과하는 호르무즈 해협의 군사 충돌은 글로벌 에너지 가격과 공급망에 즉각적인 충격을 준다. 미국이 이란 항구를 봉쇄한 채 항로 일부만 개방하는 이중 전략은 충돌 에스컬레이션 위험을 높인다.",
+        "what_is_changing": "트럼프 행정부가 이란과 '합의 불필요'를 공언하고 외교 채널을 사실상 닫으면서, 무력 대치가 협상 대신 주된 관계 방식이 되고 있다.",
+        "connection": "한국의 연료 가격 상한제 유지와 원화 약세는 이란발 중동 긴장이 아시아 에너지 시장에 이미 압력을 가하고 있음을 보여준다.",
+        "signal": "이 충돌이 직접 교전으로 발전할 경우 2024~2025년 홍해 사태보다 훨씬 광범위한 에너지 공급망 차질을 초래할 수 있다.",
+        "what_to_watch": "미국의 군사적 대응 여부, 이란 레이더 피해 독립 검증, 국제유가 반응, IAEA와 이란 핵 협상 연계 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "호르무즈 봉쇄가 현실화되면 LNG와 원유 가격이 단기간에 급등해 아시아 수입국들의 에너지 비용이 직격탄을 맞는다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프의 '합의 불필요' 발언은 이란을 압박하는 협상 전술일 수 있지만, 이란 강경파에게는 군사 행동의 명분을 제공하는 역효과를 낳을 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece",
+          "region": "India"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/13/iran-claims-strike-on-us-radar",
+          "region": "Middle East"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Gas-Tanker-Hit-Mine-in-Strait-of-Hormuz.html",
+          "region": "미국"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance",
+          "region": "Middle East"
+        }
+      ]
+    }
+  ]
+}
