@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-15",
+  "session": "am",
+  "time": "08:01",
+  "global_picture": {
+    "world_right_now": [
+      "미국 FAA가 9·11 이후 최장 전국 운항 중단을 발령했고, 원인은 1980년대 구리선 기반 노후 통신 인프라로 지목됐다",
+      "엔비디아 사태가 CEO 공백을 넘어 미중 반도체 규제 집행 실패, 의회 조사, 아시아 공급망 충격으로 확산되고 있다",
+      "젤렌스키가 미국의 돈바스 양보·NATO 가입 연계 제안을 공개했고, 푸틴은 영국의 핵억지 역할 중단을 종전 조건으로 내걸었다",
+      "트럼프·시진핑·푸틴 3자 정상회담이 APEC을 계기로 추진되고 있으나 시진핑은 주최에 신중한 입장이다",
+      "COP31이 화석연료 분쟁 속 막판 압박을 받고 있고, 중국은 COP33 개최를 포기해 기후 리더십 공백이 커졌다",
+      "2026년 여름이 1850년 이래 가장 더운 여름으로 기록됐고 극한기상 사망자가 수만 명에 달한다",
+      "프랑스에서 노란조끼 시위가 10만 명 이상 참여로 재점화됐고, 포르투갈에서도 주거비 항의 최대 규모 시위가 열렸다",
+      "이탈리아 당국이 메타에 약 8억 달러 규모 과징금을 부과해 유럽 빅테크 개인정보 규제 집행이 강화됐다",
+      "스페이스X 스타십이 궤도 귀환 후 발사대 기계팔 포획에 처음 성공해 완전 재사용 로켓 개발이 한 단계 전진했다",
+      "미국이 26년 만에 홍역 퇴치 지위를 상실했다는 보도가 나왔다"
+    ],
+    "emerging_signals": [
+      "파라과이 은행 강제 폐쇄 사태가 대통령 교체로 이어진 것은 중소국 금융 불안과 정치 불안정의 연쇄 패턴을 보여준다",
+      "AI 데이터센터의 전력 수요가 비트코인 채굴을 파라과이에서 밀어낼 정도로 커지고 있다",
+      "일본에 주일미군 분담금 3배 증액 요구가 나오면서 동맹 비용 재분배 압박이 아시아로 확산되고 있다",
+      "ChatGPT Wallet이 AI 에이전트가 사용자 대신 쇼핑·결제를 처리하는 첫 상용 서비스로 등장했다",
+      "나이지리아 총선을 앞두고 AI 허위정보가 급증하며 아프리카 선거의 새로운 위협 요소로 부상하고 있다",
+      "FDA가 체내 직접 유전자 편집 CRISPR 치료제 첫 승인을 앞두고 있어 바이오 의료 패러다임 전환이 임박했다"
+    ],
+    "structural_trends": [
+      "미국의 항공·통신·클라우드 인프라 노후화가 단일 사건이 아닌 구조적 취약점으로 가시화되고 있다",
+      "유럽 전역에서 생활비 불만이 대규모 거리 시위로 전환되는 패턴이 반복되고 있다",
+      "미중 반도체 갈등이 기업 CEO 거버넌스, 국가안보 조사, 수출통제 집행 실패로 복잡하게 얽히며 구조화되고 있다",
+      "러시아의 우크라이나 에너지 인프라 표적 공격이 지속되면서 협상과 전쟁이 동시에 진행되는 이중 전선이 굳어지고 있다",
+      "COP 협상에서 개도국의 기후 부채 거부 요구와 선진국의 이행 지연이 충돌하는 구조가 반복되고 있다",
+      "유럽 각국 정부의 국방·인프라 재정 확대가 부채 급증 우려와 함께 재정 구조를 근본적으로 바꾸고 있다",
+      "중국과 인도 학생 감소로 미국 과학 인력 기반이 약화되는 반면 인재 이동 경로가 아시아 내부로 재편되고 있다"
+    ],
+    "what_changed_today": [
+      "트럼프·시진핑·푸틴 3자 회담이 APEC 계기로 구체화됐으나 시진핑의 신중론이 부각되며 성사 불확실성이 커졌다",
+      "젤렌스키가 돈바스 양보·NATO 연계 제안을 공개적으로 언급함으로써 협상 조건이 처음으로 외부에 노출됐다",
+      "엔비디아 사태가 CEO 승계 위기에서 의회 조사·규제 집행 책임 공방·아시아 공급망 반응으로 전선이 확대됐다",
+      "미국 FAA 운항 중단이 복구됐지만 300억 달러 인프라 예산 요청과 추수감사절 여행 차질 우려가 새로운 쟁점으로 떠올랐다",
+      "마이크로소프트 장애가 복구 완료됐으나 의료·정부 등 공공 부문 피해 실태가 구체적으로 드러났다"
+    ],
+    "what_to_watch_next": [
+      "트럼프·시진핑·푸틴 회담 형식과 의제가 APEC 현장에서 어떻게 확정되는지",
+      "젤렌스키의 돈바스 양보 발언에 대한 미국 공식 입장과 유럽 동맹국 반응",
+      "엔비디아 이사회의 차기 CEO 결정과 의회 조사 범위 확대 여부",
+      "FAA 운항 중단 원인 조사 결과와 의회의 300억 달러 인프라 예산 처리",
+      "COP31 마지막 주 화석연료 조항 합의 여부",
+      "미국 홍역 퇴치 지위 박탈에 대한 범미보건기구 공식 결정",
+      "11월 28일 국제해양법재판소의 포클랜드 Sea Lion 프로젝트 중단 요청 판결"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미국 항공 관제 시스템이 9·11 이후 최장 전국 운항 중단을 일으켰다—노후 인프라가 현대 국가의 아킬레스건임을 드러냈다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국 연방항공청(FAA)이 약 4시간 30분에 걸쳐 전국 출발 항공편을 전면 중단했고, 약 1만 6천 편이 취소됐다. 교통장관은 1980년대 구리선 기반 통신 장비와 과부하 걸린 라우터를 원인으로 지목했으며, FAA 역사상 세 번째 전국 단위 조치다. 사이버 공격 증거는 없으나 추수감사절 여행 시즌을 앞두고 혼란이 수일간 지속될 전망이다.",
+        "why_it_matters": "현대 경제·이동의 핵심 동맥인 항공 교통이 수십 년 된 아날로그 인프라 위에 작동하고 있음이 공개적으로 확인됐다. 단순 불편을 넘어 국가 안보와 경제 연속성 측면의 취약성이 노출됐다.",
+        "what_is_changing": "과거에는 개별 공항이나 지역 단위 장애에 그쳤으나, 이번에는 단일 통신 장비 고장이 22개 관제센터 전체에 연쇄 영향을 줬다. 교통부가 의회에 300억 달러 인프라 예산을 긴급 요청하며 정치 의제로 급부상했다.",
+        "connection": "같은 시기 마이크로소프트 글로벌 클라우드 장애와 맞물려 선진국의 디지털·물리적 인프라 노후화가 동시에 가시화됐다. AI 기반 항공교통 혼잡 관리 도구 전국 확대 계획과 역설적으로 충돌한다.",
+        "signal": "항공 관제만이 아니라 전력망·수도·금융 결제 등 여러 국가 핵심 인프라가 유사한 노후화 위험을 안고 있다는 더 큰 경고다.",
+        "what_to_watch": "의회의 300억 달러 예산 심의 결과, 원인 조사 보고서 공개, 추수감사절 여행 기간 재발 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "장비 노후화 책임을 둘러싼 정부 부처 간 공방이 시작됐고, 야당은 FAA 예산 삭감 이력을 공격 소재로 삼을 가능성이 높다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "항공편 대규모 취소로 항공사 운영 비용과 소비자 환불 부담이 늘었으며, 추수감사절 성수기와 겹쳐 관광·소매 경제에 단기 충격이 불가피하다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 기반 관제 도구 도입을 추진하면서도 기반 통신망은 1980년대 수준으로 방치됐다는 역설이 드러났다. 소프트웨어 업그레이드보다 하드웨어 교체가 더 시급하다는 논쟁이 제기됐다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
+          "region": "Europe"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "region": "Business"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+          "region": "Technology"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/us/1980s-copper-lines-old-routers-how-uss-ageing-tech-caused-longest-ground-stop-since-9/11/articleshow/135828707.cms",
+          "region": "India"
+        }
+      ]
+    },
+    {
+      "headline": "엔비디아 사태가 CEO 공백에서 미중 반도체 규제 집행 실패, 의회 조사, 아시아 공급망 충격으로 전선을 확대했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "젠슨 황 CEO 사임 이후 미 재무부·상무부 간 대응 방식 충돌이 공개됐고, 민주당 의원들은 중국 판매와 트럼프 행정부 거래에 대한 의회 조사를 착수했다. 연구 결과 중국의 최상위 AI 모델 일부가 수출 금지 엔비디아 칩으로 학습된 것으로 확인됐다. 복귀 청원에는 일론 머스크를 포함해 11만 5천 명 이상이 서명했다.",
+        "why_it_matters": "세계 AI 반도체 공급의 80% 이상을 담당하는 기업의 리더십 공백이 AI 투자 심리, 아시아 각국 정부의 공급 불안, 미국 수출통제 신뢰성에 동시 타격을 주고 있다.",
+        "what_is_changing": "기존에는 반도체 수출통제가 기술 정책 문제로 다뤄졌으나, 이제는 CEO 개인 비위와 국가안보·기업 거버넌스·의회 감독이 한꺼번에 얽힌 복합 위기로 성격이 변했다.",
+        "connection": "이란 전쟁으로 중동 불안이 지속되는 가운데 AI 반도체 공급망 불확실성이 더해져 아시아 정부들이 대체 공급선 모색을 가속화하고 있다. 이스라엘 벤처캐피털은 엔비디아 경쟁 AI 칩 스타트업 투자 기회로 보고 있다.",
+        "signal": "단일 CEO의 추락이 미국 AI 패권 유지 능력 전반에 대한 의문으로 번지는 초기 신호다.",
+        "what_to_watch": "이사회의 차기 CEO 최종 결정, 의회 조사 범위와 상무부 BIS 제재 실효성 검토 결과, 중국 AI 기업들의 대체 칩 개발 속도"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "민주당은 트럼프 행정부와 엔비디아 간 거래의 이해상충을 정치 공세 소재로 삼고 있고, 행정부 내 부처 간 갈등이 국가안보 대응의 혼선을 드러낸다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "투자자들은 CEO 공백과 거버넌스 위기로 주가 변동성이 커지는 상황에서 복귀 청원과 헤드헌팅을 동시에 지켜보고 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "수출 금지된 엔비디아 칩이 중국 AI 모델 학습에 활용됐다는 확인은 하드웨어 수출통제만으로는 AI 기술 확산을 막을 수 없다는 근본적 한계를 드러낸다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+          "region": "Business"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "region": "Technology"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+          "region": "Europe"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-15/sex-spies-silicon-valley-nvidia-saga-highlights-risks-for-tech/107386438",
+          "region": "Oceania"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-crisis-scrutiny-agency/",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "headline": "우크라이나 협상의 판이 뒤집혔다—돈바스 양보·NATO 가입 연계가 처음으로 공개됐고 푸틴은 영국 핵억지 중단을 종전 조건으로 내걸었다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "젤렌스키 대통령이 미국 협상단이 돈바스 지역 양보 대가로 NATO 가입을 허용하는 방안을 제시했다고 공개했다. 그는 이 안을 국민투표에 부칠 수 있다고 했으나 영토 양도는 거부 입장을 밝혔다. 같은 시점 푸틴은 종전 조건에 영국의 유럽 핵억지 역할 중단을 포함시킨 것으로 보도됐고, 마크롱은 지원 축소가 또 다른 전쟁으로 이어질 것이라고 경고했다.",
+        "why_it_matters": "지금까지 비공개 협상 테이블에서만 오갔던 영토-안보 교환 구도가 처음으로 공론화됐다. 이는 협상의 성격이 종전 협의에서 유럽 안보 질서 재편 협상으로 격상됐음을 시사한다.",
+        "what_is_changing": "우크라이나가 NATO 가입 없이는 아무것도 받아들이지 않겠다는 기존 원칙에서 조건부 논의로 이동하고 있다는 신호가 처음 나왔다. 유럽 안보 체계에 러시아가 직접 발언권을 요구하는 구도가 공식화되는 단계다.",
+        "connection": "트럼프·시진핑·푸틴 3자 회담 추진과 맞물려 우크라이나 문제가 미·중·러 대삼각 외교의 하위 의제로 흡수될 가능성이 커지고 있다. 커슈너 미국 특사는 유럽과 러시아 간 직접 협상 중개를 목표로 한다고 밝혔다.",
+        "signal": "냉전 이후 굳어진 유럽 안보 질서가 협상 테이블 위에 올라가는 역사적 전환점의 초기 신호다.",
+        "what_to_watch": "미국의 공식 입장 발표, 유럽 동맹국(특히 영국·폴란드)의 반응, APEC 계기 미러 회담에서 우크라이나 의제 처리 방식"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "젤렌스키의 공개 발언은 미국에 협상 조건을 조기에 고착시키지 말라는 압박이자, 우크라이나 국내 여론을 위한 정치적 포석으로도 읽힌다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "돈바스 광물자원과 흑해 접근권은 협상 조건의 경제적 핵심이며, 어떤 경계선이 그어지느냐에 따라 유럽 에너지·자원 공급 구도가 달라진다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "국민투표 언급은 영토 양보를 민주적 절차로 정당화하려는 시도이지만, 국내 반발을 감안하면 실현 가능성은 불투명하다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
+          "region": "Europe"
+        },
+        {
+          "source": "The Sun (UK)",
+          "link": "https://www.thesun.co.uk/news/41026647/putin-demands-uk-stop-nuclear-defence/",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/europe/article/3374450/zelensky-says-us-floated-idea-ukraine-ceding-donbas-nato-membership",
+          "region": "China"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프·시진핑·푸틴 3자 회담이 APEC에서 추진되고 있다—핵·이란·AI를 한 테이블에 올리는 새로운 강대국 질서 실험",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "트럼프·푸틴이 APEC 계기 3자 회담을 추진하고 있으나 시진핑은 회담 주최에 신중한 입장인 것으로 전해졌다. 의제로는 핵무기 감축, 이란 전쟁, AI가 거론되며 우크라이나와 북한 문제는 이번 일정에서 제외될 것으로 알려졌다. 한편 선전시는 APEC을 앞두고 최고 수준의 보안 태세를 갖췄다.",
+        "why_it_matters": "미·중·러 3국 정상이 한자리에 모이는 것 자체가 냉전 종식 이후 전례 없는 외교 형식이며, 성사 여부와 무관하게 세계 질서 재편 의지를 공개적으로 드러낸다.",
+        "what_is_changing": "양자 외교 채널이 아닌 3자 협의체 형식이 시도된다는 점에서, 미국 주도 다자주의와는 다른 강대국 중심 질서 구축의 시험대가 되고 있다.",
+        "connection": "우크라이나 협상, 핵군축, 이란 전쟁이 모두 연결된 의제라는 점에서 이 회담은 세계 여러 현안의 교차로다. 한국은 한중 외교 채널을 통해 북한 대화 복귀를 위한 중국 역할을 요청했다.",
+        "signal": "이 회담 추진 자체가 미국이 유엔 체제 밖에서 강대국 직거래를 통해 세계 현안을 해결하려는 방향으로 전환하고 있다는 신호다.",
+        "what_to_watch": "시진핑의 최종 참여 형식 결정, 회담 의제에 우크라이나·북한이 포함되는지 여부, 회담 후 공동 성명 혹은 별도 발표 방식"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "유럽은 자국의 안보가 직결된 우크라이나 문제가 3자 회담에서 다뤄지지 않는 데 대한 불안을 감추기 어렵다. 한국·일본 등 아시아 동맹국들은 북한과 지역 안보 의제에서 소외될 수 있다는 우려를 품고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "핵군축 논의는 방위산업과 핵에너지 시장 재편과 연결되며, 이란 전쟁 종결 가능성은 중동 에너지 시장에 직접 영향을 준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/a-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Yonhap English",
+          "link": "https://en.yna.co.kr/view/AEN20261114001151315",
+          "region": "Korea"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/trump-xi-putin-trilateral-apec/",
+          "region": "Japan"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
