@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-14",
+  "session": "pm",
+  "time": "23:02",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프·시진핑·푸틴 3자 정상회담이 APEC을 계기로 추진되면서 핵군축·이란·우크라이나를 한 테이블에서 다루는 초대형 외교 국면이 열리고 있다",
+      "우크라이나 협상에서 미국이 돈바스 영토 양보 대가로 NATO 가입을 처음 타진했다는 주장이 나오며 전쟁 종결 협상의 판이 근본적으로 바뀌고 있다",
+      "엔비디아 젠슨 황 사임 후폭풍이 CEO 승계 위기를 넘어 중국 칩 유출·의회 조사·AI 스타트업 생태계 충격으로 확산되고 있다",
+      "마이크로소프트 글로벌 장애가 복구됐지만 병원·정부·금융이 24시간 이상 멈추면서 단일 클라우드 의존 리스크가 세계적 의제로 부상했다",
+      "미국 FAA가 역사상 세 번째 전국 운항 중지를 발령하며 노후 항공 인프라 문제가 다시 수면 위로 올라왔다",
+      "이란이 원유 수출 제로를 가정한 예산 편성에 나서고 IAEA 사찰도 차단하면서 핵 협상 교착이 경제 붕괴 국면으로 전이되고 있다",
+      "프랑스 반정부 시위가 5주 연속 전국으로 번지며 경찰 7만 명 동원 속 대선 전까지 사회 불안이 지속될 전망이다",
+      "인도네시아 부통령이 학력 위조로 사임하면서 조코위 가문 정치 세습이 사법 심판을 받는 이례적 상황이 연출됐다",
+      "미국 홍역 퇴치 지위가 26년 만에 박탈되며 선진국 공중보건 붕괴의 상징적 사례가 됐다",
+      "체내 직접 CRISPR 편집 치료제가 FDA 첫 승인을 앞두면서 유전자 치료의 새 시대가 열리기 직전이다"
+    ],
+    "emerging_signals": [
+      "AI 모델 학습에 수출 금지 엔비디아 칩이 광범위하게 쓰였다는 연구 결과가 반도체 수출 통제 체계 전반의 실효성에 의문을 던지고 있다",
+      "미국행 국제학생 급감과 말레이시아·홍콩으로의 유학 이동이 미국 연구 경쟁력 약화의 초기 신호로 읽힌다",
+      "파라과이 은행 압류가 대통령 퇴진으로 이어진 사례는 중소국 금융 불안이 즉각적 정권 교체로 연결될 수 있음을 보여준다",
+      "카타르-튀르키예 상호 방위 협정 체결은 미·이란 전쟁 국면에서 중동 내 소규모 안보 블록이 형성되고 있다는 신호다",
+      "생성형 AI의 비영어 텍스트 처리 시 에너지 비용이 더 높다는 연구는 AI 보급의 언어 불평등 문제를 새로운 의제로 올리고 있다"
+    ],
+    "structural_trends": [
+      "미국 주도 단극 체제에서 미·중·러 3극이 직접 협상하는 구도로의 이행이 가시화되고 있다",
+      "단일 클라우드 공급업체 의존이 국가 안보 수준의 인프라 취약성으로 인식되기 시작했다",
+      "반도체 수출 통제가 집행 역량의 한계에 직면하면서 규제와 현실 사이의 간극이 갈수록 커지고 있다",
+      "우크라이나 전쟁이 군사 교착을 넘어 영토·안보 보장·핵 질서를 함께 협상하는 복합 외교 위기로 성격이 바뀌고 있다",
+      "이란 경제가 원유 수출 사실상 제로 상태에서 붕괴 직전에 놓이면서 중동 세력 균형 재편이 가속될 수 있다"
+    ],
+    "what_changed_today": [
+      "어제 미 의회·첩보·수출통제의 복합 위기로 번지던 엔비디아 사태가 오늘 CEO 후임 인선과 의회 증언 요구, AI 스타트업 생태계 충격으로 한 단계 더 구체화됐다",
+      "어제 협상 경로 모색 단계였던 우크라이나 평화 협상이 오늘 미국이 돈바스 양보를 직접 타진했다는 젤렌스키 발언으로 협상 조건의 윤곽이 처음 공개됐다",
+      "어제 복구 완료로 보도됐던 마이크로소프트 장애의 파장이 오늘 피싱 경보·디지털 주권 논란·윈도우 제로데이 취약점 공개와 맞물리며 사이버 보안 위기로 연장됐다",
+      "어제 이란의 직접 충돌 직전 국면이 오늘 이란의 원유 수출 제로 예산 편성·IAEA 사찰 거부로 군사에서 경제·핵 차원의 위기 복합화로 전환됐다",
+      "트럼프·시진핑·푸틴 3자 정상회담이 오늘 APEC 계기 다음 주 개최로 공식 확인되며 처음으로 구체적 일정이 잡혔다"
+    ],
+    "what_to_watch_next": [
+      "APEC 계기 미·중·러 3자 정상회담 성사 여부와 핵군축·우크라이나 의제 포함 범위",
+      "젤렌스키의 돈바스 양보 주장에 대한 미국 측 공식 확인 또는 부인",
+      "엔비디아 후임 CEO 선임 과정과 의회 청문회 일정 확정",
+      "FAA 전국 운항 중지 원인 조사 결과 및 노후 인프라 교체 예산 논의",
+      "체내 직접 CRISPR 치료제 FDA 최종 승인 결정일과 적응증 범위",
+      "이란 핵 협상 재개 가능성과 IAEA 사찰관 복귀 협상 추이",
+      "프랑스 주간 시위 6차 동원 규모와 정부 대응 방침 변화",
+      "마이크로소프트 서비스 장애 근본 원인 공식 발표와 각국 클라우드 다각화 정책 반응"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "트럼프·시진핑·푸틴 첫 3자 회담이 APEC에서 열린다—핵·이란·우크라이나를 한 테이블에 올리는 역사적 외교 도박",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "백악관은 트럼프·시진핑·푸틴의 첫 3자 정상회담이 다음 주 선전 APEC 정상회의 계기에 열린다고 확인했다. 미국은 핵무기 감축과 이란 전쟁을 의제로 제시했으며, 우크라이나 전쟁은 의제에서 빠질 가능성이 높다. 중국은 개최에 소극적인 것으로 전해졌으며, 젤렌스키는 얄타식 세력 재분배가 될 수 있다고 경고했다.",
+        "why_it_matters": "냉전 이후 한 번도 없었던 미·중·러 3국 정상 간 직접 협상 테이블이 형성된다는 것 자체가 국제 질서 재편의 신호다. 핵군축이 의제에 오른다면 1980년대 이후 가장 중요한 군비 통제 협상 국면이 될 수 있다.",
+        "what_is_changing": "기존의 미·중, 미·러 양자 외교 채널을 넘어 3국이 동시에 테이블에 앉는 구조가 처음 만들어지고 있다. 우크라이나와 유럽이 배제된 상태에서 세계 질서가 재설계될 수 있다는 우려도 제기된다.",
+        "connection": "우크라이나 평화 협상, 이란 핵 협상, 중동 안보 구도, 한반도 북핵 문제가 모두 이 회담의 맥락에서 영향을 받을 수 있다. 한국은 트럼프가 북한 관여 계획이 없다고 밝힌 점에 주목하고 있다.",
+        "signal": "미·중·러 3극 직접 협상 체제로의 이행이 가시화되는 첫 번째 구체적 사건이다. 성사 여부와 무관하게 이 회담 추진 자체가 2차 대전 이후 구축된 다자 국제 질서에 균열을 내는 선례가 된다.",
+        "what_to_watch": "중국의 최종 참여 확인 여부, 의제에 우크라이나 포함 가능성, 유럽과 우크라이나의 대응 전략, 회담 후 나올 공동 성명의 언어"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "민주주의 동맹국들이 배제된 채 권위주의 3국이 세계 질서를 재설계한다는 비판과, 직접 대화를 통해 핵 위험을 낮출 수 있다는 현실주의적 기대가 충돌하고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "회담 결과에 따라 에너지·방산·반도체 공급망 재편이 가속될 수 있으며, 특히 이란 제재 완화 여부가 글로벌 원유 시장에 직접 영향을 준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says",
+          "region": "Europe"
+        },
+        {
+          "source": "Straits Times",
+          "link": "https://www.straitstimes.com/asia/a-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
+          "region": "Middle East"
+        },
+        {
+          "source": "Yonhap English",
+          "link": "https://en.yna.co.kr/view/AEN20261114001151315",
+          "region": "Korea"
+        }
+      ]
+    },
+    {
+      "headline": "미국이 돈바스 양보 대가로 NATO 가입을 처음 타진했다—우크라이나 협상의 판이 근본적으로 바뀌고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "젤렌스키 대통령은 미국이 돈바스 지역 포기를 대가로 우크라이나의 NATO 가입을 허용하는 방안을 처음으로 타진했다고 밝혔다. 미국 특사는 모스크바에서 푸틴, 더블린에서 젤렌스키와 연속 면담했으며, 아부다비 협상에서는 포로 교환만 합의됐고 러시아는 에너지 시설 휴전을 거부했다. 독일·프랑스·영국·이탈리아·폴란드와 EU는 평화 협상에 단일 대표단으로 참여하기로 했다.",
+        "why_it_matters": "미국이 영토 양보를 협상 조건으로 공개 제시한 것은 전쟁 개시 이후 처음이다. NATO 가입과 영토 상실을 맞바꾸는 구도는 우크라이나 국내 정치적으로도 국민투표를 필요로 할 만큼 근본적인 선택을 요구한다.",
+        "what_is_changing": "2022년 이후 견지해 온 '영토 한 뼘도 양보 없다'는 우크라이나의 원칙이 협상 테이블에서 흔들리고 있다. 유럽이 단일 전선을 형성한 것은 미국이 주도하는 협상에서 발언권을 확보하려는 움직임으로 해석된다.",
+        "connection": "러시아군 사상자 45만 명 유출 문서, 우크라이나의 자체 군용 위성망 구축, 러시아 사마라 석유 시설 드론 타격이 모두 협상 타이밍과 맞물려 전개되고 있다.",
+        "signal": "냉전 이후 처음으로 강대국이 주도하는 영토 재분배 협상이 가시화되는 순간이다. 이 협상 구도가 굳어지면 다른 분쟁 지역의 해결 방식에도 선례가 될 수 있다.",
+        "what_to_watch": "미국 측의 공식 확인 또는 부인, 우크라이나 국민투표 가능성, 러시아의 추가 협상 조건, 유럽 단일 대표단의 첫 접촉 결과"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "우크라이나 입장에서는 주권 훼손, 러시아 입장에서는 전쟁 목표 달성, 미국 입장에서는 전쟁 출구 전략이라는 세 가지 서로 다른 프레임이 충돌하고 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "우크라이나 국민의 압도적 다수는 영토 양보를 반대하고 있어, 협상 성사를 위해서는 국민 설득이라는 근본적 과제가 남는다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
+          "region": "North America"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "엔비디아 젠슨 황 사임이 CEO 승계 공백을 넘어 AI 산업 전체의 구조적 위기로 번지고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "젠슨 황 CEO가 사임하고 CFO 콜레트 크레스가 임시 CEO를 맡았다. Arm CEO에게 접촉했다는 보도가 나왔지만 공식 후보는 없으며, 주가는 2012년 이후 가장 긴 연속 하락을 기록해 시가총액이 약 1.7조 달러 감소했다. 의회는 공화당·민주당 양측에서 각각 중국 칩 유출과 행정부 거래 의혹을 이유로 조사를 착수했다.",
+        "why_it_matters": "엔비디아는 현재 AI 반도체 시장의 80% 이상을 점유하며 사실상 AI 인프라의 단일 공급자 역할을 하고 있다. 창업자 겸 비전가의 갑작스러운 이탈은 단순한 기업 거버넌스 문제를 넘어 글로벌 AI 투자와 개발 일정 전반에 영향을 준다.",
+        "what_is_changing": "기존에는 엔비디아가 AI 붐의 수혜자였다면, 이제는 AI 붐 자체의 지속 가능성에 의문을 제기하는 리스크 요인이 됐다. 중국 주요 AI 모델이 수출 금지 칩으로 학습됐다는 연구 결과는 수출 통제 체계 전반의 실효성 문제를 함께 부상시켰다.",
+        "connection": "미·중 반도체 경쟁, 미국 상무부 산업안보국(BIS)의 집행 역량, AI 스타트업 생태계의 자금 조달 구조, 오픈소스 AI 생태계 지원 여부가 모두 이 사건과 연결된다.",
+        "signal": "AI 산업이 기술 경쟁에서 지정학·기업 거버넌스·안보 복합 위기로 성격이 바뀌는 전환점이다. 단일 기업과 개인에 대한 의존도가 얼마나 위험한지를 보여주는 사례가 될 수 있다.",
+        "what_to_watch": "후임 CEO 공식 발표, 의회 청문회 소환 여부와 증언 내용, 중국 칩 유출 조사 결과, 엔비디아 주가의 기술적 저점 형성 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Business View",
+          "summary": "투자자들은 창업자 프리미엄이 사라진 엔비디아의 적정 가치를 재산정하고 있으며, AI 인프라 투자가 대안 공급업체로 분산될 수 있다는 기대와 불안이 교차하고 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "공화당은 국가안보 위협, 민주당은 행정부와의 불투명한 거래를 각각 조사 명분으로 삼아 양당 모두 엔비디아를 정치적 무기로 활용하고 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "젠슨 황이 직접 주도하던 오픈소스 AI 지원 기조와 스타트업 생태계 연결망이 후임 체제에서 유지될지 불확실하며, 이는 AI 혁신 속도에 직접 영향을 줄 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+          "region": "미국"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476",
+          "region": "Oceania"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "region": "미국"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang",
+          "region": "Europe"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "region": "미국"
+        }
+      ]
+    },
+    {
+      "headline": "마이크로소프트 24시간 장애 복구 후 피싱 공격과 윈도우 제로데이 공개까지—디지털 취약성의 연쇄 반응이 시작됐다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "마이크로소프트 Teams·Outlook·Copilot 등이 24시간 이상 중단돼 병원·정부·금융 기관이 마비됐다. 회사는 서버 상태 점검 실패를 원인으로 밝히고 사이버 공격 가능성은 배제했다. 복구 직후 공식 알림을 사칭한 피싱 메일이 확산됐고, 별도로 불만을 품은 연구자가 윈도우 시스템 최고 권한을 탈취할 수 있는 미공개 제로데이 취약점을 공개했다.",
+        "why_it_matters": "한 클라우드 공급업체의 장애가 의료 서비스, 항공, 사법, 교육을 동시에 마비시킨 사건은 디지털 인프라의 단일 장애점 문제를 국가 안보 수준에서 재조명하게 만든다. 호주는 이를 계기로 미국 빅테크 클라우드 의존 축소 논의를 공식화했다.",
+        "what_is_changing": "클라우드 서비스 중단을 단순 IT 사고로 보는 시각에서, 사회 필수 인프라의 주권 문제로 보는 시각으로 프레임이 이동하고 있다. 복수 클라우드 분산 의무화 논의가 여러 국가에서 동시에 나오고 있다.",
+        "connection": "같은 날 발생한 미국 FAA 전국 운항 중지와 연관성이 의심됐으나 미국 국토안보부는 공식 부인했다. 그럼에도 두 사건이 같은 날 겹친 것은 디지털·물리 인프라의 복합 취약성에 대한 경각심을 높였다.",
+        "signal": "2024년 CrowdStrike 사태와 함께 단일 공급업체 의존의 시스템 위험이 반복 확인되면서, 디지털 주권과 클라우드 다각화가 각국 정책 의제에 오르는 속도가 빨라질 것이다.",
+        "what_to_watch": "마이크로소프트의 근본 원인 분석 보고서 공개, 각국 정부의 클라우드 다각화 정책 발표, 윈도우 제로데이 패치 일정, 피싱 피해 규모 집계"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "장애 복구보다 그 이후의 사이버 공격 증가가 더 큰 위협일 수 있으며, 취약점 공개와 피싱 확산이 맞물린 것은 보안 생태계의 연쇄 반응을 보여준다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "국가 필수 서비스가 외국 민간 기업의 인프라에 종속된 상황에 대한 각국 정부의 디지털 주권 논쟁이 본격화될 계기가 됐다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+          "region": "미국"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-14/microsoft-outage-and-cloud-providers-tech-risk-in-australia/107383316",
+          "region": "Oceania"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+          "region": "미국"
+        },
+        {
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-has-an-email-warning-for-its-outlook-and-teams-users-after-24-hour-plus-outage-says-do-not-/articleshow/135829069.cms",
+          "region": "India"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
