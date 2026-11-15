@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-16",
+  "session": "am",
+  "time": "08:28",
+  "global_picture": {
+    "world_right_now": [
+      "엔비디아 CEO 사임과 AI 칩 중국 유출 의혹이 겹치며 미국 반도체 패권의 취약성이 한꺼번에 노출됐다",
+      "예멘 후티가 밥엘만데브 해협을 완전 장악하고 아덴 60km 앞까지 진격하면서 홍해 해상 질서가 재편되고 있다",
+      "이란이 바레인 미군 기지를 사흘 새 두 차례 드론으로 공격하며 걸프 위기가 반복 충돌 패턴으로 고착화됐다",
+      "미국 FAA의 전국 항공편 중단 사태가 사흘째 이어지며 노후 인프라의 현실이 드러났다",
+      "우크라이나가 스타실드 속도 제한으로 겨울철 에너지 방어가 무너지고 있다고 공개 경고했다",
+      "에스토니아가 드론 공장 방화를 러시아 GRU 소행으로 지목하고 국경 검문소를 전면 폐쇄하기로 결정했다",
+      "체코에서 수십만 명이 공영방송 수신료 폐지에 반대하는 대규모 집회를 열어 언론 독립성 논쟁이 유럽으로 확산됐다",
+      "스페인 카나리아 제도에 48시간 만에 2,200명의 이주민이 도착해 비상사태가 선포됐다",
+      "스페이스X 스타십이 발사대 포획 팔 회수에 성공하는 동안 ULA 벌컨은 첫 완전 임무 실패를 기록했다",
+      "콩고민주공화국 에볼라 발병이 아직 통제되지 않았으며 역대 최악이 될 수 있다는 아프리카 CDC 경고가 나왔다"
+    ],
+    "emerging_signals": [
+      "체내 직접 유전자 편집 CRISPR 치료제가 FDA 첫 승인을 앞두고 있어 치료 의학의 패러다임 전환이 임박했다",
+      "독일 보수 정치권이 AI발 일자리 충격에 대응해 기본소득을 언급하기 시작했다",
+      "싱가포르가 500톤 규모 금 보관 허브를 열며 지정학 리스크 속 금융 안전지대 경쟁이 가시화됐다",
+      "한국에서 AI 부정행위로 국가고시 수석이 사임하면서 시험 공정성 위기가 현실화됐다",
+      "중국이 10톤급 전동 상업용 항공기 유인 비행에 성공하며 전기 항공기 경쟁이 본격화됐다"
+    ],
+    "structural_trends": [
+      "이란 전쟁 여파로 아시아 전역에서 재생에너지와 원전 확대가 에너지 안보 우선순위로 급부상하고 있다",
+      "AI 칩 수출 규제가 반복적으로 우회되면서 기술 패권 경쟁이 규제 체계의 한계를 드러내고 있다",
+      "민간 위성 통신이 현대 전쟁의 핵심 인프라로 자리잡으면서 기업과 국가 안보의 경계가 무너지고 있다",
+      "남중국해·홍해·호르무즈 해협에서 동시다발적으로 해상 통제권 분쟁이 격화되며 글로벌 공급망의 지정학적 취약성이 커지고 있다",
+      "미국 국내선 항공·클라우드 서비스 등 핵심 디지털 인프라의 노후화와 단일 장애 취약성이 잇따라 확인됐다"
+    ],
+    "what_changed_today": [
+      "어제 예고됐던 트럼프·시진핑 양자 회담이 푸틴 참석 3자 정상회담 구도와 겹치며 의제와 파장이 한층 복잡해졌다",
+      "이란-바레인 충돌이 어제 보도된 반복 패턴에서 이란이 협상 경로 유지를 강조하는 양면 전략으로 선회하는 신호가 나타났다",
+      "우크라이나 스타실드 문제가 어제 경보 수준에서 오늘 겨울 에너지 인프라 방어 실패 주장으로 구체화됐다"
+    ],
+    "what_to_watch_next": [
+      "트럼프·시진핑·푸틴 3자 정상회담 결과와 군사 위기 소통 MOU 최종 타결 여부",
+      "엔비디아 이사회의 차기 CEO 선임 방향과 젠슨 황 복귀 가능성",
+      "후티의 아덴 추가 진격 여부와 국제사회의 홍해 대응 방식",
+      "스페인 카나리아 비상사태 선포 이후 EU 차원의 이주 대응 협의 개시 여부",
+      "에스토니아 국경 폐쇄에 대한 러시아의 반응과 NATO의 대응 조율",
+      "콩고민주공화국 에볼라 추가 확산 규모와 WHO·아프리카 CDC 긴급 개입 여부",
+      "미국 FAA 항공 관제 시스템 현대화를 위한 의회 예산 승인 논의 착수 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "엔비디아 CEO 사임과 AI 칩 중국 유출 의혹이 겹치며 미국 반도체 패권의 허점이 동시에 폭발했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "젠슨 황 엔비디아 CEO가 사임한 가운데, 중국 국적 여성이 CEO에 접근한 첩보 의혹과 AI 칩의 대중국 우회 수출 혐의(Megaspeed 사건)가 동시에 불거졌다. 미 재무장관은 엔비디아가 외부에서 CEO를 찾아야 한다고 공개 요구했고, 이사회에 10일 내 수출 규제 준수 문화에 관한 답변을 요구했다. 황젠슨 복귀 청원에는 13만 명 이상이 서명했으며, 일론 머스크도 복귀를 지지했다.",
+        "why_it_matters": "엔비디아는 현재 AI 가속 칩 시장의 약 80%를 점유하며 미국 AI 패권의 핵심 축이다. 리더십 불안과 함께 수출 규제 우회 의혹이 겹치면 미국의 대중 기술 봉쇄 전략 전반의 신뢰가 흔들린다.",
+        "what_is_changing": "과거에는 반도체 수출 규제가 주로 정책·입법 논쟁이었지만, 이번 사건은 최고위 임원진의 보안 취약성과 기업 내부 컴플라이언스 실패라는 차원으로 전환됐다. 정부가 직접 기업 경영진 교체에 개입하는 전례 없는 압박 양상이 나타나고 있다.",
+        "connection": "유럽 AI 투자자들은 엔비디아 불안이 자국 AI 계획의 칩 조달 불확실성을 키운다고 우려한다. 아시아 각국 정부도 반도체 공급망 대안 모색을 가속화하고 있다.",
+        "signal": "민간 기업 안보 취약성이 국가 기술 경쟁의 최전선이 되는 시대로의 전환 신호다.",
+        "what_to_watch": "이사회의 CEO 선임 방향, 황젠슨 복귀 가능성, Megaspeed 수사 결과, 미 의회의 추가 수출 규제 입법 움직임"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "행정부가 기업 CEO 교체에 공개 압박을 가하는 것은 국가안보를 명분으로 민간 경영에 개입하는 전례를 만든다. 수출 규제 우회 사건은 양당의 대중 강경 기조를 더욱 강화할 소재를 제공한다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "13만 명 이상의 복귀 청원은 창업자의 비전과 관계망이 기업 가치의 핵심임을 반영하지만, 동시에 CEO 개인 의존도가 지나치게 높다는 거버넌스 취약성을 드러낸다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "규제 대상 칩이 중국 최고 AI 모델 학습에 사용됐다는 연구 결과는 수출 통제의 기술적 집행 한계를 보여준다. 소프트웨어·클라우드 접근을 제어하는 보완 수단이 없으면 하드웨어 규제만으로 기술 확산을 막기 어렵다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+          "region": "미국"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+          "region": "미국"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+          "region": "미국"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens",
+          "region": "유럽"
+        },
+        {
+          "source": "Economic Times (India)",
+          "link": "https://economictimes.indiatimes.com/tech/technology/us-lawmakers-push-for-tighter-ai-chip-export-rules-after-nvidia-controversy-report/articleshow/135857081.cms",
+          "region": "인도"
+        }
+      ]
+    },
+    {
+      "headline": "후티가 밥엘만데브 해협을 장악하고 아덴을 압박하면서 홍해가 새로운 지정학 단층선이 됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "예멘 사우디 지원 정부군이 밥엘만데브 해협에서 철수하면서 해협 전체가 후티 반군의 실질적 통제 아래 들어갔다. 후티는 임시 수도 아덴에서 60km 거리까지 진격했으며, 정부군은 해협 병력을 아덴 방어를 위해 재배치하고 있다.",
+        "why_it_matters": "밥엘만데브는 연간 약 2,100만 배럴의 석유와 수억 톤의 화물이 통과하는 세계 5대 해상 초크포인트다. 후티의 완전 장악은 홍해 항로의 보험료·운임 급등과 선박 우회 비용 증가로 이어질 수 있다.",
+        "what_is_changing": "기존에는 정부군이 해협 일부를 유지하며 세력 균형을 형성했지만, 이제 후티가 아덴만과 홍해 입구를 단독 통제하는 구조로 바뀌었다. 이란의 지역 영향력이 해상 통제권 형태로 처음 물질화됐다.",
+        "connection": "이란이 바레인 미군 기지를 드론으로 공격하는 동시에 대리세력인 후티를 통해 홍해 출구를 장악하는 이중 압박 구도가 형성됐다. 글로벌 해운과 에너지 가격에 직결된다.",
+        "signal": "이란의 지역 전략이 직접 군사 행동에서 대리세력을 통한 지리적 거점 장악으로 전환하고 있다는 신호다.",
+        "what_to_watch": "후티의 아덴 추가 진격 여부, 미국·사우디 등 국제사회의 해상 보호 대응, 홍해 선박 운임·보험료 변동"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "세계 해상 무역의 주요 통로가 적대 세력의 통제 아래 들어가면 선박 보험료 급등과 아시아·유럽 간 운임 상승이 뒤따른다. 이미 이란 전쟁 이후 오른 운임에 추가 압력이 가해지는 형국이다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "이란 전쟁이 교착 상태에 빠진 상황에서 후티가 홍해 초크포인트를 장악한 것은 이란 연계 세력의 지역 영향력이 오히려 확대됐음을 보여준다. 트럼프 행정부의 대이란 전략이 성과를 내지 못하고 있다는 비판 소재다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/11/15/world-news/major-red-sea-strait-falls-under-full-houthi-control-as-yemeni-forces-retreat/",
+          "region": "미국"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+          "region": "유럽"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
+          "region": "중동"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
+          "region": "인도"
+        }
+      ]
+    },
+    {
+      "headline": "우크라이나가 스타실드 속도 제한으로 겨울철 에너지 방어가 뚫렸다고 공개 경고하면서 민간 기업이 전쟁의 결정적 변수가 됐다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "젤렌스키 대통령은 SpaceX의 스타실드 위성통신 시스템에 걸린 속도 제한이 러시아 드론 요격 능력을 저하시키고, 그 결과 에너지·철도 인프라 공격을 막지 못했다고 밝혔다. 러시아는 겨울마다 전력망을 집중 타격해 왔으며, 이번 겨울이 특히 위험하다는 경고도 함께 나왔다.",
+        "why_it_matters": "한 민간 기업의 위성 서비스 제한 여부가 전장의 방어 능력을 직접 결정하는 상황이 됐다. 이는 현대전에서 민간 디지털 인프라 기업이 사실상 준군사적 행위자임을 의미한다.",
+        "what_is_changing": "과거에는 무기·탄약 공급이 전쟁의 핵심 외부 변수였지만, 이제 위성 인터넷 접속 대역폭이 방어 능력의 병목이 됐다. 민간 기업이 국가 안보 의사결정에 준하는 영향력을 갖게 된 전례 없는 구조다.",
+        "connection": "일론 머스크는 엔비디아 스캔들에서도 황젠슨 복귀 청원을 지지하는 등 미국 기술 거버넌스 전반의 핵심 행위자로 등장하고 있다. 스타실드 제한은 단순한 사업 결정이 아니라 미국 외교정책과 연동된 선택으로 해석된다.",
+        "signal": "민간 위성 기업이 전쟁 수행 여부에 거부권에 가까운 영향력을 행사하는 새로운 국제 안보 구조의 초기 신호다.",
+        "what_to_watch": "미국 행정부의 스타실드 제한 해제 결정 여부, 러시아의 겨울철 에너지 공격 강도, NATO 차원의 위성통신 대안 마련 논의"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "민간 기업이 동맹국에 대한 군사 지원의 핵심 채널을 통제하는 상황은 국가 외교정책과 민간 기업 결정의 경계를 무너뜨린다. 의회 차원의 감독 필요성 논의가 커질 수 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "위성 인터넷의 군사적 의존도가 임계점을 넘어섰다. 단일 민간 플랫폼에 대한 의존은 군사 운용상 단일 장애점을 만들며, 대안 위성 네트워크 확보가 NATO의 새 과제가 됐다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3374516/zelensky-says-starshield-restrictions-threaten-ukraines-energy-defences-ahead-winter",
+          "region": "홍콩"
+        },
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/world/ukraine-russia-energy-winter-zelenskyy-musk-spacex-starshield-9.7422871?cmp=rss",
+          "region": "캐나다"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf",
+          "region": "유럽"
+        }
+      ]
+    },
+    {
+      "headline": "미국 전국 항공편 사흘째 혼란—노후 관제 인프라의 단일 장애 취약성이 세계 최대 항공 시장을 멈췄다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "FAA가 아칸소 소재 라우터 결함과 L3해리스가 관리하는 구형 통신 시스템 문제로 역사상 세 번째 전국 단위 항공 출발 중단 명령을 내렸다. 금요일부터 주말까지 총 1만 6,000편 이상이 취소됐고, 교통부 장관과 FAA 청장의 원인 설명이 엇갈렸다. 트럼프 대통령은 바이든 행정부로 책임을 돌리며 의회에 관제 시스템 현대화 예산을 요구했다.",
+        "why_it_matters": "미국은 하루 약 4만 5,000편이 운항하는 세계 최대 항공 시장이다. 단일 장비 결함이 전국 시스템을 멈출 수 있다는 사실은 항공 인프라의 구조적 취약성을 드러낸다.",
+        "what_is_changing": "과거 항공 사고는 기상이나 개별 운항 오류가 중심이었지만, 이제 디지털 통신 인프라 노후화가 국가 단위 교통망을 순식간에 마비시키는 새로운 취약점으로 부상했다.",
+        "connection": "같은 시기 Microsoft 글로벌 서비스 장애로 70여 개국에서 Outlook·Teams가 중단됐다. 항공과 IT 인프라의 동시 장애는 디지털 의존 사회의 집중 취약성을 반복 확인시킨다.",
+        "signal": "민간 계약업체가 관리하는 노후 공공 인프라의 단일 장애 위험이 국가 안보 수준의 문제로 격상되고 있다.",
+        "what_to_watch": "FAA 근본 원인 조사 결과, 의회 관제 시스템 현대화 예산 협상, 유사 사태 재발 방지를 위한 계약 구조 개혁 논의"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "행정부는 책임을 전임 정권에 돌리지만, 계약 구조와 예산 우선순위는 양당 모두 수십 년간 방치한 결과다. 중간선거 이후 의회에서 인프라 현대화 예산 협상이 쟁점으로 떠오를 것이다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "항공편 1만 6,000편 취소는 항공사·공항·관련 서비스 업계에 수억 달러 손실을 의미한다. 더 큰 문제는 반복 위험이 항공 운임과 보험 비용 상승으로 이어질 수 있다는 점이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "region": "미국"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-rdf",
+          "region": "유럽"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+          "region": "미국"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3374509/trump-breaks-silence-us-ground-stop-demands-more-money-congress",
+          "region": "홍콩"
+        }
+      ]
+    }
+  ]
+}
