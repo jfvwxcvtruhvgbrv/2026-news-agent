@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-17",
+  "session": "am",
+  "time": "01:49",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프·시진핑·푸틴 3자 정상회담이 선전에서 사상 처음 열리며 냉전 이후 최대 강대국 외교 재편 신호를 보내고 있다",
+      "우크라이나가 전쟁 최대 규모 드론 공세를 감행했고 프랑스군 비밀 배치 보도까지 나오며 유럽 전쟁의 성격이 변하고 있다",
+      "엔비디아 CEO 사임 후폭풍이 미국의 AI 반도체 수출통제 허점·기업 지배구조·미중 기술 갈등을 동시에 폭발시키고 있다",
+      "COP31 협상 초안이 화석연료 즉각 퇴출과 1200억 달러 기후재원을 요구하고 있으나 선진국과 개도국 간 합의 도출이 난항이다",
+      "EU 5개국이 르완다에 이주민 송환 허브 설치를 발표하며 유럽 이민 정책이 역외화·강경화의 새 단계로 진입했다",
+      "이란이 IAEA 핵시설 접근을 전면 차단하며 중동 핵 위기가 새로운 국면으로 접어들었다",
+      "후티 반군이 밥엘만데브 해협을 압박하며 아덴 방향으로 진격하고 있어 홍해 에너지 항로 위협이 고조되고 있다",
+      "마닐라 아세안 정상회의에서 중국·한국·인도가 AI 협력을 경쟁적으로 제안하며 동남아가 기술 패권 경쟁의 새 각축장이 됐다",
+      "미국 FAA가 역사상 세 번째 전국 운항 중단을 발령하며 노후 인프라의 구조적 취약성이 다시 드러났다",
+      "2026년 엘니뇨가 1997~98년 역대급을 넘어설 수 있다는 NASA 경고가 나오며 기후 재난의 규모가 한 단계 올라설 가능성이 제기됐다"
+    ],
+    "emerging_signals": [
+      "IMF가 AI 순환 금융 1조 달러 돌파·3분의 2가 부채라고 경고하며 AI 투자 거품 붕괴 가능성이 처음으로 국제 금융 기관 의제에 올랐다",
+      "에스토니아 드론 공장 방화 미수와 러시아 배후 지목은 NATO 동부 측면에서 하이브리드 전쟁이 새 단계로 진입했음을 시사한다",
+      "미국 대학 외국인 유학생 급감이 미국 과학 연구 인력 기반을 조용히 侵식하고 있다",
+      "영국 Ofcom과 EU 국가들의 플랫폼 규제 강화가 빅테크에 대한 형사 책임 부과라는 새로운 규제 국면을 예고하고 있다",
+      "아프리카 에볼라 유행이 6개월째 통제 불능 상태로 감시 체계 붕괴와 자금 삭감이 복합 위기를 만들고 있다",
+      "Anthropic IPO가 침체된 AI 투자 심리의 반전 계기가 될지 주목된다"
+    ],
+    "structural_trends": [
+      "AI 반도체 패권이 모델 경쟁에서 수출통제·기업 지배구조·외교 협상의 복합 전장으로 이동하고 있다",
+      "유럽 이민 정책이 역내 처리에서 아프리카 역외 위탁으로 체계적으로 전환되고 있다",
+      "우크라이나 전쟁이 드론 대량 소모전·나토 회원국 비공개 직접 개입으로 성격이 변하고 있다",
+      "COP 협상에서 기후 금융이 감축 목표보다 더 큰 쟁점으로 부상하며 글로벌 남북 갈등의 핵심축이 되고 있다",
+      "강대국 외교가 다자 국제기구를 우회한 양·3자 정상 직접 협상 체제로 재편되고 있다",
+      "GLP-1 비만 치료제 시장이 중국 경쟁자 등장으로 가격·접근성 혁명의 전환점에 가까워지고 있다"
+    ],
+    "what_changed_today": [
+      "엔비디아 사태가 CEO 개인 스캔들을 넘어 미국 상무장관 블랙리스트 보류 논란과 AI 칩 수출통제 임시 규칙 발표로 국가 정책 충돌로 격상됐다",
+      "트럼프·시진핑·푸틴 3자 회담이 중국 측이 '획기적 의미'를 공식 선언하며 불확실한 가능성에서 확정 일정으로 전환됐다",
+      "우크라이나가 전쟁 최대 규모 드론 공격을 실행하며 크림대교가 피격됐고 러시아는 1336대 요격을 주장했다",
+      "프랑스군 우크라이나 비밀 배치가 단순 훈련 지원을 넘어 수개월째 현지 작전 임무였음이 보도됐다",
+      "미국이 원격 컴퓨팅 접근까지 막는 AI 칩 수출통제 임시 규칙을 새로 발표했다",
+      "FAA 운항 중단이 항공편 혼란 단계에서 트럼프가 관제 시스템 개편 추가 예산 필요성을 공식 언급하는 정책 국면으로 전환됐다"
+    ],
+    "what_to_watch_next": [
+      "트럼프·시진핑·푸틴 선전 3자 회담 실제 성사 여부와 우크라이나·핵·무역 의제에서 나올 구체적 합의문",
+      "김정은과의 회동 성사 여부—트럼프가 '시진핑 결정에 달렸다'고 밝힌 만큼 중국의 중재 역할이 관건",
+      "COP31 마감 전 화석연료 퇴출 문구와 기후재원 규모에 대한 최종 합의 여부",
+      "엔비디아 주가와 임시 CEO 체제 안정화, 그리고 젠슨 황 복귀 가능성에 대한 이사회 공식 입장",
+      "이란 IAEA 접근 차단 이후 미국·EU의 대응 조치와 중동 외교 방정식 변화",
+      "에스토니아 국경 폐쇄 이후 러시아의 대응과 NATO 발트해 긴장 수위 변화",
+      "EU 르완다 송환 허브에 대한 유럽 사법재판소의 법적 도전 가능성"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "트럼프·시진핑·푸틴 선전 3자 회담, 냉전 이후 최대 강대국 외교 재편의 시험대",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "중국 정부가 트럼프·시진핑·푸틴 세 정상의 선전 회담을 공식 확인하며 '획기적 의미'가 있다고 선언했다. 트럼프는 북한 김정은과의 회동 가능성도 언급했으나 이는 시진핑의 중재 여부에 달려 있다고 덧붙였다. 우크라이나 전쟁, 핵 비확산, 중동 위기, 무역 등이 의제로 거론된다.",
+        "why_it_matters": "미국·중국·러시아 세 핵강국 정상이 동시에 한 자리에 모이는 것은 제2차 세계대전 이후 사실상 처음 있는 일로, 국제질서의 판 자체를 재설정할 수 있는 계기다. 중간선거 패배 이후 트럼프가 국내 정치적 돌파구를 대외 정상외교에서 찾으려 한다는 해석도 나온다.",
+        "what_is_changing": "기존 다자 국제기구(유엔, G7, G20)를 통한 협상 대신 세 정상의 직접 담판이 국제 의제를 주도하는 구조로 이행 중이다. 유럽과 중간 국가들은 이 협상에서 배제된 채 결과를 수용해야 하는 위치에 놓일 수 있다.",
+        "connection": "호주 앨버니지 총리는 인도-태평양 개입 유지와 이란·우크라이나 전쟁 종결 사이에서 줄타기 중이다. 필리핀 아세안 회의에서 쿼드 정상들도 별도로 움직이고 있어 복수의 외교 채널이 동시에 가동 중이다.",
+        "signal": "강대국 외교가 규칙 기반 국제질서를 대체하는 거래 외교로 가속화되는 구조적 신호다.",
+        "what_to_watch": "회담 직후 발표될 공동문서의 존재 여부, 우크라이나 휴전안의 구체적 조건, 김정은 회동 성사 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "중국은 미국과 러시아를 동시에 협상 테이블에 올림으로써 세계 평화의 중재자이자 주도자 이미지를 구축한다. 트럼프는 외교 성과로 중간선거 패배를 만회하려 하며, 푸틴은 국제 고립에서 벗어나는 정상화 기회를 얻는다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "무역 의제가 포함된다면 엔비디아 반도체 갈등, 관세 협상이 회담 결과에 직접 연동될 수 있어 글로벌 공급망과 금융시장에 즉각적 파급이 예상된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+          "region": "Europe"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+          "region": "USA"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/us/article/3374640/trump-floats-kim-meeting-china-says-hell-discuss-ukraine-xi-and-putin",
+          "region": "China"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/china-says-xi-putin-trump-meeting-has-groundbreaking-significance",
+          "region": "Southeast Asia"
+        }
+      ]
+    },
+    {
+      "headline": "엔비디아 CEO 사임이 미국 AI 반도체 수출통제 체계의 허점을 국가 정책 충돌로 격상시켰다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "젠슨 황 사임 이후 미국 상무부가 중국 데이터센터 우회 접근까지 막는 AI 칩 수출통제 임시 규칙을 발표했다. 하워드 루트닉 상무장관이 칩 밀수 의혹 업체 블랙리스트 등재를 보류한 것에 대해 트럼프는 대중 관계를 이유로 옹호했다. 복귀 청원에는 머스크 등 17만 명 이상이 서명했고 주가는 3거래일 연속 하락했다.",
+        "why_it_matters": "세계 AI 인프라를 사실상 지탱하는 기업의 리더십 공백이 미국의 반도체 패권 전략과 정면으로 충돌하고 있다. 국가 안보, 기업 지배구조, 외교 협상이 한 사건 안에서 뒤엉킨 전례 없는 복합 위기다.",
+        "what_is_changing": "반도체 수출통제가 하드웨어 판매 제한을 넘어 원격 컴퓨팅 서비스 접근까지 차단하는 방향으로 진화하고 있다. AI 칩이 단순 상품이 아니라 외교 협상의 핵심 카드로 편입됐다.",
+        "connection": "싱가포르 메가스피드 조사, 캐나다의 미국 협상 결렬 시 중국 자동차 협력 전환 가능성 언급 등과 연결되며 미국의 기술 동맹 관리 능력이 시험대에 올랐다.",
+        "signal": "AI 반도체 경쟁이 모델 성능 싸움에서 공급망 통제·기업 지배구조·외교 압박이 복합된 전장으로 이동하는 구조적 전환점이다.",
+        "what_to_watch": "젠슨 황 복귀에 대한 엔비디아 이사회 공식 결정, 임시 규칙의 최종 규정 전환 여부, 선전 회담에서 반도체 의제가 어떻게 다뤄질지"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "세계 AI 훈련 인프라의 80% 이상을 쥔 기업의 CEO가 공백 상태이고, 대체 경영진이 위험도 높은 AI 투자와 국가 조사를 동시에 떠안은 상황은 글로벌 AI 개발 속도 자체를 늦출 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "미국 정부 내에서도 국가안보파와 대중 관계 완화파의 이견이 엔비디아 사태를 통해 공개적으로 충돌하고 있다. 트럼프가 루트닉을 옹호한 것은 선전 정상회담 전 중국에 유화 신호를 보낸 것으로도 읽힌다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "IMF가 경고한 AI 순환 금융 1조 달러·3분의 2 부채 구조와 엔비디아 주가 하락이 겹치며 AI 투자 심리 전반이 흔들리는 임계점에 가까워지고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+          "region": "North America"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+          "region": "USA"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+          "region": "USA"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "우크라이나 전쟁 최대 드론 공세와 프랑스군 비밀 배치—전쟁의 성격이 바뀌고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우크라이나가 전쟁 개시 이후 최대 규모 드론 공격을 감행했으며 크림대교가 피격됐고 러시아는 1336대 요격을 주장했다. 같은 날 프랑스 공영 RFI는 프랑스군이 2026년 여름 이후 비밀 임무로 우크라이나에 배치돼 훈련과 장비 정비를 지원하고 있다고 보도했다. EU 외교수장 카자 칼라스는 러시아가 겨울 발전소 공격으로 전쟁을 연장하고 있다고 비판했다.",
+        "why_it_matters": "나토 회원국 군인이 비공개로 교전 지역에 존재한다는 사실이 확인될 경우 전쟁의 법적·정치적 성격이 근본적으로 달라진다. 드론 대량 소모전은 이미 전통적 지상 작전을 대체하는 새로운 전쟁 양식으로 굳어지고 있다.",
+        "what_is_changing": "유럽이 '지원' 단계에서 '비공개 직접 개입' 단계로 조용히 이행하고 있다. 동시에 에스토니아 드론 공장 방화 미수와 러시아 배후 지목은 하이브리드 전쟁이 나토 영토로 번지고 있음을 보여준다.",
+        "connection": "선전 3자 정상회담 의제로 우크라이나 휴전이 올라있어, 전장 상황과 외교 협상이 동시에 움직이는 구조다. EU 가스 저장량이 수십 년 만의 최저 수준이어서 겨울 에너지 압박이 협상 타이밍에 영향을 준다.",
+        "signal": "전쟁이 나토-러시아 직접 충돌의 모호한 경계를 조금씩 넘어가고 있다는 초기 신호다.",
+        "what_to_watch": "프랑스 정부의 공식 확인 또는 부인, 에스토니아 국경 폐쇄 이후 나토의 집단 대응 여부, 선전 회담 이후 휴전 협상 구체화"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "프랑스의 비밀 배치가 공식화될 경우 나토 내 직접 개입 의사를 가진 국가와 그렇지 않은 국가 사이의 균열이 표면화될 수 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "1회 공격에 2000기 이상의 드론을 동원하는 대량 소모전은 드론 생산 능력과 AI 항법 기술이 전쟁의 핵심 변수임을 증명한다. 제네바 CCW의 AI 무기 규제 논의가 얼마나 현실과 괴리됐는지도 드러난다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261116-french-troops-deployed-in-ukraine-on-secret-mission",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war",
+          "region": "Middle East"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "COP31 초안이 화석연료 즉각 퇴출을 요구하지만 기후 금융 갈등이 합의를 가로막고 있다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "튀르키예에서 열리는 COP31의 협상 초안은 화석연료 즉각 전환과 최소 1200억 달러의 기후 금융 지원을 담았다. 그러나 2035년 전력 비중 35% 목표에 24개국이 반대했고, 선진국들은 미국의 기후 자금 철회와 전쟁으로 인한 국방비 증가를 이유로 소극적이다. 캐나다는 메탄 감축 리더를 자처하면서도 앨버타 오일샌드 배출 문제로 국제 신뢰성을 잃고 있다.",
+        "why_it_matters": "기후 협상에서 감축 목표보다 '누가 돈을 낼 것인가'가 더 큰 쟁점이 된 것은 글로벌 남북 불평등이 기후 위기 대응의 핵심 장애물이 됐음을 의미한다. 2026년은 화재·폭염·홍수로 수만 명이 사망한 기록적 극한 기상의 해였다.",
+        "what_is_changing": "기후 협상 프레임이 '얼마나 줄일 것인가'에서 '선진국이 개도국 대신 전환 비용을 얼마나 부담할 것인가'로 이동했다. NASA는 2026년 엘니뇨가 역대급을 넘어설 수 있다고 경고하고 있어 협상 압박이 커지고 있다.",
+        "connection": "유럽 가스 저장량이 수십 년 만의 최저를 기록하고 있어 에너지 안보가 기후 정책과 충돌하는 현실이 협상장에도 반영되고 있다. 케냐 등 동아프리카는 역대급 엘니뇨 홍수 경보를 받은 상태다.",
+        "signal": "기후 협상이 선언적 목표 경쟁에서 재정 책임 분담 갈등으로 본격 전환됐다는 구조적 신호다.",
+        "what_to_watch": "마감 전 1200억 달러 기후 재원에 대한 합의 여부, 화석연료 '즉각' 퇴출 문구 유지 가능성, 미국의 최종 입장"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "선진국 입장에서 우크라이나 전쟁으로 국방비가 늘고 미국이 국제 기후 자금을 철회한 상황에서 추가 1200억 달러 약속은 국내 정치적으로 수용하기 어렵다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "개도국은 역사적 배출 책임이 있는 선진국이 전환 비용을 부담해야 한다고 주장하며, 이는 기후 협상을 넘어선 글로벌 경제 정의 논쟁으로 확장되고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/cop31-draft-deal-calls-for-immediate-shift-away-from-fossil-fuels/a-79960705",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece",
+          "region": "India"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/environment/20261116-cop31-deal-draft-foreshadows-difficult-route-to-consensus",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
