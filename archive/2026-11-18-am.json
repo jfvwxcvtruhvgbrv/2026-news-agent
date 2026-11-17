@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-18",
+  "session": "am",
+  "time": "01:45",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프가 마닐라·선전을 순방하며 시진핑·푸틴과의 3자 회담을 추진, 냉전 이후 가장 복잡한 강대국 외교 판이 펼쳐지고 있다",
+      "우크라이나가 케르치 대교를 이틀 연속 타격하고 러시아는 키이우 교량을 공격—전쟁이 상징적 인프라 파괴 국면으로 진입했다",
+      "미국이 반도체 수출 통제를 원격 클라우드 접근까지 확대, AI 패권 경쟁이 물리적 칩에서 디지털 접근권 차단으로 전선이 이동했다",
+      "엔비디아 CEO 공백 속 첫 실적 발표, 젠슨 황 복귀 논쟁과 Megaspeed 조사가 겹치며 AI 반도체 거버넌스가 기업과 국가 차원에서 동시에 흔들린다",
+      "이란이 바레인 미군 기지를 드론으로 공격하고 워싱턴 더티밤 위협 보도가 나오며 미-이란 군사 충돌 위험이 급상승하고 있다",
+      "EU 5개국이 르완다에 이주민 귀환 허브 설치를 발표, 유럽의 역외 이민 처리 모델이 정책 주류로 편입되는 분기점에 섰다",
+      "미국이 26년 만에 홍역 퇴치 지위를 공식 상실, 백신 불신이 공중보건 체계를 되돌릴 수 없는 수준까지 훼손했음을 확인시켰다",
+      "세르비아 학생운동 기반 정당이 의회에 입성해 14년 집권당을 교체, 동유럽에서 시민운동의 선거 정치화가 현실이 됐다",
+      "닛케이225가 AI 붐 둔화로 고점 대비 20% 하락해 약세장 문턱에 도달, 아시아 증시가 AI 버블 조정의 진원지가 될 가능성이 높아졌다",
+      "ASEAN이 역내 전력망 MoU에 서명하고 일본이 에너지 저장 시설 접근권을 제안, 동남아 에너지 블록화 경쟁이 가시화되고 있다"
+    ],
+    "emerging_signals": [
+      "연준 이사 바가 AI 에이전트가 수 분 내 뱅크런을 유발할 수 있다고 경고—자동화 금융 시스템의 안정성 위협이 규제 의제로 부상 중",
+      "앤스로픽 IPO 공모가 상단 초과 가능성—AI 기업 주식시장 편입이 본격화되는 신호",
+      "캐나다가 중국과 관세 완화 합의, 미국 의존도 탈피를 위한 선진국의 대중 접근 재설정 움직임",
+      "AI 웨어러블 기기의 취약순간 악용 우려—개인 감정 데이터 수집 기기에 대한 윤리 규제 논의 임박",
+      "BBC·HSBC 등 178개 주요 기관 웹사이트에 암호화폐 탈취 악성코드 감염 확인—공급망 사이버 공격의 규모가 새로운 국면"
+    ],
+    "structural_trends": [
+      "미국의 반도체 수출 통제가 하드웨어→동남아 경유→클라우드 원격 접근 순으로 단계적으로 전선을 넓히며 중국 AI 고립화를 체계적으로 추진하고 있다",
+      "EU 이민 정책의 역외화—영국 르완다 모델 실패에도 불구하고 유럽 본토 국가들이 같은 경로를 선택하며 국제 난민 보호 체계가 근본적으로 재편되고 있다",
+      "글로벌 클라우드·금융·정부 인프라의 연쇄 장애—디지털 인프라의 단일 취약점이 전 산업을 동시에 마비시킬 수 있음을 반복적으로 확인",
+      "COP31에서 기후 금융 목표는 제시되나 미국·중국·EU의 비참여로 실질 이행 체계가 없는 선언의 반복이 구조화되고 있다",
+      "AI 투자 집중화—Isomorphic Labs 50억 달러, Genesis AI 5억 달러 등 딥테크 메가라운드가 소수 기업으로 자본을 빠르게 집결시키고 있다"
+    ],
+    "what_changed_today": [
+      "트럼프-시진핑-푸틴 3자 회담이 '준비 중'에서 '선전 이동 직전 단계'로 진행, 북한 김정은 APEC 참석 가능성까지 더해져 외교 판의 밀도가 하루 만에 급격히 높아졌다",
+      "우크라이나의 케르치 대교 타격이 단발 공격에서 이틀 연속 공격으로 확대, 러시아 크림반도 보급선 차단 의도가 명확해졌다",
+      "미국 상무부가 대중 반도체 규제를 원격 클라우드 접근까지 확대 발표—어제까지 '논의 중'이던 조치가 실제 규제로 공식화됐다",
+      "미국이 홍역 퇴치 지위를 공식 상실, 어제까지는 임박 경고였으나 오늘 범미보건기구의 공식 판정으로 확정됐다",
+      "이란이 바레인 미군 기지를 실제 드론으로 타격—더티밤 위협 보도가 단순 경고 차원에서 실제 군사 행동과 중첩되며 위기 수위가 올라갔다"
+    ],
+    "what_to_watch_next": [
+      "트럼프-시진핑-푸틴 선전 3자 회담 결과 및 무역·우크라이나 의제 합의 여부 (11월 19일)",
+      "앤스로픽 나스닥 상장 첫날 주가와 AI 기업 가치평가 시장 반응 (11월 19일)",
+      "엔비디아 첫 실적 발표 내용 및 임시 경영진 체제 하 가이던스 (이번 주)",
+      "이란의 추가 군사 행동 여부와 미국의 대이란 군사 대응 범위",
+      "COP31 최종 협상 주차 화석연료·기후 금융 합의 도달 여부",
+      "EU 르완다 귀환 허브 법적 도전 제기 여부와 첫 이송 일정 구체화",
+      "미국 NSA 기밀 통신망 장애 원인 최종 발표 및 사이버 공격 여부 확인"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "트럼프 아시아 순방이 미중러 3자 회담·북미 접촉 가능성까지 겹치며 역대 최고 밀도의 강대국 외교판이 형성되고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 대통령이 마닐라에서 쿼드·ASEAN 정상회의를 소화한 뒤 선전 APEC으로 이동해 시진핑·푸틴과의 3자 회담을 추진하고 있다. 쿼드에서는 핵심 광물 협정과 AI·사이버 협력 이니셔티브가 발표됐고, 트럼프는 김정은과의 회동 가능성도 언급했다. 한편 필리핀 마닐라에서는 수백 명이 반트럼프 시위로 체포되는 충돌이 발생했다.",
+        "why_it_matters": "미중러 3자가 한자리에서 무역·우크라이나·안보 의제를 동시에 다루는 형식은 냉전 이후 전례가 없다. 여기에 북한 카드까지 더해지면 한반도와 중동, 유럽 안보 지형이 단 며칠 안에 재편될 가능성이 있다.",
+        "what_is_changing": "과거 미중 정상회담은 양자 채널로 진행됐지만, 이번에는 러시아가 같은 테이블에 앉는 삼각구도가 만들어진다. 미국 외교가 양자 관리에서 블록 간 거래로 전환되는 신호일 수 있다.",
+        "connection": "쿼드 핵심 광물 협정은 중국의 희토류 공급 지배력을 겨냥한 것으로, 반도체 수출 통제와 함께 미국의 대중 기술·자원 봉쇄 전략과 연동된다. 캐나다가 중국과 관세 완화에 나선 것도 같은 맥락에서 읽힌다.",
+        "signal": "미국이 동맹 관리(쿼드)와 경쟁자와의 거래(미중러)를 동시에 추진하는 이중 트랙 외교가 표준이 되고 있다는 초기 신호다.",
+        "what_to_watch": "11월 19일 선전 3자 회담 결과, 특히 우크라이나 휴전 논의와 무역 합의 여부, 그리고 김정은의 실제 등장 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프가 중간선거 승리 이후 첫 외교 무대에서 '거래의 기술'을 극대화하고 있다. 동맹에게는 쿼드 강화를 약속하면서 동시에 경쟁자와 직접 협상하는 이중 메시지를 보내는 구조다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "무역 합의, 희토류 공급망, 반도체 접근권이 한꺼번에 협상 테이블에 오르면서 아시아 공급망 재편 속도가 회담 결과에 따라 급격히 달라질 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+          "region": "북미"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3374794/trade-deal-rare-earths-and-quad-revival-day-1-trumps-asia-trip",
+          "region": "중국"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila",
+          "region": "Middle East"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/17/japan/politics/quad-leaders-summit-takaichi-trump/",
+          "region": "일본"
+        },
+        {
+          "source": "Yonhap English",
+          "link": "https://en.yna.co.kr/view/AEN20261117010100315",
+          "region": "한국"
+        }
+      ]
+    },
+    {
+      "headline": "우크라이나가 케르치 대교를 이틀 연속 타격하고 러시아는 키이우 교량을 공격—전쟁이 상징적 인프라 파괴 국면으로 진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우크라이나군이 드론과 미사일로 러시아-크림반도 연결 케르치 대교를 이틀 연속 타격해 도로 구간 일부가 붕괴했으며, 젤렌스키 대통령은 이를 '전례 없는 작전'이라 평가했다. 러시아는 대응으로 키이우 주요 교량 두 곳을 공격해 난방·수도 공급에 차질을 빚었다.",
+        "why_it_matters": "케르치 대교는 러시아의 크림반도 군수 보급과 상징적 주권 모두를 대표하는 구조물이다. 연속 타격은 단발성 과시가 아니라 보급선 차단 의도의 작전화를 의미한다.",
+        "what_is_changing": "전쟁이 전선 돌파에서 후방 물류·인프라 타격 경쟁으로 전환되고 있다. 양측이 교량이라는 민간 인프라를 군사 목표로 명시적으로 삼는 국면이 열렸다.",
+        "connection": "러시아의 나토 1997년 이전 복귀 요구, 미중러 선전 회담 추진과 맞물려 전장과 외교 테이블이 동시에 가동되고 있다는 점에서 협상 압박 타이밍 전략으로도 읽힌다.",
+        "signal": "우크라이나가 장거리 정밀 타격 능력을 과시하며 외교 협상에서 군사적 지렛대를 확보하려는 전략이 가시화되고 있다.",
+        "what_to_watch": "러시아의 크림반도 보급 차질 규모, 선전 회담에서 우크라이나 휴전 논의 의제 반영 여부, 러시아 본토 추가 타격 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "젤렌스키는 군사적 성과를 선전 회담 직전에 집중 배치함으로써 협상 테이블에서 우크라이나의 발언권을 높이려는 의도가 엿보인다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "드론·미사일의 복합 정밀 타격이 케르치 대교처럼 견고한 구조물에 반복적 피해를 줄 수 있음이 입증되면서, 현대전에서 인프라 취약성이 군사 전략의 핵심 변수로 부상했다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261117-ukraine-strikes-major-russian-bridge-in-crimea-with-drones-and-missiles",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/russia-ukraine-war",
+          "region": "북미"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3374785/ukraine-damages-russias-crimean-bridge-major-strike",
+          "region": "중국"
+        }
+      ]
+    },
+    {
+      "headline": "미국이 대중 AI 반도체 통제를 원격 클라우드 접근까지 확대—칩 전쟁의 전선이 하드웨어에서 디지털 접근권으로 이동했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국 상무부 산업안보국이 중국의 AI 칩 원격 클라우드 접근을 차단하는 새 규제를 발표했다. 동남아 데이터센터 사업자가 고성능 AI 칩을 구매할 때 별도 라이선스가 필요해졌으며, 싱가포르 기업 Megaspeed의 수출 통제 위반 혐의 조사도 공식화됐다. 중국은 강하게 반발했다.",
+        "why_it_matters": "지금까지의 규제는 물리적 칩 수출을 막는 것이었지만, 이제는 클라우드를 통해 미국 외부에서 미국 칩을 원격으로 사용하는 경로까지 차단한다. 중국 AI 개발자들이 간접 경로로 확보해온 컴퓨팅 자원이 대폭 줄어들게 된다.",
+        "what_is_changing": "규제 대상이 '칩 수출'에서 '컴퓨팅 접근권'으로 확장됐다. 동남아 데이터센터 허브들이 미중 기술 전쟁의 새로운 전장이 됐다.",
+        "connection": "엔비디아 CEO 사임, Megaspeed 조사, 행정부 내 베선트-러트닉 이견이 모두 이 의제와 연동된다. 트럼프 아시아 순방 중 발표된 타이밍은 협상 지렛대 활용 의도로도 해석 가능하다.",
+        "signal": "AI 패권 경쟁이 반도체 제조 단계 통제에서 사용 단계 통제로 이동하는 구조적 전환점이다. 클라우드 주권 개념이 국제 기술 규범의 새 화두가 될 수 있다.",
+        "what_to_watch": "트럼프-시진핑 회담에서 이 규제가 협상 카드로 쓰이는지 여부, 동남아 데이터센터 사업자들의 대응, 중국의 보복 조치 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "클라우드 원격 접근 차단은 AI 개발의 핵심 자원인 컴퓨팅 파워를 지정학적 도구로 만든다. 개방형 인터넷 아키텍처와 국가 안보 논리가 충돌하는 새 국면이다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "동남아 클라우드 허브의 성장 모델이 직접적으로 타격을 받는다. 싱가포르, 말레이시아, 태국 등 데이터센터 투자 유치 전략을 재수립해야 하는 상황이 왔다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "행정부 내 무역 협상파(베선트)와 기술 강경파(러트닉)의 이견이 표면화된 채 규제가 발표됐다. 선전 회담 결과에 따라 규제 강도가 조정될 여지가 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
+          "region": "Europe"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+          "region": "미국"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+          "region": "미국"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate",
+          "region": "Middle East"
+        }
+      ]
+    },
+    {
+      "headline": "엔비디아가 CEO 공백과 국가안보 위원회 신설 속에서 첫 실적 시험대에 오르고, AI 반도체 거버넌스가 기업과 국가 차원에서 동시에 흔들리고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "젠슨 황이 사임 후 첫 공개 입장에서 이사회 요청 시 복귀하겠다고 밝혔고, 측근들은 복귀를 위한 전략실을 운영 중이다. 엔비디아는 이사회 직속 국가안보·수출통제 위원회를 신설했으며, 중국 AI 클라우드 접근과 관련해 고객들에게 법적 위험을 경고했다. 엔비디아는 CEO 복귀 가능성을 공식 부인했다.",
+        "why_it_matters": "세계 AI 인프라의 핵심 기업이 리더십 위기와 국가 안보 압박을 동시에 받는 상황이다. 엔비디아의 방향성이 미국의 AI 수출 통제 집행력과 직결된다.",
+        "what_is_changing": "반도체 기업이 순수 기술·비즈니스 주체에서 국가 안보 거버넌스 구조 안에 제도적으로 편입되기 시작했다. 수출통제 위원회 신설은 전례 없는 조치다.",
+        "connection": "닛케이225 AI 붐 둔화, AI 뉴클라우드 종목 급락, 앤스로픽 IPO와 맞물려 AI 투자 주기의 전환점 여부를 가르는 지표가 되고 있다.",
+        "signal": "미국 AI 산업과 국가 안보 정책의 경계가 허물어지는 구조적 변화의 신호탄이다. 이후 다른 AI 기업들에게도 유사한 거버넌스 요구가 확산될 수 있다.",
+        "what_to_watch": "엔비디아 실적 발표 내용과 가이던스, 의회 출석에서 황 전 CEO의 증언 내용, 이사회의 최종 CEO 결정"
+      },
+      "perspectives": [
+        {
+          "frame": "Business View",
+          "summary": "황 전 CEO 복귀 가능성 발언만으로 주가가 반등한 것은 엔비디아의 기업 가치가 아직도 개인 리더십에 과도하게 의존함을 보여준다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "트럼프 측 계좌의 엔비디아 주식 대규모 거래 타이밍 보도는 AI 반도체 정책과 정치 자본의 교차점에 대한 의회 조사를 촉발할 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+          "region": "미국"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+          "region": "미국"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/nvidia-forms-national-security-committee-after-huang-affair/a-79970447",
+          "region": "Europe"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+          "region": "미국"
+        }
+      ]
+    }
+  ]
+}
