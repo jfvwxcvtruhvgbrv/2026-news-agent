@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-19",
+  "session": "am",
+  "time": "01:14",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프·시진핑·푸틴, 선전 APEC에서 역사상 처음으로 3자 정상 회동—국제 질서의 새 협상 테이블이 열렸다",
+      "미국-이란, 공습을 주고받으면서도 전면전은 회피 중—호르무즈 해협 보험료 6400만 달러까지 치솟으며 에너지 공급선에 경보",
+      "우크라이나, 크림대교 공격 성공—러시아의 크림반도 연결선이 처음으로 실질적 단절 위기에 직면",
+      "엔비디아, 황 퇴진 이후 중국 반도체 판매 전면 중단 결정—AI 칩 전쟁이 기업 거버넌스 위기와 뒤섞였다",
+      "Anthropic, 나스닥 IPO 임박—Amazon·Google이 합산 약 30% 보유하며 AI 산업 자본 구조 재편",
+      "미국 연쇄 기술 장애(FAA·NSA·MS) 발생, 정부는 무관 주장—디지털 인프라 취약성 경보",
+      "ICJ, 로힝야 집단학살 판결 임박—미국의 ICJ 판사 제재 검토와 맞물려 국제사법 체계가 흔들린다",
+      "미국, 26년 만에 홍역 퇴치국 지위 상실—공중보건 후퇴가 가시화되고 있다",
+      "북한 영변 우라늄 농축시설 외부 공사 완료 확인—핵 능력 고도화가 멈추지 않고 있다",
+      "이스라엘 의회, 반네타냐후 진영 주도로 새 의장 선출—전후 이스라엘 정치 재편이 시작됐다"
+    ],
+    "emerging_signals": [
+      "캐나다가 대미 의존 완화를 명분으로 중국과의 무역 관계 재설정에 나서며 서방 연대에 균열 조짐",
+      "EU 5개국이 르완다에 망명 거부자 귀환 허브 설치—이민 외부화가 유럽 표준 정책으로 굳어지려 한다",
+      "웨이모 고속도로 운행 전국 중단—자율주행 규제의 역풍이 산업 전체로 확산될 첫 신호",
+      "캘리포니아 법무장관, OpenAI를 공중위해 혐의로 제소—AI 기업에 대한 국가 소송 시대가 열렸다",
+      "AI 딥페이크 성적 이미지 규제법, 미 상원 통과 후 하원 압박—디지털 성범죄 입법이 본격화",
+      "손정의, 오픈AI 투자가 앤트로픽 기회를 놓친 실수라고 고백—AI 투자 판단 기준이 흔들리고 있다"
+    ],
+    "structural_trends": [
+      "미중러 3자 외교 틀의 등장—G7 중심 서방 질서에서 다극 협상 구조로 이동이 가속화",
+      "미국의 대이란 군사 압박과 중동 에너지 불안이 동시 진행—에너지 가격과 지역 안보가 연동된 복합 위기",
+      "AI 반도체 통제가 하드웨어에서 기업 지배구조·국가 안보 심사까지 확장—엔비디아 사태가 그 전환점",
+      "유럽 우크라이나 지원 의지는 유지되나 미국의 역할 축소로 유럽의 전략적 자율성 압박 증대",
+      "항생제 내성·홍역 퇴치 지위 상실—공중보건 인프라의 구조적 약화가 여러 나라에서 동시 확인",
+      "소셜미디어 미성년자 제한이 이탈리아·호주·브라질 등으로 확산—디지털 규제의 글로벌 표준화 움직임"
+    ],
+    "what_changed_today": [
+      "트럼프·시진핑 공항 포옹과 3자 회담 현실화—어제 '형성 중'이던 외교판이 오늘 실제 접촉 단계로 진입",
+      "엔비디아가 중국 반도체 판매 중단 선언—어제 거버넌스 위기 단계에서 오늘 실질적 사업 구조 변경으로 전환",
+      "미국-이란 공습 교환이 바레인·쿠웨이트까지 확전—어제 양자 긴장에서 오늘 걸프 다국 충돌로 확대",
+      "우크라이나 크림대교 타격 성공 확인—어제 공격 보도에서 오늘 구조물 붕괴·크림 고립 가능성까지 현실화"
+    ],
+    "what_to_watch_next": [
+      "트럼프·시진핑·푸틴 3자 회담 결과—우크라이나·이란·대만 의제에서 어떤 합의 또는 균열이 나오는가",
+      "호르무즈 해협의 실질적 통항 가능 여부—이란과 걸프 국가 간 추가 충돌 발생 시 에너지 가격 급등 가능성",
+      "ICJ 로힝야 판결 내용—미국의 ICJ 판사 제재 실행 여부와 국제사법 체계의 정당성 훼손 정도",
+      "Anthropic IPO 최종 공모가와 시장 반응—AI 산업 밸류에이션 기준점이 될 것",
+      "북한의 완성된 농축시설 가동 여부—IAEA 2009년 이후 사찰 접근 없는 상태에서 실제 역량 평가 불가",
+      "미국 연쇄 기술 장애의 원인 규명—사이버 공격 연관성 여부에 따라 국가 안보 대응 수위 달라진다"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "트럼프·시진핑·푸틴, 선전 APEC에서 역사적 3자 회동—세계 질서 재협상 테이블이 열렸다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 미국 대통령이 중국 선전에 도착하자 시진핑 주석이 활주로에서 직접 영접하며 포옹을 나눴다. 목요일로 예정된 트럼프·시진핑·푸틴 3자 회담은 세 정상이 한 자리에 모이는 역사상 첫 사례다. 푸틴은 우크라이나가 크림대교를 공격한 직후 회담 테이블에 나서며, 베이징은 우크라이나가 의제가 아니라고 했지만 트럼프는 논의될 것이라고 밝혔다.",
+        "why_it_matters": "미국·중국·러시아 세 핵강국 정상의 동석 협의는 전후 국제 질서를 뒷받침해온 다자주의 프레임 바깥에서 세계를 나누는 협상이 가능해졌음을 상징한다. 우크라이나, 이란, 대만, 무역이 모두 테이블 위에 올라와 있다.",
+        "what_is_changing": "기존에는 미중, 미러, 중러가 각각 양자 채널로 소통했으나, 3자 형식의 등장은 강대국 협상 구조 자체를 바꾸는 선례가 될 수 있다. G7 중심의 서방 연대 체계가 비공식 3자 체제와 경쟁하게 되는 구조다.",
+        "connection": "한국과 일본은 회담 결과가 대북 외교, 대만 무기판매, 대러 제재에 직접 영향을 줄 수 있어 사전 협의에 나섰다. 한중 FTA 최혜국 대우 합의와 시진핑의 북미 대화 지지 발언도 같은 외교 흐름 안에 있다.",
+        "signal": "이 회동은 미국 주도 단극 체제에서 경쟁적 다극 질서로의 이행이 외교 의전 수준에서 현실화됐다는 신호다.",
+        "what_to_watch": "3자 회담의 실제 의제와 합의문 존재 여부, 우크라이나 종전 조건에서 세 나라의 입장 차이가 어떻게 조율 또는 노출되는지 주목해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "세 나라가 서로 다른 의제를 가진 채 회담장에 모인 만큼 실질 합의보다 각자의 국내 메시지용 연출일 가능성도 있다. 반면 회담 자체가 서방의 대러·대중 압박 연대에 쐐기를 박는 효과를 낸다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "무역 보호주의 비판을 쏟아낸 시진핑과 관세를 협상 카드로 쥔 트럼프 사이에서 무역 갈등 완화 가능성과 새 보호주의 충돌 가능성이 동시에 열려 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+          "region": "North America"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3374955/rare-hug-and-roaring-flyover-set-stage-historic-firsts-apec-shenzhen",
+          "region": "China"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/asia-pacific/20261118-three-leaders-three-agendas-who-wants-what-from-xi-trump-putin-summit",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/18/asia-pacific/politics/putin-xi-china-russia-meeting-apec/",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "headline": "미국-이란 공습 교환이 바레인·쿠웨이트까지 번지며 호르무즈 해협 보험료 6400만 달러 돌파—에너지 공급선에 비상등",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미군이 이란 케슘섬의 혁명수비대 미사일 발사 기지를 타격한 뒤 이란이 바레인과 쿠웨이트를 공격했다. 쿠웨이트는 2개월 만에 처음으로 이란 공격을 격퇴했다고 밝혔다. 같은 시각 호르무즈 해협을 통과하는 단일 선박의 해상보험료가 6400만 달러까지 치솟았으며, 인도 선박 MT Tara Gas가 해협에서 공격을 받아 승선 인도인 1명이 실종됐다.",
+        "why_it_matters": "세계 원유 수송의 약 20%가 통과하는 호르무즈 해협의 실질적 운영 가능 여부가 처음으로 의문시되고 있다. 중동의 소국 걸프 국가들이 직접 충돌에 끌려들어가면 지역 안보 구조 전체가 흔들린다.",
+        "what_is_changing": "미-이란 충돌이 양자 공습 교환에 머물던 단계에서 제3국 걸프 국가들이 직접 피해를 입는 단계로 확대됐다. 분석가들은 현재의 '동결된 전쟁' 상태가 전면전으로 번질 임계점에 가까워지고 있다고 경고한다.",
+        "connection": "오만·카타르가 중재 대화를 이어가고 있으며, APEC에서 열리는 트럼프-시진핑-푸틴 3자 회담에서 이란 문제가 의제로 거론될 가능성이 있다. 에너지 가격 상승은 독일 등 유럽의 전기요금 인하 조치와도 연결된다.",
+        "signal": "걸프 다국 충돌로의 확전은 중동 에너지 위기와 글로벌 물가 충격이 동시에 발생하는 복합 위기의 초기 신호일 수 있다.",
+        "what_to_watch": "이란의 추가 보복 여부, 호르무즈 해협의 실질 통항 중단 여부, 걸프 국가들의 집단 대응 메커니즘 작동 여부를 24시간 단위로 확인해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "보험료 급등은 이미 해운 비용 상승으로 연결되며, 해협이 실질적으로 막힐 경우 국제 에너지 가격은 단기에 급등할 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "미국이 오만·카타르 중재 채널을 열어두면서 군사 압박도 병행하는 이중 전략을 구사 중이며, 이란이 확전이 오히려 유리하다고 판단할 경우 전략적 계산이 뒤집힐 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/national/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/article71714331.ece",
+          "region": "인도"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/18/world/politics/gulf-us-strikes-iran-island/",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "headline": "우크라이나, 크림대교 타격 성공으로 크림반도 고립 가능성—전쟁이 상징적 인프라 파괴 단계에서 전략적 차단 단계로 넘어갔다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우크라이나가 국내 개발 장거리 미사일과 드론을 두 차례 동원해 크림반도와 러시아 본토를 잇는 케르치 대교를 타격해 일부를 붕괴시켰다. 젤렌스키 대통령은 전례 없는 공격이라고 평가했다. 같은 날 러시아의 오데사 공습으로 최소 5명이 사망했고, 우크라이나는 크라스노다르 정유시설 공격도 감행했다.",
+        "why_it_matters": "케르치 대교는 러시아가 크림반도에 병력과 물자를 공급하는 유일한 육상 연결로다. 교량이 장기 사용 불능이 되면 크림반도 주둔 러시아군의 보급이 근본적으로 위협받는다.",
+        "what_is_changing": "우크라이나가 서방 무기 의존에서 벗어나 국산 장거리 타격 역량을 실전 검증했다. 전쟁의 초점이 전선 소모전에서 러시아 핵심 인프라 체계 무력화로 이동하고 있다.",
+        "connection": "베를린의 '의지의 연합' 회의에서 유럽의 우크라이나 지원 지속 의지가 재확인됐다. 푸틴이 크림대교 공격 직후 선전 3자 회담에 나서는 만큼, 회담에서 우크라이나 종전 조건 협상이 압박받을 가능성이 있다.",
+        "signal": "크림대교 붕괴는 러시아가 크림반도를 되찾을 수 없는 땅으로 여기는 심리적 방어선이 처음으로 물리적으로 도전받았다는 신호다.",
+        "what_to_watch": "러시아의 전략적 보복 가능성, 케르치 대교 복구 가능성 및 기간, 3자 회담에서 우크라이나 문제가 어떻게 다뤄지는지 주목해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아 국내 여론에서 케르치 대교는 푸틴의 크림 병합을 상징하는 시설이다. 붕괴는 국내 정치적 타격이기도 하며, 협상 테이블에서 러시아의 양보 가능성을 오히려 줄일 수 있다는 역설도 존재한다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "우크라이나산 드론·미사일의 장거리 정밀 타격 성공은 비대칭 무기 체계가 국가 전략 자산으로 자리 잡은 사례로, 이후 여러 중소국 군비 전략에 영향을 줄 것이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ukraine-kyiv-targets-krasnodar-refineries-after-felling-kerch-bridge/live-79976877?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "엔비디아, 황 퇴진 후 중국 반도체 판매 전면 중단—AI 칩 패권 경쟁이 기업 거버넌스 위기와 충돌했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "젠슨 황 CEO가 중국 간첩으로 의심되는 인물과의 관계를 인정하고 사임한 뒤, 임시 CEO 콜레트 크레스는 중국에 대한 반도체 판매를 전면 중단하겠다고 발표했다. 이사회는 황의 복귀를 거부했고, SEC가 사임 경위를 조사 중이라는 보도가 나왔다. 실적은 전년 대비 두 배 성장으로 시장 예상을 웃돌았으나 주가는 발표 후 하락했다.",
+        "why_it_matters": "엔비디아는 AI 반도체 시장의 약 80%를 점유하는 사실상 독점 기업이다. CEO 공백과 중국 시장 완전 철수의 조합은 AI 인프라 공급망 전체에 충격을 줄 수 있다.",
+        "what_is_changing": "AI 반도체 통제가 수출 규제라는 정부 차원의 조치를 넘어 기업 경영 판단으로까지 내재화되는 단계에 진입했다. 황 퇴진은 국가안보 심사가 CEO 개인의 거취에까지 영향을 미친 최초 사례로 기록된다.",
+        "connection": "민주당이 하원 장악 후 상무장관 루트닉과 연계된 엔비디아-중국 AI 거래 의혹에 대한 의회 조사를 시작했다. 미국의 중국산 AI 모델 사용 공시 의무화 검토와도 맞물린다.",
+        "signal": "기업 지배구조와 국가안보가 융합되는 새로운 경영 환경이 본격화됐다는 신호다. 다른 기술 대기업들도 중국과의 연결고리가 경영 리스크로 간주될 가능성이 높아졌다.",
+        "what_to_watch": "12월 1일 황의 의회 청문회 증언 내용, SEC 조사 진행 상황, 중국 시장 공백을 화웨이 등 중국 기업이 얼마나 빠르게 채우는지 확인해야 한다."
+      },
+      "perspectives": [
+        {
+          "frame": "Business View",
+          "summary": "중국 매출 차단은 단기 실적에 타격을 주지만, 미국 정부 조달 시장과 동맹국 신뢰 확보를 위한 전략적 선택으로도 볼 수 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "엔비디아의 중국 철수는 화웨이 어센드 칩의 국내 대체 수요를 가속화하고, 중국의 반도체 자립 노력에 역설적으로 추진력을 제공할 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "황의 퇴진이 국가안보 위원회 개입으로 이루어졌다면, 미국 정부가 민간 기업 CEO 인사에 개입하는 선례가 된다는 점에서 기업 자율성 논쟁이 불가피하다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "region": "미국"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+          "region": "미국"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-18/nvidia-board-wont-take-jensen-huang-back/107397604",
+          "region": "Oceania"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html",
+          "region": "미국"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+          "region": "Europe"
+        }
+      ]
+    }
+  ]
+}
