@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-20",
+  "session": "am",
+  "time": "01:22",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프·시진핑·푸틴 3자 선전 회담이 '평화 선언'으로 마무리됐지만, 우크라이나와 이란은 의제에서 빠졌고 유럽은 베를린에서 별도 결집했다",
+      "크림대교가 재차 피격되어 케르치 해협이 사실상 차단됐으며, 푸틴은 보복을 예고했다",
+      "ICJ가 미얀마의 로힝야 집단학살 국가 책임을 인정했고, 미국은 해당 판사들에 대한 제재를 검토 중이다",
+      "COP31 합의문 최신 초안에서 화석연료 관련 문구가 전면 삭제됐다",
+      "Anthropic이 역대 최대 규모 IPO로 나스닥 상장을 완료하며 AI 투자 과열 논쟁을 촉발했다",
+      "미국이 마두로 축출 1년 만에 베네수엘라와 군사 협력 협정을 체결했다",
+      "덴마크 의회가 미군의 그린란드 군사 활동 확대 협정을 비준했다",
+      "IEA가 2030년까지 데이터센터 전력 수요가 두 배로 늘 것이라고 경고했으며, 냉방 수요가 사상 처음 난방 수요를 추월했다",
+      "한국 대법원이 한덕수 전 국무총리의 내란 관련 징역형을 파기했고, 민주당은 대법원장 탄핵을 선언했다",
+      "예멘 후티가 리야드 사우디 국부펀드 본사에 미사일을 명중시켰다"
+    ],
+    "emerging_signals": [
+      "미국이 ICJ 미얀마 판결 판사들을 제재 검토하는 흐름은 국제사법기구에 대한 강대국 거부권 행사의 새로운 패턴이 될 수 있다",
+      "영국 조사기관이 정부의 애플 백도어 명령 공개를 판결한 사건은 국가 감시권 대 플랫폼 암호화의 갈림길을 예고한다",
+      "북한 해커가 MakerDAO 스테이블코인 시스템을 악용한 사례는 DeFi가 국가 주도 사이버 작전의 새 표적이 됐음을 시사한다",
+      "케냐 Mrima Hill 광산 경쟁에서 미국 컨소시엄이 중국을 제쳐 아프리카 핵심광물 쟁탈전이 가시화됐다",
+      "싱가포르의 CBDC를 활용한 토큰화 국채 결제는 중앙은행 디지털화폐가 실거래에 진입했음을 보여주는 신호다",
+      "IOSCO가 양자컴퓨터 위협에 금융권의 암호화 방어 시급성을 경고하면서 포스트-양자 보안이 규제 의제로 부상했다"
+    ],
+    "structural_trends": [
+      "미중러 3자 외교 프레임이 형성되면서 서방 주도 다자체제와 경쟁하는 평행 질서가 가시화되고 있다",
+      "AI 인프라 전력 수요가 각국 에너지 정책과 탄소목표에 직접 충돌하는 구조적 모순이 심화되고 있다",
+      "국제사법기구(ICJ·ICC)가 강대국 외교의 압력 대상이 되면서 국제법 집행력의 위기가 고조되고 있다",
+      "COP 협상에서 화석연료 감축 문구가 반복적으로 삭제되며 기후 목표와 에너지 현실의 괴리가 제도적으로 굳어지고 있다",
+      "AI 기업의 대규모 IPO가 안전·거버넌스 약속과 투자자 수익 압박 사이의 긴장을 구조화하고 있다",
+      "미국이 중동·남미 전방위에서 군사 협력을 재편하면서 트럼프 2기의 지정학적 재배치가 가속되고 있다"
+    ],
+    "what_changed_today": [
+      "어제 임박한 것으로 전망됐던 3자 회담이 실제로 개최됐으나, 우크라이나·이란 전쟁 언급 없이 구속력 없는 선언으로 마무리돼 기대보다 낮은 성과로 평가됐다",
+      "크림대교 피격이 어제 첫 보도 수준에서 오늘 200m 이상 붕괴·해협 차단으로 피해가 확인됐고 푸틴의 보복 경고가 추가됐다",
+      "엔비디아 황 퇴진 사태는 어제 보도 단계에서 오늘 이사회의 복귀 불가 입장 확인과 10-Q 제출 지연이라는 새로운 국면으로 진전됐다",
+      "미국-이란 긴장은 어제 걸프 국가 공격으로 확대된 것에서 오늘 트럼프가 '1월 1일 이후 지켜보겠다'고 유보 입장을 표명해 단기 직접 충돌 가능성이 낮아졌다"
+    ],
+    "what_to_watch_next": [
+      "푸틴의 크림대교 보복 위협이 실제 대규모 미사일 공격으로 실행될지 여부",
+      "유럽 '의지의 연합'이 베를린 회의 이후 우크라이나 지원을 얼마나 가속할지",
+      "미국이 ICJ 판사 제재를 실제로 발동할 경우 가자 사건 심리와 국제법 체계에 미칠 파장",
+      "COP31 최종 합의문에서 화석연료 문구가 복원될지, 아니면 삭제된 채 채택될지",
+      "Anthropic 나스닥 상장 첫 주 주가 흐름—AI 투자 과열 판단의 단기 지표",
+      "11월 28일 ITLOS의 포클랜드 Sea Lion 명령 선고",
+      "한국 민주당의 대법원장 탄핵안 국회 제출 여부와 절차 진행 속도",
+      "에티오피아-에리트레아 국경 바드메 충돌이 본격 무력 분쟁으로 비화할 가능성"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "트럼프·시진핑·푸틴 3자 회담, '평화 선언'을 발표했지만 우크라이나·이란은 빠졌다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "2026년 11월 19일 중국 선전 APEC 계기에 세 정상이 처음으로 3자 회동을 갖고 공동 성명을 발표했다. 성명에는 핵무기 입장 재확인, UN 개혁 지지, 에너지 공급 확대, 국제재판소 면책 특권 유지 등이 포함됐으나 우크라이나와 이란 전쟁에 대한 명시적 언급은 없었다. 같은 날 유럽 주요국은 베를린에서 별도 회의를 열어 우크라이나 지지 메시지를 모스크바에 발신했다.",
+        "why_it_matters": "냉전 이후 처음으로 세계 최대 핵보유국 3개국 정상이 한 테이블에 앉아 국제 질서를 논의했다는 상징성이 크다. 그러나 우크라이나가 배제된 채 종전 협상 구조가 논의될 수 있다는 점에서 유럽의 경계심이 최고조에 달했다.",
+        "what_is_changing": "기존에는 미중, 미러, 중러가 각각 양자 채널로 소통했으나, 이제 3자 채널이 사실상 수립됐다. 이는 G7 중심 서방 질서에 대항하는 다른 축이 제도화될 가능성을 열었다.",
+        "connection": "베를린 '의지의 연합' 회의가 같은 날 열려 미국 특사 위트코프도 참석하며, 대서양 동맹과 선전 회담 사이에서 미국이 양쪽에 발을 걸치는 이중 포지션을 취하고 있다는 분석이 제기됐다.",
+        "signal": "구속력 없는 선언이지만, 3자 정례화 여부가 향후 국제 거버넌스 구조 변화의 핵심 지표가 된다. 성명에 담긴 국제재판소 면책 특권 조항은 미국의 ICJ 판사 제재 검토와 연동될 가능성이 있다.",
+        "what_to_watch": "3자 회동의 정례화 여부, 우크라이나 종전 협상 구조에서 키이우 배제 여부, 유럽의 독자 안보 체제 구축 속도"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "세계 질서 재편의 상징적 계기로 볼 수 있지만, 구속력 없는 성명에 그쳐 실질적 변화보다 각국이 필요한 메시지를 국내에 선전하는 연출에 가깝다는 평가가 공존한다. 우크라이나와 유럽이 배제됐다는 점이 서방 동맹의 균열 가능성을 나타낸다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "에너지 공급 확대 합의가 성명에 포함되면서 러시아산 에너지를 미중 협력 구조 안으로 끌어들이려는 시도로 읽힌다. 중동 에너지 불안을 완화하는 대안 공급망 형성 가능성이 거론된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3375122/power-plays-verbal-displays-xi-trump-putin-talk-historic-apec-summit-explained",
+          "region": "China"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/19/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+          "region": "North America"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/apec-summit-trump-xi-putin-talks-end-with-peace-declaration/live-79964719?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/china-summit-ends-with-little-new-europe-backs-ukraine-in-berlin",
+          "region": "Europe"
+        },
+        {
+          "source": "Yonhap English",
+          "link": "https://en.yna.co.kr/view/AEN20261119006700315",
+          "region": "Korea"
+        }
+      ]
+    },
+    {
+      "headline": "크림대교 붕괴로 케르치 해협이 막혔다—전쟁이 전략적 차단 단계로 올라섰다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우크라이나의 복합 공격으로 크림대교 200미터 이상 구간이 무너지고 잔해가 케르치 해협 해저를 뒤덮어 항로가 사실상 차단됐다. 푸틴은 '훨씬 더 고통스러운 보복'을 예고했으며, 위성사진에서 두 곳의 피격 흔적이 확인됐다.",
+        "why_it_matters": "크림대교는 러시아 본토와 반도를 잇는 유일한 육상 보급선이다. 이 차단으로 크림반도의 군수·민간 물류가 동시에 타격을 받았고, 러시아의 전쟁 지속 능력에 구조적 압박이 가해졌다.",
+        "what_is_changing": "2022년 첫 피격 이후 반복적으로 수리됐던 대교가 이번에는 해협 항로 자체를 막는 수준의 피해를 입었다. 단순한 상징 공격을 넘어 적 보급망을 물리적으로 절단하는 전략으로 전환됐다.",
+        "connection": "같은 날 열린 선전 3자 회담에서 푸틴이 평화를 논하는 동시에 대교가 무너졌다는 상황은 협상 테이블과 전장의 괴리를 극명하게 보여줬다. 베를린 '의지의 연합' 회의도 이 맥락에서 군사 지원을 재확인했다.",
+        "signal": "크림반도 고립이 가속되면 러시아는 흑해 함대 운용 능력을 잃게 되고, 협상 압박이 커질 수 있다. 반대로 푸틴의 보복 실행 여부가 전쟁의 다음 국면을 결정할 가능성이 높다.",
+        "what_to_watch": "러시아의 대규모 보복 미사일 공격 실행 여부, 케르치 해협 복구 가능성 및 소요 기간, 베를린 회의 이후 유럽의 추가 무기 지원 결정"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "우크라이나가 협상 테이블이 열린 바로 그날 크림대교를 타격한 것은 우크라이나 없는 종전 협상을 거부하는 군사적 메시지로 해석된다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "크림반도 보급 차단은 러시아가 반도 주둔 비용을 감당하기 어렵게 만들어 장기적으로 협상 의지에 영향을 줄 수 있다. 흑해 항로 불안정은 곡물 수출 보험료에도 연동된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Geopolitics/Europe/Russia-Faces-a-Logistics-Nightmare-After-Crimea-Bridge-Collapse.html",
+          "region": "Energy"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/world/crimea-bridge-attacked-9.7427374?cmp=rss",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "ICJ가 미얀마의 로힝야 집단학살을 인정했다—국가 책임을 물은 역사상 첫 판결",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "국제사법재판소(ICJ)가 2017년 미얀마 보안군의 로힝야 민간인 대량 학살을 국가 주도 집단학살로 판결했다. 국가에 제노사이드 책임을 인정한 것은 ICJ 역사상 처음이다. 재판소는 미얀마에 배상 명령과 난민 귀환 보장을 요구했다. 동시에 미국은 이 판결을 내린 판사들에 대한 제재 검토에 들어갔다고 보도됐다.",
+        "why_it_matters": "국제법이 국가의 집단학살 행위에 직접 책임을 묻는 선례가 만들어졌다. 이 판결이 이스라엘의 가자 행위 판단에 선례로 작용할 수 있다는 우려가 미국의 판사 제재 검토 배경으로 거론된다.",
+        "what_is_changing": "기존에는 개인에 대한 형사 책임(ICC)이 주요 경로였으나, 이제 국가 자체가 국제법상 집단학살 책임을 지는 경로가 열렸다. 미국이 ICJ 판사를 제재한다면 판결 집행을 사실상 무력화하려는 시도로 볼 수 있다.",
+        "connection": "미국의 ICJ 판사 제재 검토는 선전 3자 정상회담 성명에 포함된 '국제재판소 면책 특권 유지' 조항과 직접 충돌하며, 강대국들이 국제사법기구에 대한 통제권을 경쟁적으로 행사하려는 흐름과 맞닿아 있다.",
+        "signal": "강대국이 불리한 국제사법 판결에 대해 판사 제재라는 카드를 사용할 경우, 국제법 집행력 전반이 약화될 수 있다. 이는 향후 가자 관련 ICJ 절차에서도 반복될 가능성이 있다.",
+        "what_to_watch": "미국의 판사 제재 실제 발동 여부, 미얀마 군부의 판결 이행 태도, 로힝야 귀환 협상 진전 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "판결은 국제인권법의 역사적 진전이지만, 집행 수단이 없는 상황에서 미얀마 군부가 무시하면 사문화될 수 있다. 미국의 제재 검토는 국제법 체계의 신뢰성 자체를 흔드는 행위로 비판받고 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "방글라데시 난민캠프의 로힝야 주민들은 판결을 계기로 귀환 가능성에 기대를 나타냈으나, 미얀마 내전이 지속되는 상황에서 실질적 귀환 경로는 여전히 막혀 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3375102/un-top-court-says-myanmar-committed-genocide-against-rohingya",
+          "region": "China"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/se-asia/myanmar-forces-killed-thousands-of-rohingya-says-top-un-court",
+          "region": "Southeast Asia"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/myanmar-rohingya-genocide/",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "headline": "COP31 합의문 초안에서 화석연료 문구가 통째로 사라졌다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "튀르키예에서 열리는 COP31 최신 합의문 초안에서 석탄·석유·가스 등 화석연료에 대한 언급이 모두 삭제됐다. 아프리카 활동가들은 대안으로 추진 중인 탄소포집·활용·저장(CCUS) 가속화 조항이 농지와 어업을 위협할 수 있다고 경고했다.",
+        "why_it_matters": "COP28(두바이)에서 처음 명문화됐던 '화석연료 전환' 문구가 불과 2년 만에 협상 문서에서 사라질 위기다. 이는 기후 협약의 실질적 후퇴로 평가되며, 2015년 파리협정 이후 가장 큰 역주행으로 기록될 수 있다.",
+        "what_is_changing": "COP28이 화석연료 감축을 처음 협약에 담은 역사적 순간이었다면, COP31은 그 성과를 없애는 반전의 장이 될 위기다. 기후 협상이 에너지 안보 논리에 점점 더 종속되고 있다.",
+        "connection": "EU의 메탄 규제 2년 유예, 선전 회담 성명의 에너지 공급 확대 조항, IEA의 데이터센터 탄소 급증 경고가 같은 날 겹치면서, 기후 목표와 에너지·AI 현실의 충돌이 동시다발적으로 가시화됐다.",
+        "signal": "화석연료 문구 삭제가 최종 합의문에 반영되면, 향후 COP 협상에서 에너지 감축 조항을 복원하는 것이 훨씬 어려워지는 협상 선례가 만들어진다.",
+        "what_to_watch": "최종 합의문에서 화석연료 문구 복원 여부, EU·군소도서국·아프리카 국가들의 연대 협상력, CCUS 조항의 최종 반영 범위"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "화석연료 생산국들이 협상 과정에서 주도권을 확보했다는 해석이 가능하다. 유럽과 군소도서국이 강하게 반발하고 있으나, 미국·러시아·OPEC 국가들의 압력을 이기기 어려운 구조다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "에너지 전환 비용을 감당하기 어려운 개발도상국들이 화석연료 의존 연장을 지지하면서, 기후 재원 조달 협상과 감축 목표 협상이 사실상 연동돼 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/no-mention-of-fossil-fuels-in-latest-cop31-draft-deal/a-79992394?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/environment/2026/11/19/climate-change/cop-fossil-fuel-language/",
+          "region": "Japan"
+        },
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/science/cop31-draft-climate-deal-9.7427790?cmp=rss",
+          "region": "North America"
+        },
+        {
+          "source": "AllAfrica (Premium Times 원출처)",
+          "link": "https://allafrica.com/stories/202611190333.html",
+          "region": "Africa"
+        }
+      ]
+    }
+  ]
+}
