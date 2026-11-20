@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-21",
+  "session": "am",
+  "time": "01:00",
+  "global_picture": {
+    "world_right_now": [
+      "러시아가 크림대교 공격 보복으로 키이우에 사상 최대 규모 미사일·드론 공습을 감행, 최소 8명 사망하고 미사일 1발이 폴란드 영토에 낙하해 NATO 위기로 번지고 있다",
+      "트럼프·시진핑·푸틴 첫 3자 정상회담이 선전에서 '평화 선언'을 발표했으나 우크라이나·이란 전쟁 언급이 빠져 실질적 성과에 의문이 제기되고 있다",
+      "AI 기업 Anthropic이 역대 최대 규모 IPO를 완료했으나 상장 이틀째 주가가 하락하며 AI 투자 거품 우려를 촉발, 아시아 증시가 2020년 이후 최악의 주간 성적을 기록했다",
+      "ICJ가 미얀마 군부의 로힝야 집단학살 의도를 공식 인정했고, 이 판결이 가자지구 사태에 미칠 법적 선례 논쟁이 확산되고 있다",
+      "영국-EU가 브뤼셀 정상회담에서 식품 교역 검사 폐지·청년 이동 허용 협정을 체결하며 브렉시트 10년 만에 관계 재설정을 선언했다",
+      "COP31이 예정 기간을 넘겨 연장 협상에 돌입했으나 화석연료와 기후 재원을 놓고 주요국 간 입장 차가 좁혀지지 않고 있다",
+      "이란이 호르무즈 해협 유조선 공격을 전쟁 이후 최고 빈도로 늘리는 동시에 미국의 해상 봉쇄에도 원유 수출 재개를 준비하고 있다",
+      "유럽 전역에서 Gen Z의 생활비·군사화 반대 동시 시위가 확산되고 이탈리아는 전국 총파업에 돌입했다",
+      "엔비디아와 AMD가 미국의 대중 반도체 제재와 중국 연계 의혹으로 동시에 법적·규제 압박을 받으며 반도체 기업 지배구조 위기가 가시화됐다",
+      "미국에서 연쇄 IT 인프라 장애가 이어지자 백악관이 사이버국장을 전격 교체했으나 전문가들은 AI 기반 공격 대응이 여전히 미흡하다고 경고하고 있다"
+    ],
+    "emerging_signals": [
+      "중국산 오픈웨이트 AI 모델 퇴출 검토와 TP-Link 라우터 판매 불허가 겹치면서 미중 기술 디커플링이 소프트웨어 계층으로 확산되는 조짐이 나타나고 있다",
+      "구글 Gemini와 애플이 동시에 기기 직접 제어 AI 에이전트를 출시·개발하며 'PC를 대신 조작하는 AI' 경쟁이 본격화됐다",
+      "케냐 희토류 광산 계약을 미국 컨소시엄이 중국을 제치고 따내며 아프리카 핵심광물을 둘러싼 미중 자원 경쟁이 가시화되고 있다",
+      "미국 홍역 감염자가 사실상 토착화 수준(7,700명·사망 13명)에 달하며 백신 거부 운동이 공중보건 위기로 현실화되는 첫 사례가 되고 있다",
+      "베트남의 마약 밀매 사형제 폐지와 나이지리아의 자살 미수 비범죄화 추진이 아시아·아프리카에서 형사정책 인도주의 개혁 흐름을 보여준다"
+    ],
+    "structural_trends": [
+      "미·중·러 3자 정상 체제가 형식적으로 등장하면서 2차 대전 이후 유지된 다자 국제질서 대신 '빅3 거래 외교' 구도로의 전환 압력이 커지고 있다",
+      "AI 인프라 투자의 자본시장 검증이 Anthropic IPO를 계기로 본격화되며 'AI 성장 기대 대 실제 수익 창출'의 갈등이 증시의 구조적 변수로 자리잡고 있다",
+      "러시아-우크라이나 전쟁이 에너지 휴전 붕괴와 NATO 영토 타격 위기를 거치며 '국지전에서 유럽 안보 위기'로의 에스컬레이션 리스크가 고조되고 있다",
+      "유럽 전역에서 생활비 위기에 반발하는 Gen Z 세대의 조직적 시위가 국가를 가로질러 동시 발생하며 새로운 정치 세대 균열이 형성되고 있다",
+      "IMF의 글로벌 부채 GDP 100% 임박 경고와 주요국 재정 확대 기조가 맞부딪히며 재정 지속가능성이 중기 거시경제의 핵심 위험으로 부상하고 있다",
+      "이란 호르무즈 해협 위기가 에너지 공급망과 해상 보험료에 구조적 압박을 가하면서 중동 에너지 리스크가 장기화되는 양상을 보이고 있다"
+    ],
+    "what_changed_today": [
+      "러시아 미사일이 폴란드 영토에 낙하하는 사건이 처음으로 확인되어 우크라이나 전쟁이 NATO 영토 분쟁으로 번질 가능성이 현실화됐다",
+      "Anthropic IPO가 완료됐으나 상장 이틀째 주가 하락과 AI 매도세로 'AI 버블 붕괴 시작점'이라는 평가가 나오기 시작했다",
+      "미·중·러 3자 정상회담이 어제 발표된 '평화 선언'에 이어 실질 성과 부재 비판이 구체화되고, 트럼프의 대중·대러 유화 기조에 대한 미국 내부 반발이 공개적으로 확산됐다",
+      "COP31 합의가 연장 협상에도 불구하고 화석연료 문구 삭제 초안을 둘러싼 갈등이 그대로 유지되며 타결 전망이 더욱 불투명해졌다",
+      "ICJ 로힝야 판결의 파장이 가자지구 적용 가능성 논쟁으로 본격 확대됐고, 미국의 ICJ 판사 제재 가능성까지 거론되기 시작했다"
+    ],
+    "what_to_watch_next": [
+      "폴란드가 러시아 미사일 영토 타격을 NATO 집단방위 조항(5조) 발동 근거로 삼을지 여부와 NATO 긴급회의 소집 가능성",
+      "Anthropic 주가가 공모가 83달러를 지킬 수 있는지, 그리고 월요일 출시 예정인 옵션과 레버리지 ETF가 AI 섹터 변동성을 추가로 증폭시킬지",
+      "COP31 연장 협상의 최종 합의문이 화석연료 감축 목표를 포함하는지, 아프리카-유럽 간 기후 재원 갈등이 협의 결렬로 이어지는지",
+      "엔비디아 캘리포니아 법무장관 소환 조사가 반도체 수출 통제 위반 형사 기소로 이어지는지",
+      "쿠슈너가 언급한 'NATO식 우크라이나 안보보장'에 대해 러시아와 유럽 동맹국이 어떤 반응을 보이는지",
+      "이란의 호르무즈 해협 유조선 공격 빈도가 11월 이후 매일 수준으로 유지될 경우 국제 원유 보험료와 선박 항로 변경 압력이 어떻게 현실화되는지"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "러시아 미사일이 폴란드 땅에 떨어졌다—우크라이나 전쟁이 NATO 영토를 건드렸다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아가 크림대교 공격에 대한 보복으로 우크라이나 전역에 미사일과 드론을 대량 발사해 최소 8명이 사망했다. 같은 공세 과정에서 미사일 1발이 폴란드 남동부 NATO 영토에 낙하했고, 폴란드 정부는 이를 도발로 규정하며 강하게 비난했다. 키이우에서는 다리 2~3곳이 손상됐고 유럽 대사관도 피해를 입자 프랑스가 유엔 안보리 회의 소집을 요청했다.",
+        "why_it_matters": "러시아 무기가 NATO 회원국 영토를 타격한 것이 사실로 확인될 경우 집단방위 조항 발동 논의가 불가피해지며, 2년간 '대리전' 성격을 유지해 온 우크라이나 전쟁이 직접적 나토-러시아 충돌로 에스컬레이션하는 역사적 분기점이 된다.",
+        "what_is_changing": "지금까지 러시아의 공격은 우크라이나 영토에 국한됐다. 이번 사건은 전쟁의 물리적 경계가 처음으로 NATO 영토로 넘어온 것으로, '에스컬레이션 레드라인'이 실질적으로 시험대에 올랐다.",
+        "connection": "메르츠 독일 총리가 유럽 지도자의 우크라이나 협상 참여를 언급하고, 쿠슈너가 러시아가 NATO식 안보보장을 수용할 수 있다고 발언한 직후 이 사건이 발생해 협상 가능성을 오히려 복잡하게 만들었다.",
+        "signal": "에너지 휴전 붕괴에 이어 NATO 영토 타격까지 발생하면서, 러시아가 군사적 압박을 외교 협상의 레버리지로 활용하는 패턴이 더 대담해지고 있다는 신호다.",
+        "what_to_watch": "폴란드가 NATO 집단방위 조항 발동을 요청하는지 여부, NATO 긴급 각료회의 소집 여부, 러시아의 추가 공세 여부와 미국·유럽의 군사 대응 수위."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "폴란드 타격이 NATO 집단방위를 발동할 충분한 사유인지를 두고 동맹 내부에서 의견이 갈릴 가능성이 높다. 미국이 선전 3자 회담에서 평화 협상 모드로 돌아선 직후이기 때문에, 트럼프 행정부가 이 사건을 군사적 사안으로 처리할지 외교적 사안으로 처리할지가 핵심 변수다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "폴란드 타격 소식이 확산되면 유럽 방산 주식이 급등하고 에너지 선물 가격이 흔들릴 수 있다. 전쟁 리스크 프리미엄이 유럽 전반의 보험료와 공급망 비용에 즉각 반영될 가능성이 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261120-russia-pummels-ukraine-with-massive-strikes-missile-hits-poland",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/world/europe/article/3375281/8-killed-ukraine-russia-hits-back-after-crimea-bridge-attacks",
+          "region": "China"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-20/ukraine-russia-crimea-strikes-bridge-kyiv-power-outage-poland/107411538",
+          "region": "Oceania"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프·시진핑·푸틴 3자 정상회담, 선전에서 평화를 선언했지만 전쟁 당사국은 뺐다",
+      "trend_status": "Developing",
+      "insight": {
+        "what_happened": "APEC을 계기로 중국 선전에서 열린 역사상 첫 미·중·러 3자 정상회담에서 핵 위험 감소, 석유 공급 확대, UN 개혁 등을 담은 평화 선언이 발표됐다. 그러나 선언문에는 현재 진행 중인 우크라이나 전쟁과 이란 전쟁이 모두 언급되지 않았다. 시진핑은 트럼프에게 대만 문제에서 '올바른 일'을 하라고 촉구했고, 외교 연출 대비 구체 성과가 없다는 비판이 각국에서 이어졌다.",
+        "why_it_matters": "이 회담은 미·소 냉전 이후 단일 패권 질서를 대체하는 '강대국 삼각 외교' 체제가 현실 정치로 등장했음을 보여준다. 소국과 중견국은 이 구도에서 자국의 안보를 스스로 재계산해야 하는 압박에 처한다.",
+        "what_is_changing": "기존에는 미국과 중국·러시아가 각각 양자 경쟁 구도를 유지했다. 3자가 같은 테이블에 앉아 공동 선언을 발표한다는 것은 형식 자체가 국제질서 재편의 신호이며, 유럽의 우크라이나 협상 참여 요구는 이 구도에서 사실상 배제될 위험에 놓였다.",
+        "connection": "메르츠 독일 총리의 유럽 참여 협상 발언, 러시아의 EU 카야스 협상 참여 거부 주장, 쿠슈너의 NATO식 보장 언급이 모두 이 3자 회담의 외부 반응으로 맞물려 있다.",
+        "signal": "우크라이나와 이란을 빠뜨린 '평화 선언'은 강대국들이 당사국의 동의 없이 분쟁을 처리하려는 의도의 초기 형태를 보여주는 신호일 수 있다.",
+        "what_to_watch": "유럽이 협상에서 '중립 지대'를 확보할 수 있는지, 우크라이나와 이란이 이 선언 체계를 거부하는 공식 입장을 내놓는지, 중국이 대만 문제에서 추가 양보를 얻어내는지."
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "러시아와 중국에 우호적인 프레임을 취하는 미국 대통령이 이 회담에 참여함으로써 미국 동맹 네트워크의 신뢰성이 흔들리고 있다. 민주당은 협상 성과와 동맹 관계 훼손 여부에 의문을 제기하고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "세 정상이 석유 공급 확대를 약속했으나, 우크라이나 전쟁과 이란 제재가 지속되는 상황에서 이행 메커니즘이 없다. 에너지 시장은 이 선언을 가격 조정 근거로 받아들이지 않는 분위기다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "백악관이 중국 방문 후 동행 기자들의 휴대전화를 회수한 것은 사이버 보안 조치라고 설명됐지만, 미중 간 정보 보안 긴장이 정상외교 현장까지 연장되고 있음을 보여준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/military/article/3375268/concrete-aims-or-just-symbolism-trump-xi-and-putin-talk-nuclear-risk-controls-stall",
+          "region": "China"
+        },
+        {
+          "source": "Straits Times (Singapore)",
+          "link": "https://www.straitstimes.com/asia/east-asia/trump-xi-putin-summit-does-it-herald-a-fundamental-shift-to-a-world-dictated-by-the-big-three",
+          "region": "Singapore"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-20/key-takeaways-from-trump-xi-putin-meeting/107407564",
+          "region": "Oceania"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+          "region": "North America"
+        }
+      ]
+    },
+    {
+      "headline": "Anthropic의 역대 최대 IPO가 AI 버블 경보를 울렸다—상장 이틀 만에 매도세로 전환",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "AI 기업 Anthropic이 나스닥에 주당 83달러로 상장해 약 935억 달러를 조달하는 역대 최대 IPO를 완료했다. 첫 거래일 110달러대까지 급등했으나 이튿날 주가가 하락세로 전환했고, AI 관련 매도세가 확산되며 아시아 증시가 2020년 이후 최악의 주간 성적을 기록했다. ARK Invest는 약 9,080만 달러 규모를 매수했으나 헤지 비용이 높아질 것이라는 우려도 제기됐다.",
+        "why_it_matters": "순수 AI 안전 중심 기업의 첫 대규모 공개 상장이라는 점에서, 이 주가 흐름은 AI 섹터 전체의 자본시장 평가 기준이 된다. 'AI 인프라에 쏟아부은 수조 달러가 수익으로 돌아올 수 있는가'에 대한 시장의 첫 공개 답변이다.",
+        "what_is_changing": "지금까지 AI 기업 가치는 비공개 시장에서 형성됐다. 공개 시장에서 가격이 발견되기 시작하면서 AI 투자의 기대 수익과 현실 사이의 갭이 가시화되고 있다.",
+        "connection": "엔비디아와 AMD의 주가 압박, 반도체 수출 규제 논란, 코스피 5% 급락이 모두 같은 날 겹쳤다. AI 인프라 전체의 투자 사이클이 하나의 위험 단위로 묶여 반응하는 패턴이 나타나고 있다.",
+        "signal": "대규모 AI IPO 직후 매도세가 나타나는 것은 '성장 기대형 투자'에서 '수익 검증형 투자'로 시장 심리가 전환되는 초기 신호일 수 있다.",
+        "what_to_watch": "월요일 Anthropic 옵션과 2배 레버리지 ETF 출시 이후의 변동성 확대 여부, Anthropic의 첫 분기 실적 공개 일정, 후속 AI 기업들의 IPO 계획 변경 여부."
+      },
+      "perspectives": [
+        {
+          "frame": "Business View",
+          "summary": "Anthropic의 사업 모델은 AI 안전 연구와 상업화를 동시에 추구하는 구조다. 다리오 아모데이 CEO는 정치·사업 압력과 무관하게 AI 개발 속도를 조절하겠다고 재확인했으나, 주주들은 수익 창출 경로의 명확성을 요구하고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "IMF는 같은 주에 글로벌 부채가 GDP의 100%에 도달할 것이라고 경고했다. 금리 상승 환경에서 수익이 미래에 집중된 AI 기업의 밸류에이션이 재조정될 가능성이 커지고 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 모델 성능 경쟁은 이미 포화 상태에 가까워지고 있으며, 실제 시장 경쟁은 추론 인프라·에이전트·기업 통합으로 이동하고 있다. 순수 모델 회사로서의 Anthropic이 이 전환에서 차별화된 수익을 만들어낼 수 있는지가 관건이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+          "region": "United States"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+          "region": "United States"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "region": "Europe"
+        },
+        {
+          "source": "CoinDesk",
+          "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+          "region": "Global"
+        },
+        {
+          "source": "Yonhap English",
+          "link": "https://en.yna.co.kr/view/AEN20261120005652320",
+          "region": "Korea"
+        }
+      ]
+    }
+  ]
+}
