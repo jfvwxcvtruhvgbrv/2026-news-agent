@@ -1,0 +1,227 @@
+{
+  "date": "2026-11-23",
+  "session": "am",
+  "time": "00:09",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프·푸틴·시진핑의 선전 3자 정상회담이 상징적 선언에 그치며 우크라이나와 유럽은 협상에서 배제됐다",
+      "COP31이 화석연료 문구 삭제 논란 속 합의 없이 결렬되며 기후 외교의 구조적 균열이 다시 확인됐다",
+      "발트해에서 러시아 화물선이 드론 공격을 받고 핀란드 영해로 표류하며 전쟁의 지리적 경계가 흐려졌다",
+      "미국 기술주가 최악의 한 주를 기록하고 비트코인이 2년 만에 최저치로 추락하며 위험자산 전반에 조정이 왔다",
+      "엔비디아 전 CEO 젠슨 황이 중국 연계 의혹으로 의회 증언·주 법무장관 소환에 동시에 직면했다",
+      "이란이 걸프만에서 공격을 확대하는 가운데 호르무즈 해협 유조선이 피격됐다",
+      "유엔 자율살상무기 협상이 2년 추가 논의로만 마무리되며 AI 무기 규제의 공백이 계속됐다",
+      "한국 교육부 장관이 AI 부정행위 사태로 사임하며 국가 시험 체계에 대한 신뢰 위기가 불거졌다",
+      "AI가 리만 가설 증명을 주장했으나 검증에 수년이 걸릴 수 있다는 신중론과 맞서며 수학계가 술렁였다",
+      "WHO가 항생제 내성으로 향후 25년간 수백만 명이 사망할 수 있다고 경고했다"
+    ],
+    "emerging_signals": [
+      "초고온 암석 지열 스타트업이 AI 데이터센터 전력 문제의 해법으로 부상하고 있다",
+      "양자컴퓨팅이 신약보다 에너지 최적화 분야에서 먼저 실용화되는 경로가 가시화되고 있다",
+      "Signal의 스크린샷 차단처럼 메신저·앱 차원에서 AI 감시에 맞서는 기술 대응이 나타나고 있다",
+      "AI 공급망의 구조적 데이터 유출 취약성이 특정 사고가 아닌 플랫폼 전반의 문제로 인식되기 시작했다",
+      "미국 중간선거 이후 에너지 정책 충돌이 행정명령·규제 경로로 옮겨가고 있다",
+      "아프리카 태양광이 대형 프로젝트에서 분산형 소규모 시스템 중심으로 빠르게 재편되고 있다"
+    ],
+    "structural_trends": [
+      "미국의 대중국 기술 봉쇄가 AI 칩·통신망·데이터 접근 전방위로 확대되는 구조로 굳어지고 있다",
+      "AI 데이터센터의 전력·배출 문제가 빅테크의 탄소중립 목표와 충돌하는 구조적 모순이 심화되고 있다",
+      "자율무기 기술 발전 속도가 국제 외교 규범 속도를 압도하는 군비경쟁 구도가 형성됐다",
+      "미·중·러 강대국 지정학이 중소국과 국제기구를 협상 외부로 밀어내는 패턴이 반복되고 있다",
+      "AI가 교육·수학·의학·군사 등 비기술 영역에 동시다발로 침투하면서 제도와 규범이 뒤처지는 현상이 가속되고 있다",
+      "기후 협상에서 화석연료국과 취약국 사이의 재원 갈등이 반복적으로 합의를 무너뜨리는 구조가 고착되고 있다"
+    ],
+    "what_changed_today": [
+      "러시아 화물선이 발트해에서 드론 피격 후 핀란드 영해로 진입하며 전쟁이 핀란드 접경까지 번졌다",
+      "COP31이 최종 합의 없이 공식 종료됐다",
+      "앤트로픽 연구자의 리만 가설 AI 증명 주장이 Lean 커뮤니티의 형식 검증 주장과 맞물려 수학계 논쟁으로 번졌다",
+      "한국 교육부 장관이 AI 부정행위 사태 책임을 지고 사임했다",
+      "이란의 걸프 공격이 재점화되며 바레인 산업시설 피격과 호르무즈 유조선 피격이 동시 보고됐다",
+      "트럼프·푸틴·시진핑 선전 3자 정상회담 결과가 '구체 성과 없음'으로 평가되며 우크라이나·유럽의 배제 비판이 커졌다"
+    ],
+    "what_to_watch_next": [
+      "핀란드 영해에 표류한 러시아 화물선의 처리 방식과 나토의 대응 여부",
+      "리만 가설 AI 증명 주장에 대한 수학계 독립 검증 착수 여부와 Lean 커뮤니티 결과 확인",
+      "COP31 결렬 이후 주요국의 개별 기후 목표 수정 혹은 협상 재개 움직임",
+      "젠슨 황의 상원 증언 내용과 엔비디아 주가·거버넌스에 대한 후속 영향",
+      "이란의 걸프 공격 확대 여부와 미국의 군사적 대응 범위",
+      "선전 3자 회담 이후 트럼프-젤렌스키 충돌 심화 여부와 유럽 안보 협의 진행 방향"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "트럼프·푸틴·시진핑 선전 3자 회담, 상징적 선언뿐…우크라이나·유럽은 협상 밖으로 밀려났다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "11월 19일 중국 선전에서 시진핑·트럼프·푸틴이 처음으로 3자 정상회담을 열었다. 유엔 개혁·에너지 안보·핵 위험 감소를 담은 4개항 선언을 발표했으나 실질적 대타협은 없었다는 평가가 지배적이다. 트럼프가 푸틴을 '친구'라고 부르자 젤렌스키는 즉각 푸틴을 '살인자'라고 반박했다.",
+        "why_it_matters": "냉전 이후 처음으로 미·러·중 3국 정상이 한자리에 모였다는 사실 자체가 국제 질서 재편의 신호다. 이 회담에서 우크라이나와 유럽 동맹국이 완전히 배제됐다는 점은 향후 안보 협상의 판도를 근본적으로 바꿀 수 있다.",
+        "what_is_changing": "기존에는 우크라이나 전쟁 협상이 나토·미국·우크라이나 중심으로 논의됐지만, 이제 미국이 중국·러시아와 별도 채널을 가동하며 서방 동맹 구조 밖에서 큰 그림을 그리는 흐름이 가시화되고 있다.",
+        "connection": "로위연구소 2026 아시아 파워 지수는 미국의 정책 실책으로 미·중 영향력 격차가 기록적으로 좁혀졌다고 분석했다. 모디 인도 총리의 마닐라 아세안 다자외교 행보는 이 구도에서 인도가 독자 노선을 추구한다는 신호로 읽힌다.",
+        "signal": "강대국 3국이 별도 협의 채널을 갖기 시작했다는 것은 2차 세계대전 이후 유지된 다자 국제 질서의 균열을 드러내는 초기 신호다.",
+        "what_to_watch": "트럼프-젤렌스키 갈등 심화 여부, 유럽의 독자 안보 협의 가속화 여부, 선전 선언이 실질 협정으로 이어지는지"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "우크라이나와 유럽이 배제된 협상 구도는 나토 결속을 약화시키는 압력으로 작용하며, 러시아의 외교적 고립 해소에 의도치 않게 기여할 수 있다는 우려가 나온다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "에너지 안보를 의제에 포함한 것은 미국과 러시아의 에너지 거래 재개 가능성을 열어두는 신호로 읽히며, 유럽의 에너지 공급 다변화 전략에 변수가 된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+          "region": "미국"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
+          "region": "홍콩"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+          "region": "미국"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+          "region": "영국"
+        }
+      ]
+    },
+    {
+      "headline": "전쟁이 발트해로 번졌다: 핀란드만에서 러시아 화물선이 드론 공격을 받고 핀란드 영해로 표류했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "러시아 군수 물류 기업과 연관된 화물선이 핀란드만에서 드론 공격을 받아 불이 붙은 채 핀란드 영해로 표류했다. 핀란드 국방군은 우크라이나 배후 가능성을 언급했으나 책임 소재는 미확인이다. 핀란드 정부는 '전쟁이 확산되고 있다'고 경고했다.",
+        "why_it_matters": "전장이 흑해와 우크라이나 본토를 넘어 나토 접경 해역으로 확장됐다는 점에서 전쟁의 성격 자체가 달라지고 있다. 핀란드가 나토 회원국이기 때문에 영해 내 사고는 집단방위 조항을 촉발할 잠재적 위험을 내포한다.",
+        "what_is_changing": "이전에는 발트해가 러시아의 '그림자 선단' 활동 무대로만 인식됐지만, 이제는 직접 타격 대상이 되며 북유럽 해역 전체의 안보 방정식이 바뀌고 있다.",
+        "connection": "독일 IG Metall 파업, 프랑스 생활비 시위 등 유럽 내 사회 불안이 고조되는 상황에서 군사 긴장까지 겹치며 유럽 전반의 위기 관리 역량이 시험대에 올랐다.",
+        "signal": "민간 선박이 전쟁 타격 대상이 되는 패턴이 반복되면서 해상 무역로 전반에 대한 보험·물류 리스크가 급상승할 수 있다.",
+        "what_to_watch": "핀란드 정부의 외교적 항의 수위, 나토의 집단 대응 여부, 선박 소유·운항 주체 조사 결과"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "나토 영해 내 사고로 집단방위 조항 적용 논쟁이 불거질 경우 나토 내 결속력과 에스컬레이션 관리 능력이 동시에 시험받는다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "발트해 항로를 이용하는 무역과 에너지 운송에 대한 보험료 상승, 항로 우회 비용이 북유럽 경제에 단기 충격을 줄 수 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
+          "region": "유럽"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "region": "영국"
+        }
+      ]
+    },
+    {
+      "headline": "COP31이 화석연료 문구 없이 결렬됐다: 기후 외교는 왜 같은 자리에서 반복해 무너지는가",
+      "trend_status": "Structural",
+      "insight": {
+        "what_happened": "튀르키예 안탈리아에서 열린 COP31이 기록적인 연장 끝에 합의 없이 종료됐다. 최종 초안에서 화석연료 감축 문구가 빠졌고, EU와 군소도서국은 이를 거부했다. 미국 공식 대표단은 협상에 참석하지 않았다.",
+        "why_it_matters": "화석연료 단계적 축소라는 핵심 의제가 또다시 삭제된 것은 2015년 파리협정 이후 형성된 기후 협상의 기본 토대가 흔들리고 있음을 보여준다. 취약국의 기후 재원 요구와 선진국의 이행 우선 주장이 평행선을 달리며 협상 구조 자체가 고착됐다.",
+        "what_is_changing": "과거 COP는 불완전하더라도 최소한의 공동 문서를 만들어 왔으나, 이번처럼 아예 합의문 없이 끝난 것은 기후 다자주의의 작동 방식이 바뀌고 있다는 신호다.",
+        "connection": "중국이 COP31에서 전기화 추진과 타국 지원을 약속한 것은 협상 결렬과 별개로 중국이 청정에너지 외교에서 주도권을 굳히려는 행보다. 영국의 탄소중립 전환이 중국 공급망에 취약하다는 보고서와 맞물려 에너지 안보가 기후 정책의 핵심 변수로 부상했다.",
+        "signal": "COP 체계가 반복적으로 교착 상태에 빠지면서 각국이 양자·지역 협력으로 기후 행동을 옮기는 '기후 협상의 탈다자화' 흐름이 가속될 수 있다.",
+        "what_to_watch": "EU의 독자 탄소 규범 강화 여부, 아프리카 국가들의 별도 재원 요구 채널 구축 가능성, 다음 COP 의장국 선정"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "산유국이 의장국 역할을 맡을 때마다 화석연료 문구가 약화되는 패턴이 반복되며, 협상 구조 개혁 없이는 같은 결과가 반복될 것이라는 비판이 나온다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "합의 실패는 탄소 가격 불확실성을 높여 저탄소 투자 결정을 지연시키고, 에너지 전환 비용을 장기적으로 키울 수 있다."
+        },
+        {
+          "frame": "Social View",
+          "summary": "기후 취약국 주민과 군소도서국은 협상 실패의 직접적 피해를 받으며, 이는 선진국에 대한 기후 정의 요구를 더욱 강화할 것이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
+          "region": "유럽"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+          "region": "인도"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
+          "region": "유럽"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772",
+          "region": "오세아니아"
+        }
+      ]
+    },
+    {
+      "headline": "AI 기술주·비트코인 동반 폭락: 위험자산 전반이 조정 국면에 진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "S&P 500과 다우지수가 최고치 대비 10% 하락해 조정 국면에 진입했고, 나스닥은 연초 이후 상승분을 모두 반납했다. 앤트로픽은 나스닥 역대급 IPO를 완료했음에도 상장 이틀째 주가가 하락했다. 비트코인은 2년 만에 처음으로 5만 7천 달러 아래로 떨어졌다.",
+        "why_it_matters": "AI 주도 강세장이 약 2년 만에 처음으로 의미 있는 되돌림을 경험하고 있다. 기술주 매도가 주식·코인·ETF 등 위험자산 전반으로 번지며 단순 섹터 조정이 아닌 광범위한 투자 심리 전환일 가능성이 제기된다.",
+        "what_is_changing": "AI 기업 가치에 대한 무조건적 낙관론이 수익성과 실행 능력에 대한 질문으로 전환되고 있다. 기업들이 자사주 매입보다 신주 발행을 늘리는 흐름은 자금 조달 환경 변화를 반영한다.",
+        "connection": "엔비디아 전 CEO 젠슨 황의 의회 증언·소환장 사태와 맞물려 AI 반도체 공급망의 지정학적 리스크가 기업 가치에 직접 반영되고 있다.",
+        "signal": "AI 인프라 투자 붐이 실제 수익 창출 단계로 이행하지 못하면 2000년 닷컴 버블과 유사한 조정이 올 수 있다는 경고가 현실성을 얻고 있다.",
+        "what_to_watch": "앤트로픽·엔비디아 등 AI 대장주의 단기 주가 흐름, 연준의 금리 경로 변화 여부, 기관 투자자의 AI 섹터 비중 조정"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "조정이 단기 차익 실현인지 AI 거품 붕괴의 초입인지가 갈리는 지점이며, 소비 지출과 기업 투자 심리에 미치는 2차 효과가 관건이다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "AI 스타트업들이 IPO 직후 주가 하락을 경험하면서 2027년 예정된 대형 AI 기업 상장 계획에도 차질이 생길 수 있다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "투자자들이 AI 모델 성능이 아닌 수익 모델과 인프라 비용 효율로 평가 기준을 옮기기 시작했다는 신호로 읽힌다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+          "region": "미국"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+          "region": "미국"
+        },
+        {
+          "source": "CoinDesk",
+          "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+          "region": "글로벌"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "region": "유럽"
+        }
+      ]
+    }
+  ]
+}
