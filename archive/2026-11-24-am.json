@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-24",
+  "session": "am",
+  "time": "04:03",
+  "global_picture": {
+    "world_right_now": [
+      "COP31이 17년 만에 합의문 없이 결렬되며 기후 외교의 구조적 위기가 가시화됐다",
+      "우크라이나가 리비아 항구와 발트해에서 러시아 선박을 연속 타격하며 전쟁의 지리적 경계가 사라지고 있다",
+      "엔비디아 이사회가 간첩 의혹 속 사임한 젠슨 황을 11일 만에 복귀시켰고 트럼프의 직접 개입이 확인됐다",
+      "미국 중간선거에서 민주당이 258석으로 1992년 이후 최대 하원 다수당 지위를 확보했다",
+      "이란이 미국의 해상 봉쇄를 '군사적 침략'으로 규정하고 가용한 모든 수단으로 대응하겠다고 선언했다",
+      "AI 주식 거품이 붕괴 직전까지 꺼진 가운데 CrowdStrike가 Zscaler를 440억 달러에 인수하며 AI 보안 분야 대형 재편이 시작됐다",
+      "한국 교육부 장관이 수능 AI 부정행위 대응 혼란 끝에 사퇴하며 AI 시대 입시 제도 개혁 논쟁이 불붙었다",
+      "타지키스탄이 미국 압박 속에 ICC를 탈퇴해 국제법 체계의 균열이 심화되고 있다",
+      "미국이 25년 이상 유지한 홍역 퇴치 지위를 상실하며 공중보건 위기 신호가 켜졌다",
+      "벨기에 전국 총파업으로 긴축 반대 물결이 유럽 전역으로 확산될 조짐을 보이고 있다"
+    ],
+    "emerging_signals": [
+      "우크라이나 해상 드론이 지중해·발트해를 동시에 타격하며 전쟁의 비대칭 무기 패러다임이 완성 단계에 접어들고 있다",
+      "트럼프가 엔비디아 이사회 결정에 직접 개입하면서 미국 빅테크 지배구조가 정치화되는 전례를 만들었다",
+      "메타가 2030 넷제로 목표를 철회하며 AI 데이터센터 탄소 배출 급증이 빅테크 기후 공약을 무너뜨리기 시작했다",
+      "순 제로를 넘어 순 마이너스 배출로의 정책 전환 논의가 COP31 결렬 이후 가속될 가능성이 높다",
+      "M23 반군이 드론 공습 능력을 갖추며 아프리카 비국가 무장단체의 무기화 수준이 국가군 수준에 근접하고 있다"
+    ],
+    "structural_trends": [
+      "기후 협상의 주요 쟁점이 감축 목표 설정에서 화석연료 명시 여부로 굳어지며 이해충돌 구조가 고착화되고 있다",
+      "전쟁의 전선이 드론으로 인해 비선형·초지역적으로 변하며 NATO 집단방위 의무의 적용 범위가 시험받고 있다",
+      "AI 간첩·수출규제 리스크가 기업 지배구조 문제로 전환되며 반도체·AI 기업의 CEO 리스크가 국가안보 쟁점이 됐다",
+      "ICC 탈퇴 국가가 늘어나고 미국이 유네스코 등 국제기구에서 이탈하며 다자주의 체제가 구조적으로 약화되고 있다",
+      "AI 공급망의 보안 취약점이 실험으로 확인되며 AI 서비스 전반에 대한 규제·신뢰 문제가 본격화되고 있다"
+    ],
+    "what_changed_today": [
+      "어제 발트해 단일 타격에서 오늘은 리비아 군함 침몰 확인 및 발트해 추가 피격으로 우크라이나 해상 작전 범위가 지중해까지 확인됐다",
+      "어제 COP31 결렬 가능성에서 오늘은 17년 만의 첫 합의 없는 공식 폐막으로 확정됐다",
+      "어제 AI 기술주 폭락 국면에서 오늘은 젠슨 황 복귀 및 트럼프 개입 확인으로 엔비디아 주가가 27~33% 반등했다",
+      "트럼프·시진핑 선전 회담 이후 보잉 대규모 주문 미확정이 재확인되며 중국이 무역 협상 카드를 여전히 보유 중임이 드러났다"
+    ],
+    "what_to_watch_next": [
+      "젠슨 황의 다음 주 상원 청문회 증언 내용과 Megaspeed·Alice Huang 수출통제 조사 진행 여부",
+      "COP31 결렬 이후 주요국의 독자 기후 행동 발표 혹은 국제 기후 외교 재설계 논의 시작 여부",
+      "러시아가 우크라이나의 리비아·발트해 공격에 대해 대칭적 보복을 선택하는지 아니면 외교적 경로로 전환하는지",
+      "이란의 미국 해상 봉쇄 대응이 실제 군사 충돌로 이어지는지, 호르무즈 해협 LNG 운송 재개 시점",
+      "미국 민주당의 하원 258석 다수 확보가 트럼프 2기 주요 입법에 미치는 첫 번째 실질적 충돌 국면"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "우크라이나 드론이 리비아 항구와 발트해를 동시에 타격하며 전쟁의 지리적 경계가 사라지고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우크라이나 보안국은 11월 22일 새벽 모함에서 발진한 드론 7기로 리비아 벵가지 항구에 정박 중이던 러시아 코르벳함을 침몰시켰다고 밝혔다. 같은 주말 핀란드만에서는 러시아행 화물선이 드론 공격을 받아 예인됐으며, 핀란드 국방군은 우크라이나 소행일 가능성이 크다고 판단했다. 젤렌스키 대통령은 두 작전 모두 공개 평가했고, 크렘린은 직접 논평을 피하면서도 위험한 흐름을 경고했다.",
+        "why_it_matters": "우크라이나 전선에서 약 2,400km 떨어진 지중해와 NATO 접경인 발트해에서 동시에 러시아 선박이 타격받았다는 사실은 이 전쟁이 더 이상 고정된 전선 개념을 벗어났음을 보여준다. 단순한 군사 성과를 넘어 러시아 해군의 작전 반경 전체가 취약하다는 메시지를 국제사회에 전달하는 전략적 선언에 가깝다.",
+        "what_is_changing": "기존 우크라이나 전쟁은 동부 지상 전선과 흑해 드론 공격으로 프레임됐으나, 이제는 지중해·북해·발트해로 범위가 확장됐다. NATO 회원국 인근 해역에서의 타격은 집단방위 의무 적용 범위를 둘러싼 법적·정치적 논쟁을 가속시킨다.",
+        "connection": "리비아 타격은 하프타르 세력의 항구를 무력화하며 북아프리카 지정학에도 영향을 미친다. 핀란드만 사건은 핀란드가 러시아 대사를 초치한 영공 침범 의혹과 맞물려 북유럽 안보 긴장을 추가로 높이고 있다. NATO 의회총회 역시 같은 시기 베를린에서 러시아 영공 침범 대응을 논의했다.",
+        "signal": "해상 드론이 선박을 침몰시키는 단계에서 대양 간 전략 타격 수단으로 진화한 첫 번째 확인 사례다. 비국가 행위자가 아닌 전시 국가가 적의 해군 자산을 타국 항구에서 원격 파괴하는 전례는 국제법과 전쟁 규범에 새로운 질문을 던진다.",
+        "what_to_watch": "러시아의 대응 방식(보복 타격 vs 외교적 항의 vs 침묵), UN 조사 요구의 실제 진행 여부, NATO 회원국들이 이 사건을 집단방위 논의에 연결시키는지 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "우크라이나가 국제사회에 '우리는 어디서든 공격할 수 있다'는 메시지를 보내는 전략적 외교 행위로 읽힌다. NATO 동맹국들은 이 성과를 환영하면서도 확전 우려라는 복잡한 입장을 동시에 관리해야 하는 처지다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "소형 해상 드론이 수천 킬로미터를 항행해 군함을 침몰시킨 것은 저비용 무기 체계가 고비용 해군 자산의 취약성을 근본적으로 바꾸고 있다는 증거다. 향후 모든 해군 강국이 항구 방어와 반드론 역량 투자를 재검토할 것이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+          "region": "Europe"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "France24 English",
+          "link": "https://www.france24.com/en/video/20261123-ukraine-sending-the-message-that-we-can-attack-you-where-we-want",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "COP31이 17년 만에 합의문 없이 폐막했다: 기후 외교 체계가 설계대로 작동하고 있다는 비판이 나온다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "튀르키예 안탈리아에서 열린 COP31이 2009년 코펜하겐 이후 처음으로 최종 합의문을 도출하지 못하고 폐막했다. 핵심 쟁점은 화석연료 단계적 감축 문구의 포함 여부였으며, EU와 약 130개국은 해당 문구가 빠진 의장국 초안을 거부했다. 인도·중국·사우디아라비아 등은 반대 진영을 형성했고, 협상은 예정보다 이틀 초과한 역대 최장 기간으로 이어졌다.",
+        "why_it_matters": "화석연료를 직접 명시한 2023년 UAE 합의(COP28)에서 한 걸음 후퇴한 결과가 나왔다. 기후 취약국인 아프리카·태평양 도서국들은 재정 지원도 없고 감축 약속도 없는 상황에서 가장 큰 피해를 떠안게 됐다. 옥스팜 등 단체가 가자지구를 '독성 황무지'로 묘사하는 보고서를 내놓는 시점과 맞물려 기후 정의 담론이 더 강해질 것이다.",
+        "what_is_changing": "COP 협상이 더 이상 단계적 진전 모델로 작동하지 않는다는 사실이 공개적으로 확인됐다. 중국은 이번 회의에서 2035년 에너지 35% 전기화를 독자적으로 촉구하며 다자 협상 대신 양자·소다자 행동으로의 전환 가능성을 시사했다.",
+        "connection": "COP31 결렬은 메타의 2030 넷제로 목표 철회, AI 데이터센터 배출량 급증과 겹치면서 민간 부문의 기후 공약 후퇴 흐름과 동시에 발생했다. 순 제로를 넘어 순 마이너스 배출로의 전환 논의가 가속될 가능성이 높다.",
+        "signal": "다자 기후 외교가 화석연료 이익을 보호하도록 설계되어 있다는 구조 비판이 주류 담론으로 올라서는 전환점이 될 수 있다. 향후 소수 주요국 간 기후 클럽 형태의 별도 체계가 모색될 가능성이 높다.",
+        "what_to_watch": "COP31 이후 주요국의 독자 기후 행동 발표 여부, 2027년 COP32 개최지 및 의장국 협상, 중국의 전기화 목표가 실제 국제 연대로 이어지는지 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "화석연료 수출국과 에너지 전환 비용을 감당하기 어려운 개발도상국이 연대해 감축 명시를 막는 구조가 반복됐다. 선진국의 기후 재정 약속 불이행이 개도국의 협상 거부 명분을 강화하는 악순환이 고착화되고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "합의 없는 COP는 탄소 가격 불확실성을 높여 기업의 저탄소 투자 결정을 지연시킨다. 반면 중국의 독자 전기화 목표는 태양광·배터리 공급망을 지배한 중국 기업에게 추가적인 시장 선점 기회를 제공한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss",
+          "region": "Middle East"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+          "region": "India"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+          "region": "Global"
+        }
+      ]
+    },
+    {
+      "headline": "트럼프가 엔비디아 이사회 결정에 직접 개입해 젠슨 황을 복귀시켰다: 빅테크 지배구조가 정치화되는 전례가 만들어졌다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "엔비디아 이사회는 11월 23일 만장일치로 젠슨 황 CEO를 11일 만에 복귀시켰다. 황 CEO는 사내 불륜 관계 중 한 명이 중국 정보기관 접촉 의혹을 받으면서 사임했다. 트럼프 대통령은 이사회 회의에 전화로 참여해 복귀를 지지했으며, 미국 정부는 불법 행위 증거가 없다는 보증을 제공했다고 밝혔다. 엔비디아 주가는 27~33% 급반등했으나 상원 청문회는 예정대로 진행된다.",
+        "why_it_matters": "세계 시가총액 최상위 AI 반도체 기업의 CEO 복귀를 현직 대통령이 공개적으로 주도한 것은 기업 지배구조와 국가권력 경계에 대한 전례가 없는 사례다. 황 CEO는 수출통제 조사와 중국 간첩 의혹이라는 미해결 리스크를 안고 복귀했으며, 이는 미국 반도체 정책의 집행과 AI 패권 경쟁에 직접 영향을 미친다.",
+        "what_is_changing": "기존에는 정부가 기업 지배구조에 간접적으로 영향을 미쳤다면, 이번 사례는 대통령이 이사회 의사결정에 직접 참여한 사례로 기록됐다. 이와 동시에 AI 반도체 기업 경영진의 중국 연계 의혹이 국가안보 사안으로 처리되는 새로운 기준이 형성됐다.",
+        "connection": "SK하이닉스 ADR이 같은 날 20% 이상 급등한 것은 엔비디아 공급망 전반에 대한 시장의 연동 반응을 보여준다. CrowdStrike의 Zscaler 440억 달러 인수 역시 같은 날 발표돼 AI 인프라·보안 분야의 대형 재편이 동시다발적으로 진행되고 있다.",
+        "signal": "미국 정부가 첨단 반도체 기업 CEO를 사실상 임명하거나 복귀시킬 수 있는 선례가 생겼다. 향후 AI·반도체 기업 경영진의 중국 연계 의혹은 사업 리스크가 아닌 안보 리스크로 분류되어 훨씬 빠른 속도로 처리될 가능성이 높다.",
+        "what_to_watch": "젠슨 황의 상원 청문회 증언 내용, Megaspeed와 Alice Huang에 대한 수출통제 조사 결과, 다른 빅테크 기업들이 유사 압박에 어떻게 반응하는지"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프가 AI 패권 유지를 위해 기업 지배구조에 직접 개입한 것은 국가 주도 산업정책의 성격을 띤다. 민주당 슈머 원내대표의 조사 요구는 대통령의 국가안보 주장과 사적 이익 혼용 가능성을 겨냥하고 있다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "황 CEO 복귀로 주가는 단기 반등했으나, 수출통제 조사와 상원 청문회라는 불확실성은 여전하다. 투자자 입장에서 이번 사태는 AI 반도체 업계 최고위 인사도 지정학 리스크에서 자유롭지 않다는 사실을 각인시켰다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "황 CEO가 미중 기술 전쟁 속에서 수출통제 조사를 안고 복귀한다는 것은 엔비디아의 중국 사업 전략에 근본적 제약이 가해졌음을 의미한다. AI 가속기 공급망의 미국 내 집중화 압력이 더 강해질 전망이다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+          "region": "미국"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+          "region": "미국"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "region": "미국"
+        },
+        {
+          "source": "Economic Times (India)",
+          "link": "https://economictimes.indiatimes.com/opinion/et-commentary/nvidias-huang-comeback-exposes-the-weakness-of-big-tech-governance/articleshow/136112116.cms",
+          "region": "인도"
+        }
+      ]
+    },
+    {
+      "headline": "미국 중간선거에서 민주당이 258석으로 1992년 이후 최대 하원 다수를 확보하며 트럼프 2기 입법에 실질적 제동이 걸렸다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "미국 연방 하원 선거에서 민주당이 최소 258석을 확보해 1992년 이후 가장 큰 다수당 지위를 얻었다. 노스캐롤라이나를 포함해 최소 47석을 뒤집었으며 최종 49석까지 늘어날 가능성이 있다. 공화당은 최소 173석에 머물고 있다.",
+        "why_it_matters": "트럼프 대통령이 추진하는 이민법, 세금 감면 연장, 무역 관세 정책 등 주요 입법 아젠다에 하원이 실질적 거부권을 행사할 수 있는 구도가 됐다. 단순 거버넌스 문제를 넘어 2028년 대선 지형을 결정할 모멘텀이 형성됐다는 평가다.",
+        "what_is_changing": "트럼프 1기 초반처럼 의회를 완전히 장악한 상태에서 정책을 밀어붙이던 방식이 불가능해졌다. 이민 단속, 데이터센터 패널티, ESG 연금 규정 등 행정명령과 의회 입법이 충돌하는 국면이 빠르게 전개될 것이다.",
+        "connection": "시애틀 공항 ICE 체포 사건에 대한 주지사의 '통제 불능' 비판, 미국 시민권자 멕시코 추방 오류 법원 인정 등 연방-주 갈등이 이미 가시화된 상황에서 하원까지 야당이 장악하면 삼중 견제 구도가 완성된다.",
+        "signal": "미국 유권자들이 행정부 권한 집중에 대한 견제 의지를 선거로 표명한 것으로 해석된다. 향후 미국 국내 정치의 교착이 외교·무역 정책의 불확실성으로 번질 가능성이 높다.",
+        "what_to_watch": "민주당 하원 다수가 트럼프 행정부 주요 예산안·법안에서 첫 번째로 충돌하는 사안, 스페이스X 군사 계약 예산 문제를 포함한 의회 조사 확대 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "민주당의 압승은 반트럼프 연대의 결집으로 읽히지만, 동시에 민주당 내 진보·중도 갈등이 본격화될 신호이기도 하다. 하원 다수는 의제 설정권을 의미하므로 위원회 조사권 행사가 2027년 전반기의 주요 변수가 될 것이다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "의회 교착이 예산안 처리를 지연시키면 미국 국채 신용등급 우려와 달러 변동성이 재부상할 수 있다. 반면 트럼프의 일방적 관세 조치에 의회 견제가 더해지면 무역 상대국들에게는 협상 여지가 생긴다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "NPR News",
+          "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+          "region": "North America"
+        }
+      ]
+    }
+  ]
+}
