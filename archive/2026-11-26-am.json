@@ -1,0 +1,233 @@
+{
+  "date": "2026-11-26",
+  "session": "am",
+  "time": "02:53",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프 행정부가 대법원 위헌 판결을 우회해 중국·EU·인도 등 14~16개 교역국을 겨냥한 새 관세를 발동, 글로벌 무역 긴장이 재점화됐다",
+      "우크라이나가 리비아 벵가지 항구에서 러시아 군함을 타격하며 전쟁의 무대가 아프리카 해역으로 확대됐고 리비아군 사망자가 발생했다",
+      "AI 관련 주식이 급락하고 앤트로픽 주가가 공모가 아래로 떨어지면서 2조 달러대로 부풀었던 AI 밸류에이션에 첫 균열이 생겼다",
+      "후티 반군이 사우디 라스타누라 정유시설을 공격해 국제유가가 2% 이상 급등하고 영국은 1월 에너지 요금을 26% 인상한다고 확정했다",
+      "EU가 양자·AI 스타트업에 500억 유로 주권 기술 펀드를 제안하며 미중 기술 경쟁에 맞선 독자 대응에 나섰다",
+      "일본은 연간 물가 상승률 3.5%로 금리 인상 근거가 강화됐고 방위비를 70조 엔으로 늘릴지 60조 엔에 묶을지를 두고 연립정부 균열이 깊어지고 있다",
+      "북한이 대북 제재를 이유로 스위스 외교관을 추방하고 평양 사무소 폐쇄를 요구하면서 대화 창구가 다시 닫혔다",
+      "콩고민주공화국 에볼라가 5,800명 이상 사망자를 내며 허위정보로 치료 기피가 확산되고 여성 폭력도 동반 급증하고 있다",
+      "IBM과 시카고대가 양자컴퓨터로 고전 컴퓨팅의 현실적 한계를 넘는 계산을 15분 만에 완료하는 데 성공했다",
+      "미국에서 홍역 사망자가 14명으로 늘고 누적 환자가 6천 명에 근접하며 백신 불신의 공중보건 대가가 가시화되고 있다"
+    ],
+    "emerging_signals": [
+      "AI·인간 협업으로 리만 가설 증명이 제시됐고 OpenAI도 행렬곱 복잡도 돌파를 주장하며 수학·과학 연구에서 AI의 역할이 임계점에 다가서고 있다",
+      "이란 연계 조직이 수십 척 유조선과 슈퍼마켓 냉동 설비를 동시에 사이버 공격하면서 에너지 인프라 사이버 복합 위협이 새로운 형태로 진화하고 있다",
+      "중국 PLA가 AI 기반 충성 윙맨 드론을 전투기 조종사 훈련에 일상 통합하며 유무인 복합전 준비가 실전 단계로 접어들고 있다",
+      "이란이 호르무즈 해협에서 기뢰 위협을 활성화하며 중동 전쟁의 에너지 봉쇄 국면이 새로운 단계로 넘어갈 가능성이 생겼다",
+      "북한 연계 IT 인력이 캐나다 주 정부 계약에 침투한 사례가 확인되면서 국가 배후 위장 취업 위협이 서방 공공 부문으로 확산되고 있다"
+    ],
+    "structural_trends": [
+      "미국 관세 무기화가 사법 견제 이후에도 행정 우회로 지속되면서 글로벌 무역 규칙이 사실상 행정 재량에 종속되는 구조로 바뀌고 있다",
+      "우크라이나 전쟁이 러시아 사망자 50~70만 명 규모의 인구 충격으로 러시아의 장기 국력 기반 자체를 잠식하고 있다",
+      "EU·일본·인도가 각각 기술 주권 펀드·AI 안보문서 명시·제조업 보조금으로 국가 주도 산업정책을 경쟁적으로 강화하는 중이다",
+      "COP31 결렬 이후에도 기후 손실·피해 기금이 약속만 있고 실제 자금이 없는 상태가 지속되면서 기후 취약국의 적응 역량이 체계적으로 약화되고 있다",
+      "AI 주식 거품 조정, 앤트로픽 IPO가 공모가 아래로 추락하면서 AI 기업 밸류에이션 재설정 국면이 시작됐다"
+    ],
+    "what_changed_today": [
+      "엔비디아 사태가 어제 거버넌스·외교 위기로 규정됐던 데서 오늘 시장 매도세·의회 조사·앨리스 황 스파이 의혹 불식으로 국면이 분산되며 복잡해졌다",
+      "우크라이나의 타격 범위가 어제 '아프리카까지 확대' 단계에서 오늘 리비아군 사망자 발생과 리비아의 보복 시사로 제3국 충돌 위험이 현실화됐다",
+      "COP31 관련 흐름이 어제 EU의 유엔 협상 구조 압박 선언에서 오늘 기후재원 불균형과 화석연료 문구 논쟁으로 쟁점이 구체화됐다",
+      "유럽 에너지 위기가 어제 가스 가격 급등 경보에서 오늘 영국 Ofgem의 1월 26% 요금 인상 확정으로 소비자 타격이 현실이 됐다"
+    ],
+    "what_to_watch_next": [
+      "트럼프 신규 관세에 대한 중국·EU의 보복 조치 시한과 WTO 제소 여부",
+      "리비아 당국의 대응 및 하프타르 군이 우크라이나·러시아 어느 쪽에 추가 접근할지 여부",
+      "후티의 사우디 라스타누라 추가 공격 가능성과 브렌트유 95달러 돌파 여부",
+      "일본은행 12월 금리 결정과 방위비 60조 대 70조 엔 연립정부 최종 협상 결과",
+      "앤트로픽·오픈AI 등 AI 스타트업 밸류에이션이 추가 하락할지, 연준 12월 금리 인상이 시장에 추가 충격을 줄지",
+      "AI·인간 협업 리만 가설 증명의 동료 검토 결과 발표"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "트럼프, 대법원 위헌 판결 직후 14~16개국 신규 관세 발동…무역전쟁 2라운드 개막",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미국 대법원이 기존 광범위한 수입 관세를 위헌으로 무효화한 뒤, 트럼프 행정부는 무역법 301조를 근거로 중국·EU·인도·브라질·베트남 등 14~16개 교역국을 대상으로 최대 20~35%의 신규 관세를 제안했다. 명분은 과잉 산업 생산능력이며, 인도에는 협정 타결 시 25%를 17%로 낮추는 선택지도 제시됐다. 중국은 즉각 경고를 보냈고 EU도 반발했다.",
+        "why_it_matters": "사법부 견제를 행정 우회로 무력화한 첫 사례로, 글로벌 무역 규칙이 사실상 행정 재량에 종속될 수 있음을 보여줬다. 이미 높은 인플레이션에 시달리는 미국 소비자에게 추가 물가 부담이 생기고, 교역국들의 보복 연쇄가 시작될 가능성이 크다.",
+        "what_is_changing": "기존에는 관세가 국가안보·특정 산업 보호 명목으로 활용됐지만, 이제는 '과잉 생산'이라는 광범위한 조사 결과를 근거로 거의 모든 주요 교역국을 한꺼번에 타겟으로 삼는 방식으로 바뀌었다. WTO 체제 무력화가 사실화되고 있다.",
+        "connection": "트럼프-시진핑 정상회담 불과 1주일 뒤 나온 조치로 양국 무역 휴전이 흔들리고 있으며, EU의 500억 유로 기술 주권 펀드와 인도의 제조업 육성 정책 등 각국 자립 대응을 가속화할 것으로 보인다.",
+        "signal": "관세가 외교 도구에서 상시적 경제 압박 수단으로 제도화되는 흐름이며, 사법 통제마저 행정 재량으로 우회되는 구조적 변화의 초기 신호다.",
+        "what_to_watch": "중국·EU의 보복 조치 시한, WTO 제소 여부, 인도와의 무역협정 협상 진전, 멕시코에 대한 판단 유보 해제 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "추가 관세는 미국 소비자의 연휴 시즌 지출을 압박하고 PCE 물가 상승을 더 자극할 수 있다. 연준의 12월 금리 인상이 이미 반영된 상황에서 무역 충격이 겹치면 경기 연착륙 경로가 좁아진다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "대법원 무효화를 행정으로 뒤집는 방식은 삼권분립 긴장을 고조시키며, 임기 말 레임덕 논란과 맞물려 관세 위협의 실효성에 대한 의구심이 국내외에서 동시에 커지고 있다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "기업들은 공급망 재편 계획을 다시 짜야 한다. 중국 대체지로 주목받았던 베트남과 인도도 이번 조치에 포함되면서 '차이나 플러스 원' 전략의 안전판이 흔들리고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3375801/us-proposes-new-20-tariffs-china-week-after-trump-xi-summit",
+          "region": "China"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target",
+          "region": "Middle East"
+        },
+        {
+          "source": "Rio Times",
+          "link": "https://www.riotimesonline.com/us-spares-mexico-new-tariff-proposal-excess-capacity-14-economies/",
+          "region": "Latin America"
+        }
+      ]
+    },
+    {
+      "headline": "우크라이나, 리비아 해역 러시아 군함 타격…전쟁이 아프리카 항구로 넘어왔다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "우크라이나 보안국이 해상 무인정 7기를 동원해 리비아 벵가지 항구 인근에서 러시아 코르벳함 메르쿠리를 침몰시키고 화물선도 타격했다고 밝혔다. 공격 과정에서 리비아 군 인력 2명이 사망했고, 리비아 측은 보복을 시사했다. 우크라이나 외교장관은 러시아 정유시설 공격 중단 조건으로 푸틴의 종전을 요구했다.",
+        "why_it_matters": "우크라이나-러시아 전쟁이 처음으로 아프리카 주권 국가 항구에서 직접 군사 충돌을 일으켰다. 중립국 리비아에서 제3국 사망자가 발생하면서 분쟁이 국제법적 복잡성을 띠게 됐다.",
+        "what_is_changing": "전쟁의 물리적 경계가 유럽·흑해를 넘어 지중해 남안으로 확장됐다. 러시아가 아프리카에 군사적 발판을 유지하는 한, 우크라이나는 그 발판 자체를 타격 대상으로 간주하겠다는 전략을 공개적으로 채택한 셈이다.",
+        "connection": "러시아는 리비아 하프타르 세력과 군사적으로 연결돼 있고, 하프타르는 벵가지 재건을 통치 정당성 수단으로 활용해 왔다. 이번 사건은 하프타르의 대러 관계 비용을 갑자기 높였다. 폴란드의 국경 비행금지구역 추진, 몰도바의 비상 대비 캠페인과 함께 전쟁의 지리적 충격파가 사방으로 퍼지고 있다.",
+        "signal": "해상 드론이 대양을 건너 적의 거점을 타격하는 선례가 만들어졌다. 이는 향후 분쟁국들이 원거리 해상 드론 작전을 정당한 전쟁 수단으로 채택할 가능성을 열었다.",
+        "what_to_watch": "리비아 하프타르 군의 보복 범위, 러시아의 외교적 대응, 나토 동맹국의 우크라이나 작전 지지 여부, 리비아 내 러시아 군사 존재의 추가 타격 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "우크라이나가 국제법상 중립 항구에서 작전을 감행한 것은 서방 동맹국과의 사전 조율 여부를 둘러싼 긴장을 낳는다. 나토 회원국 간 의견이 엇갈리고 있다는 보도도 나왔다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "러시아가 리비아를 에너지 수출과 아프리카 공급망의 중간 거점으로 활용해 왔던 만큼, 이번 타격은 러시아의 대유럽·대아프리카 에너지 우회로 다변화 전략에 타격을 준다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo",
+          "region": "Europe"
+        },
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+          "region": "Europe"
+        },
+        {
+          "source": "CBC News",
+          "link": "https://www.cbc.ca/news/world/ukraine-russia-libya-attack-9.7435192",
+          "region": "North America"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-25/ukraine-defends-attack-on-russian-ships-in-libya/107427720",
+          "region": "Oceania"
+        }
+      ]
+    },
+    {
+      "headline": "AI 주식 급락과 앤트로픽 IPO가 공모가 아래로…AI 버블 조정이 시작됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "엔비디아 등 AI 관련 주식이 급락하며 나스닥이 장 초반 4% 가까이 떨어지고 S&P 500도 2.7% 하락했다. 앤트로픽 주가는 IPO 공모가 아래로 내려앉았고, 예측시장에서 오픈AI의 2027년 6월 이전 IPO 확정 가능성도 낮아졌다. 이와 함께 미국 10월 PCE 물가가 연 3.8%로 가속해 12월 연준 금리 인상이 기정사실화됐다.",
+        "why_it_matters": "지난 2년간 AI에 쏟아진 수조 달러 규모의 투자 기대치가 처음으로 시장 가격에 의해 의문에 부쳐지고 있다. 금리 인상과 AI 지출 회의론이 겹치면서 AI 인프라 투자 사이클이 꺾일 수 있다.",
+        "what_is_changing": "AI는 '언제나 오르는 테마'에서 금리·수익성·실질 성과로 평가받는 일반 섹터로 넘어가는 전환점에 섰다. 벤치마크 연구들도 최고 성능 AI 모델조차 일상 작업을 안정적으로 완료하지 못한다는 결과를 내놓으며 과대 기대를 역풍이 불고 있다.",
+        "connection": "엔비디아 CEO 복귀 논란, 대중 AI 칩 규제 강화, 중국의 AI 칩 부족 지속과 맞물려 반도체 공급망 전반이 불확실성에 휩싸여 있다. 연준 워시 의장의 시장 신호 해석 문제도 함께 부각됐다.",
+        "signal": "AI 관련 기업 밸류에이션 조정은 데이터센터 건설, 전력망 투자, 클라우드 계약 등 AI 인프라 전반의 투자 속도 조절로 이어질 수 있는 구조적 초기 신호다.",
+        "what_to_watch": "12월 연준 금리 결정 이후 AI 주식 추가 하락 여부, 오픈AI IPO 일정 변화, 앤트로픽·주요 AI 스타트업의 차기 펀딩 조건"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "PCE 3.8% 가속과 금리 인상 기정사실화는 고성장·고평가 AI 주식에 직격탄이다. 비트코인도 6만 달러 아래로 밀리는 등 위험자산 전반이 동반 약세를 보였다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "AI 에이전트가 일상 작업에서 실패한다는 벤치마크 결과, Character.AI 파산 절차에서 사용자 채팅 데이터가 경매에 붙여지는 사태 등 AI 신뢰 위기가 시장 하락과 맞물리고 있다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "AI 스타트업들은 IPO 전 고평가를 받은 뒤 상장 후 하락이라는 패턴에 처음으로 직면했다. 투자자들이 수익화 가능성을 더 엄격하게 요구하기 시작한 신호로 읽힌다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+          "region": "Business"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "region": "US"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+          "region": "Business"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+          "region": "Europe"
+        }
+      ]
+    },
+    {
+      "headline": "후티 반군이 사우디 핵심 정유시설을 공격하고 이란이 호르무즈에 기뢰를 뿌리며 에너지 인프라가 전장이 됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "예멘 후티 반군이 사우디 라스타누라 정유시설 공격을 주장하며 화재가 발생했고 사우디는 드론 4기를 격추했다. 같은 날 리야드 금융지구도 일주일 사이 두 번째 공격을 받았다. 이란은 호르무즈 해협에서 선박들이 기뢰에 접촉했다며 통과 전 사전 조율을 경고했다. 국제유가는 2% 이상 급등해 브렌트유가 93달러대를 기록했다.",
+        "why_it_matters": "세계 원유 수출의 핵심 경로인 라스타누라와 호르무즈가 동시에 위협받으면서 에너지 공급 충격이 현실 가격에 반영됐다. 영국은 이미 1월 에너지 요금을 26% 인상하기로 확정했으며, 중동 위기가 전 세계 소비자 물가로 직결되는 경로가 가시화됐다.",
+        "what_is_changing": "에너지 인프라 공격이 분쟁의 주변 도구에서 핵심 전략 수단으로 격상됐다. 사이버 공격(이란 연계 조직이 유조선 수십 척 해킹)과 물리적 드론 공격이 결합되는 복합 에너지 위협 패턴이 등장했다.",
+        "connection": "후티의 아덴 60km 진격과 사우디 공격은 예멘 내전의 지형 변화와 맞물려 있다. LR2 클린탱커의 75%가 원유 운송으로 전환된 역대 최고 수준도 이 흐름을 반영한다. 영국 에너지 요금 인상과 미국 연휴 소비 위축도 같은 충격망 안에 있다.",
+        "signal": "이란-후티 연대가 에너지 봉쇄 카드를 체계적으로 사용하기 시작한 신호이며, 중동 긴장이 전 세계 에너지 가격의 상시 변동 요인으로 고착될 수 있다.",
+        "what_to_watch": "라스타누라 추가 공격 여부, 브렌트유 95달러 돌파 가능성, 호르무즈 통항 협상 결과, 사우디 방공망 추가 보강 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "브렌트유 93달러와 호르무즈 위기가 겹치면 선진국 중앙은행들은 에너지발 인플레이션을 금리로 잡기 더 어려운 딜레마에 빠진다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "후티가 사우디를 계속 공격하는 이면에는 이란의 지역 패권 전략이 있다. 미국-이란 간 긴장 수위가 호르무즈 카드 사용의 허용 한도를 결정하는 변수다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Over-2-as-Saudi-Arabia-Downs-Drones-Over-Ras-Tanura.html",
+          "region": "Energy"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage/article71743889.ece",
+          "region": "India"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Energy-General/UK-Energy-Bills-Set-to-Soar-26-as-Iran-War-Drives-Up-Gas-Prices.html",
+          "region": "Energy"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Is-Pushing-Record-Numbers-of-Fuel-Tankers-Into-Crude-Trade.html",
+          "region": "Energy"
+        }
+      ]
+    }
+  ]
+}
