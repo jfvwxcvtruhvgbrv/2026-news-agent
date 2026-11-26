@@ -1,0 +1,233 @@
+{
+  "date": "2026-11-27",
+  "session": "am",
+  "time": "02:37",
+  "global_picture": {
+    "world_right_now": [
+      "트럼프 행정부가 14개 교역국 대상 신규 관세를 공식화하며 중국·브라질·인도·일본 등이 일제히 반발하고 있다",
+      "이란발 드론이 쿠웨이트에서 유럽 방산업체 기술자를 사망시키고, 호르무즈 해협 LNG 운반선이 기뢰에 피격되며 걸프 전선이 확대되고 있다",
+      "FCC가 SpaceX의 위성 100만 기 배치를 승인하며 궤도 위성 수가 50배 늘어날 전망이다",
+      "엔비디아가 동남아 4개국 AI 서버 출하를 중단시키고 싱가포르 기업 경유 수출통제 우회 의혹이 불거지며 반도체 공급망 갈등이 격화되고 있다",
+      "화웨이가 미국 법원에서 영업비밀 절도·이란 제재 회피 혐의로 유죄 평결을 받았다",
+      "콩고민주공화국 에볼라 감염자 1만 2천 명을 넘어섰으나 교전으로 대응 인력이 철수하고 있다",
+      "미얀마가 ICJ의 로힝야 집단학살 판결 이행을 공개적으로 거부했다",
+      "트럼프가 푸틴에게 군사적 침략 중단을 촉구했으나 우크라이나가 선언문에서 빠진 채 선전 APEC 평화 선언이 나왔다",
+      "파블로 에르난데스 데 코스 스페인 출신 경제학자가 차기 ECB 총재로 사실상 확정됐다",
+      "미국 2026년 반도체 수출액이 처음으로 석유·가스 수출액을 추월했다"
+    ],
+    "emerging_signals": [
+      "AI가 리만 가설 증명을 제시하며 수학·이론물리 연구에서 인간 전문가를 대체하기 시작했다는 신호가 나왔다",
+      "이란 강경파가 미국 해상봉쇄 돌파용 유조선 선단 운영을 주장하며 에너지 위기 국면 전환을 압박하고 있다",
+      "영국이 냉전 이후 처음으로 약 10만 명 예비군에 연락을 취하며 유럽 재무장의 가시적 단계에 진입했다",
+      "일본 생명보험사들의 엔화 헤지 비율이 사상 최저로 떨어져 엔화 약세 방어 포기 신호가 나오고 있다",
+      "Character.AI 파산 절차에서 미성년자 포함 2,100만 사용자 채팅 데이터가 경매 대상으로 올라 AI 개인정보 보호의 법적 공백이 드러났다"
+    ],
+    "structural_trends": [
+      "미국 관세 압박이 양자 무역협정 체결 압력으로 전환되며 다자무역 체제 대신 1대1 협상 구도가 굳어지고 있다",
+      "엔비디아 수출통제 우회 의혹과 화웨이 유죄 판결이 맞물리며 반도체 공급망의 지정학적 분리가 가속되고 있다",
+      "이란 전쟁이 호르무즈·걸프 에너지 인프라 위협으로 번지며 국제 에너지 시장 구조 리스크가 상승하고 있다",
+      "AI 인프라 수요가 위성·데이터센터·전력망을 동시에 압박하며 물리적 인프라 경쟁이 디지털 경쟁의 핵심 전선이 됐다",
+      "유럽 극우 정당들이 청년 남성층을 중심으로 지지를 확장하며 2027년까지 이어질 선거 지형 변화를 예고하고 있다"
+    ],
+    "what_changed_today": [
+      "어제 발동 단계였던 트럼프 관세가 오늘 중국·브라질·인도·일본의 공식 반발과 함께 외교 충돌로 격화됐다",
+      "어제 후티의 사우디 정유시설 공격이 오늘 국제유가 반등을 이끌며 에너지 시장에 직접 영향을 미쳤다",
+      "어제 AI 주식 조정 국면에서 오늘 엔비디아 수출통제 우회 의혹과 S&P 신용등급 하향 경고가 더해져 거버넌스 리스크가 부각됐다",
+      "우크라이나의 리비아 해역 러시아 선박 공격이 오늘 이탈리아의 공식 불만 표명과 걸프·호르무즈 이란 드론 공격과 겹치며 전선 확대가 가시화됐다"
+    ],
+    "what_to_watch_next": [
+      "미국 관세 발효 시점과 주요국 보복 조치 여부, 특히 중국의 구체적 대응 수단",
+      "호르무즈 해협 추가 기뢰 사고 혹은 이란 유조선 선단 출항 여부",
+      "엔비디아 젠슨 황 의회 청문 결과와 Megaspeed 수출통제 우회 조사 진전",
+      "ECB 총재 에르난데스 데 코스 공식 임명 절차 및 유로존 금융정책 방향 발언",
+      "이스라엘 아이젠코트가 주도하는 연립정부 구성 협상 타결 여부",
+      "콩고 에볼라 대응 인력 복귀 가능성과 감염자 1만 5천 명 임박 여부"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "트럼프 관세 2라운드, 14개국 공식 반발로 외교 충돌 국면에 진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "트럼프 행정부가 중국·EU·브라질·인도·일본 등 14개 교역국을 대상으로 한 신규 관세안을 공식 제안했다. 중국은 '정치적 조작'이라며 대응 조치를 예고했고, 브라질은 위협에 굴복하지 않겠다고 선언했다. 인도에는 25%, 일본에는 15%가 거론되며, 무역협정 체결국에는 낮은 세율을 약속하는 협상 압박 구조로 설계됐다.",
+        "why_it_matters": "세계 최대 교역 상대국들이 동시에 반발에 나서며 단순한 관세 조치를 넘어 다자무역 체제 자체를 흔드는 외교 충돌로 번지고 있다. 협정 체결 시 세율 인하를 내걸어 각국을 개별 협상으로 끌어들이는 구조는 WTO 체제의 근간인 최혜국 대우 원칙을 사실상 무력화한다.",
+        "what_is_changing": "과거 관세는 특정 품목·국가를 겨냥했으나 이번엔 과잉 생산능력과 산업 보조금을 명분으로 한 포괄적 압박이다. 양자협정 체결을 선택지로 제시해 다자체제 대신 1대1 협상 구도를 세계 표준으로 굳히려는 시도가 명확해졌다.",
+        "connection": "한국(15% 유지), 인도네시아(경쟁국 대비 비교우위 기대), 베트남 등 동남아는 각기 다른 계산법으로 대응을 모색 중이다. 미국 내 자동차·철강 노조도 캐나다산 관세에 엇갈린 입장을 보이며 국내 정치 변수도 복잡해졌다.",
+        "signal": "관세가 무역정책 도구에서 지정학적 동맹 재편 수단으로 기능하기 시작했다는 신호다. 협정 체결 여부가 사실상 '미국 편이냐 아니냐'의 외교적 선택으로 읽히는 구조가 형성되고 있다.",
+        "what_to_watch": "중국의 구체적 보복 조치 발표 시점, 인도와의 무역협정 협상 속도, EU의 집단 대응 여부, 글로벌 증시의 추가 반응"
+      },
+      "perspectives": [
+        {
+          "frame": "Economic View",
+          "summary": "14개국 동시 관세 충격은 글로벌 공급망 비용을 단기간에 올리지만, 협정 체결 압박이 성공하면 미국은 품목별로 더 유리한 시장 접근을 얻을 수 있다는 계산이 깔려 있다. 반면 보복 관세가 연쇄되면 2018~2019년보다 넓은 범위의 무역 위축이 불가피하다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "각국이 개별 협상에 응하면 미국은 다자체제 없이도 세계 무역 질서를 주도할 수 있다는 전략적 판단이다. 중국과 브라질의 공개 거부는 반미 연대의 단초가 될 수 있으나, 각국의 대미 의존도 차이가 연대를 어렵게 만든다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "투자자들은 단기 충격을 저가 매수 기회로 보며 증시가 반등했으나, 공급망 재편 비용은 중장기적으로 기업 수익성을 압박한다. 무역협정 체결 여부에 따라 국가별 투자 매력도가 갈릴 가능성이 높다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+          "region": "Europe"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/26/economy/japan-protests-trump-new-tariff/",
+          "region": "Japan"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+          "region": "US"
+        },
+        {
+          "source": "Economic Times (India)",
+          "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-proposes-tariffs-on-countries-india-china-japan-singapore-vietnam-brazil-react-/articleshow/136181116.cms",
+          "region": "India"
+        }
+      ]
+    },
+    {
+      "headline": "이란 드론이 쿠웨이트를 타격하고 호르무즈 기뢰가 LNG선을 덮쳤다—걸프 에너지 인프라가 전선이 됐다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "이란발 드론 공격으로 쿠웨이트에서 독일 방산업체 라인메탈 소속 이탈리아인 기술자 2명이 사망했다. 같은 24시간 안에 호르무즈 해협에서 LNG 운반선이 기뢰에 피격됐고, 후티 반군은 사우디 라스타누라 정유시설 공격을 주장했다. 이란 혁명수비대는 LNG선이 금지 항로를 무단 통과했다고 주장했다.",
+        "why_it_matters": "유럽 방산업체 직원이 걸프에서 사망하며 미-이란 전쟁의 피해가 처음으로 유럽 동맹국 국민에게 직접 미쳤다. 호르무즈 기뢰 사고는 전 세계 LNG 무역의 핵심 통로를 실질적 위협 지역으로 만들었다.",
+        "what_is_changing": "이란의 군사 행동이 직접 교전 상대인 미국과 이스라엘을 넘어 걸프 국가 주둔 유럽 민간인과 상업 선박으로 확대되고 있다. 에너지 인프라가 협상 카드가 아닌 실제 공격 대상이 되며 에너지 시장 리스크 프리미엄이 구조적으로 올라가고 있다.",
+        "connection": "국제유가가 3개월 저점에서 반등했으며, 이란 강경파의 유조선 선단 봉쇄 돌파 주장은 추가 충돌 가능성을 높인다. 미 의회 예산안의 이란 전쟁 자금 제한 조항과 맞물려 미국 내 전쟁 지속 의지도 흔들리고 있다.",
+        "signal": "이란이 비대칭 수단(드론·기뢰)으로 걸프 전역을 위협 공간으로 만들며 협상 테이블을 강제하려는 전략적 의도가 뚜렷해졌다.",
+        "what_to_watch": "이탈리아와 독일의 공식 외교적 대응, 호르무즈 추가 기뢰 사고 여부, 미국의 걸프 해상 보호 조치 강화 여부, 국제유가 추가 상승폭"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "유럽 국가 국민 사망은 나토 동맹국의 이란 압박 동참 압력을 높이지만, 이탈리아가 우크라이나의 리비아 해역 러시아 선박 공격에도 불만을 표한 맥락에서 유럽 각국의 이해관계 충돌이 커지고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "호르무즈 기뢰 사고와 사우디 정유시설 공격 주장이 에너지 공급 프리미엄을 높이며 이란 전쟁 초기 충격이 아직 에너지 시장에 완전히 반영되지 않았을 가능성을 시사한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/iranian-drone-attack-kills-2-italians-in-kuwait/a-80064974?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-26/italians-killed-in-kuwait-attack-iran/107432996",
+          "region": "Oceania"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-LNG-Carrier-Exploded-After-Hitting-a-Mine-in-Hormuz.html",
+          "region": "Energy"
+        },
+        {
+          "source": "OilPrice.com",
+          "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
+          "region": "Energy"
+        }
+      ]
+    },
+    {
+      "headline": "엔비디아 수출통제 우회 의혹과 동남아 출하 중단—반도체 공급망 갈등이 지하로 내려가고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "엔비디아가 제조 파트너들에게 말레이시아·싱가포르·태국·인도네시아 대상 AI 서버 출하를 중단하라고 지시했다. 싱가포르 기업 Megaspeed를 경유한 중국 우회 수출 의혹이 불거졌고, S&P는 엔비디아 신용등급 하향을 경고했다. 미 의회 공화당 의원들은 FBI·CIA에 국가안보 위협 정보를 요구하며 청문 압박을 높였다. 별도로 화웨이는 미국 법원에서 T-Mobile·Cisco 영업비밀 절도와 이란 제재 회피로 유죄 평결을 받았다.",
+        "why_it_matters": "미국이 설계한 수출통제 체계가 제3국 경유 우회로에 의해 사실상 무력화되고 있다는 증거가 쌓이며 통제 체계 자체의 신뢰성이 흔들리고 있다. 화웨이 유죄 평결은 중국 기술기업에 대한 미국 사법 공세의 선례를 강화한다.",
+        "what_is_changing": "과거 수출통제는 직접 판매를 차단하는 방식이었으나, 이제는 제3국 허브 국가들이 중간 경로가 되면서 통제 범위를 지리적으로 확장하거나 아예 허브 국가 전체를 차단하는 방향으로 전환되고 있다.",
+        "connection": "동남아 출하 중단은 해당 국가 AI 인프라 투자 계획에 즉각적 차질을 빚으며, 중국의 AI 개발 속도에도 간접 영향을 준다. EU-인도네시아 무역협정과 미국의 동남아 관세 압박이 겹치며 이 지역 국가들의 외교적 선택지가 좁아지고 있다.",
+        "signal": "반도체 공급망이 국가 안보 체계 안으로 완전히 편입되는 단계에 들어섰으며, 기업은 더 이상 순수 상업 논리로 판매처를 결정할 수 없게 됐다는 신호다.",
+        "what_to_watch": "젠슨 황 의회 청문 결과, Megaspeed 조사의 싱가포르·말레이시아 외교 파급, 동남아 국가들의 대미 항의 혹은 타협 여부, 화웨이 양형 선고 시점"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "AI 인프라 수요가 폭발적으로 늘어난 상황에서 출하 중단은 동남아 클라우드·데이터센터 투자 계획에 직접 타격을 준다. 대안 공급자 부재로 단기 대체가 어렵다는 점이 협상 카드로 작용할 수 있다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "화웨이 유죄 평결과 엔비디아 우회 의혹이 같은 시기에 터지며 미국 내에서 반도체 국가안보 의제가 초당적 공감대를 형성하고 있다. 이는 더 강한 수출통제 입법의 정치적 조건이 된다."
+        },
+        {
+          "frame": "Business View",
+          "summary": "엔비디아 주가와 S&P 등급 경고는 지배구조 리스크가 실제 기업 가치에 반영되기 시작했음을 보여준다. 투자자들은 기술 기업의 지정학적 노출을 새로운 리스크 항목으로 가격에 반영하고 있다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/nvidia-stops-shipping-ai-servers-to-four-southeast-asian-nations/article71747898.ece",
+          "region": "India"
+        },
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/world/nvidia-singapore-9.7436761?cmp=rss",
+          "region": "North America"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+          "region": "Technology"
+        },
+        {
+          "source": "CNBC Top News",
+          "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+          "region": "US"
+        },
+        {
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+          "region": "US"
+        }
+      ]
+    },
+    {
+      "headline": "FCC가 SpaceX의 위성 100만 기를 승인했다—궤도가 AI 인프라의 새 전장이 됐다",
+      "trend_status": "Emerging",
+      "insight": {
+        "what_happened": "미국 연방통신위원회가 SpaceX의 위성 최대 100만 기 배치 계획을 승인했다. 현재 궤도 위성 총수의 약 50배에 해당하는 규모로, 머스크 측은 이를 AI 연산 수요를 우주 기반으로 처리하는 데이터센터 인프라로 설명했다.",
+        "why_it_matters": "지구 궤도가 사실상 단일 기업의 독점에 가까운 위성군으로 채워질 수 있다는 전례가 생겼다. 우주 인프라가 AI 연산·통신의 핵심 계층으로 편입되며 규제 공백과 천문 환경 훼손 우려가 동시에 커지고 있다.",
+        "what_is_changing": "위성은 통신 보조 수단이었으나, 이제 지상 데이터센터를 대체하거나 보완하는 AI 연산 플랫폼으로 개념이 전환되고 있다. 캐나다 통신사 텔러스 인수 경쟁에서도 스타링크가 지상 통신 인프라의 경쟁자로 거론되는 흐름과 연결된다.",
+        "connection": "중국 톈궁에 첫 외국인 우주비행사를 보낸 흐름과 맞물려 우주 인프라 주도권 경쟁이 미중 기술 패권 경쟁의 새 전선으로 부상하고 있다. ISS 운용 종료 시점이 맞물리며 우주 질서 재편도 가속되고 있다.",
+        "signal": "우주가 국가 안보·AI 인프라·통신 패권이 교차하는 복합 경쟁 공간으로 전환됐다는 명확한 신호다.",
+        "what_to_watch": "국제 천문연맹 및 타국 우주기관의 항의 혹은 대응 조치, 중국의 궤도 혼잡 대응 외교, 위성 데이터센터 첫 가동 시점"
+      },
+      "perspectives": [
+        {
+          "frame": "Technology View",
+          "summary": "지상 전력 한계와 토지 비용 없이 AI 연산을 우주로 올리는 개념은 혁신적이지만, 열 방산·궤도 혼잡·위성 간 통신 지연 문제 등 엔지니어링 난관이 현실화되지 않은 단계다."
+        },
+        {
+          "frame": "Political View",
+          "summary": "민간 기업이 국가 수준의 우주 인프라를 독점적으로 구축하는 선례는 차후 정부 규제 권한과의 충돌을 예고한다. FCC 승인 자체가 미국 정부의 SpaceX 의존 심화라는 취약성을 드러내기도 한다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+          "region": "Europe"
+        },
+        {
+          "source": "CBC News Top Stories",
+          "link": "https://www.cbc.ca/news/science/spacex-one-million-data-centres-space-9.7436957?cmp=rss",
+          "region": "North America"
+        },
+        {
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+          "region": "Technology"
+        }
+      ]
+    }
+  ]
+}
