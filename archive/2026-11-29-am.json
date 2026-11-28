@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-29",
+  "session": "am",
+  "time": "01:04",
+  "global_picture": {
+    "world_right_now": [
+      "미국-이란 해상 봉쇄가 실제 무력 사용 단계로 격화되며 호르무즈 해협 위기가 현실화되고 있다",
+      "대만 지방선거에서 민진당이 약진했고, 중국군은 동시에 상륙 전술 훈련을 강화하며 양안 긴장이 고조됐다",
+      "스페인 총선으로 8년 좌파 집권이 종료될 가능성이 높으며, 유럽 정치 지형의 우경화 흐름이 이어지고 있다",
+      "북한 해커가 역대 최대 규모인 63억 달러 가상자산을 탈취했고, 북러 경제협력도 실무 단계로 심화되고 있다",
+      "일본이 연말 안보문서에 원자력 잠수함 도입을 명시할 예정이며, 미국도 핵순항미사일 개발을 본격화했다",
+      "엔비디아 칩이 수출 통제에도 불구하고 불법 경로로 중국에 대량 유입되고 있으며, 화웨이는 미국 법원에서 영업비밀 절취 유죄 판결을 받았다",
+      "콩고민주공화국 에볼라가 무력 분쟁과 겹치며 역대 최악 수준으로 번지고 있다",
+      "지구 평균기온이 처음으로 2도 초과 상태를 7일 연속 유지했고, COP31은 주요 합의 없이 종료됐다",
+      "브렌트유가 96달러까지 반등하며 항공사 연쇄 파산 경고가 나오고 있다",
+      "아프리카 사헬-동부-남부에서 지하드 무장단체·군사 쿠데타·에볼라가 동시에 확산되며 복합 위기가 심화되고 있다"
+    ],
+    "emerging_signals": [
+      "스페이스X가 위성 100만기 배치 FCC 승인을 받으며 우주 AI 인프라 경쟁이 현실화되고 있다",
+      "오픈소스 AI 모델(Hugging Face) 공급망에 악성코드가 삽입되는 새로운 형태의 사이버 위협이 등장했다",
+      "ECB 차기 총재 후보가 토큰화 예금을 선호한다고 밝히며 중앙은행 디지털 금융 전략이 구체화되고 있다",
+      "미얀마 광산 오염으로 태국 식수가 중단되며 국경 간 환경 분쟁이 아세안 외교 현안으로 부상했다",
+      "AI 마이크로드라마가 중국 엔터업계 일자리를 잠식하며 창작 노동 대체가 가시화되고 있다"
+    ],
+    "structural_trends": [
+      "미국-이란 충돌이 해상 봉쇄→무력 사용→유가 급등→항공사 파산으로 이어지는 글로벌 에너지 충격 연쇄 구조를 형성하고 있다",
+      "AI 칩 수출 통제가 동남아 경유 우회 공급망을 낳으며 통제 체계 자체의 실효성에 의문이 커지고 있다",
+      "러시아·북한·이란이 군사·경제·사이버 협력을 동시에 심화하며 대안 블록 구축이 가속되고 있다",
+      "유럽 전역에서 여성 폭력 항의 시위가 동시다발로 확산되며 젠더 기반 폭력이 정치적 쟁점으로 격상되고 있다",
+      "아프리카 사헬 지역에서 외국군 철수 이후 지하드 세력이 채우는 공백이 반복되며 안보 공동화가 구조화되고 있다"
+    ],
+    "what_changed_today": [
+      "러시아 함대 침몰이 어제 처음 보도됐지만, 오늘 함대가 리비아행 항로에서 실제로 방향을 돌린 것이 확인됐다",
+      "미 공군 Cloud One 해킹은 어제 이미 이슈화됐으나, 오늘 침입 경위(시스템 업그레이드 중 발견)가 추가로 공개됐다",
+      "대만 지방선거 결과가 확정되며 민진당 약진·국민당 타이베이 수성이 동시에 확인됐다",
+      "미군이 이란 봉쇄 돌파 시도 선박에 실제로 무기를 발사한 사실이 처음 보도됐다",
+      "스페인 총선이 오늘 실시됐으며 개표 결과에 따라 산체스 8년 집권 종료 여부가 판가름 난다"
+    ],
+    "what_to_watch_next": [
+      "스페인 총선 개표 결과 및 보수·극우 연합 과반 여부",
+      "미국-이란 해상 충돌 이후 호르무즈 해협 통행 재개 여부와 이란의 대응 조치",
+      "대만 선거 결과에 대한 중국의 공식 반응 및 군사적 대응 여부",
+      "일본 연말 안보문서 원자력 잠수함 도입 조항의 최종 문구 확정",
+      "OPEC+ 회의에서 이라크 쿼터 증산 요구 처리 결과와 유가 추가 변동",
+      "북한 김정은 중국 방문 가능성에 대한 공식 확인 여부",
+      "엔비디아 CEO 스캔들 관련 S&P 신용등급 하향 최종 결정"
+    ]
+  },
+  "issues": [
+    {
+      "headline": "미국이 이란 봉쇄 돌파 선박에 직접 무기를 발사했다—중동 긴장이 해상 무력 충돌 단계로 진입했다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "미군 항공기가 이란 봉쇄를 돌파하려던 선박 Pacific Archer의 선미를 정밀 유도무기로 타격했다. 이란은 이라크에 미국 단속에 협력하지 말라고 경고하면서 봉쇄 돌파 명령을 기다리고 있다고 밝혔다. 쿠웨이트는 이란과 연관된 공격으로 이탈리아 기술자 2명이 숨진 사건에 항의해 이란 대사를 초치했다.",
+        "why_it_matters": "미국과 이란 사이의 해상 긴장이 위협·제재 단계를 넘어 실제 무력 사용으로 격화됐다. 호르무즈 해협은 전 세계 석유 수출량의 약 20%가 통과하는 핵심 통로로, 완전한 봉쇄 혹은 충돌 확대 시 글로벌 에너지 공급망에 즉각적인 충격이 온다.",
+        "what_is_changing": "이란 핵 협상과 제재를 중심으로 전개되던 미-이란 갈등이 직접 해상 교전 양상으로 전환되고 있다. 군사력을 직접 사용해 상선의 항로를 막은 것은 1980년대 '유조선 전쟁' 이후 가장 직접적인 충돌이다.",
+        "connection": "브렌트유가 96달러까지 반등하며 Norse Atlantic 등 항공사 파산 경고로 이어지고 있다. 사우디-후티 간 공격 교환이 동시에 격화되며 중동 에너지 인프라 전체가 위험 구역에 들어갔다.",
+        "signal": "미국이 이란 봉쇄를 외교가 아닌 직접 무력으로 집행하기 시작했다는 것은, 협상 여지보다 군사적 압박을 택하는 정책 전환을 의미한다.",
+        "what_to_watch": "이란의 호르무즈 해협 보복 조치 여부, 추가 선박 나포·교전 발생 여부, 국제 유가 추가 급등 가능성"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "트럼프 행정부가 이란에 대한 최대압박 정책을 무력 사용으로 격상시키며, 협상 여지를 좁히고 있다는 평가와 함께 역내 긴장 전이를 우려하는 시각이 충돌한다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "호르무즈 해협 불안이 현실화되면 원유·LNG 공급 차질로 에너지 가격이 급등하고, 연료비 상승으로 이미 압박받는 항공·물류 산업이 추가 타격을 받는다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/28/world/us-military-fires-ship-iran-blockade/",
+          "region": "Japan"
+        },
+        {
+          "source": "DW English",
+          "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf",
+          "region": "Europe"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
+          "region": "India"
+        },
+        {
+          "source": "NY Post",
+          "link": "https://nypost.com/2026/11/28/world-news/iran-warns-iraq-against-cooperating-with-trump-as-us-naval-blockade-hurts-oil-exports/",
+          "region": "북미"
+        }
+      ]
+    },
+    {
+      "headline": "대만 민진당이 지방선거에서 10년 만의 최고 성적을 거뒀다—그 순간 중국군은 상륙 전술 훈련을 시험하고 있었다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "대만 지방선거에서 집권 민진당이 22개 시·현 중 9곳을 차지하며 10년 만의 최고 성적을 기록했다. 타이베이 시장직은 국민당이 수성했고, 국민당은 타이중·신주·이란 등 주요 지역을 잃었다. 같은 시기 중국군이 대성만에서 대만 상륙을 가상한 새로운 연안 전술 훈련을 시험한 것이 위성사진으로 확인됐다.",
+        "why_it_matters": "민진당의 약진은 베이징을 자극하는 정치 신호이고, 중국군 훈련은 이에 대한 군사적 맥락을 제공한다. 두 사건이 동시에 발생하며 양안 긴장이 선거 결과·군사 행동 두 채널을 통해 동시에 고조되고 있다.",
+        "what_is_changing": "과거에는 선거와 군사 훈련이 비교적 분리된 맥락에서 움직였지만, 이제 선거 결과 발표와 군사 압박이 동시에 진행되는 패턴이 굳어지고 있다.",
+        "connection": "2028년 대만 총통선거의 전초전으로 해석되며, 이번 결과가 미국의 대만 지원 정책 및 반도체·AI 공급망 지정학에도 영향을 줄 수 있다.",
+        "signal": "민진당 약진과 중국 군사 훈련의 동시 발생은 양안 관계가 선거 주기에 맞춰 위기를 조정하는 새로운 국면으로 접어들고 있음을 시사한다.",
+        "what_to_watch": "중국의 공식 반응 및 군사 훈련 추가 확대 여부, 국민당의 2028년 총통 선거 전략 재편, 미국의 대만 무기 지원 가속화 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "민진당의 선전은 대만 유권자들이 중국과의 관계 악화에도 현상 유지보다 독자 노선을 선호하는 흐름을 보여준다. 반면 타이베이 수성은 국민당이 완전히 무너지지 않았음을 의미한다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "대만의 정치 불안정은 TSMC를 비롯한 반도체 공급망 리스크와 직결되며, 미국과 일본이 반도체 공장을 자국 내에 유치하려는 노력의 배경이 된다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "The Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/28/taiwan-ruling-party-dpp-secures-best-result-in-decade-china",
+          "region": "Europe"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/politics/article/3376147/taiwan-elections-kmt-loses-25-year-hold-hsinchu-tech-hub-magistrate-vote",
+          "region": "China"
+        },
+        {
+          "source": "The Hindu (International)",
+          "link": "https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece",
+          "region": "India"
+        },
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/28/asia-pacific/politics/taiwan-local-elections-china/",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "headline": "북한 해커가 역대 최대 63억 달러를 탈취했고, 북러는 경제 협력을 실무 단계로 격상시켰다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "북한 해커들이 10월 29일 약 63억 달러 규모의 가상자산을 탈취한 뒤 덜 알려진 암호화폐 서비스를 통해 자금을 세탁하고 있다고 연구자들이 밝혔다. 같은 시기 북한과 러시아는 경제협력위원회를 열고 공동 사업 확대에 합의하며 양국 협력을 실무 차원으로 구체화했다. 한국 국가정보원은 김정은의 중국 방문 가능성도 주시하고 있다.",
+        "why_it_matters": "북한이 사이버 공격으로 연간 무기 개발 비용에 맞먹는 자금을 조달하고 있으며, 동시에 러시아와의 경제·군사 협력이 제도화되고 있다. 국제 제재 체계가 사실상 무력화되고 있는 것이다.",
+        "what_is_changing": "북한의 사이버 공격이 단발성 해킹에서 체계적 자금 조달 메커니즘으로 진화했다. 북러 관계도 무기 거래·병력 파견을 넘어 경제 협력 기구 설치라는 제도적 단계로 전환되고 있다.",
+        "connection": "탈취된 자금은 대러 무기 대여 및 미사일 개발에 활용될 수 있다. 김정은의 방중이 성사된다면 북·중·러 삼각 협력이 가시화되는 중요한 계기가 된다.",
+        "signal": "북한이 사이버 공간을 제재 우회와 자금 조달의 주요 수단으로 완전히 제도화했다는 신호다.",
+        "what_to_watch": "김정은 방중 공식 확인 여부, 탈취 자금의 세탁 경로 추가 추적 결과, 미국과 국제기구의 대응 조치"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "북·러·중 삼각 협력이 각기 다른 채널—사이버·경제·외교—에서 동시에 강화되며 서방 주도 국제 질서에 대한 대안 블록이 가시적 형태를 갖춰가고 있다."
+        },
+        {
+          "frame": "Economic View",
+          "summary": "가상자산 시장의 보안 취약성이 국가 단위 행위자에게 사실상의 '디지털 중앙은행' 기능을 제공하고 있다. 현행 AML 체계로는 국가 배후 자금 세탁을 막기 어렵다는 한계가 드러났다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/28/tech/north-korea-money-laundering-binance/",
+          "region": "Japan"
+        },
+        {
+          "source": "Yonhap English",
+          "link": "https://en.yna.co.kr/view/AEN20261128000500315",
+          "region": "Korea"
+        },
+        {
+          "source": "Yonhap English",
+          "link": "https://en.yna.co.kr/view/AEN20261128000751315",
+          "region": "Korea"
+        }
+      ]
+    },
+    {
+      "headline": "일본이 원자력 잠수함 도입을 공식화하고, 미국이 핵순항미사일 개발을 재개했다—인도·태평양 핵 전력이 재편되고 있다",
+      "trend_status": "Accelerating",
+      "insight": {
+        "what_happened": "일본 정부가 연말 안보문서 개정에 원자력 잠수함 도입 검토를 명시할 것으로 알려졌다. 같은 시기 미국 해군은 2013년 퇴역시킨 잠수함 발사 핵순항미사일 개발을 본격 재개하며 레이시온과 계약을 체결했다.",
+        "why_it_matters": "일본의 원자력 잠수함 보유는 전후 평화헌법 체계에서 가장 큰 방위 정책 전환이며, 미국의 핵순항미사일 복원과 맞물려 인도·태평양 지역의 핵 균형에 근본적 변화를 예고한다.",
+        "what_is_changing": "일본의 방위 정책이 전수방위 개념에서 벗어나 장거리 타격·핵 추진 플랫폼 보유 방향으로 명시적으로 이동하고 있다. 미국도 10년 넘게 유지한 핵군축 기조를 사실상 뒤집고 있다.",
+        "connection": "중국의 대만 상륙 훈련 강화, 북한의 핵 고도화, 러시아의 군사 활동 확대 등 복합 위협에 대응하는 미·일 동맹의 전략적 재편이다. AUKUS 협력으로 호주도 같은 방향을 걷고 있어 인도·태평양 핵 플랫폼 클러스터가 형성되는 추세다.",
+        "signal": "냉전 종식 이후 세계적으로 감소해 온 전술·전략 핵 플랫폼이 인도·태평양에서 다시 증가하는 구조적 반전이 시작됐다.",
+        "what_to_watch": "일본 연말 안보문서 최종 문구, 중국의 반응, 미 의회의 핵순항미사일 예산 승인 여부"
+      },
+      "perspectives": [
+        {
+          "frame": "Political View",
+          "summary": "일본 국내에서 헌법 해석 논쟁이 격화될 전망이며, 한국·중국과의 외교 갈등도 불가피하다. 반면 미·일 동맹 강화 측면에서는 억제력 제고를 지지하는 목소리도 크다."
+        },
+        {
+          "frame": "Technology View",
+          "summary": "원자력 잠수함 개발에는 핵연료 처리·조선·운용 기술이 필요하며, 일본이 이를 독자 혹은 AUKUS 연계로 획득하느냐에 따라 기술 이전 범위와 동맹 구조가 달라진다."
+        }
+      ],
+      "sources": [
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/28/japan/japan-nuclear-submarines-security-documents/",
+          "region": "Japan"
+        },
+        {
+          "source": "SCMP (Hong Kong)",
+          "link": "https://www.scmp.com/news/china/military/article/3376032/us-navy-pushes-ahead-submarine-launched-nuclear-cruise-missile-programme",
+          "region": "China"
+        }
+      ]
+    }
+  ]
+}
